@@ -1,0 +1,42 @@
+[build-system]
+requires = ["uv_build>=0.9.13,<0.10.0"]
+build-backend = "uv_build"
+
+[project]
+name = "worldmm"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pip",
+    "torch==2.6.0",
+    "torchvision==0.21.0",
+    "huggingface_hub",
+    "transformers",
+    "sentence-transformers",
+    "accelerate",
+    "peft",
+    "apex",
+    "flash-attn==2.7.4.post1",
+    "openai",
+    "tenacity",
+    "decord",
+    "pysrt",
+    "qwen-vl-utils",
+    "scikit-image",
+    "opencv-python",
+    "igraph",
+    "faiss-gpu-cu12",
+    "hipporag",
+    "egorag"
+]
+
+[tool.uv.sources]
+hipporag = { path = "src/HippoRAG", editable = true }
+egorag = { path = "src/EgoRAG", editable = true }
+
+[tool.uv]
+no-build-isolation-package = ['flash-attn']
+
+[tool.uv.extra-build-dependencies]
+flash-attn = ["torch"]
