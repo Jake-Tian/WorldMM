@@ -132,17 +132,12 @@ def main():
         # Create final_results for current state
         final_results = {
             "consolidated_semantic_triples": accumulated_semantic_triples,
-            "consolidated_episodic_evidence": accumulated_episodic_evidence
         }
         
         # Save with timestamp as key
         timestamped_results[timestamp] = final_results
         
-        output_file = os.path.join(output_dir, f"semantic_consolidation_results_{llm_model.model_name}.json")
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(timestamped_results, f, indent=2, ensure_ascii=False)
-        
-        logger.debug(f"  Saved results up to timestamp {timestamp}")
+        logger.debug(f"  Updated results up to timestamp {timestamp}")
     
     # Count total semantic triples after consolidation
     total_triples_after = len(accumulated_semantic_triples)

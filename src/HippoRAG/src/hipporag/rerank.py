@@ -51,6 +51,9 @@ class DSPyFilter:
         return message_template
 
     def parse_filter(self, response):
+        if not isinstance(response, str):
+            response = "" if response is None else str(response)
+
         sections = [(None, [])]
         field_header_pattern = re.compile('\\[\\[ ## (\\w+) ## \\]\\]')
         for line in response.splitlines():
@@ -91,9 +94,29 @@ class DSPyFilter:
 
         response = self.llm_model.generate(messages)
 
-        if len(response) > 1:
-            return response[0]
-        return response
+        # Return the raw response content as a string.
+        if isinstance(response, str):
+            return response
+        if response is None:
+            return ""
+        # Backward compatibility to original HippoRAG implementationfor providers that may return list-like outputs.
+        if isinstance(response, list):
+            if len(response) == 0:
+                return ""
+            first_item = response[0]
+            if isinstance(first_item, str):
+                return first_item
+            if isinstance(first_item, dict):
+                content = first_item.get("content", None)
+                if isinstance(content, str):
+                    return content
+                message = first_item.get("message", None)
+                if isinstance(message, dict):
+                    message_content = message.get("content", None)
+                    if isinstance(message_content, str):
+                        return message_content
+            return str(first_item)
+        return str(response)
 
     def __call__(self, *args, **kwargs):
         return self.rerank(*args, **kwargs)

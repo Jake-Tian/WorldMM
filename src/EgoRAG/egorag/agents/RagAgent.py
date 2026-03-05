@@ -291,7 +291,7 @@ class RagAgent(ABC):
         ]
         if hour_data == []:
             last_event = {}
-            last_event["generated_text"] = self.generate_event_data(
+            last_event["text"] = self.generate_event_data(
                 date, hour_docs[0]["start_time"], time
             )
             last_event["date"] = date
@@ -301,7 +301,7 @@ class RagAgent(ABC):
 
         elif hour_data[-1]["end_time"] < time:
             last_event = {}
-            last_event["generated_text"] = self.generate_event_data(
+            last_event["text"] = self.generate_event_data(
                 date, hour_data[-1]["end_time"], time
             )
             last_event["date"] = date
