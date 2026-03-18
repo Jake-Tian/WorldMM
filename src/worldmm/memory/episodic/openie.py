@@ -16,19 +16,20 @@ class OpenIE:
         # Init prompt template manager
         self.prompt_template_manager = PromptTemplateManager(role_mapping={"system": "system", "user": "user", "assistant": "assistant"})
         self.llm_model = llm_model
+        self.total_tokens = 0
 
     @dynamic_retry_decorator
-    def _execute_ner_call(self, ner_input_message) -> List[str]:
+    def _execute_ner_call(self, ner_input_message) -> Tuple[List[str], int]:
         """Retryable helper that runs the full NER try-block logic (so the whole block is retried)."""
-        response = self.llm_model.generate(ner_input_message, text_format=NerRawOutput)
-        return response.named_entities
+        response, tokens = self.llm_model.generate_with_tokens(ner_input_message, text_format=NerRawOutput)
+        return response.named_entities, int(tokens or 0)
 
     @dynamic_retry_decorator
-    def _execute_triples_call(self, messages) -> List[List[str]]:
+    def _execute_triples_call(self, messages) -> Tuple[List[List[str]], int]:
         """Retryable helper that runs the full triple-extraction try-block logic (so the whole block is retried)."""
-        response = self.llm_model.generate(messages, text_format=TripleRawOutput)
+        response, tokens = self.llm_model.generate_with_tokens(messages, text_format=TripleRawOutput)
         triples = filter_invalid_triples(response.triples)
-        return triples
+        return triples, int(tokens or 0)
 
     def ner(self, chunk_key: str, passage: str) -> NerOutput:
         # PREPROCESSING
@@ -36,7 +37,8 @@ class OpenIE:
         metadata = {}
         try:
             # LLM INFERENCE (entire try-block is retried by the decorator)
-            unique_entities = self._execute_ner_call(ner_input_message)
+            unique_entities, tokens = self._execute_ner_call(ner_input_message)
+            self.total_tokens += int(tokens or 0)
 
         except Exception as e:
             # For any other unexpected exceptions, log them and return with the error message
@@ -64,7 +66,8 @@ class OpenIE:
         metadata = {}
         try:
             # LLM INFERENCE (entire try-block is retried by the decorator)
-            triplets = self._execute_triples_call(messages)
+            triplets, tokens = self._execute_triples_call(messages)
+            self.total_tokens += int(tokens or 0)
 
         except Exception as e:
             logger.warning(f"Exception for chunk {chunk_key}: {e}")
@@ -113,7 +116,7 @@ class OpenIE:
     def batch_openie(self, chunks: Union[List[str], Dict[str, Any]], output_dir: str = ".") -> Tuple[Dict[str, List[str]], Dict[str, List[List[str]]]]:
         """
         Conduct batch OpenIE synchronously using multi-threading which includes NER and triple extraction.
-
+        self.total_tokens = 0
         Args:
             chunks (Union[List[str], Dict[str, Any]]): List of text passages or a dict of chunk_id to chunk data to be processed.
             output_dir (str): Directory to save output file.

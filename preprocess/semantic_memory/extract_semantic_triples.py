@@ -7,6 +7,7 @@ and extracts semantic knowledge from them.
 
 import json
 import os
+import argparse
 from typing import List, Dict, Any
 
 from worldmm.memory.semantic import SemanticExtraction
@@ -77,6 +78,12 @@ def group_captions_and_get_openie_triples(caption_data: List[Dict],
 
 def main():
     """Main processing function."""
+    parser = argparse.ArgumentParser(description="Extract semantic triples")
+    parser.add_argument("--person", type=str, default="A1_JAKE")
+    parser.add_argument("--model", type=str, default="gpt-5-mini")
+    parser.add_argument("--token-output", type=str, default="")
+    args = parser.parse_args()
+
     # Configuration
     NUM_TO_NAME = {
         1: "A1_JAKE",
@@ -87,11 +94,10 @@ def main():
         6: "A6_SHURE"
     }
 
-    index = 1
-
-    caption_file = f"data/EgoLife/EgoLifeCap/{NUM_TO_NAME[index]}/{NUM_TO_NAME[index]}_30sec.json"
-    openie_results_file = f"output/metadata/episodic_memory/{NUM_TO_NAME[index]}/openie_results_gpt-5-mini.json"
-    output_dir = f"output/metadata/semantic_memory/{NUM_TO_NAME[index]}"
+    person = args.person
+    caption_file = f"data/EgoLife/EgoLifeCap/{person}/{person}_30sec.json"
+    openie_results_file = f"output/metadata/episodic_memory/{person}/openie_results_{args.model}.json"
+    output_dir = f"output/metadata/semantic_memory/{person}"
     
     # Ensure output directory exists
     os.makedirs(output_dir, exist_ok=True)
@@ -127,7 +133,7 @@ def main():
         logger.error(f"Error grouping captions and extracting episodic triples: {e}")
         return
     
-    llm_model = LLMModel(model_name="gpt-5-mini")
+    llm_model = LLMModel(model_name=args.model)
 
     semantic_extraction = SemanticExtraction(llm_model)
 
@@ -142,6 +148,11 @@ def main():
     print(f"Total semantic triples extracted: {total_semantic_triples}")
     
     print(f"Results have been saved to: {output_dir}/semantic_extraction_results_{llm_model.model_name}.json")
+    print(f"Total tokens (extract_semantic_triples): {semantic_extraction.total_tokens}")
+    if args.token_output:
+        os.makedirs(os.path.dirname(args.token_output) or ".", exist_ok=True)
+        with open(args.token_output, "w", encoding="utf-8") as f:
+            json.dump({"tokens": int(semantic_extraction.total_tokens)}, f, indent=2)
 
 if __name__ == "__main__":
     main()

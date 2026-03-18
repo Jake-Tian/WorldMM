@@ -6,6 +6,7 @@ Extracts Named Entities and Triples from the caption text, then reformats the re
 
 import json
 import os
+import argparse
 from typing import List, Dict, Any
 
 from worldmm.memory.episodic.openie import OpenIE
@@ -80,6 +81,12 @@ def create_episodic_triples_results(caption_data: List[Dict],
 
 def main():
     """Main processing function."""
+    parser = argparse.ArgumentParser(description="Extract episodic triples with OpenIE")
+    parser.add_argument("--person", type=str, default="A1_JAKE")
+    parser.add_argument("--model", type=str, default="gpt-5-mini")
+    parser.add_argument("--token-output", type=str, default="")
+    args = parser.parse_args()
+
     # Configuration
 
     NUM_TO_NAME = {
@@ -91,9 +98,9 @@ def main():
         6: "A6_SHURE"
     }
 
-    index = 1
-    input_file = f"data/EgoLife/EgoLifeCap/{NUM_TO_NAME[index]}/{NUM_TO_NAME[index]}_30sec.json"
-    output_dir = f"output/metadata/episodic_memory/{NUM_TO_NAME[index]}"
+    person = args.person
+    input_file = f"data/EgoLife/EgoLifeCap/{person}/{person}_30sec.json"
+    output_dir = f"output/metadata/episodic_memory/{person}"
     
     # Ensure output directory exists
     os.makedirs(output_dir, exist_ok=True)
@@ -105,7 +112,7 @@ def main():
     text_passages = extract_text_passages(caption_data)
     logger.info(f"Extracted {len(text_passages)} text passages")
     
-    llm_model = LLMModel(model_name="gpt-5-mini")
+    llm_model = LLMModel(model_name=args.model)
     
     # Initialize OpenIE
     openie_processor = OpenIE(llm_model)
@@ -150,6 +157,11 @@ def main():
         json.dump(results, f, indent=2, ensure_ascii=False)
     
     logger.info(f"Successfully saved episodic triples results to: {output_file}")
+    logger.info(f"Total tokens (extract_episodic_triples): {openie_processor.total_tokens}")
+    if args.token_output:
+        os.makedirs(os.path.dirname(args.token_output) or ".", exist_ok=True)
+        with open(args.token_output, "w", encoding="utf-8") as f:
+            json.dump({"tokens": int(openie_processor.total_tokens)}, f, indent=2)
 
 
 if __name__ == "__main__":

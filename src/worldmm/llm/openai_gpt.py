@@ -40,9 +40,9 @@ logger = logging.getLogger(__name__)
 
 # Model configuration
 MODEL_DICT = {
-    "gpt-5": "gpt-5-2025-08-07",
-    "gpt-5-mini": "gpt-5-mini-2025-08-07",
-    "gpt-5-nano": "gpt-5-nano-2025-08-07"
+    "gpt-5": "gpt-5",
+    "gpt-5-mini": "gpt-5-mini",
+    "gpt-5-nano": "gpt-5-nano"
 }
 
 # Global cache configuration
@@ -683,6 +683,45 @@ class OpenAIModel:
         except Exception as e:
             logger.error(f"Batch generation failed: {e}")
             raise OpenAIModelError(f"Batch generation failed: {e}") from e
+
+    @dynamic_retry_decorator
+    def generate_with_tokens(
+        self,
+        prompt: Union[str, List[Dict[str, Any]]],
+        text_format: Optional[type] = None,
+        **kwargs,
+    ) -> Tuple[Any, int]:
+        """
+        Generate completion and return (output, total_tokens).
+        """
+        prompt_copy = copy.deepcopy(self._normalize_prompt(prompt))
+        processed_prompt = self._preprocess_prompt(prompt_copy)
+
+        try:
+            if text_format is not None:
+                response = self.sync_client.responses.parse(
+                    model=self.model_name,
+                    input=processed_prompt,
+                    text_format=text_format,
+                    **self.kwargs,
+                    **kwargs,
+                )
+                output = getattr(response, "output_parsed", None)
+                tokens = int(getattr(getattr(response, "usage", None), "total_tokens", 0) or 0)
+                return output, tokens
+
+            response = self.sync_client.responses.create(
+                model=self.model_name,
+                input=processed_prompt,
+                **self.kwargs,
+                **kwargs,
+            )
+            output = response.output_text.strip()
+            tokens = int(getattr(getattr(response, "usage", None), "total_tokens", 0) or 0)
+            return output, tokens
+        except Exception as e:
+            logger.error(f"OpenAI API error: {e}")
+            raise OpenAIModelError(f"Failed to get completion: {e}") from e
 
     @async_cache_response
     @dynamic_retry_decorator

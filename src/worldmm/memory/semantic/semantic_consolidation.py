@@ -84,7 +84,8 @@ class SemanticConsolidation:
             # Ensure messages is a list for chat-based templates
             if isinstance(messages, str):
                 raise ValueError("Expected chat template to return List[Dict], got string")
-            response = self.llm_model.generate(messages, text_format=ConsolidationRawOutput)
+            response, tokens = self.llm_model.generate_with_tokens(messages, text_format=ConsolidationRawOutput)
+            self.total_tokens += int(tokens or 0)
 
         except Exception as e:
             logger.warning(e)
@@ -109,6 +110,7 @@ class SemanticConsolidation:
         """
         existing_semantic_triples, existing_episodic_evidence = existing_semantic_results
         new_semantic_triples, new_episodic_evidence = new_semantic_results
+        self.total_tokens = 0
         
         if not new_semantic_triples:
             # No new triples to consolidate, return empty results

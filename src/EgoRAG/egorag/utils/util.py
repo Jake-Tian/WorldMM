@@ -16,6 +16,7 @@ def call_gpt(
     temperature=0.9,
     top_p=0.95,
     max_tokens=2200,
+    return_tokens: bool = False,
 ) -> Optional[str]:
     """
     Call GPT-4 API with given prompt and system message.
@@ -34,13 +35,15 @@ def call_gpt(
     openai_key = os.getenv("OPENAI_API_KEY")
 
     if openai_key:
-        response = model.generate(
+        response, tokens = model.generate_with_tokens(
             [
                 {"role": "system", "content": system_message},
                 {"role": "user", "content": prompt}
             ],
             max_output_tokens=max_tokens*2  # For reasoning tokens
         )
+        if return_tokens:
+            return response, int(tokens or 0)
         return response
     else:
         raise ValueError("Standard OpenAI credentials are not properly configured (Azure OpenAI not supported).")

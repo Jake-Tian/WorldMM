@@ -126,11 +126,11 @@ def create_prompt(segment_entries: List[Dict]) -> str:
     return json.dumps(segment_entries, indent=2)
 
 
-def generate_caption(segment_entries: List[Dict]) -> str:
-    """Generate caption text using the LLM."""
+def generate_caption(segment_entries: List[Dict]) -> Tuple[str, int]:
+    """Generate caption text using the LLM and return token usage."""
     try:
         prompt = create_prompt(segment_entries)
-        content = model.generate(
+        content, tokens = model.generate_with_tokens(
             [
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": prompt},
@@ -141,11 +141,11 @@ def generate_caption(segment_entries: List[Dict]) -> str:
         generated_text = re.sub(r"\bJake:\s*", "", generated_text)
         generated_text = re.sub(r"\bJake\b", "I", generated_text)
         generated_text = re.sub(r"\bJake's\b", "my", generated_text)
-        return generated_text
+        return generated_text, int(tokens or 0)
 
     except Exception as e:
         tqdm.write(f"      Error generating caption: {e}")
-        return "Error generating caption."
+        return "Error generating caption.", 0
 
 
 def extract_time_info(segment_entries: List[Dict]) -> Tuple[str | None, str | None]:
@@ -197,7 +197,7 @@ def build_caption_entry(entries: List[Dict], video_file: str, sync_file: str, ca
     }
 
 
-def process_sync_files(sync_dir: str, output_file: str) -> None:
+def process_sync_files(sync_dir: str, output_file: str) -> int:
     """Process all sync files and generate captions in parallel."""
 
     sync_files = load_sync_files(sync_dir)
@@ -207,6 +207,7 @@ def process_sync_files(sync_dir: str, output_file: str) -> None:
 
     print(f"Found {len(sync_files)} sync files to process...")
     all_captions = []
+    total_tokens = 0
 
     for sync_file in sync_files:
         print(f"\033[91mProcessing: {os.path.basename(sync_file)}\033[0m")
@@ -234,10 +235,11 @@ def process_sync_files(sync_dir: str, output_file: str) -> None:
                 for future in progress:
                     idx = future_to_idx[future]
                     try:
-                        caption_text = future.result()
+                        caption_text, used_tokens = future.result()
                     except Exception as e:
                         tqdm.write(f"      Error generating caption: {e}")
-                        caption_text = "Error generating caption."
+                        caption_text, used_tokens = "Error generating caption.", 0
+                    total_tokens += int(used_tokens or 0)
                     results.append((idx, caption_text))
 
             ordered_results = sorted(results, key=lambda x: x[0])
@@ -266,6 +268,8 @@ def process_sync_files(sync_dir: str, output_file: str) -> None:
         json.dump(all_captions, f, indent=4, ensure_ascii=False)
     print(f"\nGenerated {len(all_captions)} captions")
     print(f"Output saved to: {output_file}")
+    print(f"Total tokens (generate_fine_caption): {total_tokens}")
+    return total_tokens
 
 
 def main():
@@ -276,9 +280,14 @@ def main():
         default="data/EgoLife/EgoLifeCap/A1_JAKE/A1_JAKE_30sec.json",
         help="Output file path",
     )
+    parser.add_argument("--token-output", default="", help="Optional path to save token count JSON")
 
     args = parser.parse_args()
-    process_sync_files(args.sync_dir, args.output)
+    total_tokens = process_sync_files(args.sync_dir, args.output)
+    if args.token_output:
+        os.makedirs(os.path.dirname(args.token_output) or ".", exist_ok=True)
+        with open(args.token_output, "w", encoding="utf-8") as f:
+            json.dump({"tokens": int(total_tokens)}, f, indent=2)
 
 
 if __name__ == "__main__":

@@ -1,6 +1,8 @@
 from egorag.agents.RagAgent import RagAgent
 from egorag.database.Chroma import Chroma
 from egorag.utils.gen_event import gen_event
+import json
+import os
 
 
 def generate_multiscale_memory(db_name: str = "A1_JAKE", 
@@ -25,7 +27,8 @@ def generate_multiscale_memory(db_name: str = "A1_JAKE",
     # Create the database from the provided JSON file
     agent.create_database_from_json(json_path)
 
-    gen_event(db_name, diary_dir, save_path)
+    total_tokens = gen_event(db_name, diary_dir, save_path)
+    return int(total_tokens or 0)
 
 
 # Entry point for the script
@@ -40,12 +43,17 @@ if __name__ == "__main__":
     parser.add_argument("--json_path", default="data/EgoLife/EgoLifeCap/A1_JAKE/A1_JAKE_30sec.json", help="Path to the JSON file for database creation")
     parser.add_argument("--diary_dir", default=".cache/events_diary", help="Path to the diary directory")
     parser.add_argument("--save_path", default="data/EgoLife/EgoLifeCap", help="Path to save the generated events")
+    parser.add_argument("--token-output", default="", help="Optional path to save token count JSON")
 
     args = parser.parse_args()
 
-    generate_multiscale_memory(
+    total_tokens = generate_multiscale_memory(
         db_name=args.db_name,
         json_path=args.json_path,
         diary_dir=args.diary_dir,
         save_path=args.save_path
     )
+    if args.token_output:
+        os.makedirs(os.path.dirname(args.token_output) or ".", exist_ok=True)
+        with open(args.token_output, "w", encoding="utf-8") as f:
+            json.dump({"tokens": int(total_tokens)}, f, indent=2)

@@ -106,6 +106,7 @@ def seconds_to_time(seconds):
 
 def process_day(docs, date):
     results = []
+    total_tokens = 0
     batch = []
     batch_start_time = None
     current_window_start = None
@@ -127,19 +128,23 @@ def process_day(docs, date):
                 for item in batch:
                     context.append(item["Content"])
                 try:
-                    gpt_res = call_gpt(
+                    gpt_res, tokens = call_gpt(
                         prompt=f"All descriptions: {context}",
                         system_message=system_message_3m,
                         max_tokens=2048,
                         temperature=0.7,
-                        top_p=0.95
+                        top_p=0.95,
+                        return_tokens=True,
                     )
+                    total_tokens += int(tokens or 0)
                 except Exception as e:
                     print(f"Error processing batch {window_index}: {e}")
-                    gpt_res = call_gpt(
+                    gpt_res, tokens = call_gpt(
                         prompt=f"All descriptions: {context}",
-                        system_message=system_message_3m
+                        system_message=system_message_3m,
+                        return_tokens=True,
                     )
+                    total_tokens += int(tokens or 0)
                 print(gpt_res)
                 if gpt_res:
                     try:
@@ -170,13 +175,15 @@ def process_day(docs, date):
         for item in batch:
             context.append(item["Content"])
         
-        gpt_res = call_gpt(
+        gpt_res, tokens = call_gpt(
             prompt=f"All descriptions: {context}",
             system_message=system_message_3m,
             max_tokens=2048,
             temperature=0.7,
-            top_p=0.95
+            top_p=0.95,
+            return_tokens=True,
         )
+        total_tokens += int(tokens or 0)
         
         if gpt_res:
             try:
@@ -197,7 +204,7 @@ def process_day(docs, date):
         else:
             print(f"Error processing final batch.")
     print(results)
-    return results
+    return results, total_tokens
 
 
 def get_event_min(db_name, diary_dir, save_path):
@@ -216,6 +223,7 @@ def get_event_min(db_name, diary_dir, save_path):
     for doc in docs:
         date = doc["Metadata"].get("date")
         docs_by_date[date].append(doc)
+    total_tokens = 0
     for date in range(1, 8):
         output_file = f"./{diary_dir}/{db_name}_l1/l1_day{date}.json"
 
@@ -229,7 +237,8 @@ def get_event_min(db_name, diary_dir, save_path):
                 print(f"Existing file for Date {date} is corrupt. Regenerating...")
 
         if date in docs_by_date:
-            results = process_day(docs_by_date[date], date)
+            results, tokens = process_day(docs_by_date[date], date)
+            total_tokens += int(tokens or 0)
             temp_file = f'{output_file.split(".")[0]}_tmp.json'
             try:
                 with open(temp_file, "w", encoding="utf-8") as f:
@@ -260,9 +269,11 @@ def get_event_min(db_name, diary_dir, save_path):
         json.dump(merged_items, f, ensure_ascii=False, indent=4)
 
     print("JSON combined successfully")
+    return total_tokens
 
 
 def process_json_batches(input_file, output_file, date):
+    total_tokens = 0
     with open(input_file, "r") as f:
         data = json.load(f)
 
@@ -283,10 +294,12 @@ def process_json_batches(input_file, output_file, date):
                 batch.append(item)
             else:
                 context = "\n".join(item["text"] for item in batch)
-                gpt_res = call_gpt(
+                gpt_res, tokens = call_gpt(
                     prompt=f"All descriptions: {context}. Strictly output below 300 words in total.",
                     system_message=system_message_10m,
+                    return_tokens=True,
                 )
+                total_tokens += int(tokens or 0)
                 if gpt_res:
                     try:
                         res = gpt_res
@@ -310,10 +323,12 @@ def process_json_batches(input_file, output_file, date):
 
     if batch:
         context = "\n".join(item["text"] for item in batch)
-        gpt_res = call_gpt(
+        gpt_res, tokens = call_gpt(
             prompt=f"All descriptions: {context}. Strictly output below 300 words in total.",
             system_message=system_message_10m,
+            return_tokens=True,
         )
+        total_tokens += int(tokens or 0)
         if gpt_res:
             try:
                 res = gpt_res
@@ -333,6 +348,7 @@ def process_json_batches(input_file, output_file, date):
 
     with open(output_file, "w") as f:
         json.dump(results, f, indent=4)
+    return total_tokens
 
 
 def get_event_10m(db_name, diary_dir, save_path):
@@ -344,6 +360,7 @@ def get_event_10m(db_name, diary_dir, save_path):
     else:
         os.makedirs(output_dir, exist_ok=True)
 
+    total_tokens = 0
     for i in range(1, 8):
         input_file = f"./{diary_dir}/{db_name}_l1/l1_day{i}.json"
         output_file = f"./{diary_dir}/{db_name}_l2/l2_day{i}.json"
@@ -362,9 +379,10 @@ def get_event_10m(db_name, diary_dir, save_path):
             continue
 
         try:
-            process_json_batches(
+            tokens = process_json_batches(
                 input_file, f'{output_file.split(".")[0]}_tmp.json', date=i
             )
+            total_tokens += int(tokens or 0)
             os.replace(f'{output_file.split(".")[0]}_tmp.json', output_file)
             print(f"L2 results for Day {i} saved successfully.")
         except Exception as e:
@@ -391,6 +409,7 @@ def get_event_10m(db_name, diary_dir, save_path):
         json.dump(merged_items, f, ensure_ascii=False, indent=4)
 
     print("JSON combined successfully")
+    return total_tokens
 
 
 def get_event_1h(db_name, diary_dir, save_path):
@@ -402,6 +421,7 @@ def get_event_1h(db_name, diary_dir, save_path):
     else:
         os.makedirs(output_dir, exist_ok=True)
 
+    total_tokens = 0
     for day in range(1, 8):
         input_file = f"./{diary_dir}/{db_name}_l2/l2_day{day}.json"
         output_file = f"./{diary_dir}/{db_name}_l3/l3_day{day}.json"
@@ -440,13 +460,15 @@ def get_event_1h(db_name, diary_dir, save_path):
                         batch.append(item)
                     else:
                         context = "\n".join(item["text"] for item in batch)
-                        gpt_res = call_gpt(
+                        gpt_res, tokens = call_gpt(
                             prompt=f"All descriptions: {context}. The output should be around 1500 words in total.",
                             system_message=system_message_1h,
                             max_tokens=2048,
                             temperature=0.7,
-                            top_p=0.95
+                            top_p=0.95,
+                            return_tokens=True,
                         )
+                        total_tokens += int(tokens or 0)
                         if gpt_res:
                             try:
                                 res = gpt_res
@@ -470,13 +492,15 @@ def get_event_1h(db_name, diary_dir, save_path):
 
             if batch:
                 context = "\n".join(item["text"] for item in batch)
-                gpt_res = call_gpt(
+                gpt_res, tokens = call_gpt(
                     prompt=f"All descriptions: {context}. The output should be around 1500 words in total.",
                     system_message=system_message_1h,
                     max_tokens=2048,
                     temperature=0.7,
-                    top_p=0.95
+                    top_p=0.95,
+                    return_tokens=True,
                 )
+                total_tokens += int(tokens or 0)
                 if gpt_res:
                     try:
                         res = gpt_res
@@ -520,12 +544,14 @@ def get_event_1h(db_name, diary_dir, save_path):
         json.dump(merged_items, f, ensure_ascii=False, indent=4)
 
     print("1-hour summaries generated and merged successfully")
+    return total_tokens
 
 
 # main
 def gen_event(db_name, diary_dir, save_path):
 
     # Use the provided arguments in the functions
-    get_event_min(db_name, diary_dir, save_path)  # 3-minute summaries
-    get_event_10m(db_name, diary_dir, save_path)  # 10-minute summaries
-    get_event_1h(db_name, diary_dir, save_path)  # 1-hour summaries
+    tokens_3m = get_event_min(db_name, diary_dir, save_path)  # 3-minute summaries
+    tokens_10m = get_event_10m(db_name, diary_dir, save_path)  # 10-minute summaries
+    tokens_1h = get_event_1h(db_name, diary_dir, save_path)  # 1-hour summaries
+    return int(tokens_3m or 0) + int(tokens_10m or 0) + int(tokens_1h or 0)

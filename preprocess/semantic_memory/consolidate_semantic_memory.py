@@ -6,6 +6,7 @@ Loads semantic extraction results and applies semantic consolidation across time
 
 import json
 import os
+import argparse
 from typing import Dict, Any
 from tqdm import tqdm
 
@@ -26,6 +27,12 @@ def load_semantic_extraction_results(json_file: str) -> Dict[str, Any]:
 
 def main():
     """Main processing function."""
+    parser = argparse.ArgumentParser(description="Consolidate semantic memory")
+    parser.add_argument("--person", type=str, default="A1_JAKE")
+    parser.add_argument("--model", type=str, default="gpt-5-mini")
+    parser.add_argument("--token-output", type=str, default="")
+    args = parser.parse_args()
+
     # Configuration
 
     NUM_TO_NAME = {
@@ -37,9 +44,9 @@ def main():
         6: "A6_SHURE"
     }
 
-    index = 1
-    semantic_results_file = f"output/metadata/semantic_memory/{NUM_TO_NAME[index]}/semantic_extraction_results_gpt-5-mini.json"
-    output_dir = f"output/metadata/semantic_memory/{NUM_TO_NAME[index]}"
+    person = args.person
+    semantic_results_file = f"output/metadata/semantic_memory/{person}/semantic_extraction_results_{args.model}.json"
+    output_dir = f"output/metadata/semantic_memory/{person}"
     
     # Ensure output directory exists
     os.makedirs(output_dir, exist_ok=True)
@@ -58,10 +65,10 @@ def main():
     )
     logger.info(f"Total semantic triples before consolidation: {total_triples_before}")
 
-    embedding_model = EmbeddingModel(text_model_name="Qwen/Qwen3-Embedding-4B")
+    embedding_model = EmbeddingModel(text_model_name="text-embedding-3-small")
     embedding_model.load_model(model_type="text")
 
-    llm_model = LLMModel(model_name="gpt-5-mini")
+    llm_model = LLMModel(model_name=args.model)
 
     semantic_consolidation = SemanticConsolidation(llm_model, embedding_model)
 
@@ -150,6 +157,11 @@ def main():
         json.dump(timestamped_results, f, indent=2, ensure_ascii=False)
     
     logger.info(f"Results have been saved to: {output_file}")
+    logger.info(f"Total tokens (consolidate_semantic_memory): {semantic_consolidation.total_tokens}")
+    if args.token_output:
+        os.makedirs(os.path.dirname(args.token_output) or ".", exist_ok=True)
+        with open(args.token_output, "w", encoding="utf-8") as f:
+            json.dump({"tokens": int(semantic_consolidation.total_tokens)}, f, indent=2)
 
 
 if __name__ == "__main__":

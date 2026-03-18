@@ -14,6 +14,7 @@ class SemanticExtraction:
     def __init__(self, llm_model: LLMModel):
         self.prompt_template_manager = PromptTemplateManager(role_mapping={"system": "system", "user": "user", "assistant": "assistant"})
         self.llm_model = llm_model
+        self.total_tokens = 0
 
     def semantic_extraction(self, chunk_key: str, episodic_triples: List[List[str]]) -> SemanticOutput:
         # PREPROCESSING
@@ -22,7 +23,8 @@ class SemanticExtraction:
 
         try:
             # LLM INFERENCE (entire try-block is retried by the decorator)
-            response = self.llm_model.generate(messages, text_format=SemanticRawOutput)
+            response, tokens = self.llm_model.generate_with_tokens(messages, text_format=SemanticRawOutput)
+            self.total_tokens += int(tokens or 0)
 
         except Exception as e:
             logger.warning(e)
@@ -72,6 +74,7 @@ class SemanticExtraction:
                 - A dict with keys as the chunk ids (mdhash) and values as the semantic triples
                 - A dict with keys as the chunk ids (mdhash) and values as the episodic evidence indices
         """
+        self.total_tokens = 0
         results = []
         with ThreadPoolExecutor() as executor:
             futures = {

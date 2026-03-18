@@ -7,14 +7,14 @@ class EmbeddingModel:
     """Universal embedding wrapper that routes different modalities to appropriate models"""
     
     def __init__(self, 
-                text_model_name: str = "Qwen/Qwen3-Embedding-4B",
+                text_model_name: str = "text-embedding-3-large",
                 vis_model_name: str = "VLM2Vec/VLM2Vec-V2.0",
                 device: str = "cuda"):
         """
         Initialize embedding models for different modalities
         
         Args:
-            text_model_name: Model name for text embeddings (defaults to Qwen3-Embedding-4B)
+            text_model_name: Model name for text embeddings
             vis_model_name: Model name for visual embeddings (defaults to VLM2Vec V2.0)
             device: Device to run models on
         """
@@ -34,11 +34,17 @@ class EmbeddingModel:
     def text_model(self):
         """Lazy loading of text model"""
         if self._text_model is None:
-            from .qwen3_embedding import Qwen3EmbeddingModel as TextEmbeddingModel
-            self._text_model = TextEmbeddingModel(
-                model_name=self.text_model_name,
-                device=self.device
-            )
+            if self.text_model_name.startswith("text-embedding-"):
+                from .gpt_embedding import GPTEmbeddingModel as TextEmbeddingModel
+
+                self._text_model = TextEmbeddingModel(model_name=self.text_model_name)
+            else:
+                from .qwen3_embedding import Qwen3EmbeddingModel as TextEmbeddingModel
+
+                self._text_model = TextEmbeddingModel(
+                    model_name=self.text_model_name,
+                    device=self.device
+                )
         return self._text_model
     
     @property
@@ -65,7 +71,7 @@ class EmbeddingModel:
             raise ValueError(f"Invalid model_type: {model_type}. Choose from None, 'text', or 'vision'")
 
     def encode_text(self, texts: Union[str, List[str]], **kwargs) -> np.ndarray:
-        """Encode text using Qwen3 model"""
+        """Encode text using configured text embedding model."""
         return self.text_model.encode_text(texts, **kwargs)
 
     def encode_vis_query(self, texts: Union[str, List[str]], **kwargs) -> np.ndarray:

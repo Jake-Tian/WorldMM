@@ -468,7 +468,7 @@ Step 2 (only if search): Pick one memory type (episodic/semantic/visual) and for
             })
             
             try:
-                response = self.respond_llm_model.generate(reasoning_messages)
+                response, round_tokens = self.respond_llm_model.generate_with_tokens(reasoning_messages)
                 reasoning_output = self._parse_reasoning_response(response)
             except Exception as e:
                 logger.error(f"Reasoning failed: {e}")
@@ -547,6 +547,7 @@ Step 2 (only if search): Pick one memory type (episodic/semantic/visual) and for
                     "memory_type": memory_type,
                     "search_query": search_query,
                     "retrieved_content": content if content else "[No results]",
+                    "token": int(round_tokens or 0),
                 })
         
         # Generate final answer
@@ -575,10 +576,20 @@ Step 2 (only if search): Pick one memory type (episodic/semantic/visual) and for
         })
         
         try:
-            answer = self.respond_llm_model.generate(qa_messages)
+            answer, answer_tokens = self.respond_llm_model.generate_with_tokens(qa_messages)
         except Exception as e:
             logger.error(f"Answer generation failed: {e}")
             answer = "Unable to generate answer"
+            answer_tokens = 0
+
+        round_history.append({
+            "round_num": round_num + 1,
+            "decision": "answer",
+            "memory_type": "",
+            "search_query": "",
+            "retrieved_content": "",
+            "token": int(answer_tokens or 0),
+        })
         
         return QAResult(
             question=query,

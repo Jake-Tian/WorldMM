@@ -1,11 +1,16 @@
 #!/bin/bash
 # WorldMM Memory Construction Script
-# Usage: ./script/3_build_memory.sh [--step episodic|semantic|visual|all] [--person <person>] [--gpu 0,1,2,3] [--model gpt-5-mini]
+# Usage: ./script/3_build_memory.sh [--step episodic|semantic|visual|all] [--person <person>] [--day <DAY1|1>] [--gpu 0,1,2,3] [--model gpt-5-mini]
 
 set -e
 trap 'echo -e "\nInterrupted."; exit 130' INT TERM
 
-PERSON="A1_JAKE" STEP="all" GPU_LIST="0,1,2,3" MODEL="gpt-5-mini" NUM_FRAMES=16
+PERSON="A1_JAKE"
+STEP="all"
+GPU_LIST="0,1,2,3"
+MODEL="gpt-5-mini"
+NUM_FRAMES=16
+DAY=""
 
 source .venv/bin/activate
 
@@ -13,6 +18,7 @@ while [[ $# -gt 0 ]]; do
     case $1 in
         --step) STEP="$2"; shift 2 ;;
         --person) PERSON="$2"; shift 2 ;;
+        --day) DAY="$2"; shift 2 ;;
         --gpu) GPU_LIST="$2"; shift 2 ;;
         --model) MODEL="$2"; shift 2 ;;
         --frames) NUM_FRAMES="$2"; shift 2 ;;
@@ -23,7 +29,23 @@ done
 cd "$(dirname "$0")/.."
 mkdir -p output/metadata/{episodic,semantic,visual}_memory/${PERSON}
 
-BLUE='\033[1;34m' NC='\033[0m'
+if [[ -n "$DAY" ]]; then
+    if [[ "$DAY" =~ ^[0-9]+$ ]]; then
+        DAY="DAY${DAY}"
+    fi
+fi
+
+DAY_ARG=""
+DAY_SUFFIX=""
+if [[ -n "$DAY" ]]; then
+    DAY_ARG="--day $DAY"
+    DAY_SUFFIX="_${DAY}"
+fi
+
+CAPTION_OUTPUT="data/EgoLife/EgoLifeCap/${PERSON}/${PERSON}_30sec${DAY_SUFFIX}.json"
+
+BLUE='\033[1;34m'
+NC='\033[0m'
 TIMESTAMP=$(date +%Y%m%d_%H%M%S)
 LOG_DIR=".log/build_memory/${PERSON}"
 mkdir -p "$LOG_DIR"
@@ -32,31 +54,45 @@ run_episodic() {
     echo -e "${BLUE}Episodic Memory: Generating fine captions...${NC}"
     python preprocess/episodic_memory/generate_fine_caption.py \
         --sync-dir "data/EgoLife/EgoLifeCap/Sync" \
-        --output "data/EgoLife/EgoLifeCap/${PERSON}/${PERSON}_30sec.json" 2>&1 | tee "$LOG_DIR/generate_fine_caption_$TIMESTAMP.log"
+        --person "$PERSON" \
+        --model "$MODEL" \
+        --output "$CAPTION_OUTPUT" \
+        $DAY_ARG 2>&1 | tee "$LOG_DIR/generate_fine_caption${DAY_SUFFIX}_$TIMESTAMP.log"
+
     echo -e "${BLUE}Episodic Memory: Generating multiscale memory...${NC}"
     python -m worldmm.memory.episodic.multiscale \
         --db_name "$PERSON" \
-        --json_path "data/EgoLife/EgoLifeCap/${PERSON}/${PERSON}_30sec.json" \
+        --json_path "$CAPTION_OUTPUT" \
         --diary_dir ".cache/events_diary" \
-        --save_path "data/EgoLife/EgoLifeCap" 2>&1 | tee "$LOG_DIR/multiscale_memory_$TIMESTAMP.log"
+        --save_path "data/EgoLife/EgoLifeCap" 2>&1 | tee "$LOG_DIR/multiscale_memory${DAY_SUFFIX}_$TIMESTAMP.log"
+
     echo -e "${BLUE}Episodic Memory: Extracting triples...${NC}"
     python preprocess/episodic_memory/extract_episodic_triples.py \
-        --person "$PERSON" --model "$MODEL" 2>&1 | tee "$LOG_DIR/episodic_triples_$TIMESTAMP.log"
+        --person "$PERSON" \
+        --model "$MODEL" \
+        --caption-file "$CAPTION_OUTPUT" \
+        $DAY_ARG 2>&1 | tee "$LOG_DIR/episodic_triples${DAY_SUFFIX}_$TIMESTAMP.log"
 }
 
 run_semantic() {
     echo -e "${BLUE}Semantic Memory: Extracting triples...${NC}"
     python preprocess/semantic_memory/extract_semantic_triples.py \
-        --person "$PERSON" --model "$MODEL" 2>&1 | tee "$LOG_DIR/semantic_extraction_$TIMESTAMP.log"
+        --person "$PERSON" \
+        --model "$MODEL" \
+        --caption-file "$CAPTION_OUTPUT" \
+        $DAY_ARG 2>&1 | tee "$LOG_DIR/semantic_extraction${DAY_SUFFIX}_$TIMESTAMP.log"
+
     echo -e "${BLUE}Semantic Memory: Consolidating...${NC}"
     python preprocess/semantic_memory/consolidate_semantic_memory.py \
-        --person "$PERSON" --model "$MODEL" 2>&1 | tee "$LOG_DIR/semantic_consolidation_$TIMESTAMP.log"
+        --person "$PERSON" \
+        --model "$MODEL" \
+        $DAY_ARG 2>&1 | tee "$LOG_DIR/semantic_consolidation${DAY_SUFFIX}_$TIMESTAMP.log"
 }
 
 run_visual() {
     echo -e "${BLUE}Visual Memory: Extracting features...${NC}"
     bash preprocess/visual_memory/extract_visual_features.sh \
-        --person "$PERSON" --gpu "$GPU_LIST" --num_frames "$NUM_FRAMES" 2>&1 | tee "$LOG_DIR/visual_features_$TIMESTAMP.log"
+        --person "$PERSON" --gpu "$GPU_LIST" --num_frames "$NUM_FRAMES" $DAY_ARG 2>&1 | tee "$LOG_DIR/visual_features${DAY_SUFFIX}_$TIMESTAMP.log"
 }
 
 case $STEP in

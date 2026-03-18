@@ -1,3 +1,15 @@
+output/metadata/
+
+# Data: ignore everything under data/ except selected EgoLife folders
+data/**
+!data/
+!data/EgoLife/
+!data/EgoLife/EgoLifeCap/
+!data/EgoLife/EgoLifeCap/**
+!data/EgoLife/EgoLifeQA/
+!data/EgoLife/EgoLifeQA/**
+!data/EgoLife/utils/
+!data/EgoLife/utils/**
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -78,5 +78,13 @@ class LLMModel:
         else:
             raise NotImplementedError(f"Model {self.provider} does not support batch generation.")
 
+    def generate_with_tokens(self, prompt: Union[str, List[Dict[str, Any]]], **kwargs) -> tuple[Any, int]:
+        """
+        Generate output and return (output, token_count).
+        """
+        if hasattr(self.model, "generate_with_tokens"):
+            return self.model.generate_with_tokens(prompt, **kwargs)  # type: ignore[attr-defined]
+        return self.generate(prompt, **kwargs), 0
+
     def __repr__(self):
         return f"LLMModel(provider={self.provider}, model_name={self.model_name}, kwargs={self.model.kwargs})"
