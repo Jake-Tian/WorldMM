@@ -1,0 +1,506 @@
+1
+00:49:44,600 --> 00:49:45,733
+Shure: 起床了蜜娜桑
+Shure: Time to wake up, everyone.
+
+2
+00:49:51,566 --> 00:49:52,400
+Shure: 起床啦
+Shure: Wake up!
+
+3
+00:49:54,033 --> 00:49:55,366
+Shure: 是不是又睡过了
+Shure: Did you oversleep again?
+
+4
+00:50:02,766 --> 00:50:03,933
+Shure: 起床啦路亚
+Shure: Wake up, Luyah.
+
+5
+00:50:05,533 --> 00:50:06,333
+Shure: 起床啦
+Shure: Wake up!
+
+6
+00:50:11,033 --> 00:50:11,833
+Shure: 哎
+Shure: Hey.
+
+7
+00:50:13,400 --> 00:50:14,200
+Shure: 谁呀
+Shure: Who's there?
+
+8
+00:50:14,200 --> 00:50:17,066
+Shure: 说早上起来一起收拾收拾收拾院子的
+Shure: Who said they'd help clean the yard this morning?
+
+9
+00:50:17,066 --> 00:50:17,866
+Shure: 啊
+Shure: Huh?
+
+10
+00:50:19,600 --> 00:50:21,500
+Shure: 等你收拾完黄花菜都凉了
+Shure: By the time you're done, the flowers will have wilted.
+
+11
+00:50:21,533 --> 00:50:22,866
+Shure: 大家都饿死了
+Shure: Everyone will starve.
+
+12
+00:50:30,166 --> 00:50:31,800
+Shure: 你看就你起床了
+Shure: Look, you're the only one up.
+
+13
+00:50:32,466 --> 00:50:35,733
+Shure: 就你按时起床了
+Shure: You're the only one who got up on time.
+
+14
+00:50:36,866 --> 00:50:38,500
+Alice: ：就我按时起床了对
+Alice: I'm the only one who got up on time, right.
+
+15
+00:50:39,066 --> 00:50:41,400
+Shure: 管管你这两个室友啊
+Shure: Take care of your two roommates.
+
+16
+00:50:39,233 --> 00:50:40,133
+Alice:好
+Alice: Okay.
+
+17
+00:50:41,833 --> 00:50:43,200
+Shure: 管管你这两个室友
+Shure: Take care of your roommates.
+
+18
+00:50:45,333 --> 00:50:46,633
+Alice:他们俩都还没起
+Alice: They're still not up yet?
+
+19
+00:50:46,566 --> 00:50:50,233
+Shure: 没起
+Shure: Not up.
+
+20
+00:50:48,166 --> 00:50:49,466
+Alice:好他们比我还厉
+Alice: Wow, they're worse than me.
+
+21
+00:50:50,166 --> 00:50:53,466
+Jake: 哎您您到您您您到53再给我打电话吧
+Jake: Hey, call me when you get to 53.
+
+22
+00:50:52,166 --> 00:50:52,966
+Shure: 害
+Shure: Ugh.
+
+23
+00:50:53,466 --> 00:50:54,933
+Jake: 要不行吧
+Jake: Or maybe that's not right.
+
+24
+00:50:57,100 --> 00:51:00,133
+Jake: 哎御河区53号别人都能找着
+Jake: Hey, everyone can find No. 53 in Yuhe District.
+
+25
+00:51:02,466 --> 00:51:04,466
+Alice: 露西啊对你该戴眼镜
+Alice: Lucia, you should wear glasses.
+
+26
+00:51:03,600 --> 00:51:04,400
+Shure: 对
+Shure: Yeah.
+
+27
+00:51:04,466 --> 00:51:05,966
+Jake: 挨着挨着挨着
+Jake: Right next to it.
+
+28
+00:51:14,466 --> 00:51:15,800
+Jake: 对您您找53号
+Jake: Yeah, find No. 53.
+
+29
+00:51:15,800 --> 00:51:16,800
+Jake: 53号好找
+Jake: No. 53 is easy to find.
+
+30
+00:51:16,900 --> 00:51:17,900
+Jake: 53号好找
+Jake: No. 53 is easy to find.
+
+31
+00:51:50,233 --> 00:51:52,600
+Shure: 煮几个白水蛋吃你吃吗
+
+32
+00:51:54,733 --> 00:51:55,533
+Alice: 有鸡蛋啊
+Alice: Do we have eggs?
+
+33
+00:52:01,966 --> 00:52:02,766
+Shure: 啊
+Shure: Yeah.
+
+34
+00:52:04,466 --> 00:52:05,366
+Alice: 你要煮几个
+Alice: How many are you going to cook?
+
+35
+00:52:07,400 --> 00:52:08,800
+Shure: 不知道多少个人吃
+Shure: I don't know how many people will eat.
+
+36
+00:52:08,800 --> 00:52:09,666
+Shure: 随便煮点
+Shure: Just cook some.
+
+37
+00:52:10,133 --> 00:52:11,433
+Shure: 然后一会再煎点
+Shure: Then we can fry some later.
+
+38
+00:52:18,733 --> 00:52:19,800
+Shure: 拿6个吧先
+Shure: Take 6 for now.
+
+39
+00:52:20,733 --> 00:52:21,600
+Alice: 现在几个
+Alice: How many now?
+
+40
+00:52:22,066 --> 00:52:22,633
+Shure: 现在5个
+Shure: Now we have 5.
+
+41
+00:52:22,633 --> 00:52:23,433
+Shure: 再拿一个
+Shure: Grab another one.
+
+42
+00:52:31,433 --> 00:52:33,166
+Shure: 好
+Shure: Okay.
+
+43
+00:52:33,333 --> 00:52:34,466
+Alice: 水太多了是吗
+Alice: Is there too much water?
+
+44
+00:52:35,633 --> 00:52:37,700
+Alice: 嗯无所谓就这样吧
+Alice: Hmm, never mind, let's just go with it.
+
+45
+00:52:36,533 --> 00:52:37,833
+Shure: 差不多
+Shure: It's about right.
+
+46
+00:52:46,100 --> 00:52:47,366
+Alice: 没有锅盖好像
+Alice: There's no lid for the pot, it seems.
+
+47
+00:52:48,700 --> 00:52:49,500
+Shure: what
+Shure: What?
+
+48
+00:52:50,366 --> 00:52:51,433
+Shure: 有有吧
+Shure: There should be, right?
+
+49
+00:52:54,266 --> 00:52:55,600
+Shure: 这个能盖上它不
+Shure: Can this cover it?
+
+50
+00:52:59,300 --> 00:53:00,300
+Alice: 这个好脏
+Alice: This is so dirty.
+
+51
+00:53:00,933 --> 00:53:01,866
+Jake: 成果如何
+Jake: How's it going?
+
+52
+00:53:02,833 --> 00:53:03,733
+Shure: 叫醒了
+Shure: Woke it up.
+
+53
+00:53:08,166 --> 00:53:08,966
+Shure: 哦我还没
+Shure: Oh, I haven't yet.
+
+54
+00:53:09,366 --> 00:53:10,400
+Shure: 我还没洗漱
+Shure: I haven't washed up yet.
+
+55
+00:53:10,366 --> 00:53:11,166
+Shure: 我想起来
+Shure: I just remembered.
+
+56
+00:55:53,400 --> 00:55:54,600
+Shure: 那还有个煎锅吧
+Shure: There's also a frying pan, right?
+
+57
+00:56:00,500 --> 00:56:02,666
+Alice: 现在就煎吗
+Alice: Are we frying it now?
+
+58
+00:56:04,866 --> 00:56:06,400
+Shure: 我先刷刷吧
+Shure: Let me clean it first.
+
+59
+00:56:15,633 --> 00:56:16,466
+Shure: 还可以
+Shure: It's still okay.
+
+60
+00:56:20,933 --> 00:56:21,733
+Alice: 嗯
+Alice: Hmm.
+
+61
+00:56:23,666 --> 00:56:24,766
+Alice: 你会煎吗
+Alice: Can you fry it?
+
+62
+00:56:25,333 --> 00:56:26,133
+Shure: 放心
+Shure: Don't worry.
+
+63
+00:56:29,366 --> 00:56:30,933
+Shure: 长这么大还没饿死呢
+Shure: I've grown this big and haven't starved yet.
+
+64
+00:56:33,000 --> 00:56:34,866
+Shure: 绝对稳稳拿下好吧
+Shure: I'll definitely handle it well, okay?
+
+65
+00:56:40,866 --> 00:56:42,366
+Shure: 把火烧一下就好
+Shure: Just turn on the heat.
+
+66
+00:57:16,233 --> 00:57:17,033
+Shure: all
+Shure: All set.
+
+67
+00:57:17,900 --> 00:57:20,066
+Alice: 你要几个蛋
+Alice: How many eggs do you want?
+
+68
+00:57:19,233 --> 00:57:20,033
+Shure: 啊
+Shure: Huh?
+
+69
+00:57:20,866 --> 00:57:23,433
+Shure: 咱们昨天是不是买那个面包来着
+Shure: Didn't we buy bread yesterday?
+
+70
+00:57:23,933 --> 00:57:26,466
+Shure: 把那面包然后裹点蛋液煎了吧
+Shure: Let's coat the bread with some egg and fry it.
+
+71
+00:57:31,100 --> 00:57:32,266
+Alice: 面包在这吗
+Alice: Is the bread here?
+
+72
+00:57:32,266 --> 00:57:35,733
+Alice: 不在吧
+Alice: I don't think so.
+
+73
+00:57:32,700 --> 00:57:36,666
+Shure: 昨天说烤结果没烤是吧
+Shure: We said we would toast it yesterday but didn't, right?
+
+74
+00:57:40,300 --> 00:57:41,533
+Shure: 这里是什么呀
+
+75
+00:57:43,700 --> 00:57:44,500
+Alice: 红薯
+Alice: Sweet potato.
+
+76
+00:57:48,933 --> 00:57:50,700
+Shure: 这要不也加上得了
+Shure: Why not add this too?
+
+77
+00:57:53,200 --> 00:57:55,533
+Alice: 面包应该在上面
+Alice: The bread should be on top.
+
+78
+00:57:55,066 --> 00:57:56,533
+Shure: 是吗好
+Shure: Really? Okay.
+
+79
+00:58:06,700 --> 00:58:09,733
+Shure: 有人回想问一下具体时间
+Shure: Can someone ask about the exact time?
+
+80
+00:58:12,466 --> 00:58:17,400
+Shure: 因为我们可能也会有演出在5月底
+Shure: Because we might have a performance at the end of May.
+
+81
+00:58:27,333 --> 00:58:29,166
+Shure: 就是怕有撞车
+Shure: Just afraid of a car crash.
+
+82
+00:58:34,666 --> 00:58:37,166
+Shure: 哎面包是在楼上吗
+Shure: Hey, is the bread upstairs?
+
+83
+00:58:37,966 --> 00:58:41,533
+Shure: 啊哎哎我记得不是买了两袋面包吗
+Shure: Ah, hey, didn't we buy two bags of bread?
+
+84
+00:58:41,366 --> 00:58:42,166
+Jake: 是啊
+Jake: Yeah.
+
+85
+00:58:43,400 --> 00:58:44,766
+Shure: 怎么剩一袋了呢
+Shure: Why is there only one bag left?
+
+86
+00:58:44,766 --> 00:58:46,600
+Shure: 你昨天晚上偷偷吃了
+Shure: Did you secretly eat it last night?
+
+87
+00:58:51,866 --> 00:58:52,666
+Shure: 我的
+
+88
+00:58:54,566 --> 00:58:55,800
+Shure: 真没吃呢
+Shure: I really didn't eat it.
+
+89
+00:58:55,966 --> 00:58:57,500
+Lucia: 楼下我昨天那个
+Lucia: Downstairs, I...
+
+90
+00:58:57,933 --> 00:59:01,333
+Lucia: 昨天昨天放那个蛋清空间不够
+Lucia: Yesterday, I put the egg whites, not enough space.
+
+91
+00:59:03,400 --> 00:59:04,666
+Shure: 啊啊
+Shure: Ah, ah.
+
+92
+00:59:15,666 --> 00:59:16,733
+Shure: 还有个在楼下
+
+93
+00:59:34,033 --> 00:59:35,866
+Shure: 还有一袋在楼下他说
+Shure: There's another bag downstairs, he said.
+
+94
+00:59:37,233 --> 00:59:37,600
+Shure: 他说有一
+Shure: He said there is a...
+
+95
+00:59:37,600 --> 00:59:38,600
+Shure: 袋在楼下
+Shure: Bag downstairs.
+
+96
+00:59:43,800 --> 00:59:44,600
+Shure: 没看着
+Shure: Didn't see it.
+
+97
+00:59:46,100 --> 00:59:47,566
+Alice: 啥
+Alice: What?
+
+98
+00:59:47,266 --> 00:59:49,600
+Shure: 楼下你看到那有那什么的吗
+Shure: Did you see anything downstairs?
+
+99
+00:59:49,700 --> 00:59:50,933
+Alice: 啥呀
+Alice: What?
+
+100
+00:59:50,566 --> 00:59:53,466
+Shure: 有那个面包
+Shure: Any bread.
+
+101
+00:59:54,500 --> 00:59:55,733
+Alice: 嗯没有吧
+Alice: Hmm, I don't think so.
+
+102
+00:59:57,600 --> 00:59:58,400
+Shure: 谁知道
+Shure: Who knows.
+

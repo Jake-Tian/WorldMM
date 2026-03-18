@@ -1,0 +1,470 @@
+1
+00:01:30,066 --> 00:01:31,700
+Alice:阿姨这个瓶也不要了
+Alice: Auntie, we don't need this bottle either.
+
+2
+00:03:51,166 --> 00:03:52,166
+阿姨：楼上有人吗
+Auntie: Is anyone upstairs?
+
+3
+00:03:52,400 --> 00:03:53,766
+Alice:没有
+Alice: No.
+
+4
+00:03:56,200 --> 00:03:57,000
+Alice:嗯
+Alice: Yeah.
+
+5
+00:04:13,200 --> 00:04:14,933
+Alice:阿姨这个桌子能擦吗
+Alice: Auntie, can we wipe this table?
+
+6
+00:04:17,966 --> 00:04:19,400
+Alice:这个桌子能擦吗
+Alice: Can we wipe this table?
+
+7
+00:04:20,000 --> 00:04:20,800
+Alice:嗯
+Alice: Yeah.
+
+8
+00:04:29,633 --> 00:04:32,066
+阿姨：你们这个布是不是擦桌子用啊
+Auntie: Is this cloth for wiping the table?
+
+9
+00:04:32,066 --> 00:04:33,133
+Alice:嗯可以用
+Alice: Yeah, it can be used.
+
+10
+00:04:34,000 --> 00:04:35,766
+Alice:好
+Alice: Okay.
+
+11
+00:05:16,400 --> 00:05:17,666
+Alice:对这个不要了
+Alice: Yeah, we don't need this either.
+
+12
+00:05:17,666 --> 00:05:18,600
+阿姨：这个还要吗
+Auntie: Do you still need this?
+
+13
+00:05:18,566 --> 00:05:20,366
+Alice:这个不要了
+Alice: We don't need this.
+
+14
+00:06:25,433 --> 00:06:26,433
+Alice:嗯好的
+Alice: Yeah, okay.
+
+15
+00:13:33,000 --> 00:13:34,433
+Alice:阿姨这个也不要了
+Alice: Auntie, we don't need this either.
+
+16
+00:13:35,566 --> 00:13:36,366
+Alice:这个
+Alice: This one.
+
+17
+00:13:39,166 --> 00:13:40,366
+阿姨：还有吗
+Auntie: Is there anything else?
+
+18
+00:13:40,366 --> 00:13:41,166
+Alice:嗯没了
+Alice: No, that's it.
+
+19
+00:13:42,066 --> 00:13:44,200
+Alice:哦这几个瓶子也不要
+Alice: Oh, we don't need these bottles either.
+
+20
+00:13:44,200 --> 00:13:45,233
+阿姨：那是整的
+Auntie: That's all intact.
+
+21
+00:13:45,566 --> 00:13:47,200
+阿姨：那个空的我给扔了
+Auntie: I'll throw away the empty one.
+
+22
+00:13:47,766 --> 00:13:49,700
+Alice:这个
+Alice: This one.
+
+23
+00:13:51,666 --> 00:13:52,466
+Alice:呃
+Alice: Uh.
+
+24
+00:13:53,666 --> 00:13:54,466
+Alice:嗯
+Alice: Yeah.
+
+25
+00:39:31,366 --> 00:39:32,333
+Alice:哎呦
+Alice: Oh.
+
+26
+00:39:35,000 --> 00:39:35,800
+Alice:笨蛋
+Alice: Idiot.
+
+27
+00:40:51,833 --> 00:40:53,800
+Alice:就这一点喝了得了
+Alice: Just drink this little bit.
+
+28
+00:52:20,200 --> 00:52:21,000
+Jack: 他自己他
+Jack: He himself, he...
+
+29
+00:52:27,200 --> 00:52:28,733
+Shure: 家里变干净了一些
+Shure: The house is a bit cleaner.
+
+30
+00:52:29,000 --> 00:52:30,300
+Alice:一些
+Alice: A bit.
+
+31
+00:52:30,566 --> 00:52:31,966
+Alice:这不是很多吗
+Alice: Isn't this a lot?
+
+32
+00:52:32,700 --> 00:52:33,366
+Jack: 要么就都是
+Jack: Either all of it is.
+
+33
+00:52:33,366 --> 00:52:34,166
+Jack: 要么就都不是
+Jack: Or none of it is.
+
+34
+00:52:35,066 --> 00:52:36,200
+Nicous: 关键就是你
+Nicous: The key thing is you.
+
+35
+00:52:36,300 --> 00:52:37,033
+Nicous: 就是就是
+Nicous: Exactly, exactly.
+
+36
+00:52:37,033 --> 00:52:37,866
+Nicous: 如果你训
+Nicous: If you train...
+
+37
+00:52:39,800 --> 00:52:41,566
+Nicous: 但如果你训QA的话
+Nicous: But if you train QA.
+
+38
+00:52:42,200 --> 00:52:42,733
+Nicous: 就是你训
+Nicous: If you train...
+
+39
+00:52:42,766 --> 00:52:43,666
+Nicous: 你训QA的话
+Nicous: If you train QA.
+
+40
+00:52:43,666 --> 00:52:45,700
+Nicous: 其实需要意味着分辨率比较高
+Nicous: It actually means the resolution is quite high.
+
+41
+00:52:45,966 --> 00:52:48,000
+Nicous: 但是如果你做公众号那种
+Nicous: But if you do something like a public account.
+
+42
+00:52:48,000 --> 00:52:49,200
+Nicous: 因为你interneb的话
+Nicous: Because if you use the internet.
+
+43
+00:52:49,200 --> 00:52:50,466
+Nicous: 其实意味着分辨率不重要
+Nicous: It actually means resolution is not important.
+
+44
+00:52:51,366 --> 00:52:52,066
+Nicous: 就你要有
+Nicous: As long as you have...
+
+45
+00:52:51,966 --> 00:52:55,466
+Katrina: 真的吗我我同学他们就也就是那种
+Katrina: Really? My classmates are just like that too.
+
+46
+00:52:54,633 --> 00:52:56,000
+Choiszt: 但你图也没啥意义
+Choiszt: But your pictures are meaningless.
+
+47
+00:52:56,400 --> 00:52:58,566
+Choiszt: 就是有很多图都没什么意义
+Choiszt: Like, a lot of pictures are meaningless.
+
+48
+00:53:00,000 --> 00:53:01,866
+Nicous: 只要只要只要有一些那种
+Nicous: As long as there are some like that.
+
+49
+00:53:01,066 --> 00:53:02,133
+Katrina: 你要升博
+Katrina: You want to get a PhD.
+
+50
+00:53:03,066 --> 00:53:04,000
+Alice:就拍拍照片
+Alice: Just take pictures.
+
+51
+00:53:07,000 --> 00:53:08,000
+Katrina: 这个漏应该
+Katrina: This leak should...
+
+52
+00:53:08,500 --> 00:53:11,200
+Nicous: 但是就是差距太大了
+Nicous: But the gap is too big.
+
+53
+00:53:13,166 --> 00:53:14,766
+Nicous: 研究生特别好吃
+Nicous: Graduate students eat really well.
+
+54
+00:53:15,633 --> 00:53:16,666
+Choiszt: 所以你们那种数据
+Choiszt: So your kind of data...
+
+55
+00:53:16,566 --> 00:53:17,066
+Katrina: 对啊
+Katrina: Yeah.
+
+56
+00:53:16,666 --> 00:53:19,033
+Katrina: 对啊我喜欢吃他们那种
+Katrina: Yeah, I like eating their kind of food.
+
+57
+00:53:19,666 --> 00:53:20,300
+Nicous: 就是就是
+Nicous: Exactly, exactly.
+
+58
+00:53:20,300 --> 00:53:22,066
+Nicous: 理论上来说
+Nicous: In theory...
+
+59
+00:53:24,900 --> 00:53:26,466
+Jack: 他也没训出来啊
+Jack: He didn't train it out either.
+
+60
+00:53:26,633 --> 00:53:29,100
+Choiszt: 所以你们关键公众号也发达
+Choiszt: So your key public account is also developed.
+
+61
+00:53:34,300 --> 00:53:36,433
+Alice:有没有觉得非常干净
+Alice: Doesn't it feel really clean?
+
+62
+00:53:41,000 --> 00:53:41,966
+Choiszt: 那你怎么配对
+Choiszt: Then how do you match?
+
+63
+00:53:42,066 --> 00:53:43,800
+Katrina: 但是你们去除了港大
+Katrina: But you guys excluded HKU.
+
+64
+00:53:44,000 --> 00:53:46,666
+Lucia:谢谢可心好干净
+Lucia: Thanks, Kexin, it's so clean.
+
+65
+00:53:48,133 --> 00:53:51,266
+Alice:但是一摆又又又凌乱了
+Alice: But once you put it down, it's messy again.
+
+66
+00:53:52,200 --> 00:53:54,366
+Alice:有没有觉得这个家有什么区别
+Alice: Do you feel any difference in this home?
+
+67
+00:53:55,700 --> 00:53:57,900
+Jake:您嗑瓜子请呵呵
+Jake: Please have some sunflower seeds.
+
+68
+00:53:56,133 --> 00:53:57,033
+Lucia:特别有区别
+Lucia: There's a big difference.
+
+69
+00:53:56,766 --> 00:53:57,833
+Alice:不用了谢谢
+Alice: No, thank you.
+
+70
+00:53:57,966 --> 00:53:58,933
+Lucia:请请请您吃
+Lucia: Please, have some.
+
+71
+00:53:58,166 --> 00:53:59,333
+Alice:请请请您吃这个
+Alice: Please, have this.
+
+72
+00:53:58,933 --> 00:54:02,433
+Lucia:这个已经打开了哦那
+Lucia: This is already opened, so...
+
+73
+00:54:00,766 --> 00:54:02,033
+Alice:我不吃巧克力
+Alice: I don't eat chocolate.
+
+74
+00:54:04,933 --> 00:54:06,700
+Lucia:喝喝喝来来来杯茶
+Lucia: Drink, drink, have a cup of tea.
+
+75
+00:54:07,400 --> 00:54:09,466
+Alice:谢谢哈哈哈哈
+Alice: Thank you, hahaha.
+
+76
+00:54:10,566 --> 00:54:14,000
+Jack: 因为一整个公众号的信息就是
+Jack: Because the entire WeChat official account's information is...
+
+77
+00:54:14,166 --> 00:54:17,433
+Alice:现在只有就剩刷的东西没有弄了
+Alice: Now there's only the scrubbing left to do.
+
+78
+00:54:17,066 --> 00:54:18,100
+Jake:好我们来刷
+Jake: Okay, let's scrub.
+
+79
+00:54:18,566 --> 00:54:20,966
+Alice:还有楼上的桌子什么也擦了
+Alice: And upstairs, the tables need wiping too.
+
+80
+00:54:20,966 --> 00:54:22,533
+Alice:然后也只剩刷了
+Alice: And then there's only scrubbing left.
+
+81
+00:54:24,000 --> 00:54:26,066
+Jake:我们开摄像头
+Jake: Let's turn on the cameras.
+
+82
+00:54:26,633 --> 00:54:27,766
+Jack: 开摄像头啊
+Jack: Turn on the cameras?
+
+83
+00:54:28,000 --> 00:54:29,000
+Jake:大家先休息一下
+Jake: Everyone take a break first.
+
+84
+00:54:29,000 --> 00:54:29,800
+Jake:不要工作
+Jake: No work.
+
+85
+00:54:30,566 --> 00:54:32,133
+其他人：这个去哪了啊啊
+Others: Where did this go? Ahh...
+
+86
+00:54:32,133 --> 00:54:32,966
+Jake:这个不要了
+Jake: We don't need this.
+
+87
+00:54:33,700 --> 00:54:37,700
+Tasha:那这个眼镜就关掉了啊
+Tasha: Then I'll turn off these glasses, okay?
+
+88
+00:54:36,566 --> 00:54:38,333
+Jake:呃关关关
+Jake: Uh, turn them off, turn them off.
+
+89
+00:54:39,033 --> 00:54:39,800
+Jake:倒一批
+Jake: Dump a batch.
+
+90
+00:54:52,866 --> 00:54:54,600
+Nicous: 然后如果是QA的话
+Nicous: And if it's QA...
+
+91
+00:54:54,700 --> 00:54:58,900
+Nicous: 最高每天能去22K
+Nicous: The highest can reach 22K per day.
+
+92
+00:54:59,033 --> 00:55:00,500
+Choiszt: 2048*2048
+Choiszt: 2048*2048.
+
+93
+00:55:00,566 --> 00:55:04,000
+Nicous: 呃 1920乘多少我忘记了
+Nicous: Uh, 1920 by something, I forgot.
+
+94
+00:55:04,000 --> 00:55:05,033
+Nicous: 我去拿2K
+Nicous: I'll get the 2K.
+

@@ -1,0 +1,1301 @@
+[
+  {
+    "ID": "337",
+    "query_time": {
+      "date": "DAY5",
+      "time": "12190913"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Tasha picked up a bottle of AD calcium milk",
+    "question": "Who gave Tasha the AD calcium milk she is holding?",
+    "choice_a": "Alice",
+    "choice_b": "Lucia",
+    "choice_c": "Me",
+    "choice_d": "Shure",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12115500"
+    },
+    "keywords": "gave Tasha, hold milk",
+    "reason": "I took the AD calcium milk from the fridge and gave it to Tasha"
+  },
+  {
+    "ID": "339",
+    "query_time": {
+      "date": "DAY5",
+      "time": "12260203"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I put the AD calcium milk back on the table",
+    "question": "Where was the AD calcium milk taken from?",
+    "choice_a": "Refrigerator",
+    "choice_b": "My room",
+    "choice_c": "Shure's room",
+    "choice_d": "On the chair",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12115400"
+    },
+    "keywords": "take calcium milk",
+    "reason": "I took the AD calcium milk from the refrigerator"
+  },
+  {
+    "ID": "340",
+    "query_time": {
+      "date": "DAY5",
+      "time": "12583200"
+    },
+    "type": "HabitInsight",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I saw the lunch on the table",
+    "question": "What does Alice not like to eat?",
+    "choice_a": "Pizza",
+    "choice_b": "Rice",
+    "choice_c": "Noodles",
+    "choice_d": "Steamed Bun",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12284615"
+    },
+    "keywords": "Alice not like eat",
+    "reason": "Alice said I just don't like to eat steamed buns"
+  },
+  {
+    "ID": "341",
+    "query_time": {
+      "date": "DAY5",
+      "time": "13025517"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "I asked what else we need",
+    "question": "What are we planning to do in the afternoon?",
+    "choice_a": "Playing games",
+    "choice_b": "Shopping",
+    "choice_c": "Walking the dog",
+    "choice_d": "Listening to music",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12392804"
+    },
+    "keywords": "plan do",
+    "reason": "Because we still need things, we plan to go shopping"
+  },
+  {
+    "ID": "345",
+    "query_time": {
+      "date": "DAY5",
+      "time": "15283415"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "I looked at the dog in Lucia's hand",
+    "question": "Now I'm looking at the dog in Lucia's hand, when was the last time we discussed dogs?",
+    "choice_a": "About a day ago",
+    "choice_b": "About three hours ago",
+    "choice_c": "About an hour ago",
+    "choice_d": "About six hours ago",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12305800"
+    },
+    "keywords": "discuss dogs",
+    "reason": "Lucia said I only remember this and this dog barking"
+  },
+  {
+    "ID": "348",
+    "query_time": {
+      "date": "DAY5",
+      "time": "15542204"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "We enter the supermarket",
+    "question": "What are we planning to buy?",
+    "choice_a": "Wangzai Milk Yakult",
+    "choice_b": "Wangzai Milk Fruit Beer",
+    "choice_c": "Apple Wine",
+    "choice_d": "Vita Watermelon",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY5",
+      "time": "15100407"
+    },
+    "keywords": "plan buy",
+    "reason": "Discussing what to buy"
+  },
+  {
+    "ID": "350",
+    "query_time": {
+      "date": "DAY5",
+      "time": "16025600"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Choiszt picked up a bottle of Erguotou",
+    "question": "When was the first time Choiszt saw the Erguotou he picked up?",
+    "choice_a": "About three hours ago",
+    "choice_b": "About two hours ago",
+    "choice_c": "About ten minutes ago",
+    "choice_d": "About four hours ago",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY5",
+      "time": "15542704"
+    },
+    "keywords": "Choiszt see Erguotou, pick up",
+    "reason": "Saw Erguotou"
+  },
+  {
+    "ID": "355",
+    "query_time": {
+      "date": "DAY5",
+      "time": "16080504"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "We arrived at the fruit section",
+    "question": "What fruit are we planning to buy?",
+    "choice_a": "Blueberries",
+    "choice_b": "Watermelon",
+    "choice_c": "Pineapple",
+    "choice_d": "Mango",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY5",
+      "time": "15105507"
+    },
+    "keywords": "plan buy fruit",
+    "reason": "We discussed and decided to buy blueberries"
+  },
+  {
+    "ID": "362",
+    "query_time": {
+      "date": "DAY5",
+      "time": "16284717"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I put two bottles of milk back on the shelf",
+    "question": "What did I put back on the shelf the last time I was at the supermarket?",
+    "choice_a": "Bananas",
+    "choice_b": "Blueberries",
+    "choice_c": "Pineapples",
+    "choice_d": "Strawberries",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "16083104"
+    },
+    "keywords": "put back shelf",
+    "reason": "I put back a box of blueberries"
+  },
+  {
+    "ID": "364",
+    "query_time": {
+      "date": "DAY5",
+      "time": "16325008"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I helped Shure tidy up the newly bought items",
+    "question": "Who picked the drinks?",
+    "choice_a": "Shure",
+    "choice_b": "Me",
+    "choice_c": "Choiszt",
+    "choice_d": "Lucia",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY5",
+      "time": "16034804"
+    },
+    "keywords": "picked drinks",
+    "reason": "Choiszt put down the drinks"
+  },
+  {
+    "ID": "367",
+    "query_time": {
+      "date": "DAY5",
+      "time": "16403411"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "The drink in Jack's hand",
+    "question": "When did Jack take the drink in his hand?",
+    "choice_a": "About an hour ago",
+    "choice_b": "About four hours ago",
+    "choice_c": "About six hours ago",
+    "choice_d": "About eight hours ago",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY5",
+      "time": "15551404"
+    },
+    "keywords": "Jack take drink",
+    "reason": "Jack is taking the drink"
+  },
+  {
+    "ID": "371",
+    "query_time": {
+      "date": "DAY5",
+      "time": "18025517"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "Eating",
+    "question": "What do we plan to eat today?",
+    "choice_a": "Pizza",
+    "choice_b": "Burger",
+    "choice_c": "Barbecue",
+    "choice_d": "Fire Burn",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "11141206"
+    },
+    "keywords": "plan eat",
+    "reason": "Because I suggested eating braised pork"
+  },
+  {
+    "ID": "372",
+    "query_time": {
+      "date": "DAY5",
+      "time": "18044216"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "Saw two people washing dishes and organizing ingredients in the kitchen",
+    "question": "Who was washing dishes in the kitchen last time?",
+    "choice_a": "Lucia",
+    "choice_b": "Me",
+    "choice_c": "Alice",
+    "choice_d": "Shure",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "11513500"
+    },
+    "keywords": "wash dishes",
+    "reason": "I was washing the dishes"
+  },
+  {
+    "ID": "373",
+    "query_time": {
+      "date": "DAY5",
+      "time": "18045101"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "Saw the red refrigerator",
+    "question": "When was the red refrigerator last opened?",
+    "choice_a": "This morning",
+    "choice_b": "Yesterday afternoon",
+    "choice_c": "This afternoon",
+    "choice_d": "This afternoon",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12114800"
+    },
+    "keywords": "open refrigerator",
+    "reason": "I opened the red refrigerator"
+  },
+  {
+    "ID": "383",
+    "query_time": {
+      "date": "DAY5",
+      "time": "18402915"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I picked up the blueberries",
+    "question": "Who bought the blueberries?",
+    "choice_a": "Tasha",
+    "choice_b": "Me",
+    "choice_c": "Lucia",
+    "choice_d": "Alice",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY5",
+      "time": "16095604"
+    },
+    "keywords": "bought blueberries",
+    "reason": "Lucia was about to put the blueberries she just picked up into the shopping cart"
+  },
+  {
+    "ID": "385",
+    "query_time": {
+      "date": "DAY5",
+      "time": "18460210"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Looked at the chip packaging",
+    "question": "Who bought the chips on the table?",
+    "choice_a": "Me",
+    "choice_b": "Tasha",
+    "choice_c": "Shure",
+    "choice_d": "Alice",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY5",
+      "time": "18260300"
+    },
+    "keywords": "bought chips",
+    "reason": "There are chips in the cart pushed by Shure"
+  },
+  {
+    "ID": "386",
+    "query_time": {
+      "date": "DAY5",
+      "time": "19025517"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "Let's go shopping",
+    "question": "How many bottles of Wangzai milk do we need?",
+    "choice_a": "6",
+    "choice_b": "4",
+    "choice_c": "3",
+    "choice_d": "5",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time_list": [
+        "16260908",
+        "16261114"
+      ]
+    },
+    "keywords": "need bottles, Wangzai milk",
+    "reason": "Because we need two bottles for tonight's meal and two for tomorrow's preparation"
+  },
+  {
+    "ID": "387",
+    "query_time": {
+      "date": "DAY5",
+      "time": "19401600"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "Shure and Nicous are enthusiastically singing",
+    "question": "What was the environment like the last time Shure and Nicous sang?",
+    "choice_a": "Outdoor",
+    "choice_b": "In the supermarket",
+    "choice_c": "In the courtyard",
+    "choice_d": "In Shure's room",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY5",
+      "time": "19043200"
+    },
+    "keywords": "Shure sing, Nicous sing",
+    "reason": "Everyone is singing while walking"
+  },
+  {
+    "ID": "389",
+    "query_time": {
+      "date": "DAY5",
+      "time": "20052710"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "Seeing the scattered tools and materials on the table",
+    "question": "Who used the tape and scissors on the table last time?",
+    "choice_a": "Shure",
+    "choice_b": "Katrina",
+    "choice_c": "Alice",
+    "choice_d": "Me",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "18015100"
+    },
+    "keywords": "use tape, use scissors",
+    "reason": "I used the scissors to cut a bit of tape"
+  },
+  {
+    "ID": "390",
+    "query_time": {
+      "date": "DAY5",
+      "time": "20071404"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "I saw Jack drinking a beverage",
+    "question": "When was the last time I saw Jack drinking a beverage?",
+    "choice_a": "About 12 hours ago",
+    "choice_b": "About 3 hours ago",
+    "choice_c": "About 1 hour ago",
+    "choice_d": "About 6 hours ago",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "16542014"
+    },
+    "keywords": "see Jack, drink beverage",
+    "reason": "I saw Jack drinking a beverage"
+  },
+  {
+    "ID": "391",
+    "query_time": {
+      "date": "DAY5",
+      "time": "20175000"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "We are eating burgers",
+    "question": "Who else was there when I had a meal with Lucia last time?",
+    "choice_a": "Nicous and Alice",
+    "choice_b": "Shure and Violet",
+    "choice_c": "Tasha and Choiszt",
+    "choice_d": "Alice and Violet",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12161700"
+    },
+    "keywords": "have meal, Lucia",
+    "reason": "We are eating stewed dishes"
+  },
+  {
+    "ID": "392",
+    "query_time": {
+      "date": "DAY5",
+      "time": "20220710"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Egg tart on the table",
+    "question": "Who made the egg tart on the table?",
+    "choice_a": "Choiszt and Tasha",
+    "choice_b": "Me and Alice",
+    "choice_c": "Me and Tasha",
+    "choice_d": "Tasha and Katrina",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY5",
+      "time": "18370700"
+    },
+    "keywords": "made egg tart",
+    "reason": "Choiszt and Tasha were making desserts"
+  },
+  {
+    "ID": "393",
+    "query_time": {
+      "date": "DAY5",
+      "time": "20233904"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "Choiszt was still vigorously scraping the cream in the bowl",
+    "question": "The last time Choiszt was mixing cream, what were we preparing?",
+    "choice_a": "Eat pizza",
+    "choice_b": "Order takeout",
+    "choice_c": "Cleaning",
+    "choice_d": "Shopping",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "18231200"
+    },
+    "keywords": "Choiszt mix cream, prepare",
+    "reason": "Choiszt was mixing cream"
+  },
+  {
+    "ID": "395",
+    "query_time": {
+      "date": "DAY5",
+      "time": "20344008"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "Tasha is placing the sliced mango on the tart",
+    "question": "When was the last time the mango was sliced?",
+    "choice_a": "This afternoon",
+    "choice_b": "This afternoon",
+    "choice_c": "This morning",
+    "choice_d": "Yesterday afternoon",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12044600"
+    },
+    "keywords": "slice mango",
+    "reason": "Holding the knife in the right hand, continuing to slice the mango"
+  },
+  {
+    "ID": "398",
+    "query_time": {
+      "date": "DAY5",
+      "time": "21025422"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "While we were chatting in the living room,",
+    "question": "Now I'm helping Lucia cut the poster, what were we doing the last time I used scissors?",
+    "choice_a": "Baking a cake",
+    "choice_b": "Making a puppy",
+    "choice_c": "Repairing glasses",
+    "choice_d": "Unpacking a delivery",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY5",
+      "time": "18015100"
+    },
+    "keywords": "help Lucia, use scissors",
+    "reason": "Cut a bit of tape with scissors"
+  },
+  {
+    "ID": "400",
+    "query_time": {
+      "date": "DAY5",
+      "time": "21025517"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "We went shopping",
+    "question": "Why did I say to push the cart backwards?",
+    "choice_a": "Because it's effortless",
+    "choice_b": "Because it's stable to push backwards",
+    "choice_c": "Because it looks good to push backwards",
+    "choice_d": "Because it's convenient",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "16014110"
+    },
+    "keywords": "say push cart",
+    "reason": "Because it's stable to push backwards"
+  },
+  {
+    "ID": "401",
+    "query_time": {
+      "date": "DAY5",
+      "time": "21025517"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "We went shopping",
+    "question": "Why did we put the durian back?",
+    "choice_a": "Because it's too troublesome",
+    "choice_b": "Because we don't like to eat it",
+    "choice_c": "Because it was too smelly.",
+    "choice_d": "Because the cost-performance ratio is average",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "16091401"
+    },
+    "keywords": "put back durian",
+    "reason": "Because the cost-performance ratio is average"
+  },
+  {
+    "ID": "402",
+    "query_time": {
+      "date": "DAY5",
+      "time": "21025517"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Let's chat together.",
+    "question": "What does Tasha want to drink?",
+    "choice_a": "Cola",
+    "choice_b": "Sprite",
+    "choice_c": "Mineral Water",
+    "choice_d": "Wahaha",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12111706"
+    },
+    "keywords": "Tasha want drink",
+    "reason": "Because Tasha said she wanted Wahaha"
+  },
+  {
+    "ID": "403",
+    "query_time": {
+      "date": "DAY5",
+      "time": "21025517"
+    },
+    "type": "HabitInsight",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Let's chat together.",
+    "question": "Why doesn't Tasha eat stewed dishes?",
+    "choice_a": "Because she doesn't like eating stewed dishes",
+    "choice_b": "Because she thinks stewed dishes look too ugly",
+    "choice_c": "Because she tasted the blood flavor",
+    "choice_d": "Because she thinks stewed dishes taste too bad",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12134106"
+    },
+    "keywords": "Tasha eat dishes",
+    "reason": "Because Tasha thinks stewed dishes look too ugly"
+  },
+  {
+    "ID": "404",
+    "query_time": {
+      "date": "DAY5",
+      "time": "21025517"
+    },
+    "type": "RelationMap",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Let's chat together.",
+    "question": "Who among us has drunk Douzhi?",
+    "choice_a": "Katrina",
+    "choice_b": "Tasha",
+    "choice_c": "Alice",
+    "choice_d": "Me",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12351203"
+    },
+    "keywords": "drink Douzhi",
+    "reason": "Because I said I have drunk Douzhi"
+  },
+  {
+    "ID": "405",
+    "query_time": {
+      "date": "DAY5",
+      "time": "21025517"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "When everyone was chatting together",
+    "question": "What name does Alice plan to give her dog?",
+    "choice_a": "Xiaohei",
+    "choice_b": "Dudu",
+    "choice_c": "Xiaobao",
+    "choice_d": "Lele",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "11345806"
+    },
+    "keywords": "Alice plan give name",
+    "reason": "Because Lele seems happy"
+  },
+  {
+    "ID": "406",
+    "query_time": {
+      "date": "DAY6",
+      "time": "09560702"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "Shure is drinking coffee",
+    "question": "When was the last time Shure drank coffee?",
+    "choice_a": "Two days ago",
+    "choice_b": "Four days ago",
+    "choice_c": "Three days ago",
+    "choice_d": "About 12 hours ago",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "22215600"
+    },
+    "keywords": "Shure drink coffee",
+    "reason": "He took a sip"
+  },
+  {
+    "ID": "407",
+    "query_time": {
+      "date": "DAY6",
+      "time": "09562819"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "There is a laptop and a vase on the table",
+    "question": "When were the flowers in the vase on the table placed there?",
+    "choice_a": "Last night",
+    "choice_b": "Yesterday at noon",
+    "choice_c": "Yesterday morning",
+    "choice_d": "Yesterday afternoon",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "11565808"
+    },
+    "keywords": "place flowers",
+    "reason": "I saw the vase"
+  },
+  {
+    "ID": "409",
+    "query_time": {
+      "date": "DAY6",
+      "time": "10022614"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "I brought back the takeout.",
+    "question": "When did I last pick up the takeout?",
+    "choice_a": "Last night",
+    "choice_b": "Yesterday morning",
+    "choice_c": "Yesterday afternoon",
+    "choice_d": "Yesterday at noon",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "11541700"
+    },
+    "keywords": "pick up takeout",
+    "reason": "I was holding the takeout"
+  },
+  {
+    "ID": "410",
+    "query_time": {
+      "date": "DAY6",
+      "time": "10025409"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "White Power Bank",
+    "question": "I picked up a white power bank in Shure's room. When was the last time this power bank was charged?",
+    "choice_a": "About eleven hours ago",
+    "choice_b": "About two hours ago",
+    "choice_c": "About four hours ago",
+    "choice_d": "About two days ago",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY5",
+      "time": "23075100"
+    },
+    "keywords": "pick up power bank, charge power bank",
+    "reason": "Power bank charging"
+  },
+  {
+    "ID": "411",
+    "query_time": {
+      "date": "DAY6",
+      "time": "10040416"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "I picked up the cola on the table and took a sip",
+    "question": "When was this bottle of cola drunk?",
+    "choice_a": "Yesterday afternoon",
+    "choice_b": "This morning",
+    "choice_c": "Yesterday at noon",
+    "choice_d": "Last night",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "20160908"
+    },
+    "keywords": "drink bottle",
+    "reason": "I took a sip of cola"
+  },
+  {
+    "ID": "412",
+    "query_time": {
+      "date": "DAY6",
+      "time": "10042716"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "Dishes in the Kitchen",
+    "question": "I saw the dishes piled up by the kitchen sink. When were these dishes last washed?",
+    "choice_a": "Yesterday afternoon",
+    "choice_b": "Yesterday morning",
+    "choice_c": "Last night",
+    "choice_d": "Yesterday at noon",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY5",
+      "time": "18444400"
+    },
+    "keywords": "wash dishes",
+    "reason": "Choiszt was washing dishes"
+  },
+  {
+    "ID": "413",
+    "query_time": {
+      "date": "DAY6",
+      "time": "10045104"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I walked forward to the red refrigerator",
+    "question": "What was I going to do the last time I passed by the red refrigerator?",
+    "choice_a": "Check the power bank's battery level",
+    "choice_b": "Eat something",
+    "choice_c": "Wash hands",
+    "choice_d": "Open the refrigerator to take something",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "20002100"
+    },
+    "keywords": "do, pass by refrigerator",
+    "reason": "I walked to the refrigerator door"
+  },
+  {
+    "ID": "414",
+    "query_time": {
+      "date": "DAY6",
+      "time": "10091303"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I asked if I needed to go to the hospital",
+    "question": "Under what circumstances did I last inquire about going to the hospital?",
+    "choice_a": "Cut my hand",
+    "choice_b": "Discussing drinking",
+    "choice_c": "Allergy",
+    "choice_d": "Lucia was bitten by a dog",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "16033404"
+    },
+    "keywords": "inquire going hospital",
+    "reason": "I said why go to the hospital for your birthday, then we talked about drinking"
+  },
+  {
+    "ID": "415",
+    "query_time": {
+      "date": "DAY6",
+      "time": "10171509"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "Cooking tools and ingredients on the cabinet",
+    "question": "When was the last time these cooking tools and ingredients were used?",
+    "choice_a": "Yesterday afternoon",
+    "choice_b": "Yesterday at noon",
+    "choice_c": "Last night",
+    "choice_d": "Yesterday morning",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY5",
+      "time": "20321400"
+    },
+    "keywords": "use cooking tools, use ingredients",
+    "reason": "I was sifting matcha powder"
+  },
+  {
+    "ID": "416",
+    "query_time": {
+      "date": "DAY6",
+      "time": "10244704"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "Oven",
+    "question": "What was the oven last used to bake?",
+    "choice_a": "Pizza",
+    "choice_b": "Sweet Potato",
+    "choice_c": "Egg Tart",
+    "choice_d": "Cake",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY5",
+      "time": "20182800"
+    },
+    "keywords": "use oven, bake",
+    "reason": "I saw egg tarts in the oven"
+  },
+  {
+    "ID": "417",
+    "query_time": {
+      "date": "DAY6",
+      "time": "10322302"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Nicous cuts open the tip of the bottle cap",
+    "question": "Who used the kitchen knife before Nicous?",
+    "choice_a": "Alice",
+    "choice_b": "Tasha",
+    "choice_c": "Shure",
+    "choice_d": "Me",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "11521000"
+    },
+    "keywords": "used the kitchen knife",
+    "reason": "I was cutting mangoes"
+  },
+  {
+    "ID": "419",
+    "query_time": {
+      "date": "DAY6",
+      "time": "11230918"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I said: 'Settle the bill before working, right.'",
+    "question": "What were we doing the last time I mentioned settling the bill?",
+    "choice_a": "Playing video games",
+    "choice_b": "Eating pizza",
+    "choice_c": "Eating burgers",
+    "choice_d": "Shopping",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "16305604"
+    },
+    "keywords": "mention settling bill",
+    "reason": "I said settle the bill and leave"
+  },
+  {
+    "ID": "420",
+    "query_time": {
+      "date": "DAY6",
+      "time": "11293100"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "On our way back from picking up the package",
+    "question": "Who is sitting with Alice and making gestures on the screen?",
+    "choice_a": "Katrina, Nicous",
+    "choice_b": "Nicous, Shure",
+    "choice_c": "Tasha, Lucia",
+    "choice_d": "Nicous, Tasha",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12323417"
+    },
+    "keywords": "sit with Alice, make gestures",
+    "reason": "In the video, Alice, Tasha, and Lucia are sitting together making gestures on the projection"
+  },
+  {
+    "ID": "426",
+    "query_time": {
+      "date": "DAY6",
+      "time": "12233107"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I am washing a water cup",
+    "question": "I am currently washing a water cup, what happened the last time I was cleaning something in the kitchen?",
+    "choice_a": "Ate strawberries",
+    "choice_b": "Got cut by a knife",
+    "choice_c": "Broke a cup",
+    "choice_d": "Cooked",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "18361600"
+    },
+    "keywords": "clean kitchen",
+    "reason": "Shure was frying bread"
+  },
+  {
+    "ID": "427",
+    "query_time": {
+      "date": "DAY6",
+      "time": "12491005"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "The box containing food in Choiszt's hand",
+    "question": "Who prepared the box containing food in Choiszt's hand?",
+    "choice_a": "Alice",
+    "choice_b": "Tasha",
+    "choice_c": "Shure",
+    "choice_d": "Jack",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY5",
+      "time": "20282500"
+    },
+    "keywords": "prepare box, contain food, Choiszt hand",
+    "reason": "Tasha was wearing a green jacket"
+  },
+  {
+    "ID": "429",
+    "query_time": {
+      "date": "DAY6",
+      "time": "13001417"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I opened the red refrigerator on the right side of the kitchen",
+    "question": "Now that I have opened the red refrigerator on the right side of the kitchen, what did I put in the last time I opened it?",
+    "choice_a": "Burger",
+    "choice_b": "Yogurt",
+    "choice_c": "Pizza",
+    "choice_d": "Ice cream",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "20002300"
+    },
+    "keywords": "put in refrigerator",
+    "reason": "Alice was grilling"
+  },
+  {
+    "ID": "433",
+    "query_time": {
+      "date": "DAY6",
+      "time": "15500917"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "I saw Tasha flipping the egg tart",
+    "question": "Tasha is flipping the egg tart now, who helped her the last time she made egg tarts?",
+    "choice_a": "Alice",
+    "choice_b": "Katrina",
+    "choice_c": "Choiszt",
+    "choice_d": "Shure",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY5",
+      "time": "18381100"
+    },
+    "keywords": "flip egg tart, help make egg tarts",
+    "reason": "Making egg tarts"
+  },
+  {
+    "ID": "434",
+    "query_time": {
+      "date": "DAY6",
+      "time": "15501601"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "I saw Lucia busy in the kitchen",
+    "question": "Now that Lucia is busy in the kitchen, what were we preparing the last time she was busy there?",
+    "choice_a": "Baked Egg Tart",
+    "choice_b": "Whipping cream",
+    "choice_c": "Cutting fruit",
+    "choice_d": "Parchment paper",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "20274916"
+    },
+    "keywords": "prepare, Lucia busy",
+    "reason": "Tasha and Choiszt were making the egg tart mixture"
+  },
+  {
+    "ID": "468",
+    "query_time": {
+      "date": "DAY6",
+      "time": "22042506"
+    },
+    "type": "HabitInsight",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "While I was working on the computer",
+    "question": "What doesn't Alice like to eat?",
+    "choice_a": "Noodles",
+    "choice_b": "Burger",
+    "choice_c": "Steamed Bun",
+    "choice_d": "Dumpling",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12284507"
+    },
+    "keywords": "Alice not like eat",
+    "reason": "Because Tasha is often seen wearing jeans"
+  },
+  {
+    "ID": "469",
+    "query_time": {
+      "date": "DAY6",
+      "time": "22042507"
+    },
+    "type": "HabitInsight",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "While I was working on the computer,",
+    "question": "What does Tasha like to eat?",
+    "choice_a": "Steamed buns",
+    "choice_b": "Hamburger",
+    "choice_c": "Dumplings",
+    "choice_d": "Noodles",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY5",
+      "time": "12284809"
+    },
+    "keywords": "Tasha like eat",
+    "reason": "Because Alice said she doesn't like to eat steamed buns"
+  },
+  {
+    "ID": "489",
+    "query_time": {
+      "date": "DAY7",
+      "time": "13524918"
+    },
+    "type": "EntityLog",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "Shure bought a few watermelons",
+    "question": "When was the last time watermelons were mentioned?",
+    "choice_a": "Yesterday afternoon",
+    "choice_b": "Yesterday morning",
+    "choice_c": "This morning",
+    "choice_d": "The day before yesterday",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "16104304"
+    },
+    "keywords": "mention watermelons",
+    "reason": "On the second day, I ate the pancakes made by Tasha; on the fourth day, I ate the toast made by Shure"
+  },
+  {
+    "ID": "494",
+    "query_time": {
+      "date": "DAY7",
+      "time": "17350904"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "Katrina walked in, I asked: “Are we scratching the lottery tickets later?”",
+    "question": "When was the last time we scratched lottery tickets?",
+    "choice_a": "This afternoon",
+    "choice_b": "Last night",
+    "choice_c": "Yesterday afternoon",
+    "choice_d": "The night before yesterday",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "19171600"
+    },
+    "keywords": "scratch lottery tickets",
+    "reason": "Phone scans the living room ceiling"
+  },
+  {
+    "ID": "497",
+    "query_time": {
+      "date": "DAY7",
+      "time": "18060700"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I picked up the phone and transferred some money to someone",
+    "question": "When was the last time I paid via phone?",
+    "choice_a": "This afternoon",
+    "choice_b": "Yesterday afternoon",
+    "choice_c": "Last night",
+    "choice_d": "The night before yesterday",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY5",
+      "time": "19210108"
+    },
+    "keywords": "pay via phone",
+    "reason": "Because Shure said we should sing this song together"
+  }
+]

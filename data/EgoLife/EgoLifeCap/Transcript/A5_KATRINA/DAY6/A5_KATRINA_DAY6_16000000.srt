@@ -1,0 +1,3559 @@
+1
+00:00:00,300 --> 00:00:01,566
+Katrina: 放冷冻室
+Katrina: Put it in the freezer.
+
+2
+00:00:02,066 --> 00:00:03,900
+其他人：已经化成一坨了
+Others: It's already melted into a lump.
+
+3
+00:00:05,800 --> 00:00:07,400
+Katrina: 没有他可能是变硬了
+Katrina: No, it might have just hardened.
+
+4
+00:00:07,400 --> 00:00:09,800
+Katrina: 哈哈哈哈
+Katrina: Hahaha.
+
+5
+00:00:12,500 --> 00:00:13,300
+Katrina: 对
+Katrina: Yeah.
+
+6
+00:00:19,400 --> 00:00:20,766
+其他人：呀到点了
+Others: Oh, it's time.
+
+7
+00:00:24,466 --> 00:00:26,133
+Katrina: 哈哈哈哈
+Katrina: Hahaha.
+
+8
+00:00:26,133 --> 00:00:27,266
+Katrina: 我没说话呀
+Katrina: I didn't say anything.
+
+9
+00:00:27,266 --> 00:00:29,000
+Katrina: 哈哈哈哈
+Katrina: Hahaha.
+
+10
+00:00:32,166 --> 00:00:33,666
+Katrina: 还是等老板来吧
+Katrina: Let's wait for the boss to come.
+
+11
+00:00:39,533 --> 00:00:41,700
+Katrina: 整的跟那个学术会议一样
+Katrina: Feels like an academic conference.
+
+12
+00:00:41,933 --> 00:00:43,000
+Katrina: 还有甜点
+Katrina: And there's even dessert.
+
+13
+00:00:44,000 --> 00:00:44,800
+Katrina: 嗯
+Katrina: Hmm
+
+14
+00:01:06,566 --> 00:01:10,466
+Shure: welcome our BIG boss JK杨
+Shure: Welcome our BIG boss JK Yang!
+
+15
+00:01:10,500 --> 00:01:13,600
+Katrina: 哈哈哈哈哈
+Katrina: Hahahahaha
+
+16
+00:01:10,900 --> 00:01:11,700
+Jake:耶
+Jake: Yay
+
+17
+00:01:13,700 --> 00:01:15,433
+Jake:为什么第一个boss
+Jake: Why the first boss?
+
+18
+00:01:16,166 --> 00:01:17,000
+Jake:BIG boss
+Jake: BIG boss
+
+19
+00:01:17,033 --> 00:01:18,300
+Jake:哦哦第一个boss
+Jake: Oh, the first boss
+
+20
+00:01:18,300 --> 00:01:19,466
+Jake:好嘞好嘞好
+Jake: Alright, alright
+
+21
+00:01:19,466 --> 00:01:20,266
+Jake:欢迎大家
+Jake: Welcome, everyone
+
+22
+00:01:20,266 --> 00:01:23,200
+Jake:欢迎志愿者的朋友们是吧
+Jake: Welcome, our friends and volunteers, right?
+
+23
+00:01:23,200 --> 00:01:25,666
+Jake:那个远道而来很不容易
+Jake: It wasn't easy to come from so far
+
+24
+00:01:25,666 --> 00:01:26,566
+Jake:这个地方很偏
+Jake: This place is quite remote
+
+25
+00:01:26,566 --> 00:01:31,666
+Jake:我们原来呃这个在整个北京的范围内
+Jake: Originally, we, uh, in the whole Beijing area
+
+26
+00:01:31,666 --> 00:01:32,266
+Jake:选了一个
+Jake: Chose a
+
+27
+00:01:32,266 --> 00:01:35,266
+Jake:最靠近北京市中心的一个别墅
+Jake: Villa that's closest to the center of Beijing
+
+28
+00:01:35,666 --> 00:01:36,700
+Jake:就在这个地方
+Jake: Right here
+
+29
+00:01:37,100 --> 00:01:40,433
+Jake:但是但是还是很欢迎大家可以过来吧
+Jake: But still, we really appreciate everyone coming over
+
+30
+00:01:40,433 --> 00:01:44,900
+Jake:啊我们呃可能大家也都有有所听说
+Jake: Ah, we, uh, maybe everyone has heard
+
+31
+00:01:41,933 --> 00:01:42,733
+Tasha: 啊
+Tasha: Ah
+
+32
+00:01:42,900 --> 00:01:43,700
+Alice:变形
+Alice: Transformation
+
+33
+00:01:44,900 --> 00:01:46,300
+Jake:就是我们这个项目了
+Jake: This is our project.
+
+34
+00:01:46,300 --> 00:01:48,300
+Jake:他就是一个叫Egle life的一个项目
+Jake: It's a project called Egle Life.
+
+35
+00:01:48,300 --> 00:01:50,300
+Jake:他嗯
+Jake: It, um...
+
+36
+00:01:51,433 --> 00:01:52,033
+Jake:你们也看到了
+Jake: As you can see,
+
+37
+00:01:52,033 --> 00:01:53,833
+Jake:我们每人戴一个奇怪的眼镜
+Jake: each of us is wearing strange glasses.
+
+38
+00:01:54,233 --> 00:01:56,833
+Jake:然后一圈都是摄像头对吧
+Jake: And there are cameras all around, right?
+
+39
+00:01:57,100 --> 00:01:58,300
+Jake:然后这是为什么呢
+Jake: So, why is that?
+
+40
+00:01:58,766 --> 00:02:02,100
+Jake:这是我们要采集一个第一视角的数据
+Jake: We need to collect first-person perspective data.
+
+41
+00:02:02,100 --> 00:02:03,600
+Jake:和一个第三视角的数据
+Jake: And third-person perspective data.
+
+42
+00:02:03,600 --> 00:02:04,566
+Jake:这边有8个摄像头
+Jake: There are 8 cameras here.
+
+43
+00:02:04,566 --> 00:02:05,400
+Jake:这边有7个摄像头
+Jake: 7 cameras here.
+
+44
+00:02:05,400 --> 00:02:06,066
+Jake:楼下有6
+Jake: 6 downstairs.
+
+45
+00:02:06,066 --> 00:02:07,033
+Jake:这楼下有8个
+Jake: And 8 downstairs.
+
+46
+00:02:07,033 --> 00:02:08,366
+Jake:然后每人有一个
+Jake: And each person has one.
+
+47
+00:02:08,366 --> 00:02:09,466
+Jake:你这个电就没了
+Jake: Your battery ran out.
+
+48
+00:02:09,466 --> 00:02:11,600
+Jake:如果大伙看到我们志愿者
+Jake: If you see any volunteer
+
+49
+00:02:11,600 --> 00:02:14,966
+Jake:有人这个眼睛上面的灯不亮了
+Jake: whose glasses light is off,
+
+50
+00:02:14,966 --> 00:02:16,600
+Jake:就要告诉他
+Jake: let them know.
+
+51
+00:02:16,600 --> 00:02:18,300
+其他人：我就是给大家做一个示范
+Other: I'm just giving everyone a demonstration.
+
+52
+00:02:18,966 --> 00:02:19,866
+其他人：这都是设
+Other: This is all set...
+
+53
+00:02:20,300 --> 00:02:21,566
+其他人：这都是设计好的
+Others: This is all planned.
+
+54
+00:02:20,400 --> 00:02:21,666
+Katrina: 哈哈
+Katrina: Haha
+
+55
+00:02:22,500 --> 00:02:23,300
+Jake:是
+Jake: Yes.
+
+56
+00:02:23,700 --> 00:02:26,633
+Jake:嗯我们收集这个第一视角视频呢
+Jake: Uh, we collect these first-person view videos
+
+57
+00:02:26,633 --> 00:02:28,033
+Jake:就是为了去做分析
+Jake: to do some analysis.
+
+58
+00:02:28,033 --> 00:02:29,766
+Jake:分析我们大概一周啊
+Jake: We analyze roughly for a week,
+
+59
+00:02:29,766 --> 00:02:30,300
+Jake:这些人啊
+Jake: what these people are doing.
+
+60
+00:02:30,300 --> 00:02:31,033
+Jake:都在干什么
+Jake: Then, for today,
+
+61
+00:02:31,033 --> 00:02:35,000
+Jake:然后为今天啊形成一个一天的日记啊
+Jake: we create a daily journal and plans for the next day.
+
+62
+00:02:35,100 --> 00:02:36,600
+Jake:然后第二天的一些plan呢
+Jake: Basically, these tasks.
+
+63
+00:02:36,600 --> 00:02:37,266
+Jake:大概这些任务
+Jake: But these aren't important.
+
+64
+00:02:37,266 --> 00:02:38,266
+Jake:当然这些都不重要
+Jake: What’s important is,
+
+65
+00:02:38,500 --> 00:02:39,600
+Jake:我们重要的是
+Jake: we welcome everyone to join our Earth Day
+
+66
+00:02:39,600 --> 00:02:42,033
+Jake:我们欢迎各位来参加我们今天earth day
+Jake: weekend event today.
+
+67
+00:02:42,033 --> 00:02:43,700
+Jake:weekend的这个活动啊
+Jake: Thank you, everyone.
+
+68
+00:02:43,700 --> 00:02:44,500
+Jake:谢谢大家
+Jake: Thanks, guys.
+
+69
+00:02:44,666 --> 00:02:45,466
+其他人：好
+Others: Good.
+
+70
+00:02:45,700 --> 00:02:46,500
+其他人：好
+Others: Good.
+
+71
+00:02:49,200 --> 00:02:50,000
+Jake:然后
+Jake: And then,
+
+72
+00:03:02,166 --> 00:03:02,600
+Jake:没有没有
+Jake: No, no,
+
+73
+00:03:02,600 --> 00:03:04,066
+Jake:我们先切出去
+Jake: let's switch out first.
+
+74
+00:03:06,200 --> 00:03:08,466
+Jake:我们先切出去我们要
+Jake: Let’s switch out first, we need to...
+
+75
+00:03:10,166 --> 00:03:11,300
+Jake:好这么难切
+Jake: Wow, this is hard to switch.
+
+76
+00:03:11,300 --> 00:03:12,633
+Jake:我要切到另一个屏
+Jake: I need to switch to another screen.
+
+77
+00:03:23,066 --> 00:03:24,600
+Jake:这个就是我在
+Jake: This is what I...
+
+78
+00:03:25,466 --> 00:03:26,600
+Jake:这个是我们
+Jake: This is our...
+
+79
+00:03:28,166 --> 00:03:30,866
+Jake:呃一个纪录小纪录片
+Jake: uh, a little documentary.
+
+80
+00:03:30,866 --> 00:03:33,633
+Jake:好吧一个未完篇的纪录片
+Jake: Well, an unfinished documentary.
+
+81
+00:03:31,133 --> 00:03:32,666
+Katrina: 我都不知道还有这玩意
+Katrina: I didn’t even know about this.
+
+82
+00:03:36,500 --> 00:03:38,700
+Jake:我们在我们这个项目呢
+Jake: In our project,
+
+83
+00:03:38,700 --> 00:03:40,033
+Jake:是4月13号
+Jake: on April 13th,
+
+84
+00:03:38,800 --> 00:03:40,000
+Katrina: 是我靠
+Katrina: Oh my god,
+
+85
+00:03:40,000 --> 00:03:42,300
+Katrina: 我真的
+Katrina: I really...
+
+86
+00:03:40,466 --> 00:03:42,233
+Jake:我们见到的第一位志愿者
+Jake: we met the first volunteer,
+
+87
+00:03:42,233 --> 00:03:43,266
+Jake:刘宇轩同学
+Jake: Liu Yuxuan.
+
+88
+00:03:44,100 --> 00:03:46,433
+Jake:在北京几站
+Jake: At Beijing West Station.
+
+89
+00:03:46,433 --> 00:03:47,966
+Jake:西站对
+Jake: Yes, the West Station.
+
+90
+00:03:48,200 --> 00:03:49,100
+Jake:北京西站
+Jake: At Beijing West Station.
+
+91
+00:03:48,200 --> 00:03:50,666
+Katrina: 我靠你知道当时我有多社死吗
+Katrina: Oh my god, you know how socially awkward I was?
+
+92
+00:03:53,266 --> 00:03:54,200
+Jake:他拿到了这个眼镜
+Jake: He got these glasses.
+
+93
+00:03:54,200 --> 00:03:56,600
+Jake:我们也用了我们的小包去欢迎他
+Jake: We also used our little package to welcome him.
+
+94
+00:03:56,600 --> 00:03:57,566
+Jake:抵达北京
+Jake: Arriving in Beijing.
+
+95
+00:03:57,200 --> 00:04:00,133
+Katrina: 哈哈哈哈哈哈哈
+Katrina: Hahahahahahaha
+
+96
+00:04:02,766 --> 00:04:04,633
+Jake:对刘宇轩第一天很开心的样子
+Jake: On Liu Yuxuan's first day, he looked really happy.
+
+97
+00:04:04,633 --> 00:04:06,500
+Jake:戴上眼镜之后就不太开心了
+Jake: But after putting on glasses, he didn't look so happy.
+
+98
+00:04:04,866 --> 00:04:10,300
+Katrina: 哈哈哈哈哈哈哈
+Katrina: Hahahahahahaha
+
+99
+00:04:06,500 --> 00:04:09,400
+Jake:看起来哈哈
+Jake: It seemed like he was forcing a smile.
+
+100
+00:04:10,000 --> 00:04:11,033
+Jake:强装开心
+Jake: Pretending to be happy.
+
+101
+00:04:16,266 --> 00:04:19,366
+Katrina: 哈哈哈
+Katrina: Hahaha
+
+102
+00:04:21,866 --> 00:04:24,633
+Jake:然后我们第二位嘉宾露西亚还在楼下
+Jake: And then our second guest, Lucia, is still downstairs.
+
+103
+00:04:27,033 --> 00:04:28,600
+Jake:是在北京首都机场
+Jake: At Beijing Capital Airport.
+
+104
+00:04:28,666 --> 00:04:30,266
+Jake:我们两位同学
+Jake: Our two students.
+
+105
+00:04:32,766 --> 00:04:35,833
+Jake:在绝味鸭脖前进行了会晤
+Jake: Met in front of Juewei Duck Neck.
+
+106
+00:04:38,600 --> 00:04:42,300
+Jake:那是进行了一些简单的眼睛教导
+Jake: They had some basic eye teaching.
+
+107
+00:04:42,900 --> 00:04:46,033
+Jake:比如说这个眼睛亮灯才能使用
+Jake: For example, the eyes need to light up to be used.
+
+108
+00:04:54,533 --> 00:04:56,300
+Katrina: 这歌是现场生成的吗
+Katrina: Was this song generated live?
+
+109
+00:04:55,266 --> 00:04:59,000
+Jake:大家可能意识到了这个背景音乐啊
+Jake: Everyone might have noticed this background music.
+
+110
+00:04:56,300 --> 00:04:57,666
+Katrina: 是刚刚生成的AI
+Katrina: It was just generated by AI.
+
+111
+00:04:57,666 --> 00:04:58,933
+其他人：恩AI做的
+Others: Yeah, made by AI.
+
+112
+00:04:58,600 --> 00:05:02,100
+Katrina: 我就说怎么有EGOLIFE EGOLIFE
+Katrina: I was wondering why it was saying EGOLIFE EGOLIFE.
+
+113
+00:04:59,000 --> 00:05:01,300
+Jake:可能也没有意识到这个背景音乐呢
+Jake: Maybe you didn't notice the background music.
+
+114
+00:05:01,633 --> 00:05:05,100
+Jake:它是solo AI生存的这个title它
+Jake: It was solo AI survival, the title is.
+
+115
+00:05:05,100 --> 00:05:06,866
+Jake:它的这个名字叫Eagle life
+Jake: It's called Eagle life.
+
+116
+00:05:07,000 --> 00:05:09,766
+Jake:是我们的project name啊
+Jake: It's our project name.
+
+117
+00:05:09,766 --> 00:05:11,100
+Jake:大家可以注意一下
+Jake: You can pay attention.
+
+118
+00:05:11,100 --> 00:05:13,300
+Jake:这个一些歌词是用到了
+Jake: Some of the lyrics are.
+
+119
+00:05:13,300 --> 00:05:14,600
+Jake:我们就是都
+Jake: They are all.
+
+120
+00:05:14,600 --> 00:05:16,466
+Jake:都是我们内部的一些梗
+Jake: All our internal jokes.
+
+121
+00:05:17,200 --> 00:05:18,400
+Jake:有些人可能知道
+Jake: Some people might know.
+
+122
+00:05:18,400 --> 00:05:18,866
+Jake:对这个人
+Jake: About this person.
+
+123
+00:05:18,866 --> 00:05:19,666
+Jake:秀儿哎
+Jake: Xiuer, hey.
+
+124
+00:05:19,700 --> 00:05:20,466
+Jake:秀儿已经过去了
+Jake: Xiuer has already passed.
+
+125
+00:05:20,466 --> 00:05:23,466
+Jake:因为这个秀儿这个镜头没有被捡到
+Jake: Because Xiuer's footage wasn't picked.
+
+126
+00:05:23,466 --> 00:05:25,866
+Jake:原因是没时间
+Jake: The reason was no time.
+
+127
+00:05:25,866 --> 00:05:30,900
+Jake:哈哈哈哈哈
+Jake: Hahahaha
+
+128
+00:05:37,400 --> 00:05:38,666
+Katrina: 哎呀
+Katrina: Oh dear.
+
+129
+00:05:45,100 --> 00:05:47,533
+Katrina: 哈哈
+Katrina: Haha
+
+130
+00:05:52,400 --> 00:05:59,000
+Katrina: 哈哈哈哈哈哈哈哈
+Katrina: Hahahahahahahaha
+
+131
+00:05:54,466 --> 00:05:57,366
+Jake:好欢迎大家来到我们的EQ二c
+Jake: Alright, welcome everyone to our EQ2c.
+
+132
+00:05:58,833 --> 00:05:59,633
+Jake:好
+Jake: Alright.
+
+133
+00:06:01,233 --> 00:06:06,900
+Jake:是啊我们刚刚呃应该是
+Jake: Yeah, we just, uh, should have...
+
+134
+00:06:09,400 --> 00:06:11,033
+Jake:上课间我也没有时间剪
+Jake: During class break, I didn't have time to edit.
+
+135
+00:06:11,033 --> 00:06:12,900
+Jake:所以不好意思他还没来
+Jake: So sorry, he's not here yet.
+
+136
+00:06:12,900 --> 00:06:13,833
+Jake:他还在楼下
+Jake: He's still downstairs.
+
+137
+00:06:14,000 --> 00:06:15,200
+Jake:对但是没关系
+Jake: Yeah, but it's okay.
+
+138
+00:06:15,500 --> 00:06:16,066
+Jake:回头再剪
+Jake: We'll edit it later.
+
+139
+00:06:16,066 --> 00:06:16,866
+Jake:好
+Jake: Alright.
+
+140
+00:06:17,466 --> 00:06:18,566
+Jake:我们来进入正题
+Jake: Let's get to the main topic.
+
+141
+00:06:20,800 --> 00:06:25,266
+Jake:今天呢我们原计划哈哈哈
+Jake: Today, we originally planned, hahaha...
+
+142
+00:06:25,366 --> 00:06:27,566
+Jake:如果一切都很顺利的话
+Jake: If everything went smoothly,
+
+143
+00:06:27,766 --> 00:06:29,033
+Jake:是这么个时间线
+Jake: This would be the timeline.
+
+144
+00:06:29,133 --> 00:06:30,400
+Katrina: 哈哈
+Katrina: Hahaha.
+
+145
+00:06:29,500 --> 00:06:31,866
+Jake:但是自然而然的很不顺利
+Jake: But naturally, things didn't go smoothly.
+
+146
+00:06:32,800 --> 00:06:35,366
+Jake:就是但是我们就往后顺延对吧
+Jake: So we'll just push it back, right?
+
+147
+00:06:36,466 --> 00:06:37,800
+Jake:现改现在是几点
+Jake: Now, what's the time?
+
+148
+00:06:37,800 --> 00:06:38,766
+Jake:我们来现改
+Jake: Let's change it now.
+
+149
+00:06:38,766 --> 00:06:42,100
+Jake:哈哈哈四点零七
+Jake: Hahaha, it's 4:07.
+
+150
+00:06:42,400 --> 00:06:43,033
+Jake:四月名7
+Jake: April 7th
+
+151
+00:06:42,800 --> 00:06:43,966
+Katrina: 全员P人
+Katrina: All members P people.
+
+152
+00:06:43,033 --> 00:06:43,966
+Jake:好四点零七
+Jake: Okay, 4:07.
+
+153
+00:06:43,200 --> 00:06:45,533
+Alice:啊我也没看过
+Alice: Ah, I haven't seen it either.
+
+154
+00:06:43,966 --> 00:06:46,666
+Jake:我们进行到了introduction的一半的部分
+Jake: We're halfway through the introduction part.
+
+155
+00:06:43,966 --> 00:06:47,200
+Katrina: 你懂吗我真受不了哈哈
+Katrina: You know, I really can't stand it, haha.
+
+156
+00:06:46,666 --> 00:06:50,600
+Jake:好吧哈哈哈现改这就是
+Jake: Alright, hahaha, change it now, this is...
+
+157
+00:06:52,766 --> 00:06:53,600
+Shure: 其他不重要
+Shure: The rest doesn't matter.
+
+158
+00:06:53,600 --> 00:06:54,566
+Shure: start time对的
+Shure: The start time is correct.
+
+159
+00:06:54,566 --> 00:06:55,466
+Shure: 咱们就OK了
+Shure: Then we're good.
+
+160
+00:06:55,466 --> 00:06:58,866
+Shure: 你看看我们精准的控制到4.07
+Shure: Look, we precisely controlled it to 4:07.
+
+161
+00:06:55,633 --> 00:06:58,666
+Jake:好哈哈哈
+Jake: Okay, hahaha.
+
+162
+00:06:58,866 --> 00:07:00,866
+Shure: 来进行我们这个introduction部分
+Shure: Let's proceed with our introduction part.
+
+163
+00:07:00,800 --> 00:07:02,100
+Jake:好再过
+Jake: Alright, let's...
+
+164
+00:07:02,533 --> 00:07:05,333
+其他人：反方向过反方向的中国
+Others: Moving in the opposite direction of China.
+
+165
+00:07:02,800 --> 00:07:05,266
+Jake:哈哈哈
+Jake: Hahaha.
+
+166
+00:07:05,333 --> 00:07:07,400
+Katrina: 哈哈哈哈
+Katrina: Hahahaha.
+
+167
+00:07:07,600 --> 00:07:09,466
+Jake:再过20多小时之后
+Jake: In over 20 hours,
+
+168
+00:07:09,633 --> 00:07:11,766
+Jake:我们就结束了今天的运打史
+Jake: We will finish today's schedule.
+
+169
+00:07:12,200 --> 00:07:14,133
+其他人：再过3个小时啊
+Others: In 3 more hours.
+
+170
+00:07:14,066 --> 00:07:16,700
+Jake:啊然后下面我们会进行一些啊
+Jake: Ah, then we'll proceed with some...
+
+171
+00:07:16,700 --> 00:07:18,233
+Jake:因为我们这七天前
+Jake: Because in the past seven days,
+
+172
+00:07:18,233 --> 00:07:20,100
+Jake:前六天我们让每个志愿者
+Jake: For the first six days, we let each volunteer...
+
+173
+00:07:20,100 --> 00:07:22,366
+Jake:都装饰了自己的房间
+Jake: Everyone decorated their own rooms.
+
+174
+00:07:22,366 --> 00:07:28,833
+Jake:装饰成了一个主题来和和这个EGO EARTH
+Jake: They decorated them with a theme to match with EGO EARTH.
+
+175
+00:07:26,366 --> 00:07:27,500
+Katrina: 我还没弄完
+Katrina: I haven't finished yet.
+
+176
+00:07:27,566 --> 00:07:29,533
+Katrina: 我我买了个那个蝴蝶风铃
+Katrina: I bought a butterfly wind chime.
+
+177
+00:07:28,833 --> 00:07:30,766
+Jake:和这EARTH stay做一个呼应
+Jake: To match with the EARTH stay.
+
+178
+00:07:29,866 --> 00:07:31,566
+Katrina: 但是他要用热熔敲
+Katrina: But it needs to be hot-glued.
+
+179
+00:07:31,000 --> 00:07:32,433
+Jake:然后我们就很期待
+Jake: We're really looking forward to it.
+
+180
+00:07:31,600 --> 00:07:32,866
+Katrina: 就一个个教
+Katrina: Just need to teach me step by step.
+
+181
+00:07:32,466 --> 00:07:34,800
+Jake:各位志愿者的小屋装
+Jake: All the volunteers' rooms are decorated.
+
+182
+00:07:34,100 --> 00:07:35,500
+Katrina: 哇我的海边
+Katrina: Wow, my beach theme.
+
+183
+00:07:35,000 --> 00:07:36,233
+Jake:装饰成了什么样子
+Jake: How they decorated them.
+
+184
+00:07:35,533 --> 00:07:37,200
+Katrina: 我的海报掉了
+Katrina: My poster fell down.
+
+185
+00:07:36,400 --> 00:07:38,600
+Jake:对然后一会我们就会进行一个参观
+Jake: Yes, and later we'll have a tour.
+
+186
+00:07:39,300 --> 00:07:40,666
+Jake:然后参观之后呢
+Jake: And after the tour,
+
+187
+00:07:39,800 --> 00:07:42,200
+Katrina: 我本来墙上贴了一个小狗的海报
+Katrina: I had a dog poster on the wall.
+
+188
+00:07:42,800 --> 00:07:46,233
+Jake:我们会有一个QA的环节
+Jake: We'll have a Q&A session.
+
+189
+00:07:46,433 --> 00:07:48,633
+Jake:呃如果早来的观众呢
+Jake: If you arrived early,
+
+190
+00:07:48,633 --> 00:07:50,433
+Jake:你们可能会经历一个
+Jake: You might experience a
+
+191
+00:07:50,433 --> 00:07:53,233
+Jake:找找这个EOB的一个环节
+Jake: Find the EOB activity.
+
+192
+00:07:53,233 --> 00:07:55,233
+Jake:就是可能在一楼啊二楼啊
+Jake: Like on the first or second floor,
+
+193
+00:07:55,233 --> 00:07:57,666
+Jake:会有一些藏着小贴画啊
+Jake: There will be some hidden stickers.
+
+194
+00:07:57,666 --> 00:08:01,633
+Jake:如果找到的话我们下面会有一个action
+Jake: If you find them, we'll have an action.
+
+195
+00:08:01,633 --> 00:08:03,200
+Jake:action就是拍卖
+Jake: The action is an auction.
+
+196
+00:08:03,200 --> 00:08:08,466
+Jake:我们会有一些小商品和这个
+Jake: We'll have some small items and...
+
+197
+00:08:03,333 --> 00:08:05,700
+Katrina: 你带的什么
+Katrina: What did you bring?
+
+198
+00:08:05,933 --> 00:08:07,800
+Katrina: 钥匙扣吗
+Katrina: Keychains?
+
+199
+00:08:08,833 --> 00:08:15,233
+Jake:可能各位客人也会带来一些呃小物件
+Jake: Maybe some guests will bring small items too.
+
+200
+00:08:15,233 --> 00:08:16,566
+Jake:然后我们进行一个拍卖
+Jake: Then we'll have an auction.
+
+201
+00:08:16,566 --> 00:08:20,200
+Jake:就用我们发售的这个EGO calling已经
+Jake: Using the EGO calling we issued,
+
+202
+00:08:20,200 --> 00:08:21,000
+Jake:上链了
+Jake: It's already on the chain.
+
+203
+00:08:21,100 --> 00:08:25,466
+Jake:对这个十年大家保存好这个呃EGO calling
+Jake: Keep the EGO calling for ten years.
+
+204
+00:08:25,466 --> 00:08:28,100
+Jake:可能过十年之后大家就财富自由
+Jake: Maybe in ten years, you'll be financially free.
+
+205
+00:08:28,600 --> 00:08:31,300
+Katrina: 哈哈哈
+Katrina: Hahaha.
+
+206
+00:08:30,766 --> 00:08:31,566
+Jake:OK
+Jake: OK.
+
+207
+00:08:32,366 --> 00:08:34,833
+Jake:呃按照原计划5点半
+Jake: According to the original plan, 5:30.
+
+208
+00:08:34,833 --> 00:08:36,600
+Jake:但是现在不知道是什么时候
+Jake: But now, who knows what time it is.
+
+209
+00:08:36,600 --> 00:08:38,033
+Jake:这个不重要哈哈哈
+Jake: It's not important, hahaha.
+
+210
+00:08:38,033 --> 00:08:40,000
+Jake:就是我们就会进行啊
+Jake: Then we'll start,
+
+211
+00:08:40,000 --> 00:08:42,700
+Jake:到了party time就是吃吃喝喝玩玩乐乐
+Jake: When it's party time, we'll eat, drink, and have fun.
+
+212
+00:08:42,700 --> 00:08:43,500
+Jake:好吧
+Jake: Alright.
+
+213
+00:08:43,500 --> 00:08:45,500
+Jake:呃会有一些音乐活动大家也知道
+Jake: Uh, there will be some music events, as everyone knows.
+
+214
+00:08:44,966 --> 00:08:45,600
+Shure: 大家也知道
+Shure: Everyone knows.
+
+215
+00:08:45,500 --> 00:08:48,600
+Jake:我们大家也看到这个阵仗特别的强势
+Jake: We've all seen that this setup is particularly strong.
+
+216
+00:08:49,300 --> 00:08:54,033
+Jake:嗯那我们来进行这个就不管他了
+Jake: Well, let's proceed with this and just ignore it.
+
+217
+00:08:55,766 --> 00:08:58,166
+Jake:这个一个Coin就是我们
+Jake: This Coin is basically...
+
+218
+00:08:58,366 --> 00:08:59,900
+Jake:就是大家记好这个
+Jake: Just remember this...
+
+219
+00:09:00,266 --> 00:09:02,600
+Jake:这个标就是如有雷同
+Jake: If it looks similar, it's fake, don't buy it.
+
+220
+00:09:02,600 --> 00:09:04,600
+Jake:就是假的就不要买
+Jake: It's fake, don't buy it.
+
+221
+00:09:04,833 --> 00:09:11,066
+Jake:嗯好这个我们可能先我们先进行
+Jake: Well, let's proceed...
+
+222
+00:09:12,833 --> 00:09:14,966
+Jake:TRUO活动吗还是
+Jake: With the TRUO event, or...
+
+223
+00:09:14,333 --> 00:09:15,866
+Katrina: 还是等一下
+Katrina: Or wait a moment.
+
+224
+00:09:16,066 --> 00:09:16,866
+Katrina: 你们先进去
+Katrina: You guys go ahead.
+
+225
+00:09:16,866 --> 00:09:18,500
+Katrina: 这个我要进去搜一下
+Katrina: I need to go in and check something.
+
+226
+00:09:18,233 --> 00:09:19,266
+Jake:你要先进行啊
+Jake: You need to proceed first?
+
+227
+00:09:19,266 --> 00:09:21,766
+Jake:你要先说一下那我们先进行QA的活动
+Jake: You need to say something first, then we'll proceed with the QA event.
+
+228
+00:09:21,766 --> 00:09:25,400
+Jake:好一切都在我们军人的掌控之中
+Jake: Alright, everything is under our control.
+
+229
+00:09:22,933 --> 00:09:27,933
+Katrina: 好哈哈哈哈哈哈哈
+Katrina: Okay, hahaha.
+
+230
+00:09:27,100 --> 00:09:28,600
+Jake:一切都在计划之中
+Jake: Everything is going according to plan.
+
+231
+00:09:29,233 --> 00:09:31,466
+Shure: 就我们我们这个项目只有一位
+Shure: So, we only have one person for this project.
+
+232
+00:09:31,600 --> 00:09:33,366
+Shure: 只有一位是这人
+Shure: Only one person.
+
+233
+00:10:14,166 --> 00:10:16,200
+Katrina: 哈哈哈哈哈
+Katrina: Hahaha.
+
+234
+00:24:58,300 --> 00:25:00,033
+Jake:哦欢迎你
+Jake: Oh, welcome.
+
+235
+00:25:00,566 --> 00:25:02,366
+Jake:好啊早上好
+Jake: Alright, good morning.
+
+236
+00:25:04,100 --> 00:25:04,900
+Katrina: 早上好
+Katrina: Good morning.
+
+237
+00:25:04,666 --> 00:25:05,466
+Jake:早上好
+Jake: Good morning.
+
+238
+00:25:06,133 --> 00:25:07,000
+Katrina: 起床了
+Katrina: Time to get up.
+
+239
+00:25:10,133 --> 00:25:10,933
+Katrina: 什么
+Katrina: What?
+
+240
+00:25:12,066 --> 00:25:14,400
+Katrina: 比哦厉害厉害
+Katrina: Wow, impressive.
+
+241
+00:25:13,666 --> 00:25:16,766
+Shure: 好那没有其他的选项了
+Shure: Alright, there are no other options.
+
+242
+00:25:15,100 --> 00:25:16,100
+Katrina: 没有其他的
+Katrina: No other options.
+
+243
+00:25:17,166 --> 00:25:20,233
+Shure: 公布答案杨老板 90%
+Shure: Announce the answer, Jake. 90%.
+
+244
+00:25:18,100 --> 00:25:21,766
+Jake:90
+Jake: 90.
+
+245
+00:25:20,233 --> 00:25:22,133
+Shure: 我们其实世界呃
+Shure: Actually, our world...
+
+246
+00:25:22,133 --> 00:25:24,200
+Shure: 就是地球上最大的淡水资源
+Shure: The largest freshwater resource on Earth...
+
+247
+00:25:24,200 --> 00:25:26,766
+Shure: 都是南极冰盖锁定的
+Shure: Is locked in the Antarctic ice sheet.
+
+248
+00:25:26,766 --> 00:25:28,833
+Shure: 对所以是90%
+Shure: So, it's 90%.
+
+249
+00:25:29,166 --> 00:25:32,366
+Shure: 然后这题也三个例子吧
+Shure: And, this question also has three examples.
+
+250
+00:25:33,666 --> 00:25:36,766
+Alice:提问冰盖跟奶盖什么关系
+Alice: Question, what's the relationship between ice sheets and milk foam?
+
+251
+00:25:37,866 --> 00:25:39,800
+WHTEDDM1:好问题好问题
+WHTEDDM1: Good question, good question.
+
+252
+00:25:38,233 --> 00:25:39,300
+Jake:题好问题
+Jake: Good question, good question.
+
+253
+00:25:40,066 --> 00:25:44,400
+Shure: 就是在我说说你听听
+Shure: Let me just talk, and you listen.
+
+254
+00:25:44,400 --> 00:25:48,233
+Shure: 在想当初大约3,500万年前
+Shure: Thinking back about 35 million years ago...
+
+255
+00:25:46,033 --> 00:25:48,100
+Lucia: 有50%的字是一样的
+Lucia: 50% of the words are the same.
+
+256
+00:25:49,366 --> 00:25:51,333
+Shure: 继女娲补天的时候
+Shure: During the time when Nuwa mended the sky...
+
+257
+00:25:51,333 --> 00:25:52,933
+Shure: 创造了一个双胞胎
+Shure: She created a pair of twins.
+
+258
+00:25:52,933 --> 00:25:53,866
+Shure: 一个叫冰盖
+Shure: One was called Ice Cap,
+
+259
+00:25:53,866 --> 00:25:55,033
+Shure: 一个叫奶盖
+Shure: and the other was called Milk Cap.
+
+260
+00:25:55,266 --> 00:25:56,066
+Katrina: 什么东西
+Katrina: What are you talking about?
+
+261
+00:25:55,433 --> 00:25:57,966
+Shure: 对大概就是这么回事您说
+Shure: Yeah, that's basically the story. Your turn.
+
+262
+00:25:56,233 --> 00:25:57,066
+Lucia: 本来想坐那
+Lucia: I wanted to sit there...
+
+263
+00:25:57,066 --> 00:25:59,533
+Lucia: 但是感觉坐那好像会挡住后面的嘉宾
+Lucia: But it feels like sitting there would block the guests behind.
+
+264
+00:25:57,133 --> 00:25:59,000
+其他人：我印象里
+Others: In my impression...
+
+265
+00:25:57,300 --> 00:25:58,100
+Jake:哎
+Jake: Hey...
+
+266
+00:25:59,000 --> 00:26:00,800
+其他人：他的淡水是72%
+Others: Its freshwater is 72%.
+
+267
+00:25:59,533 --> 00:26:00,733
+Lucia: 要不然还是坐这吧
+Lucia: Maybe it's better to sit here.
+
+268
+00:26:00,800 --> 00:26:02,900
+其他人：但是他的冰盖是90%
+Others: But its ice cap is 90%.
+
+269
+00:26:02,900 --> 00:26:04,466
+其他人：但你这个题的问题是
+Others: But your question is...
+
+270
+00:26:04,466 --> 00:26:05,566
+其他人：他就储存多少淡水
+Others: How much freshwater does it store?
+
+271
+00:26:05,566 --> 00:26:06,900
+其他人：不是冰盖有多少水
+Others: Not how much water is in the ice cap.
+
+272
+00:26:06,966 --> 00:26:08,366
+其他人：我觉得你可以看一下
+Others: I think you should check it out.
+
+273
+00:26:10,366 --> 00:26:10,600
+Shure: 不是
+Shure: No...
+
+274
+00:26:10,600 --> 00:26:15,600
+Shure: 他是就是占占了全球淡水的多少
+Shure: It's about how much of the global freshwater it accounts for.
+
+275
+00:26:15,133 --> 00:26:17,800
+其他人：但是你这个说是淡水90%应该就是水
+Others: But you said 90% freshwater, it should be just water.
+
+276
+00:26:17,866 --> 00:26:18,700
+其他人：不是淡水
+Others: Not freshwater.
+
+277
+00:26:19,166 --> 00:26:20,533
+其他人：我觉得你可以看一下
+Others: I think you should check it out.
+
+278
+00:26:20,533 --> 00:26:21,600
+其他人：有没有人在搜一下
+Others: Is anyone searching for it?
+
+279
+00:26:22,100 --> 00:26:23,200
+其他人：你看是不是
+Others: Let's see, right?
+
+280
+00:26:24,333 --> 00:26:25,133
+Shure: 哎呦
+Shure: Oh no...
+
+281
+00:26:26,600 --> 00:26:28,466
+Shure: 有人提出了challenge
+Shure: Someone challenged it.
+
+282
+00:26:28,533 --> 00:26:30,966
+Shure: 然后呢南极波盖
+Shure: And then, the Antarctic ice cap...
+
+283
+00:26:30,100 --> 00:26:31,700
+Jake:直播直播搜索
+Jake: Live search, live search.
+
+284
+00:26:30,966 --> 00:26:34,066
+其他人：波盖的面积超过这个14
+Others: The area of the ice cap exceeds 14...
+
+285
+00:26:34,066 --> 00:26:35,866
+其他人：后面6个0平方公里
+Others: followed by six zeros square kilometers.
+
+286
+00:26:35,866 --> 00:26:37,566
+其他人：厚度达到4公里以上
+Others: The thickness is over 4 kilometers.
+
+287
+00:26:37,566 --> 00:26:38,666
+其他人：所含的冰量
+Others: The amount of ice contained...
+
+288
+00:26:39,033 --> 00:26:43,233
+其他人：相当于地球上所吸干水质量的约70%
+Others: is about 70% of the Earth's freshwater mass.
+
+289
+00:26:44,266 --> 00:26:46,633
+Shure: 啊
+Shure: Ah...
+
+290
+00:26:46,100 --> 00:26:47,133
+Lucia: 70是吗
+Lucia: 70%, right?
+
+291
+00:26:47,566 --> 00:26:48,833
+Jake:啊
+Jake: Ah...
+
+292
+00:26:47,800 --> 00:26:49,166
+Lucia: 我要退回去了
+Lucia: I'm going back.
+
+293
+00:26:50,700 --> 00:26:51,900
+其他人：为什么出现了幻觉
+Others: Why are we seeing hallucinations?
+
+294
+00:26:52,333 --> 00:26:54,566
+Alice:是水有70%
+Alice: It's because 70% of the Earth is water.
+
+295
+00:26:54,566 --> 00:26:55,933
+Alice:陆地有30%
+Alice: Land makes up 30%.
+
+296
+00:26:55,933 --> 00:26:59,933
+Alice:然后这个水的70%的水里面有90%的水
+Alice: And 70% of that water is in the oceans.
+
+297
+00:26:57,966 --> 00:26:59,966
+Katrina: 天呐竟然头脑风暴开始
+Katrina: Oh my god, brainstorming has started.
+
+298
+00:26:59,933 --> 00:27:02,233
+Alice:是才是啊对
+Alice: Yes, exactly.
+
+299
+00:27:00,733 --> 00:27:03,366
+Katrina: 好不符合我们这几片基调啊
+Katrina: This doesn't fit our theme at all.
+
+300
+00:27:03,166 --> 00:27:05,266
+其他人：如果你把那个淡字去掉的话就是90%
+Others: If you remove the word "fresh", it's 90%.
+
+301
+00:27:04,700 --> 00:27:05,600
+Lucia: 大家好认真
+Lucia: Everyone is so serious.
+
+302
+00:27:04,766 --> 00:27:08,666
+Katrina: 哈哈哈哈哈哈哈
+Katrina: Hahahahahahaha
+
+303
+00:27:05,600 --> 00:27:10,066
+Lucia: 哈哈哈没想到哈哈哈
+Lucia: Haha, I didn't expect that, hahaha.
+
+304
+00:27:06,000 --> 00:27:06,833
+Shure: 哦
+Shure: Oh.
+
+305
+00:27:08,566 --> 00:27:09,766
+Shure: 是的那
+Shure: Yes, that's it.
+
+306
+00:27:09,133 --> 00:27:11,000
+Alice:对因为有的水不是淡水
+Alice: Right, because not all water is fresh water.
+
+307
+00:27:11,966 --> 00:27:13,266
+Alice:转移一下资产
+Alice: Move some assets.
+
+308
+00:27:13,066 --> 00:27:14,000
+Jake:转移资产
+Jake: Move assets.
+
+309
+00:27:13,566 --> 00:27:14,366
+Katrina: 哈
+Katrina: Ha.
+
+310
+00:27:14,566 --> 00:27:15,833
+其他人：但我不确定哪 三个是原来的
+Others: But I'm not sure which three are the original ones.
+
+311
+00:27:18,166 --> 00:27:18,966
+Shure: 啊
+Shure: Ah.
+
+312
+00:27:22,266 --> 00:27:26,733
+Shure: 然后那我们再奖励一枚币子给
+Shure: Then let's give another coin to...
+
+313
+00:27:28,800 --> 00:27:30,833
+Shure: 查出正确答案的同学
+Shure: ...the student who finds the correct answer.
+
+314
+00:27:33,000 --> 00:27:33,866
+Shure: 非常好
+Shure: Very good.
+
+315
+00:27:34,533 --> 00:27:35,633
+Shure: 那么下一题
+Shure: Now, the next question.
+
+316
+00:27:37,333 --> 00:27:38,600
+Shure: 地球的南极
+Shure: The Earth's South Pole.
+
+317
+00:27:42,333 --> 00:27:44,866
+Shure: 他让我梅开二度的难堪
+Shure: It makes my comeback awkward.
+
+318
+00:27:47,100 --> 00:27:48,366
+其他人：哈哈哈
+Others: Hahaha.
+
+319
+00:27:49,666 --> 00:27:51,433
+Shure: 从太阳到地球
+Shure: From the Sun to the Earth,
+
+320
+00:27:51,433 --> 00:27:53,600
+Shure: 阳光需要多长时间到达
+Shure: how long does it take for sunlight to reach us?
+
+321
+00:27:53,833 --> 00:27:54,233
+Shure: 这个
+Shure: This...
+
+322
+00:27:54,233 --> 00:27:57,600
+Shure: 其实是我们好像高中那种经常算的
+Shure: is something we used to calculate a lot in high school.
+
+323
+00:27:57,600 --> 00:28:00,066
+Shure: 哎呦已经有两位同学举手了
+Shure: Oh, two students have raised their hands already.
+
+324
+00:28:01,300 --> 00:28:02,100
+其他人：A呀
+Others: It's A.
+
+325
+00:28:02,800 --> 00:28:03,833
+Shure: 8分19秒
+Shure: 8 minutes 19 seconds.
+
+326
+00:28:05,033 --> 00:28:07,200
+Shure: 哎我其实你们两个同时举手
+Shure: Actually, you both raised your hands at the same time.
+
+327
+00:28:07,233 --> 00:28:09,133
+Shure: 那你们还有其他答案吗
+Shure: Do you have any other answers?
+
+328
+00:28:10,266 --> 00:28:11,533
+其他人：我选D
+Others: I'll choose D.
+
+329
+00:28:11,000 --> 00:28:13,600
+其他人：哈哈哈哈哈哈哈哈哈
+Others: Hahahahahahaha.
+
+330
+00:28:11,400 --> 00:28:14,033
+Shure: 0前
+Shure: 0 before.
+
+331
+00:28:14,200 --> 00:28:17,533
+Shure: 哈哈哈
+Shure: Hahaha.
+
+332
+00:28:16,366 --> 00:28:17,166
+Jake:哈
+Jake: Ha.
+
+333
+00:28:16,766 --> 00:28:17,566
+Katrina: 哈
+Katrina: Ha
+
+334
+00:28:18,333 --> 00:28:20,633
+Shure: 你知道这个地意味着什么意思吗
+Shure: Do you know what this place means?
+
+335
+00:28:21,633 --> 00:28:23,866
+Shure: 就是我们的表转了20圈
+Shure: It means our clock has turned 20 times.
+
+336
+00:28:23,866 --> 00:28:25,666
+Shure: 才有一天会看到太阳
+Shure: Only then will we see the sun.
+
+337
+00:28:26,433 --> 00:28:28,600
+Alice:确保一定有一个正确答案
+Alice: Make sure there's a correct answer.
+
+338
+00:28:26,533 --> 00:28:28,533
+Shure: 确保一定有一个正确答案
+Shure: Make sure there's a correct answer.
+
+339
+00:28:28,733 --> 00:28:30,233
+Alice:为我们的顺利进行
+Alice: For our smooth progress.
+
+340
+00:28:31,600 --> 00:28:32,533
+Shure: 啊啊啊
+Shure: Ah ah ah
+
+341
+00:28:33,333 --> 00:28:35,166
+Shure: 这这位同学纠正了我的
+Shure: This classmate corrected my...
+
+342
+00:28:35,166 --> 00:28:35,733
+Shure: 我的错误
+Shure: My mistake.
+
+343
+00:28:35,733 --> 00:28:37,000
+Shure: 是表转了40圈
+Shure: It's 40 turns.
+
+344
+00:28:37,000 --> 00:28:37,833
+Shure: 是20圈啊
+Shure: It's 20 turns.
+
+345
+00:28:37,833 --> 00:28:39,566
+Shure: 对对对我疏忽了
+Shure: Yes, yes, I overlooked it.
+
+346
+00:28:40,200 --> 00:28:42,566
+Shure: 哎正确答案就谁
+Shure: Hey, the correct answer is who?
+
+347
+00:28:42,833 --> 00:28:44,233
+Shure: 是吧对
+Shure: Right?
+
+348
+00:28:44,233 --> 00:28:45,733
+Shure: 是8分19秒
+Shure: It's 8 minutes and 19 seconds.
+
+349
+00:28:45,866 --> 00:28:48,000
+Shure: 大家还记得那个怎么算的吗
+Shure: Do you all remember how to calculate it?
+
+350
+00:28:49,733 --> 00:28:50,700
+Katrina: 你现在推一遍
+Katrina: You explain it now.
+
+351
+00:28:51,166 --> 00:28:53,700
+Katrina: 哈哈哈哈哈哈
+Katrina: Hahahahaha
+
+352
+00:28:51,266 --> 00:28:53,266
+Shure: 哈哈哈
+Shure: Hahaha
+
+353
+00:28:51,800 --> 00:28:53,233
+Alice:哈
+Alice: Ha
+
+354
+00:28:56,233 --> 00:28:58,933
+Shure: 是是就其实就是这么简单对
+Shure: Yes, yes, it's actually this simple.
+
+355
+00:28:57,433 --> 00:29:00,533
+Alice:哈哈哈
+Alice: Hahaha
+
+356
+00:28:59,400 --> 00:29:01,266
+Lucia: 哈哈哈哈
+Lucia: Hahahaha
+
+357
+00:28:59,666 --> 00:29:02,133
+其他人：哈哈是这样的
+Others: Haha, that's right.
+
+358
+00:29:02,133 --> 00:29:04,166
+其他人：所以如果真的是二等天的话
+Others: So if it really is a second-rate sky,
+
+359
+00:29:04,766 --> 00:29:07,500
+其他人：那那南极应该肯定不会占地球的
+Others: then Antarctica definitely wouldn't occupy
+
+360
+00:29:07,500 --> 00:29:12,133
+其他人：占70 %
+Others: 70% of the Earth.
+
+361
+00:29:09,100 --> 00:29:10,233
+Tasha: 起码太阳没了
+Tasha: At least the sun is gone.
+
+362
+00:29:09,633 --> 00:29:10,433
+Shure: 是的
+Shure: Yes.
+
+363
+00:29:10,233 --> 00:29:13,533
+Tasha: 地球还能看到太阳持续发光
+Tasha: The Earth can still see the sun shining.
+
+364
+00:29:11,033 --> 00:29:11,833
+Shure: 来
+Shure: Come on.
+
+365
+00:29:11,466 --> 00:29:12,266
+Jake:哈哈
+Jake: Haha
+
+366
+00:29:11,900 --> 00:29:13,533
+Lucia: 但问题太阳是持续发光
+Lucia: But the problem is the sun keeps shining.
+
+367
+00:29:11,966 --> 00:29:14,400
+Alice:哈哈哈哈哈
+Alice: Hahahahaha
+
+368
+00:29:13,533 --> 00:29:15,633
+Tasha: 他们是串一下然后又熄灭
+Tasha: It's not like it blinks and goes out.
+
+369
+00:29:13,533 --> 00:29:16,300
+Lucia: 他又不是串一下然后又熄灭哈哈
+Lucia: It doesn't blink and go out, haha.
+
+370
+00:29:16,000 --> 00:29:16,766
+Shure: 你们你们2位
+Shure: You two,
+
+371
+00:29:16,766 --> 00:29:17,600
+Shure: 每人两个
+Shure: each have two.
+
+372
+00:29:16,866 --> 00:29:18,733
+其他人：所以会另一方面感谢
+Others: So on the other hand, thank you.
+
+373
+00:29:18,733 --> 00:29:20,000
+其他人：是如果这个样子的话
+Others: If that's the case
+
+374
+00:29:20,000 --> 00:29:22,600
+其他人：太阳坏掉了的话你还能再看
+Others: If the sun breaks, you can still watch
+
+375
+00:29:22,500 --> 00:29:25,666
+Lucia: 再活20天哈哈
+Lucia: Live another 20 days, haha
+
+376
+00:29:23,933 --> 00:29:26,233
+其他人：可能现在看到是8分钟之前的眼光
+Others: Maybe what you're seeing now is from 8 minutes ago
+
+377
+00:29:26,200 --> 00:29:27,000
+Shure: 很乐观
+Shure: Very optimistic
+
+378
+00:29:26,633 --> 00:29:28,266
+其他人：也就是我先看了8分钟之前
+Others: So I saw it 8 minutes earlier
+
+379
+00:29:28,266 --> 00:29:28,933
+Lucia: 太阳冷却了
+Lucia: The sun cooled down
+
+380
+00:29:28,933 --> 00:29:30,333
+Lucia: 我们还能再活20天
+Lucia: We can still live for 20 more days
+
+381
+00:29:29,700 --> 00:29:33,100
+Katrina: 哈别把谢冰茹搞蒙了
+Katrina: Haha, don't confuse Xie Bingru
+
+382
+00:29:32,266 --> 00:29:33,066
+Shure: 好
+Shure: Alright
+
+383
+00:29:33,100 --> 00:29:37,566
+Katrina: 哈哈哈哈哈哈
+Katrina: Hahahahahaha
+
+384
+00:29:33,433 --> 00:29:41,966
+Alice:哈哈哈哈哈哈
+Alice: Hahahahahaha
+
+385
+00:29:33,833 --> 00:29:35,033
+Shure: 下一个问题
+Shure: Next question
+
+386
+00:29:34,533 --> 00:29:36,333
+其他人：谁谁谁问你了
+Others: Who asked you?
+
+387
+00:29:37,400 --> 00:29:37,833
+Shure: 陨石
+Shure: Meteorite
+
+388
+00:29:37,833 --> 00:29:40,666
+Shure: 为什么每次都能精准的砸到陨石坑
+Shure: Why does it always hit the crater precisely?
+
+389
+00:29:39,866 --> 00:29:44,166
+Katrina: 哈哈哈哈哈哈哈哈哈
+Katrina: Hahahahahahaha
+
+390
+00:29:40,600 --> 00:29:41,766
+Jake:哈哈
+Jake: Haha
+
+391
+00:29:40,700 --> 00:29:42,333
+Lucia: 谁把这个问题加进去了
+Lucia: Who added this question?
+
+392
+00:29:42,333 --> 00:29:43,133
+Tasha: 哈
+Tasha: Ha
+
+393
+00:29:42,333 --> 00:29:48,533
+Lucia: 哈哈哈哈
+Lucia: Hahaha
+
+394
+00:29:43,500 --> 00:29:44,300
+Jake:哈
+Jake: Ha
+
+395
+00:29:44,033 --> 00:29:48,266
+Alice:哈哈哈哈哈哈哈
+Alice: Hahahahahahahaha
+
+396
+00:29:44,233 --> 00:29:45,033
+Tasha: 哈
+Tasha: Ha
+
+397
+00:29:45,066 --> 00:29:47,666
+Shure: 这是一个开放性问题
+Shure: It's an open-ended question
+
+398
+00:29:48,400 --> 00:29:49,733
+Shure: 根据你们的回答
+Shure: Based on your answers
+
+399
+00:29:49,733 --> 00:29:51,800
+Shure: 我进行判断
+Shure: I'll make a judgment
+
+400
+00:29:51,800 --> 00:29:53,166
+Shure: 给你们发币
+Shure: And give you coins
+
+401
+00:29:51,833 --> 00:29:53,066
+Tasha: 哈
+Tasha: Ha
+
+402
+00:29:52,500 --> 00:29:53,466
+Lucia: 好好好
+Lucia: Okay, okay
+
+403
+00:29:53,533 --> 00:29:55,333
+Shure: 这个每人都来回答一下来
+Shure: Everyone, answer this one
+
+404
+00:29:55,700 --> 00:29:57,666
+其他人：觉得这可以转化成一个前述范式的
+Others: I think this can be turned into a precedent
+
+405
+00:29:57,666 --> 00:29:59,133
+其他人：问题就是它是一个因果的问题
+Others: The question is about causality
+
+406
+00:29:59,133 --> 00:29:59,900
+其他人：就是有陨石坑
+Others: There is a crater
+
+407
+00:29:59,866 --> 00:30:00,666
+Alice:这个
+Alice: This
+
+408
+00:29:59,900 --> 00:30:01,400
+其他人：这是一个前置命题
+Others: It's a prior proposition
+
+409
+00:30:01,400 --> 00:30:03,866
+其他人：然后它推出它可以找出后面那个问题
+Others: Then it leads to the following question
+
+410
+00:30:03,866 --> 00:30:05,766
+其他人：那么如果前面的问题是一的话
+Others: If the previous question is one
+
+411
+00:30:05,766 --> 00:30:07,600
+其他人：那后面的问题肯定是一个有陨石坑
+Others: The next question is surely about a crater
+
+412
+00:30:07,600 --> 00:30:08,800
+其他人：所以说肯定有陨石坑
+Others: So, there's definitely a crater
+
+413
+00:30:08,933 --> 00:30:10,600
+其他人：如果前面那个没有陨石坑的话
+Others: If there wasn't a crater in front
+
+414
+00:30:10,600 --> 00:30:13,300
+其他人：他这个里面这个这个病题始终是真的
+Others: This problem inside here is always real
+
+415
+00:30:12,633 --> 00:30:14,866
+Tasha: 他已经得满分了哈
+Tasha: He already got a perfect score
+
+416
+00:30:13,300 --> 00:30:17,166
+其他人：所以说哈哈哈
+Others: So, hahaha
+
+417
+00:30:15,266 --> 00:30:16,500
+Lucia: 嗯
+Lucia: Hmm
+
+418
+00:30:15,733 --> 00:30:16,533
+Shure: 啊
+Shure: Ah
+
+419
+00:30:15,766 --> 00:30:16,566
+Alice:啊
+Alice: Ah
+
+420
+00:30:17,066 --> 00:30:18,733
+其他人：虽然很想同意这个话
+Others: Although I really want to agree with this
+
+421
+00:30:18,733 --> 00:30:19,566
+其他人：但是呢还
+Others: But still
+
+422
+00:30:20,400 --> 00:30:22,466
+Katrina: 老婆饼为什么没有老婆啊
+Katrina: Why is there no wife in wife cake?
+
+423
+00:30:20,533 --> 00:30:21,933
+Tasha: 哈
+Tasha: Ha
+
+424
+00:30:22,466 --> 00:30:23,733
+其他人：陨石坑为什么一定要有陨石
+Others: Why does a crater need to have a meteorite
+
+425
+00:30:22,466 --> 00:30:24,933
+其他人：老婆饼没有老婆
+Others: Wife cake doesn't have a wife
+
+426
+00:30:24,700 --> 00:30:25,700
+Lucia: 哈
+Lucia: Ha
+
+427
+00:30:25,733 --> 00:30:26,533
+Katrina: 哈
+Katrina: Ha
+
+428
+00:30:26,533 --> 00:30:27,433
+Shure: 反抗辩手
+Shure: Counter-debater
+
+429
+00:30:27,500 --> 00:30:28,400
+Lucia: 哈
+Lucia: Ha
+
+430
+00:30:27,666 --> 00:30:28,333
+Katrina: 哈
+Katrina: Ha
+
+431
+00:30:28,333 --> 00:30:31,333
+其他人：因为我觉得老婆饼和老婆没有明确的
+Others: Because I think there's no clear connection
+
+432
+00:30:31,333 --> 00:30:33,366
+其他人：明确的一个谁造成谁的
+Others: No clear cause between wife cake and wife
+
+433
+00:30:32,566 --> 00:30:36,666
+Tasha: 认可吧认可认可认可认可
+Tasha: Recognize it, recognize, recognize, recognize
+
+434
+00:30:33,400 --> 00:30:35,366
+其他人：但是陨石坑是由陨石造成的
+Others: But a crater is caused by a meteorite
+
+435
+00:30:35,733 --> 00:30:37,866
+其他人：你不能说是老婆饼是由老婆造成的
+Others: You can't say wife cake is caused by a wife
+
+436
+00:30:37,133 --> 00:30:39,500
+Tasha: 我们俩至少跟他不在一条线上
+Tasha: At least we're not on the same page as him
+
+437
+00:30:38,500 --> 00:30:40,333
+Katrina: 哦有一个这样的内在的原因在里面
+Katrina: Oh, there's an inherent reason for that
+
+438
+00:30:39,633 --> 00:30:40,433
+Shure: 哦
+Shure: Oh
+
+439
+00:30:41,366 --> 00:30:43,933
+Shure: 那我们宣判反方一
+Shure: Then we'll declare the opposition one
+
+440
+00:30:43,933 --> 00:30:45,366
+Shure: 正方一变赢了
+Shure: The proposition won one round
+
+441
+00:30:47,633 --> 00:30:49,333
+Shure: 好你先思考然后
+Shure: Okay, you think about it first and then
+
+442
+00:30:49,400 --> 00:30:52,666
+Lucia: 我觉得是因为陨石自带GPS系统
+Lucia: I think it's because meteorites come with a GPS
+
+443
+00:30:52,666 --> 00:30:56,400
+Lucia: 他肯定没有精确定位到陨石哈哈哈
+Lucia: It definitely didn't accurately locate the meteorite, hahaha
+
+444
+00:30:52,733 --> 00:30:59,266
+Alice:哈哈哈哈
+Alice: Hahahaha
+
+445
+00:30:56,633 --> 00:30:57,900
+Shure: 他说这个也不无道理
+Shure: What he said isn't unreasonable
+
+446
+00:31:01,433 --> 00:31:02,633
+Alice:哈
+Alice: Ha
+
+447
+00:31:17,333 --> 00:31:19,833
+Shure: 你有你有想到什么反例来反驳他吗
+Shure: Do you have any counterexamples to refute him?
+
+448
+00:31:20,133 --> 00:31:21,400
+Alice:这题选C
+Alice: This question, choose C
+
+449
+00:31:21,933 --> 00:31:25,666
+Katrina: 哈哈哈哈哈
+Katrina: Hahahahaha
+
+450
+00:31:23,133 --> 00:31:24,266
+Lucia: 没有选项
+Lucia: There are no options
+
+451
+00:31:25,333 --> 00:31:28,833
+Shure: 选c选项的同学也是非常的有个性
+Shure: Choosing C is quite an individualistic choice
+
+452
+00:31:30,466 --> 00:31:31,466
+其他人：皇帝的身体
+Others: The emperor's body
+
+453
+00:31:31,466 --> 00:31:32,400
+Shure: 好吧好吧
+Shure: Alright, alright.
+
+454
+00:31:31,500 --> 00:31:34,600
+其他人：我能看到什么这
+Others: What can I see here?
+
+455
+00:31:32,000 --> 00:31:33,400
+Lucia: 哇你的形体
+Lucia: Wow, your posture.
+
+456
+00:31:32,000 --> 00:31:33,733
+Alice:哈哈哈
+Alice: Hahaha
+
+457
+00:31:34,066 --> 00:31:37,966
+Shure: 那这个问题我决定二二二
+Shure: For this question, I decide two, two, two.
+
+458
+00:31:39,766 --> 00:31:44,333
+Shure: 二二给大家每人发两个一钩币好吧
+Shure: Two, two, let's give everyone two tokens each, alright?
+
+459
+00:31:44,400 --> 00:31:45,266
+Alice:哈
+Alice: Huh?
+
+460
+00:31:46,066 --> 00:31:47,000
+Katrina: 笑死
+Katrina: So funny.
+
+461
+00:31:49,733 --> 00:31:50,766
+Shure: 下一个问题
+Shure: Next question.
+
+462
+00:31:50,766 --> 00:31:53,366
+Shure: 吃止痛药打架算开挂吗
+Shure: Is taking painkillers before a fight considered cheating?
+
+463
+00:31:53,833 --> 00:31:55,933
+Lucia: 这跟地球人都没关系了
+Lucia: This has nothing to do with Earthlings.
+
+464
+00:31:53,833 --> 00:31:55,933
+Shure: 这跟地球人没关系吗
+Lucia: This has nothing to do with Earthlings.
+
+465
+00:31:54,466 --> 00:31:56,466
+Alice:这跟地球是什么关系
+Alice: What does this have to do with Earth?
+
+466
+00:31:57,933 --> 00:31:59,200
+其他人：文明人干的事儿怎么能叫开挂呢
+Others: How can what civilized people do be considered cheating?
+
+467
+00:32:00,000 --> 00:32:00,966
+其他人：是弱智吧
+Others: It's probably foolish.
+
+468
+00:32:00,066 --> 00:32:00,866
+Alice:哈
+Alice: Ha
+
+469
+00:32:00,966 --> 00:32:01,933
+其他人：是弱智吧拿出来的
+Others: It's probably foolish to take it out.
+
+470
+00:32:01,833 --> 00:32:06,933
+Lucia: 哈哈哈已经有同学发现了盲点哈
+Lucia: Hahaha, someone has already spotted the blind spot, huh?
+
+471
+00:32:01,933 --> 00:32:03,300
+Katrina: 哈哈哈哈哈哈
+Katrina: Hahahahaha
+
+472
+00:32:02,000 --> 00:32:06,433
+Alice:哈哈哈哈
+Alice: Hahahaha
+
+473
+00:32:06,000 --> 00:32:06,800
+Katrina: 哈
+Katrina: Ha
+
+474
+00:32:06,433 --> 00:32:10,333
+Alice:是我们从弱智吧找的问题
+Alice: We got the question from the "Fool's Bar".
+
+475
+00:32:08,000 --> 00:32:09,466
+其他人：弱智吧训的大模型
+Others: A model trained by "Fool's Bar".
+
+476
+00:32:09,933 --> 00:32:11,433
+Tasha: come on come on
+Tasha: Come on, come on.
+
+477
+00:32:13,100 --> 00:32:15,933
+其他人：明显哈哈哈
+Others: Obviously, hahaha.
+
+478
+00:32:13,766 --> 00:32:15,566
+Shure: 哈
+Shure: Ha
+
+479
+00:32:13,766 --> 00:32:15,833
+Alice:哈
+Alice: Ha
+
+480
+00:32:13,800 --> 00:32:15,900
+Lucia: 哈哈哈
+Lucia: Hahaha
+
+481
+00:32:15,966 --> 00:32:17,133
+其他人：上一个这种东西
+Others: The previous one was like this.
+
+482
+00:32:17,133 --> 00:32:20,266
+其他人：：一看就是中文高质量语料不提供了
+Others: You can tell it's high-quality Chinese data that is no longer provided.
+
+483
+00:32:18,200 --> 00:32:21,166
+Alice:哈哈哈哈哈
+Alice: Hahahaha
+
+484
+00:32:20,266 --> 00:32:21,066
+其他人：是吧
+Others: Right?
+
+485
+00:32:23,666 --> 00:32:27,800
+Shure: 这种大家换一个问题吧
+Shure: Let's switch to another question.
+
+486
+00:32:28,900 --> 00:32:31,133
+Jake:哈哈哈没有更多了
+Jake: Hahaha, no more questions.
+
+487
+00:32:31,233 --> 00:32:32,633
+Jake:但是最后有一个问题
+Jake: But there's one last question.
+
+488
+00:32:33,466 --> 00:32:34,866
+其他人：也不是说不可以
+Others: It's not impossible.
+
+489
+00:32:36,300 --> 00:32:39,100
+Jake:哈哈
+Jake: Haha
+
+490
+00:32:36,333 --> 00:32:41,266
+Katrina: 哈哈哈哈哈非常
+Katrina: Hahahaha, very...
+
+491
+00:32:38,600 --> 00:32:40,366
+Shure: 他的答案非常的好
+Shure: His answer is very good.
+
+492
+00:32:40,900 --> 00:32:44,833
+Lucia: 相似相融哈哈哈
+Lucia: Similar, integrated, hahaha
+
+493
+00:32:42,633 --> 00:32:44,033
+Shure: 必须再奖励一个
+Shure: We must give another reward.
+
+494
+00:32:46,666 --> 00:32:49,733
+Shure: 现在收获非常颇丰
+Shure: We've reaped a lot now.
+
+495
+00:32:51,233 --> 00:32:52,266
+Shure: 再下一个吧
+Shure: Let's move on to the next one.
+
+496
+00:32:55,000 --> 00:32:56,366
+Shure: 不孕不育会遗传吗
+Shure: Can infertility be inherited?
+
+497
+00:32:56,366 --> 00:32:57,200
+Shure: 大家觉得
+Shure: What do you guys think?
+
+498
+00:32:58,100 --> 00:33:00,466
+其他人：试管希望试管代孕的方法
+Others: The hope of using IVF or surrogate methods.
+
+499
+00:33:02,900 --> 00:33:04,100
+其他人：不是不可以
+Others: It's not impossible.
+
+500
+00:33:04,400 --> 00:33:07,600
+Alice:这是不是要被逼了哈哈
+Alice: Are we being forced into this? Haha.
+
+501
+00:33:05,700 --> 00:33:06,200
+其他人：或者或者
+Others: Or, or...
+
+502
+00:33:06,200 --> 00:33:08,166
+其他人：你是指的是什么的
+Others: What do you mean exactly?
+
+503
+00:33:06,266 --> 00:33:08,600
+Lucia: 哈哈哈
+Lucia: Hahaha.
+
+504
+00:33:13,933 --> 00:33:16,700
+Lucia: 啊植物的三倍体是吧哈哈哈
+Lucia: Ah, you mean the triploid plants? Hahaha.
+
+505
+00:33:16,466 --> 00:33:17,400
+其他人：梦幻狂喜
+Others: Dreamlike ecstasy.
+
+506
+00:33:19,033 --> 00:33:20,100
+Jake:还有一个问题
+Jake: There's another question.
+
+507
+00:33:20,800 --> 00:33:25,100
+Jake:之前从0到第14题中间有一个
+Jake: Previously, from question 0 to 14, there was actually...
+
+508
+00:33:25,233 --> 00:33:26,033
+Shure: 哦
+Shure: Oh.
+
+509
+00:33:25,233 --> 00:33:26,500
+Jake:其实只有13题
+Jake: only 13 questions.
+
+510
+00:33:27,033 --> 00:33:28,600
+Tasha: 对刚刚
+Tasha: Right, just now...
+
+511
+00:33:27,066 --> 00:33:28,933
+Shure: 对刚刚有一个旗号
+Shure: Right, there was a flag just now.
+
+512
+00:33:28,933 --> 00:33:30,533
+Shure: 没有大家有发现吗
+Shure: Did everyone notice that?
+
+513
+00:33:30,533 --> 00:33:32,000
+Shure: 这是一个彩蛋问题
+Shure: It was an easter egg question.
+
+514
+00:33:32,166 --> 00:33:34,333
+Shure: 这个是一个5分的问题
+Shure: This is a 5-point question.
+
+515
+00:33:36,433 --> 00:33:37,700
+其他人：那个汉堡C
+Others: That burger C.
+
+516
+00:33:36,633 --> 00:33:39,866
+Shure: 这是一个竖
+Shure: This is a vertical...
+
+517
+00:33:37,666 --> 00:33:39,233
+Alice:哈哈哈哈
+Alice: Hahahaha.
+
+518
+00:33:37,866 --> 00:33:39,100
+Lucia: 哈哈哈
+Lucia: Hahaha.
+
+519
+00:33:47,600 --> 00:33:49,266
+Shure: 重复的就是为了迷惑你
+Shure: The repetition is to confuse you.
+
+520
+00:33:49,533 --> 00:33:51,533
+Shure: 所以他遗漏了啊
+Shure: So, it was missed, huh?
+
+521
+00:33:51,533 --> 00:33:52,466
+Shure: 那重复的不算
+Shure: The repetition doesn't count.
+
+522
+00:33:52,466 --> 00:33:53,600
+Shure: 那重复的不算
+Shure: The repetition doesn't count.
+
+523
+00:33:53,833 --> 00:33:55,266
+Shure: 那个遗漏了哪
+Shure: Which one was missed?
+
+524
+00:33:55,266 --> 00:33:56,600
+Shure: 哪个旗号
+Shure: Which flag?
+
+525
+00:33:57,133 --> 00:33:58,366
+Shure: 大家有注意到吗
+Shure: Did everyone notice?
+
+526
+00:33:59,666 --> 00:34:00,733
+Shure: 0-13
+Shure: 0-13.
+
+527
+00:34:01,466 --> 00:34:02,233
+Shure: 对
+Shure: Right.
+
+528
+00:34:03,800 --> 00:34:05,466
+Shure: 啊 0-13对
+Shure: Ah, 0-13, right.
+
+529
+00:34:05,466 --> 00:34:08,466
+Shure: 0-13他他说7
+Shure: 0-13, he said 7.
+
+530
+00:34:12,200 --> 00:34:13,000
+Shure: 9
+Shure: 9.
+
+531
+00:34:15,133 --> 00:34:18,600
+Katrina: 啊哈哈哈哈哈
+Katrina: Ahahahahahaha.
+
+532
+00:34:21,033 --> 00:34:22,833
+Shure: 这这这位同学呢
+Shure: This, this, this student here...
+
+533
+00:34:26,300 --> 00:34:27,533
+其他人：不是90吗
+Others: Isn't it 90?
+
+534
+00:34:27,566 --> 00:34:29,233
+其他人：要猜一个没有的数字啊
+Others: You have to guess a number that hasn't been guessed.
+
+535
+00:34:29,233 --> 00:34:32,766
+其他人：对 99 哈哈哈
+Others: Right, 99! Hahaha.
+
+536
+00:34:31,033 --> 00:34:32,800
+Alice:哈哈哈哈哈
+Alice: Hahahahaha.
+
+537
+00:34:31,033 --> 00:34:35,066
+Jake:哈哈哈哈
+Jake: Hahahaha.
+
+538
+00:34:31,200 --> 00:34:33,233
+Lucia: 哈哈哈哈
+Lucia: Hahahaha.
+
+539
+00:34:32,500 --> 00:34:34,966
+Katrina: 艾克喝醉了
+Katrina: Ike is drunk.
+
+540
+00:34:33,166 --> 00:34:34,200
+Shure: 他猜过了7
+Shure: He already guessed 7.
+
+541
+00:34:34,200 --> 00:34:35,066
+Shure: 他猜过了9
+Shure: He already guessed 9.
+
+542
+00:34:35,066 --> 00:34:36,233
+Shure: 他猜过了12
+Shure: He already guessed 12.
+
+543
+00:34:38,866 --> 00:34:40,233
+Shure: 对 0-13里面
+Shure: Right, within 0-13.
+
+544
+00:34:39,166 --> 00:34:40,333
+其他人：哦0-13年
+Others: Oh, 0-13 years.
+
+545
+00:34:41,133 --> 00:34:43,300
+Jake:哈
+Jake: Ha.
+
+546
+00:34:42,966 --> 00:34:48,100
+Shure: 13就是上一集哈哈
+Shure: 13 was in the last episode, haha.
+
+547
+00:34:45,000 --> 00:34:47,200
+Jake:哈哈哈看来会议
+Jake: Hahaha, looks like the meeting.
+
+548
+00:34:45,133 --> 00:34:47,966
+Katrina: 哈哈哈
+Katrina: Hahaha.
+
+549
+00:34:50,333 --> 00:34:51,166
+Alice:老是这种难题
+Alice: Always these tough questions.
+
+550
+00:34:51,166 --> 00:34:53,233
+Alice:我们家刘婷就不参加了
+Alice: Liu Ting from our family won't participate.
+
+551
+00:34:52,000 --> 00:34:55,533
+Lucia: 哈哈哈哈
+Lucia: Hahahaha.
+
+552
+00:34:52,766 --> 00:34:54,166
+Shure: 哈
+Shure: Ha.
+
+553
+00:34:56,233 --> 00:34:57,100
+Shure: 猜一个吧
+Shure: Just guess one.
+
+554
+00:34:56,333 --> 00:34:58,466
+其他人：十
+Others: Ten.
+
+555
+00:34:57,133 --> 00:35:02,466
+Shure: 十难难道要要遗落了吗
+Shure: Ten, is it going to be left out?
+
+556
+00:35:02,466 --> 00:35:05,733
+Shure: 这个给大家缩小一下范围
+Shure: Let me narrow it down for everyone.
+
+557
+00:35:05,333 --> 00:35:06,100
+其他人：五
+Others: Five.
+
+558
+00:35:05,766 --> 00:35:08,666
+Shure: 在啊这个数它不是一个质数
+Shure: This number is not a prime number.
+
+559
+00:35:07,233 --> 00:35:08,733
+Tasha: 帮我说个三
+Tasha: Say three for me.
+
+560
+00:35:07,366 --> 00:35:08,166
+Alice:4
+Alice: Four.
+
+561
+00:35:09,433 --> 00:35:10,333
+其他人：三是质数
+Others: Three is a prime number.
+
+562
+00:35:09,533 --> 00:35:10,333
+Lucia: 3
+Lucia: Three.
+
+563
+00:35:12,400 --> 00:35:14,500
+Lucia: 4
+Lucia: Four.
+
+564
+00:35:12,433 --> 00:35:14,533
+Alice:4
+Alice: Four.
+
+565
+00:35:12,466 --> 00:35:14,500
+其他人：8
+Others: Eight.
+
+566
+00:35:13,566 --> 00:35:14,600
+Shure: 8你
+Shure: Eight, you.
+
+567
+00:35:13,900 --> 00:35:14,700
+Tasha: 四
+Tasha: Four.
+
+568
+00:35:15,966 --> 00:35:16,866
+Shure: 继续 12
+Shure: Continue, 12.
+
+569
+00:35:19,666 --> 00:35:23,233
+Lucia: 7哈哈
+Lucia: Seven, haha.
+
+570
+00:35:19,733 --> 00:35:21,366
+Shure: 7是质数
+Shure: Seven is a prime number.
+
+571
+00:35:22,433 --> 00:35:23,600
+Alice:不是质数
+Alice: Not a prime number.
+
+572
+00:35:22,800 --> 00:35:24,100
+Shure: 5也是质数
+Shure: Five is also a prime number.
+
+573
+00:35:24,500 --> 00:35:25,300
+Jake:哈
+Jake: Ha
+
+574
+00:35:24,633 --> 00:35:25,433
+Lucia: 哈
+Lucia: Ha
+
+575
+00:35:27,566 --> 00:35:30,100
+Tasha: 为什么我能精准的命中这些东西
+Tasha: Why can I hit these things so accurately?
+
+576
+00:35:30,100 --> 00:35:31,266
+Tasha: 你们在说什么
+Tasha: What are you all talking about?
+
+577
+00:35:31,866 --> 00:35:32,933
+Tasha: 三五七十一
+Tasha: Three, five, seven, eleven
+
+578
+00:35:34,666 --> 00:35:35,866
+其他人：没剩几个了
+Others: Not many left
+
+579
+00:35:36,033 --> 00:35:36,833
+Tasha: 1
+Tasha: 1
+
+580
+00:35:36,733 --> 00:35:37,833
+Alice:一人猜一个
+Alice: Each person guess one
+
+581
+00:35:38,666 --> 00:35:41,666
+Alice:5是质数
+Alice: 5 is a prime number
+
+582
+00:35:40,066 --> 00:35:40,800
+Katrina: 哈哈哈啊
+Katrina: Hahaha
+
+583
+00:35:40,300 --> 00:35:41,100
+Jake:哈
+Jake: Ha
+
+584
+00:35:41,300 --> 00:35:43,933
+Lucia: 7年没写过数学了哈
+Lucia: Haven't done math in 7 years, huh?
+
+585
+00:35:43,166 --> 00:35:44,400
+Shure: 哈行
+Shure: Haha, okay
+
+586
+00:35:43,233 --> 00:35:44,033
+Alice:哈
+Alice: Ha
+
+587
+00:35:43,266 --> 00:35:44,066
+Jake:哈
+Jake: Ha
+
+588
+00:35:44,400 --> 00:35:45,433
+Shure: 他坚持是5
+Shure: He insists it's 5
+
+589
+00:35:45,433 --> 00:35:46,733
+Shure: 那我们也没有办法
+Shure: So we can't do anything
+
+590
+00:35:45,866 --> 00:35:49,033
+Jake:哈哈哈
+Jake: Hahaha
+
+591
+00:35:46,066 --> 00:35:46,866
+Alice:哈
+Alice: Ha
+
+592
+00:35:46,333 --> 00:35:47,466
+Lucia: 哈哈
+Lucia: Haha
+
+593
+00:35:46,333 --> 00:35:49,366
+Katrina: 哈哈哈
+Katrina: Hahaha
+
+594
+00:35:47,866 --> 00:35:49,933
+Shure: 您您8
+Shure: You you 8
+
+595
+00:35:50,200 --> 00:35:52,700
+其他人：不是知数还是市不是
+Others: Not a prime number, is it?
+
+596
+00:35:51,733 --> 00:35:53,100
+Tasha: 哈
+Tasha: Ha
+
+597
+00:35:52,633 --> 00:35:53,433
+Lucia: 哈
+Lucia: Ha
+
+598
+00:35:52,966 --> 00:35:53,666
+Shure: 不是指数
+Shure: Not a prime number
+
+599
+00:35:53,666 --> 00:35:56,166
+Shure: 猜一个猜一个猜一个猜一个
+Shure: Guess one, guess one, guess one, guess one
+
+600
+00:35:55,566 --> 00:35:59,866
+Tasha: 哈哈
+Tasha: Haha
+
+601
+00:35:57,733 --> 00:35:59,933
+Shure: 给面给面给面
+Shure: Give face, give face, give face
+
+602
+00:35:58,000 --> 00:36:00,266
+Lucia: 哈哈
+Lucia: Haha
+
+603
+00:36:02,433 --> 00:36:03,600
+Shure: 他给我面子
+Shure: He gives me face
+
+604
+00:36:04,066 --> 00:36:06,200
+Shure: 我的室友们他给我面子
+Shure: My roommates, he gives me face
+
+605
+00:36:07,333 --> 00:36:09,366
+Shure: 好吧好吧那
+Shure: Alright, alright then
+
+606
+00:36:10,633 --> 00:36:11,433
+Jake:翻翻呗
+Jake: Flip it
+
+607
+00:36:12,466 --> 00:36:14,000
+Shure: 我我记住了是6
+Shure: I I remember, it's 6
+
+608
+00:36:15,166 --> 00:36:16,166
+Alice:没人猜啊
+Alice: No one guessed it
+
+609
+00:36:16,033 --> 00:36:16,866
+Shure: 啊对
+Shure: Ah, right
+
+610
+00:36:16,866 --> 00:36:17,966
+Shure: 所以没人猜
+Shure: So no one guessed
+
+611
+00:36:16,966 --> 00:36:17,733
+Alice:6啊
+Alice: 6, huh
+
+612
+00:36:17,633 --> 00:36:18,600
+Jake:确实没人才
+Jake: Indeed, no one guessed right
+
+613
+00:36:18,900 --> 00:36:19,966
+Katrina: 避免了通货膨胀
+Katrina: Avoided inflation.
+
+614
+00:36:18,933 --> 00:36:23,400
+Shure: 所以所以我们这个大奖只能留掉
+Shure: So, so we can only keep this big prize.
+
+615
+00:36:22,700 --> 00:36:23,500
+Lucia: 有
+Lucia: Yes.
+
+616
+00:36:24,366 --> 00:36:25,333
+其他人：能均分吗
+Others: Can we split it evenly?
+
+617
+00:36:25,466 --> 00:36:27,100
+Lucia: 哈哈哈
+Lucia: Hahaha.
+
+618
+00:36:25,833 --> 00:36:26,966
+Alice:哈哈
+Alice: Haha.
+
+619
+00:36:26,033 --> 00:36:27,466
+Tasha: 是几啊
+Tasha: What number is it?
+
+620
+00:36:28,133 --> 00:36:29,133
+Jake:6
+Jake: 6.
+
+621
+00:36:28,266 --> 00:36:29,066
+Alice:6
+Alice: 6.
+
+622
+00:36:29,866 --> 00:36:31,100
+Tasha: 不是有人猜了 6
+Tasha: Didn't someone guess 6?
+
+623
+00:36:30,133 --> 00:36:31,333
+Jake:确实一个人都没猜到
+Jake: Indeed, no one guessed it.
+
+624
+00:36:31,333 --> 00:36:32,533
+Jake:99倒是有人猜
+Jake: Someone guessed 99 though.
+
+625
+00:36:33,666 --> 00:36:34,700
+其他人：给我5个吧
+Others: Give me 5.
+
+626
+00:36:34,933 --> 00:36:35,733
+Lucia: 哈
+Lucia: Ha.
+
+627
+00:36:35,566 --> 00:36:35,866
+Shure: 那
+Shure: So...
+
+628
+00:36:35,866 --> 00:36:40,666
+Shure: 我们其实就应该到我们的action time了
+Shure: We should actually get to our action time.
+
+629
+00:36:41,633 --> 00:36:43,666
+Shure: 就我们的拍卖时间
+Shure: It's our auction time.
+
+630
+00:36:43,666 --> 00:36:48,000
+Shure: 那我们先有请我们的host
+Shure: Let's first welcome our host.
+
+631
+00:36:48,200 --> 00:36:50,766
+Shure: 我们的这房间的主人们
+Shure: The owners of this room.
+
+632
+00:36:50,766 --> 00:36:52,233
+Shure: 先来拍一拍东西
+Shure: Let's have them auction something first.
+
+633
+00:36:52,966 --> 00:36:54,866
+Shure: 来掌声有请第一位
+Shure: A round of applause for the first one.
+
+634
+00:36:54,733 --> 00:36:55,966
+Alice:不是我还没拿
+Alice: But I haven't taken mine yet.
+
+635
+00:36:55,033 --> 00:36:57,900
+Jake:我们先统计一下b
+Jake: Let's count the coins first.
+
+636
+00:36:58,200 --> 00:36:59,000
+Shure: 哦
+Shure: Oh.
+
+637
+00:36:59,433 --> 00:37:01,000
+Shure: 大家手上都有多少币
+Shure: How many coins does everyone have?
+
+638
+00:36:59,500 --> 00:37:00,700
+其他人：我太有钱了
+Others: I'm so rich.
+
+639
+00:37:00,700 --> 00:37:01,533
+Katrina: 你有几个了
+Katrina: How many do you have?
+
+640
+00:37:01,533 --> 00:37:02,333
+其他人：无敌了
+Others: Invincible.
+
+641
+00:37:03,466 --> 00:37:05,366
+其他人：哈哈太多了
+Others: Haha, too many.
+
+642
+00:37:05,566 --> 00:37:08,866
+这不把你整个屋都买了哈哈
+Others: I could buy your whole room, haha.
+
+643
+00:37:11,400 --> 00:37:13,500
+Katrina: 哈哈
+Katrina: Haha.
+
+644
+00:37:35,133 --> 00:37:36,066
+Tasha: 问一下吧
+Tasha: Let's ask.
+
+645
+00:37:41,500 --> 00:37:42,466
+其他人：显得我脸好大
+Others: My face looks so big.
+
+646
+00:37:42,233 --> 00:37:43,033
+Tasha: 哦
+Tasha: Oh.
+
+647
+00:37:42,533 --> 00:37:44,466
+Katrina: 哈哈哈会p一下
+Katrina: Hahaha, you can photoshop it.
+
+648
+00:37:43,833 --> 00:37:44,833
+Tasha: 那还邀请
+Tasha: Then let's invite...
+
+649
+00:37:44,866 --> 00:37:47,400
+Lucia: 我是不是也得把我的小狗接上来
+Lucia: Should I bring my puppy up too?
+
+650
+00:37:44,933 --> 00:37:47,333
+其他人：我是不是也得把我的小狗接上来
+Others: Should I bring my puppy up too?
+
+651
+00:37:45,733 --> 00:37:47,033
+Tasha: 有没有可能是
+Tasha: Could it be...
+
+652
+00:37:48,533 --> 00:37:50,166
+Katrina: 你们俩一人一只小狗吗
+Katrina: You each have a puppy?
+
+653
+00:37:49,900 --> 00:37:51,033
+Lucia: 水母没有灯珠
+Lucia: The jellyfish doesn't have any lights.
+
+654
+00:37:50,166 --> 00:37:51,100
+Katrina: 我没有灯珠
+Katrina: I don't have any lights.
+
+655
+00:37:51,033 --> 00:37:51,800
+Lucia: 它现在不是灯
+Lucia: It's not a light now.
+
+656
+00:37:51,100 --> 00:37:51,866
+Katrina: 他现在不是灯
+Katrina: It's not a light now.
+
+657
+00:37:51,800 --> 00:37:52,700
+Lucia: 它只是水母
+Lucia: It's just a jellyfish.
+
+658
+00:37:53,500 --> 00:37:54,733
+Lucia: 哈哈哈行
+Lucia: Hahaha, okay.
+
+659
+00:37:53,600 --> 00:37:54,766
+Katrina: 哈哈行
+Katrina: Haha, okay.
+
+660
+00:37:54,733 --> 00:37:55,833
+Lucia: 我去请狗了
+Lucia: I'm going to get the dog.
+
+661
+00:38:01,333 --> 00:38:04,066
+Katrina: 刚进去叠了个被子哈
+Katrina: I just went in to fold a blanket.
+
+662
+00:38:06,566 --> 00:38:08,466
+Katrina: 哈哈
+Katrina: Haha.
+
+663
+00:38:07,800 --> 00:38:09,233
+Alice:这是一只娇俏的
+Alice: This is a delicate one.
+
+664
+00:38:12,300 --> 00:38:13,100
+Katrina: 什么
+Katrina: What?
+
+665
+00:38:14,433 --> 00:38:16,233
+Tasha: 不是人家关你屁事
+Tasha: It's none of your business.
+
+666
+00:38:15,600 --> 00:38:17,700
+Katrina: 这是我当时嗯
+Katrina: This is what I...
+
+667
+00:38:22,600 --> 00:38:24,333
+Katrina: 我还新买了一个手链
+Katrina: I also bought a new bracelet.
+
+668
+00:38:25,800 --> 00:38:27,766
+Katrina: 就是那天在那个抖音上买的
+Katrina: I bought it on TikTok that day.
+
+669
+00:38:27,766 --> 00:38:32,666
+其他人：哈哈因为昨天说他带了一本书我说
+Others: Haha, because he brought a book yesterday, I said...
+
+670
+00:38:35,000 --> 00:38:35,900
+Katrina: 他可以调的
+Katrina: He can adjust it.
+
+671
+00:38:35,900 --> 00:38:37,333
+Katrina: 好像他可以掰开
+Katrina: It seems he can open it.
+
+672
+00:38:54,366 --> 00:38:55,866
+其他人：嗯咱俩
+Others: Hmm, both of us...
+
+673
+00:38:55,866 --> 00:38:57,500
+其他人：咱俩在北京的缘分比较多
+Others: We have a lot of connections in Beijing.
+
+674
+00:38:57,566 --> 00:38:58,200
+其他人： 哈哈我也没想到这次又在北京
+Others: Haha, I didn't expect to be in Beijing again this time.
+
+675
+00:38:58,200 --> 00:39:02,100
+Katrina: 我也没想到这次又在北京
+Katrina: I didn't expect to be in Beijing again this time.
+
+676
+00:39:02,133 --> 00:39:03,000
+Katrina: 你知道吧
+Katrina: You know?
+
+677
+00:39:03,766 --> 00:39:04,766
+Katrina: 特搞笑
+Katrina: It's so funny.
+
+678
+00:39:05,033 --> 00:39:05,733
+Shure: 我们
+Shure: We...
+
+679
+00:39:05,733 --> 00:39:08,100
+Katrina: 我我我真快成土著了
+Katrina: I'm really becoming a local.
+
+680
+00:39:05,733 --> 00:39:08,266
+Shure: 我们统计完自己手上都有多少币了吗
+Shure: Have we counted how many coins we have?
+
+681
+00:39:09,933 --> 00:39:11,100
+Shure: 来来报个数
+Shure: Come on, report your numbers.
+
+682
+00:39:11,666 --> 00:39:12,466
+Katrina: 啥呀
+Katrina: What?
+
+683
+00:39:12,733 --> 00:39:14,100
+Shure: 自己手上有多少币
+Shure: How many coins do you have?
+
+684
+00:39:15,900 --> 00:39:16,933
+Katrina: 数一下啊
+Katrina: Count them.
+
+685
+00:39:16,833 --> 00:39:17,600
+Alice:20
+Alice: 20.
+
+686
+00:39:17,333 --> 00:39:19,733
+Shure: 那个谢外
+Shure: Except for the external ones.
+
+687
+00:39:18,933 --> 00:39:19,733
+其他人：20
+Others: 20.
+
+688
+00:39:19,733 --> 00:39:20,433
+Shure: 外面的场记
+Shure: The external scene.
+
+689
+00:39:20,433 --> 00:39:22,833
+Shure: 谢斌竹来谢斌竹
+
+690
+00:39:21,866 --> 00:39:22,666
+Katrina: 20
+Katrina: 20.
+
+691
+00:39:22,833 --> 00:39:24,433
+Shure: 哎记一下账本
+Shure: Hey, record it in the ledger.
+
+692
+00:39:24,800 --> 00:39:26,933
+Shure: 现在大家手里的币子
+Shure: Now, the coins everyone has
+
+693
+00:39:29,800 --> 00:39:30,600
+Shure: 对你记
+Shure: Yeah, remember
+
+694
+00:39:30,666 --> 00:39:31,466
+Shure: 因为你到
+Shure: Because when you
+
+695
+00:39:31,533 --> 00:39:32,766
+Shure: 到时候发钱包嘛
+Shure: When it's time to distribute wallets
+
+696
+00:39:32,200 --> 00:39:35,100
+Katrina: 多少个 15
+Katrina: How many? 15
+
+697
+00:39:35,633 --> 00:39:38,533
+Shure: 呃报一个姓名或者代号
+Shure: Uh, report a name or a code name
+
+698
+00:39:37,733 --> 00:39:38,566
+Tasha: 啊突然
+Tasha: Ah, suddenly
+
+699
+00:39:40,666 --> 00:39:41,333
+其他人：啥代号
+Others: What code name?
+
+700
+00:39:41,333 --> 00:39:44,066
+Katrina: 小杜呗小杜小杜小杜
+Katrina: Xiao Du, Xiao Du, Xiao Du
+
+701
+00:39:42,866 --> 00:39:45,233
+Shure: 小杜小杜有15个币子
+Shure: Xiao Du, Xiao Du has 15 coins
+
+702
+00:39:45,333 --> 00:39:46,500
+Katrina: 小杜哈哈
+Katrina: Xiao Du, haha
+
+703
+00:39:46,066 --> 00:39:46,866
+Shure: 哈哈哈
+Shure: Hahaha
+
+704
+00:39:46,500 --> 00:39:47,600
+Katrina: 非要加儿哦
+Katrina: Must add "er", oh
+
+705
+00:39:50,166 --> 00:39:50,966
+Katrina: 小杜
+Katrina: Xiao Du
+
+706
+00:39:50,333 --> 00:39:54,866
+Shure: 杜安迪的杜哈哈哈
+Shure: Du Andi's "Du", hahaha
+
+707
+00:39:55,900 --> 00:39:58,033
+Tasha: 15 他有15个币
+Tasha: 15, he has 15 coins
+
+708
+00:39:58,666 --> 00:39:59,800
+Shure: 这位这位同学
+Shure: This student
+
+709
+00:40:01,566 --> 00:40:02,366
+Shure: 11
+Shure: 11
+
+710
+00:40:03,600 --> 00:40:05,400
+Katrina: 哈哈哈哈
+Katrina: Hahahahaha
+
+711
+00:40:03,833 --> 00:40:04,833
+Alice:哈哈
+Alice: Haha
+
+712
+00:40:13,266 --> 00:40:14,066
+Shure: 11
+Shure: 11
+

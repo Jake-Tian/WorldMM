@@ -1,0 +1,1301 @@
+[
+  {
+    "ID": "257",
+    "query_time": {
+      "date": "DAY4",
+      "time": "11334014"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Saw Tasha holding a cup",
+    "question": "Who placed the cup on the table before Tasha picked it up?",
+    "choice_a": "Shure",
+    "choice_b": "Alice",
+    "choice_c": "Me",
+    "choice_d": "Tasha",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY4",
+      "time": "11282800"
+    },
+    "keywords": "place cup, pick up",
+    "reason": "Tasha is holding the cup"
+  },
+  {
+    "ID": "265",
+    "query_time": {
+      "date": "DAY4",
+      "time": "11515607"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I am looking at Tasha's phone",
+    "question": "Who joined Tasha and me when we were cleaning up the trash?",
+    "choice_a": "Katrina",
+    "choice_b": "Alice",
+    "choice_c": "Shure",
+    "choice_d": "Lucia",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "11465500"
+    },
+    "keywords": "join, clean up trash",
+    "reason": "Shure joined us when Tasha and I were cleaning up the trash"
+  },
+  {
+    "ID": "268",
+    "query_time": {
+      "date": "DAY4",
+      "time": "12111410"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "I opened the food delivery app",
+    "question": "What are we planning to eat for lunch today?",
+    "choice_a": "Dumplings",
+    "choice_b": "Hot Pot",
+    "choice_c": "Toast",
+    "choice_d": "Pizza",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12011213"
+    },
+    "keywords": "plan eat",
+    "reason": "I suggested having dumplings for lunch, Lucia agreed, and I said okay"
+  },
+  {
+    "ID": "270",
+    "query_time": {
+      "date": "DAY4",
+      "time": "12271312"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "When we were assembling wooden boxes",
+    "question": "Who am I with when cleaning up food waste",
+    "choice_a": "Shure, Katrina",
+    "choice_b": "Tasha, Alice",
+    "choice_c": "Alice, Shure",
+    "choice_d": "Shure, Tasha",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "11465706"
+    },
+    "keywords": "clean up food waste",
+    "reason": "In the video, I am cleaning up food waste with Alice and Shure"
+  },
+  {
+    "ID": "272",
+    "query_time": {
+      "date": "DAY4",
+      "time": "12344100"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "The yellow screwdriver on the table",
+    "question": "Where did I get the screwdriver in my hand?",
+    "choice_a": "On the chair",
+    "choice_b": "On the shelf",
+    "choice_c": "On the table",
+    "choice_d": "In my room",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12250200"
+    },
+    "keywords": "get screwdriver",
+    "reason": "I picked up the screwdriver"
+  },
+  {
+    "ID": "273",
+    "query_time": {
+      "date": "DAY4",
+      "time": "12381107"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "Shure is making coffee",
+    "question": "What do I plan to do this afternoon?",
+    "choice_a": "Dance",
+    "choice_b": "Sing",
+    "choice_c": "Eat",
+    "choice_d": "Go to the supermarket",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "11524602"
+    },
+    "keywords": "plan do",
+    "reason": "Get ready to dance, there's nothing much going on today"
+  },
+  {
+    "ID": "277",
+    "query_time": {
+      "date": "DAY4",
+      "time": "12470801"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I received a call",
+    "question": "Now that I received a call, what happened the last time I answered the phone?",
+    "choice_a": "Ate pizza",
+    "choice_b": "Got lost",
+    "choice_c": "The door wouldn't open",
+    "choice_d": "Broke a cup",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "10500810"
+    },
+    "keywords": "receive call, answer phone",
+    "reason": "I received a call"
+  },
+  {
+    "ID": "278",
+    "query_time": {
+      "date": "DAY4",
+      "time": "12475108"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I walk into the alley",
+    "question": "Now that I walk into the alley, what was I doing the last time I walked into the alley?",
+    "choice_a": "Carrying shopping bags",
+    "choice_b": "Playing on the phone",
+    "choice_c": "Pick up a package",
+    "choice_d": "Pick up takeout",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY4",
+      "time": "10514216"
+    },
+    "keywords": "walk into alley",
+    "reason": "Walk into the alley"
+  },
+  {
+    "ID": "283",
+    "query_time": {
+      "date": "DAY4",
+      "time": "13240213"
+    },
+    "type": "EntityLog",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "I saw the toasted bread on the plate.",
+    "question": "Where was the bread found?",
+    "choice_a": "Kitchen",
+    "choice_b": "Shopping bag",
+    "choice_c": "Refrigerator",
+    "choice_d": "On the table",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "11374611"
+    },
+    "keywords": "find bread",
+    "reason": "Because we found the bread in the refrigerator"
+  },
+  {
+    "ID": "284",
+    "query_time": {
+      "date": "DAY4",
+      "time": "13240213"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I saw the toasted bread on the plate.",
+    "question": "We clearly bought two bags of bread, why do we only see one bag?",
+    "choice_a": "Because I secretly ate it",
+    "choice_b": "On the way back from shopping, I accidentally lost something.",
+    "choice_c": "Lucia said she put it in the refrigerator downstairs.",
+    "choice_d": "Turned into a cake as raw material.",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "11374713"
+    },
+    "keywords": "bought bread, see bag",
+    "reason": "Because everyone didn't find it"
+  },
+  {
+    "ID": "287",
+    "query_time": {
+      "date": "DAY4",
+      "time": "13334400"
+    },
+    "type": "HabitInsight",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "We are eating dumplings",
+    "question": "What doesn't Shure eat?",
+    "choice_a": "Laba garlic",
+    "choice_b": "Pizza",
+    "choice_c": "Braised pork",
+    "choice_d": "Baked wheat cake",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "13262406"
+    },
+    "keywords": "Shure eat",
+    "reason": "Shure says but doesn't eat Laba garlic"
+  },
+  {
+    "ID": "288",
+    "query_time": {
+      "date": "DAY4",
+      "time": "13370700"
+    },
+    "type": "HabitInsight",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I dip dumplings in vinegar",
+    "question": "Who eats dumplings without dipping in vinegar?",
+    "choice_a": "Katrina",
+    "choice_b": "Lucia",
+    "choice_c": "Alice",
+    "choice_d": "Shure",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time_list": [
+        "13194500",
+        "13191300"
+      ]
+    },
+    "keywords": "eat dumplings",
+    "reason": "Alice eats dumplings directly"
+  },
+  {
+    "ID": "289",
+    "query_time": {
+      "date": "DAY4",
+      "time": "14242219"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "I chatted with Tasha",
+    "question": "How do I plan to acquire clothes?",
+    "choice_a": "Buy new online",
+    "choice_b": "Rent or second-hand",
+    "choice_c": "Buy new in-store",
+    "choice_d": "Borrow from friends",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12514402"
+    },
+    "keywords": "plan acquire clothes",
+    "reason": "Because I think renting or second-hand is more cost-effective"
+  },
+  {
+    "ID": "291",
+    "query_time": {
+      "date": "DAY4",
+      "time": "15473315"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "Tasha and Nicous are playing a game",
+    "question": "Who played the game with Tasha last time?",
+    "choice_a": "Lucia",
+    "choice_b": "Shure",
+    "choice_c": "Choiszt",
+    "choice_d": "Me",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY4",
+      "time": "11173800"
+    },
+    "keywords": "play game, with Tasha",
+    "reason": "I was playing a game with Tasha"
+  },
+  {
+    "ID": "295",
+    "query_time": {
+      "date": "DAY4",
+      "time": "16505918"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I suggested drawing lots to decide what to eat",
+    "question": "Where were we the last time we discussed what to eat?",
+    "choice_a": "Bedroom",
+    "choice_b": "Courtyard",
+    "choice_c": "Living Room",
+    "choice_d": "Kitchen",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12064303"
+    },
+    "keywords": "discuss eat",
+    "reason": "I had a conversation with got and said: \"Today is Guyu. What do people usually eat during the Guyu solar term?\""
+  },
+  {
+    "ID": "298",
+    "query_time": {
+      "date": "DAY4",
+      "time": "17154715"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Lucia is assembling the cabinet",
+    "question": "What tasks does Lucia still need to complete?",
+    "choice_a": "Make a puppy",
+    "choice_b": "Shopping",
+    "choice_c": "Clean the room",
+    "choice_d": "Watch a puppy",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "15313709"
+    },
+    "keywords": "Lucia complete tasks",
+    "reason": "I asked Lucia if she could make a dog, and Lucia said yes"
+  },
+  {
+    "ID": "300",
+    "query_time": {
+      "date": "DAY4",
+      "time": "17345812"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "While I was unpacking the delivery",
+    "question": "What am I planning to do?",
+    "choice_a": "Watch a movie",
+    "choice_b": "Watch a TV series",
+    "choice_c": "Watch anime",
+    "choice_d": "Watch dogs",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY4",
+      "time": "16222003"
+    },
+    "keywords": "plan do",
+    "reason": "Let's go watch dogs first, half an hour is more than enough"
+  },
+  {
+    "ID": "305",
+    "query_time": {
+      "date": "DAY4",
+      "time": "18202212"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "There are many wooden dessert stands on the courtyard table.",
+    "question": "Who brought the wooden dessert stands on the table?",
+    "choice_a": "Me",
+    "choice_b": "Shure",
+    "choice_c": "Tasha",
+    "choice_d": "Lucia",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12212013"
+    },
+    "keywords": "brought stands",
+    "reason": "Tasha is holding several boxes of desserts."
+  },
+  {
+    "ID": "306",
+    "query_time": {
+      "date": "DAY4",
+      "time": "18213309"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Guitar",
+    "question": "The guitar is now with Nicous, who used the guitar first today?",
+    "choice_a": "Shure",
+    "choice_b": "Katrina",
+    "choice_c": "Nicous",
+    "choice_d": "Me",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "17050015"
+    },
+    "keywords": "use guitar",
+    "reason": "Shure is playing the guitar"
+  },
+  {
+    "ID": "307",
+    "query_time": {
+      "date": "DAY4",
+      "time": "18242219"
+    },
+    "type": "TaskMaster",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "Lunch",
+    "question": "What do we plan to eat for lunch?",
+    "choice_a": "Dumplings",
+    "choice_b": "Chicken Pot",
+    "choice_c": "Pizza",
+    "choice_d": "Burger",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12010906"
+    },
+    "keywords": "plan eat",
+    "reason": "Because Shure suggested dumplings, and everyone agreed"
+  },
+  {
+    "ID": "308",
+    "query_time": {
+      "date": "DAY4",
+      "time": "18422500"
+    },
+    "type": "RelationMap",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Shure is playing the guitar",
+    "question": "Who usually sings when Shure plays the guitar?",
+    "choice_a": "Tasha and Violet",
+    "choice_b": "Me and Alice",
+    "choice_c": "Alice and Choiszt",
+    "choice_d": "Nicous and Katrina",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY4",
+      "time": "18174214"
+    },
+    "keywords": "sing, Shure play guitar",
+    "reason": "The three of them are still playing guitar and singing"
+  },
+  {
+    "ID": "310",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21350806"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "Tasha is taking something from the fridge",
+    "question": "When was the last time Tasha took ingredients from the fridge?",
+    "choice_a": "yesterday morning",
+    "choice_b": "yesterday night",
+    "choice_c": "3 hours ago",
+    "choice_d": "yesterday at noon",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "18161415"
+    },
+    "keywords": "Tasha take ingredients",
+    "reason": "Tasha opened the fridge"
+  },
+  {
+    "ID": "313",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I thought about the events of the day while listening to everyone singing on the second floor",
+    "question": "Who was discussing reptile pets in the yard at noon today?",
+    "choice_a": "Tasha, Lucia, Katrina",
+    "choice_b": "Tasha, Lucia, Alice",
+    "choice_c": "Nicous, Katrina, Alice",
+    "choice_d": "Katrina, Lucia, Alice",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12262306"
+    },
+    "keywords": "discuss reptile pets",
+    "reason": "Tasha, Lucia, Alice were discussing reptile animals"
+  },
+  {
+    "ID": "314",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "RelationMap",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I thought about the things during the day while listening to everyone singing on the second floor",
+    "question": "Who discussed renting clothes with me at noon today?",
+    "choice_a": "Alice, Tasha",
+    "choice_b": "Tasha, Nicous",
+    "choice_c": "Alice, Katrina",
+    "choice_d": "Alice, Lucia",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12540612"
+    },
+    "keywords": "discuss renting clothes",
+    "reason": "Alice and Tasha discussed renting clothes with me"
+  },
+  {
+    "ID": "315",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "When I was on the second floor listening to everyone singing, I thought about what happened during the day",
+    "question": "Before we went to see the dog, who went with me to the second floor to find Tasha?",
+    "choice_a": "Lucia",
+    "choice_b": "Katrina",
+    "choice_c": "Shure",
+    "choice_d": "Alice",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "16130412"
+    },
+    "keywords": "go second floor, find Tasha",
+    "reason": "Lucia went with me upstairs to find Tasha"
+  },
+  {
+    "ID": "316",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "HabitInsight",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "When I was on the second floor listening to everyone singing, I thought about things during the day",
+    "question": "Which shopping app do I usually not choose？",
+    "choice_a": "Taobao",
+    "choice_b": "JD.com",
+    "choice_c": "Pinduoduo",
+    "choice_d": "Vipshop",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12164003"
+    },
+    "keywords": "choose app",
+    "reason": "I said I never buy things on Pinduoduo"
+  },
+  {
+    "ID": "317",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I thought about the events of the day while listening to everyone singing on the second floor",
+    "question": "Shure noticed who didn't wash the electric mixer, and then who helped wash it？",
+    "choice_a": "Lucia, Katrina",
+    "choice_b": "Me, Lucia",
+    "choice_c": "Katrina, Alice",
+    "choice_d": "Lucia, Tasha",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "11543902"
+    },
+    "keywords": "notice wash mixer, help wash mixer",
+    "reason": "It was me, Lucia helped wash it"
+  },
+  {
+    "ID": "318",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "RelationMap",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "When I was on the second floor listening to everyone singing, I thought about what happened during the day",
+    "question": "Who was talking to me today while I was assembling the wooden crate in the yard?",
+    "choice_a": "Shure, Tasha, Lucia",
+    "choice_b": "Katrina, Alice, Shure",
+    "choice_c": "Shure, Katrina, Tasha",
+    "choice_d": "Shure, Katrina, Lucia",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12262306"
+    },
+    "keywords": "talk to me, assemble crate",
+    "reason": "Shure, Tasha, and Lucia talked to me"
+  },
+  {
+    "ID": "319",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "RelationMap",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "When I was on the second floor listening to everyone singing, I thought about what happened during the day",
+    "question": "Who was discussing flying pets with me in the yard at noon？",
+    "choice_a": "Katrina, Lucia",
+    "choice_b": "Alice, Lucia",
+    "choice_c": "Alice, Katrina",
+    "choice_d": "Katrina, Tasha",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12350202"
+    },
+    "keywords": "discuss flying pets",
+    "reason": "Alice and Lucia discussed flying pets with me"
+  },
+  {
+    "ID": "320",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I thought about the events of the day while listening to everyone sing on the second floor",
+    "question": "Who helped me clean up the table after lunch today?",
+    "choice_a": "Shure,Nicous",
+    "choice_b": "Katrina,Shure",
+    "choice_c": "Katrina,Alice",
+    "choice_d": "Katrina,Nicous",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12584512"
+    },
+    "keywords": "help clean table",
+    "reason": "Shure and Nicous helped me clean up the table"
+  },
+  {
+    "ID": "321",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "RelationMap",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I thought about the things during the day while listening to everyone singing on the second floor",
+    "question": "when we went to the café to play with the dog, the staff asked about the glasses we were wearing, who did the product introduction with her",
+    "choice_a": "Nicous, Tasha",
+    "choice_b": "Me, Nicous",
+    "choice_c": "Nicous, Lucia",
+    "choice_d": "Tasha, Alice",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "16285218"
+    },
+    "keywords": "do product introduction",
+    "reason": "Nicous and I were introducing the glasses to the staff"
+  },
+  {
+    "ID": "322",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "When I was on the second floor listening to everyone singing, I thought about what happened during the day",
+    "question": "After playing with the dog  and returning, who opened the door for Lucia and me when we knocked?",
+    "choice_a": "Alice",
+    "choice_b": "Katrina",
+    "choice_c": "Shure",
+    "choice_d": "Tasha",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "16531118"
+    },
+    "keywords": "open door",
+    "reason": "After playing with the dog on day 4 and returning, Shure opened the door for Lucia and me when we knocked"
+  },
+  {
+    "ID": "323",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I thought about the things during the day while listening to everyone sing on the second floor",
+    "question": "Who did not participate when we went to see the dog on the afternoon?",
+    "choice_a": "Nicous, Katrina",
+    "choice_b": "Alice, Katrina",
+    "choice_c": "Alice, Shure",
+    "choice_d": "Katrina, Shure",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY4",
+      "time": "16234506"
+    },
+    "keywords": "not participate, see dog",
+    "reason": "Katrina and Shure did not go with us to see the dog"
+  },
+  {
+    "ID": "324",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21563804"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "I thought about the events of the day while listening to everyone sing on the second floor",
+    "question": "Who was pressing flowers together on today afternoon?",
+    "choice_a": "Lucia, Shure, Katrina",
+    "choice_b": "Lucia, Alice, Katrina",
+    "choice_c": "Lucia, Alice, Katrina",
+    "choice_d": "Lucia, Tasha, Nicous",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "16072303"
+    },
+    "keywords": "press flowers",
+    "reason": "Lucia, Shure, and Katrina were pressing flowers together"
+  },
+  {
+    "ID": "325",
+    "query_time": {
+      "date": "DAY4",
+      "time": "21565719"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "I checked Lucia's hand injury",
+    "question": "The last time I checked Lucia's wound, what were we discussing?",
+    "choice_a": "Reimbursement?",
+    "choice_b": "Should we get vaccinated?",
+    "choice_c": "Sing together",
+    "choice_d": "What to eat for dinner",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "16332615"
+    },
+    "keywords": "check Lucia wound, discuss",
+    "reason": "I checked Lucia's wound"
+  },
+  {
+    "ID": "326",
+    "query_time": {
+      "date": "DAY4",
+      "time": "22000103"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "When everyone was chatting together",
+    "question": "Why is the bread made by Shure delicious?",
+    "choice_a": "Because he added butter to the bread",
+    "choice_b": "Because he controlled the heat well",
+    "choice_c": "Because the bread he baked smells good",
+    "choice_d": "Because Lucia likes this flavor",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "11422909"
+    },
+    "keywords": "make bread, Shure",
+    "reason": "Because he added butter"
+  },
+  {
+    "ID": "327",
+    "query_time": {
+      "date": "DAY4",
+      "time": "22042202"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "When we chat together",
+    "question": "Who usually picks up the takeout?",
+    "choice_a": "Alice",
+    "choice_b": "Me",
+    "choice_c": "Shure",
+    "choice_d": "Tasha",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12475911"
+    },
+    "keywords": "pick up takeout",
+    "reason": "Because I always pick up the takeout"
+  },
+  {
+    "ID": "330",
+    "query_time": {
+      "date": "DAY4",
+      "time": "22242219"
+    },
+    "type": "RelationMap",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Let's chat together.",
+    "question": "What did Tasha say is the most needed task from me later?",
+    "choice_a": "Knead the dough",
+    "choice_b": "Whip the cream",
+    "choice_c": "Beat the eggs",
+    "choice_d": "Move the boxes",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "18154804"
+    },
+    "keywords": "Tasha say, need task",
+    "reason": "Because Tasha said she most needs me to knead the dough"
+  },
+  {
+    "ID": "332",
+    "query_time": {
+      "date": "DAY5",
+      "time": "11141207"
+    },
+    "type": "EntityLog",
+    "need_audio": true,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "Opened Meituan Waimai APP",
+    "question": "What did I order the last time I used the Meituan Waimai APP?",
+    "choice_a": "KFC",
+    "choice_b": "Pizza",
+    "choice_c": "Dumplings",
+    "choice_d": "Noodles",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY4",
+      "time": "17534715"
+    },
+    "keywords": "order, use Meituan Waimai APP",
+    "reason": "I'm still browsing takeout"
+  },
+  {
+    "ID": "333",
+    "query_time": {
+      "date": "DAY5",
+      "time": "11225900"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "I walked to the garbage pile by the gate",
+    "question": "Now that I have walked to the garbage pile by the gate, what changes are there in the surroundings compared to the last time I came here to throw out the trash?",
+    "choice_a": "Heavy rain.",
+    "choice_b": "Light rain",
+    "choice_c": "It's thundering.",
+    "choice_d": "The sky is dark",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY4",
+      "time": "15434815"
+    },
+    "keywords": "I walked to the garbage pile, throw out the trash?",
+    "reason": "I threw away the takeout bag"
+  },
+  {
+    "ID": "334",
+    "query_time": {
+      "date": "DAY5",
+      "time": "11464307"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I plugged the cable into the power strip",
+    "question": "When was the last time I plugged a cable into the power strip?",
+    "choice_a": "Yesterday afternoon",
+    "choice_b": "This morning",
+    "choice_c": "Last night",
+    "choice_d": "Yesterday at noon",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "15562015"
+    },
+    "keywords": "plug cable, power strip",
+    "reason": "I plugged the device's data cable into the power strip"
+  },
+  {
+    "ID": "336",
+    "query_time": {
+      "date": "DAY5",
+      "time": "12150400"
+    },
+    "type": "RelationMap",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "We are eating stewed dishes",
+    "question": "Last time I had a meal with Nicous, who else was there?",
+    "choice_a": "Shure and Jack",
+    "choice_b": "Alice and Lucia",
+    "choice_c": "Katrina and Choiszt",
+    "choice_d": "Tasha and Choiszt",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "13270000"
+    },
+    "keywords": "have meal, Nicous",
+    "reason": "We are eating dumplings"
+  },
+  {
+    "ID": "338",
+    "query_time": {
+      "date": "DAY5",
+      "time": "12213913"
+    },
+    "type": "HabitInsight",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": false,
+    "trigger": "When we have lunch together",
+    "question": "What do I usually do after finishing in the kitchen?",
+    "choice_a": "Wipe with paper",
+    "choice_b": "Wash hands with dish soap",
+    "choice_c": "Wash hands with hand sanitizer",
+    "choice_d": "Wipe hands with a wet wipe",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "18103811DAY4_21281019DAY4_21350104"
+    },
+    "keywords": "finish in kitchen",
+    "reason": "In the video, after finishing in the kitchen, I usually wash my hands with hand sanitizer"
+  },
+  {
+    "ID": "343",
+    "query_time": {
+      "date": "DAY5",
+      "time": "15161210"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I opened my phone to check the map",
+    "question": "When was the last time I used my phone to check the map?",
+    "choice_a": "Yesterday at noon",
+    "choice_b": "Yesterday afternoon",
+    "choice_c": "Last night",
+    "choice_d": "This morning",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "20480604"
+    },
+    "keywords": "use phone, check map",
+    "reason": "I was checking the location on the map"
+  },
+  {
+    "ID": "344",
+    "query_time": {
+      "date": "DAY5",
+      "time": "15282905"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Saw the dog in Lucia's hand",
+    "question": "Who made the dog in Lucia's hand?",
+    "choice_a": "Tasha",
+    "choice_b": "Lucia",
+    "choice_c": "Shure",
+    "choice_d": "Me",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "18365015"
+    },
+    "keywords": "make dog, Lucia hand",
+    "reason": "Lucia is using scissors to cut the dog's head"
+  },
+  {
+    "ID": "376",
+    "query_time": {
+      "date": "DAY5",
+      "time": "18102701"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Tasha is looking for the whisk in the kitchen",
+    "question": "Who used the whisk last?",
+    "choice_a": "Alice",
+    "choice_b": "Me",
+    "choice_c": "Shure",
+    "choice_d": "Lucia",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "11542100"
+    },
+    "keywords": "use whisk",
+    "reason": "I took the whisk from his hand"
+  },
+  {
+    "ID": "378",
+    "query_time": {
+      "date": "DAY5",
+      "time": "18335013"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "Saw the package box on the table",
+    "question": "When was the last time a package arrived that Alice was organizing?",
+    "choice_a": "About two hours ago",
+    "choice_b": "About two days ago",
+    "choice_c": "1 day 6 hours ago",
+    "choice_d": "About four hours ago",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "12163800"
+    },
+    "keywords": "arrive package, Alice organize",
+    "reason": "Someone delivered a package"
+  },
+  {
+    "ID": "379",
+    "query_time": {
+      "date": "DAY5",
+      "time": "18343902"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "Tasha suggested finding a container to put the eggs in and start baking",
+    "question": "Now Tasha suggested finding a container to put the eggs in and start baking. What did we bake in the oven last time?",
+    "choice_a": "Sweet Potato",
+    "choice_b": "Bread",
+    "choice_c": "Egg Tart",
+    "choice_d": "Pizza",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "18024615"
+    },
+    "keywords": "Tasha suggest find container, bake in oven",
+    "reason": "Tasha was holding the baking tray"
+  },
+  {
+    "ID": "382",
+    "query_time": {
+      "date": "DAY5",
+      "time": "18401702"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": false,
+    "last_time": true,
+    "trigger": "I picked up the oven mitts",
+    "question": "When was the last time these oven mitts were used?",
+    "choice_a": "This afternoon",
+    "choice_b": "Yesterday afternoon",
+    "choice_c": "Yesterday morning",
+    "choice_d": "Yesterday at noon",
+    "answer": "B",
+    "target_time": {
+      "date": "DAY4",
+      "time": "17313315"
+    },
+    "keywords": "use oven mitts",
+    "reason": "Tasha picked up the oven mitts"
+  },
+  {
+    "ID": "397",
+    "query_time": {
+      "date": "DAY5",
+      "time": "21025420"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "While we were chatting in the living room,",
+    "question": "Shure is dancing now, what were we doing the last time he danced?",
+    "choice_a": "Listening to that song",
+    "choice_b": "Dancing",
+    "choice_c": "Eating burgers",
+    "choice_d": "Playing on the phone",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "22045804"
+    },
+    "keywords": "doing, Shure danced",
+    "reason": "We were all laughing watching Shure dance"
+  },
+  {
+    "ID": "440",
+    "query_time": {
+      "date": "DAY6",
+      "time": "16430403"
+    },
+    "type": "EntityLog",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "Cardboard Puppy",
+    "question": "Who made the Cardboard Puppy?",
+    "choice_a": "Me",
+    "choice_b": "Tasha",
+    "choice_c": "Shure",
+    "choice_d": "Lucia",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY4",
+      "time": "18101315"
+    },
+    "keywords": "made Cardboard Puppy",
+    "reason": "Lucia mentioned making a cardboard puppy"
+  },
+  {
+    "ID": "445",
+    "query_time": {
+      "date": "DAY6",
+      "time": "17170912"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "Alice handed the puppy to the girl in the denim jacket",
+    "question": "When was the last time Alice made this puppy?",
+    "choice_a": "The day before yesterday",
+    "choice_b": "Today",
+    "choice_c": "Two days ago",
+    "choice_d": "Yesterday",
+    "answer": "A",
+    "target_time": {
+      "date": "DAY4",
+      "time": "17470815"
+    },
+    "keywords": "Alice made puppy?",
+    "reason": "Because we want to eat bibimbap"
+  },
+  {
+    "ID": "449",
+    "query_time": {
+      "date": "DAY6",
+      "time": "19494719"
+    },
+    "type": "EventRecall",
+    "need_audio": true,
+    "need_name": true,
+    "last_time": true,
+    "trigger": "We are listening to Shure play and sing",
+    "question": "We are listening to Shure play and sing now, when was the last time we heard him play and sing?",
+    "choice_a": "Three days ago",
+    "choice_b": "Yesterday",
+    "choice_c": "The day before yesterday",
+    "choice_d": "Today",
+    "answer": "C",
+    "target_time": {
+      "date": "DAY4",
+      "time": "20585004"
+    },
+    "keywords": "hear Shure play, hear Shure sing",
+    "reason": "Everyone is listening to others playing guitar"
+  },
+  {
+    "ID": "482",
+    "query_time": {
+      "date": "DAY7",
+      "time": "11584212"
+    },
+    "type": "EventRecall",
+    "need_audio": false,
+    "need_name": true,
+    "last_time": false,
+    "trigger": "When everyone was sitting in the yard chatting",
+    "question": "How many times has Shure played the guitar in total?",
+    "choice_a": "4 times",
+    "choice_b": "2 times",
+    "choice_c": "1 time",
+    "choice_d": "3 times",
+    "answer": "D",
+    "target_time": {
+      "date": "DAY4",
+      "time": "17044917DAY4_20593813DAY6_19483807"
+    },
+    "keywords": "Shure play guitar",
+    "reason": "Katrina was writing"
+  }
+]
