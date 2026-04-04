@@ -9,7 +9,8 @@ from ..utils.logging_utils import get_logger
 from ..utils.llm_utils import fix_broken_generated_json, filter_invalid_triples
 from ..utils.misc_utils import TripleRawOutput, NerRawOutput
 
-from worldmm.llm import LLMModel, PromptTemplateManager
+from worldmm.llm import PromptTemplateManager
+from ..llm.simple_openai import SimpleOpenAILLM
 
 logger = get_logger(__name__)
 
@@ -37,7 +38,7 @@ def _extract_ner_from_response(real_response):
 
 
 class OpenIE:
-    def __init__(self, llm_model: LLMModel):
+    def __init__(self, llm_model: SimpleOpenAILLM):
         # Init prompt template manager
         self.prompt_template_manager = PromptTemplateManager(role_mapping={"system": "system", "user": "user", "assistant": "assistant"})
         self.llm_model = llm_model

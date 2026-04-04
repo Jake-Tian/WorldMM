@@ -11,7 +11,6 @@ from typing import List, Dict, Any
 
 from worldmm.memory.episodic.openie import OpenIE
 from worldmm.memory.episodic.utils import compute_mdhash_id
-from worldmm.llm import LLMModel
 
 import logging
 
@@ -83,7 +82,6 @@ def main():
     """Main processing function."""
     parser = argparse.ArgumentParser(description="Extract episodic triples with OpenIE")
     parser.add_argument("--person", type=str, default="A1_JAKE")
-    parser.add_argument("--model", type=str, default="gpt-5-mini")
     parser.add_argument("--token-output", type=str, default="")
     args = parser.parse_args()
 
@@ -112,10 +110,8 @@ def main():
     text_passages = extract_text_passages(caption_data)
     logger.info(f"Extracted {len(text_passages)} text passages")
     
-    llm_model = LLMModel(model_name=args.model)
-    
     # Initialize OpenIE
-    openie_processor = OpenIE(llm_model)
+    openie_processor = OpenIE(model_name="gpt-5-mini")
     
     # Process with batch OpenIE
     logger.info("Processing with OpenIE...")

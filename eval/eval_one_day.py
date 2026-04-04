@@ -16,9 +16,9 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
 
 from worldmm.embedding import EmbeddingModel
-from worldmm.llm import LLMModel, PromptTemplateManager
+from worldmm.llm import PromptTemplateManager
 from worldmm.memory import WorldMemory, QAResult
-from worldmm.llm.token_monitor import update_token_eval_json
+from worldmm.llm import update_token_eval_json
 
 
 def load_json(file_path: str) -> Any:
@@ -190,8 +190,6 @@ def main():
     parser = argparse.ArgumentParser(description="EgoLifeQA Day-Specific Evaluation with WorldMM")
     parser.add_argument("--subject", type=str, default="A1_JAKE", help="Subject ID")
     parser.add_argument("--day", type=str, required=True, help="Day to evaluate (e.g., DAY1 or 1)")
-    parser.add_argument("--retriever-model", type=str, default="gpt-5-mini", help="LLM model for retrieval (NER, OpenIE)")
-    parser.add_argument("--respond-model", type=str, default="gpt-5", help="LLM model for iterative reasoning and generating answers")
     parser.add_argument("--max-rounds", type=int, default=5, help="Maximum retrieval rounds")
     parser.add_argument("--max-errors", type=int, default=5, help="Maximum errors before forcing answer")
     parser.add_argument("--episodic-top-k", type=int, default=3, help="Top-k for episodic retrieval")
@@ -205,8 +203,8 @@ def main():
 
     logger.info("Initializing models...")
     embedding_model = EmbeddingModel()
-    retriever_llm_model = LLMModel(model_name=args.retriever_model)
-    respond_llm_model = LLMModel(model_name=args.respond_model, fps=1)
+    retriever_llm_model = "gpt-5-mini"
+    respond_llm_model = "gpt-5-mini"
     prompt_template_manager = PromptTemplateManager()
 
     logger.info("Initializing WorldMemory...")
@@ -323,7 +321,7 @@ def main():
 
     output_path = os.path.join(
         args.output_dir,
-        f"{args.retriever_model.replace('-', '_')}_{args.respond_model.replace('-', '_')}",
+        f"gpt_5_mini",
         f"egolife_eval_{subject}_{day_norm}.json"
     )
     os.makedirs(os.path.dirname(output_path), exist_ok=True)

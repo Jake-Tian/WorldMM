@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
 
 from worldmm.embedding import EmbeddingModel
-from worldmm.llm import LLMModel, PromptTemplateManager
+from worldmm.llm import PromptTemplateManager
 from worldmm.memory import WorldMemory, QAResult, transform_timestamp
 
 
@@ -162,8 +162,6 @@ def parse_target_time(row: Dict[str, Any], segments_30s: List[Dict[str, Any]]) -
 def main():
     parser = argparse.ArgumentParser(description="EgoLifeQA Evaluation with WorldMM")
     parser.add_argument("--subject", type=str, default="A1_JAKE", help="Subject ID")
-    parser.add_argument("--retriever-model", type=str, default="gpt-5-mini", help="LLM model for retrieval (NER, OpenIE)")
-    parser.add_argument("--respond-model", type=str, default="gpt-5", help="LLM model for iterative reasoning and generating answers")
     parser.add_argument("--max-rounds", type=int, default=5, help="Maximum retrieval rounds")
     parser.add_argument("--max-errors", type=int, default=5, help="Maximum errors before forcing answer")
     parser.add_argument("--episodic-top-k", type=int, default=3, help="Top-k for episodic retrieval")
@@ -176,13 +174,8 @@ def main():
     # Initialize models
     logger.info("Initializing models...")
     embedding_model = EmbeddingModel()
-    retriever_llm_model = LLMModel(
-        model_name=args.retriever_model,
-    )
-    respond_llm_model = LLMModel(
-        model_name=args.respond_model,
-        fps=1,
-    )
+    retriever_llm_model = "gpt-5-mini"
+    respond_llm_model = "gpt-5-mini"
     prompt_template_manager = PromptTemplateManager()
 
     # Initialize WorldMemory
@@ -313,7 +306,7 @@ def main():
     # Save results
     output_path = os.path.join(
         args.output_dir, 
-        f"{args.retriever_model.replace('-', '_')}_{args.respond_model.replace('-', '_')}",
+        f"gpt_5_mini",
         f"egolife_eval_{subject}.json"
     )
     os.makedirs(os.path.dirname(output_path), exist_ok=True)

@@ -1,5 +1,5 @@
 from .ner import one_shot_ner_paragraph, one_shot_ner_output
-from ...llm.prompt_template_manager import convert_format_to_template
+from worldmm.llm import convert_format_to_template
 
 ner_conditioned_re_system = """Your task is to construct an RDF (Resource Description Framework) graph from the given passages and named entity lists. 
 Respond with a JSON list of triples, with each triple representing a relationship in the RDF graph. 

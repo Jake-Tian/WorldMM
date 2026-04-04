@@ -6,28 +6,36 @@ from tqdm import tqdm
 import logging
 
 from .utils import compute_mdhash_id, filter_invalid_triples, NerRawOutput, TripleRawOutput, NerOutput, TripleOutput
-from ...llm import dynamic_retry_decorator, LLMModel, PromptTemplateManager
+from ...llm import dynamic_retry_decorator, PromptTemplateManager, generate_text_response
 
 logger = logging.getLogger(__name__)
 
 
 class OpenIE:
-    def __init__(self, llm_model: LLMModel):
+    def __init__(self, model_name: str = "gpt-5-mini"):
         # Init prompt template manager
         self.prompt_template_manager = PromptTemplateManager(role_mapping={"system": "system", "user": "user", "assistant": "assistant"})
-        self.llm_model = llm_model
+        self.model_name = model_name
         self.total_tokens = 0
 
     @dynamic_retry_decorator
     def _execute_ner_call(self, ner_input_message) -> Tuple[List[str], int]:
         """Retryable helper that runs the full NER try-block logic (so the whole block is retried)."""
-        response, tokens = self.llm_model.generate_with_tokens(ner_input_message, text_format=NerRawOutput)
+        response, tokens = generate_text_response(
+            ner_input_message,
+            text_format=NerRawOutput,
+            model=self.model_name,
+        )
         return response.named_entities, int(tokens or 0)
 
     @dynamic_retry_decorator
     def _execute_triples_call(self, messages) -> Tuple[List[List[str]], int]:
         """Retryable helper that runs the full triple-extraction try-block logic (so the whole block is retried)."""
-        response, tokens = self.llm_model.generate_with_tokens(messages, text_format=TripleRawOutput)
+        response, tokens = generate_text_response(
+            messages,
+            text_format=TripleRawOutput,
+            model=self.model_name,
+        )
         triples = filter_invalid_triples(response.triples)
         return triples, int(tokens or 0)
 

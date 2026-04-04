@@ -22,8 +22,6 @@ uv sync 2>&1 | tee "$LOG_DIR/uv_sync_$TIMESTAMP.log"
 echo -e "${BLUE}Generating Sync data...${NC}"
 # python data/EgoLife/utils/generate_sync.py 2>&1 | tee "$LOG_DIR/generate_sync_$TIMESTAMP.log"
 
-echo -e "${BLUE}Preprocess Done! Output: output/metadata/*_memory/${PERSON}/${NC}"
-
 source .venv/bin/activate
 
 while [[ $# -gt 0 ]]; do
@@ -36,13 +34,17 @@ while [[ $# -gt 0 ]]; do
     esac
 done
 
+# Token accounting (new JSON)
+mkdir -p output/metadata
+export WORLDMM_TOKEN_STEP_FILE="output/metadata/token_usage_step3_${PERSON}.json"
+
 # Build Memory
 mkdir -p output/metadata/{episodic,semantic}_memory/${PERSON}
 
 LOG_DIR=".log/build_memory/${PERSON}"
 mkdir -p "$LOG_DIR"
 
-TOKEN_MEMORY_FILE="token_memory.json"
+TOKEN_MEMORY_FILE="${WORLDMM_TOKEN_STEP_FILE:-token_memory.json}"
 
 add_step_tokens() {
     local step_name="$1"

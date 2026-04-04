@@ -6,14 +6,14 @@ from tqdm import tqdm
 import logging
 
 from .utils import SemanticRawOutput, SemanticOutput
-from ...llm import LLMModel, PromptTemplateManager
+from ...llm import PromptTemplateManager, generate_text_response
 
 logger = logging.getLogger(__name__)
 
 class SemanticExtraction:
-    def __init__(self, llm_model: LLMModel):
+    def __init__(self, model_name: str = "gpt-5-mini"):
         self.prompt_template_manager = PromptTemplateManager(role_mapping={"system": "system", "user": "user", "assistant": "assistant"})
-        self.llm_model = llm_model
+        self.model_name = model_name
         self.total_tokens = 0
 
     def semantic_extraction(self, chunk_key: str, episodic_triples: List[List[str]]) -> SemanticOutput:
@@ -23,7 +23,11 @@ class SemanticExtraction:
 
         try:
             # LLM INFERENCE (entire try-block is retried by the decorator)
-            response, tokens = self.llm_model.generate_with_tokens(messages, text_format=SemanticRawOutput)
+            response, tokens = generate_text_response(
+                messages,
+                text_format=SemanticRawOutput,
+                model=self.model_name,
+            )
             self.total_tokens += int(tokens or 0)
 
         except Exception as e:
@@ -58,7 +62,7 @@ class SemanticExtraction:
                 json_results[key] = value
         
         os.makedirs(output_dir, exist_ok=True)
-        with open(os.path.join(output_dir, f"semantic_extraction_results_{self.llm_model.model_name}.json"), 'w', encoding='utf-8') as f:
+        with open(os.path.join(output_dir, f"semantic_extraction_results_{self.model_name}.json"), 'w', encoding='utf-8') as f:
             json.dump(json_results, f, indent=2, ensure_ascii=False)
 
     def batch_semantic_extraction(self, episodic_triples_batch: Dict[str, List[List[str]]], output_dir: str = ".") -> Tuple[Dict[str, List[List[str]]], Dict[str, List[List[int]]]]:

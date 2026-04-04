@@ -1,6 +1,6 @@
 #!/bin/bash
 # WorldMM Memory Construction Script
-# Usage: ./script/3_build_memory.sh [--step episodic|semantic|visual|all] [--person <person>] [--day <DAY1|1>] [--gpu 0,1,2,3] [--model gpt-5-mini]
+# Usage: ./script/3_build_memory.sh [--step episodic|semantic|visual|all] [--person <person>] [--day <DAY1|1>] [--gpu 0,1,2,3]
 
 set -e
 trap 'echo -e "\nInterrupted."; exit 130' INT TERM
@@ -8,7 +8,6 @@ trap 'echo -e "\nInterrupted."; exit 130' INT TERM
 PERSON="A1_JAKE"
 STEP="all"
 GPU_LIST="0,1,2,3"
-MODEL="gpt-5-mini"
 NUM_FRAMES=16
 DAY=""
 
@@ -20,7 +19,6 @@ while [[ $# -gt 0 ]]; do
         --person) PERSON="$2"; shift 2 ;;
         --day) DAY="$2"; shift 2 ;;
         --gpu) GPU_LIST="$2"; shift 2 ;;
-        --model) MODEL="$2"; shift 2 ;;
         --frames) NUM_FRAMES="$2"; shift 2 ;;
         *) echo "Unknown: $1"; exit 1 ;;
     esac
@@ -55,7 +53,6 @@ run_episodic() {
     python preprocess/episodic_memory/generate_fine_caption.py \
         --sync-dir "data/EgoLife/EgoLifeCap/Sync" \
         --person "$PERSON" \
-        --model "$MODEL" \
         --output "$CAPTION_OUTPUT" \
         $DAY_ARG 2>&1 | tee "$LOG_DIR/generate_fine_caption${DAY_SUFFIX}_$TIMESTAMP.log"
 
@@ -69,7 +66,6 @@ run_episodic() {
     echo -e "${BLUE}Episodic Memory: Extracting triples...${NC}"
     python preprocess/episodic_memory/extract_episodic_triples.py \
         --person "$PERSON" \
-        --model "$MODEL" \
         --caption-file "$CAPTION_OUTPUT" \
         $DAY_ARG 2>&1 | tee "$LOG_DIR/episodic_triples${DAY_SUFFIX}_$TIMESTAMP.log"
 }
@@ -78,14 +74,12 @@ run_semantic() {
     echo -e "${BLUE}Semantic Memory: Extracting triples...${NC}"
     python preprocess/semantic_memory/extract_semantic_triples.py \
         --person "$PERSON" \
-        --model "$MODEL" \
         --caption-file "$CAPTION_OUTPUT" \
         $DAY_ARG 2>&1 | tee "$LOG_DIR/semantic_extraction${DAY_SUFFIX}_$TIMESTAMP.log"
 
     echo -e "${BLUE}Semantic Memory: Consolidating...${NC}"
     python preprocess/semantic_memory/consolidate_semantic_memory.py \
         --person "$PERSON" \
-        --model "$MODEL" \
         $DAY_ARG 2>&1 | tee "$LOG_DIR/semantic_consolidation${DAY_SUFFIX}_$TIMESTAMP.log"
 }
 

@@ -11,10 +11,11 @@ import numpy as np
 from collections import defaultdict
 import re
 
-from worldmm.llm import LLMModel, PromptTemplateManager
+from worldmm.llm import PromptTemplateManager
 from worldmm.embedding import EmbeddingModel
 from worldmm.memory.episodic.openie import OpenIE
 from worldmm.memory.episodic.utils import NerOutput, TripleOutput
+from .llm.simple_openai import SimpleOpenAILLM
 
 from .embedding_store import EmbeddingStore
 from .evaluation.retrieval_eval import RetrievalRecall
@@ -30,7 +31,7 @@ class HippoRAG:
     def __init__(self,
                  global_config=None,
                  save_dir=None,
-                 llm_model: Optional[LLMModel] = None,
+                 llm_model: Optional[Any] = None,
                  embedding_model: Optional[EmbeddingModel] = None):
         """
         Initializes an instance of the class and its related components.
@@ -40,7 +41,7 @@ class HippoRAG:
                 of BaseConfig is used if no value is provided.
             saving_dir (str): The directory where specific HippoRAG instances will be stored. This defaults
                 to `outputs` if no value is provided.
-            llm_model (LLMModel): The language model used for processing based on the global
+            llm_model: The language model used for processing based on the global
                 configuration settings.
             openie (Union[OpenIE, VLLMOfflineOpenIE]): The Open Information Extraction module
                 configured in either online or offline mode based on the global settings.
@@ -90,10 +91,11 @@ class HippoRAG:
 
         if self.global_config.openie_mode == 'online':
             if llm_model is None:
-                self.llm_model = LLMModel(model_name=self.global_config.llm_name)
+                self.llm_model = SimpleOpenAILLM(model_name=self.global_config.llm_name)
             else:
                 self.llm_model = llm_model
-            self.openie = OpenIE(llm_model=self.llm_model)
+            # WorldMM OpenIE now expects a model name string.
+            self.openie = OpenIE(model_name=getattr(self.llm_model, "model_name", self.global_config.llm_name))
         elif self.global_config.openie_mode == 'offline':
             raise NotImplementedError("Offline OpenIE is not supported in current implementation.")
 

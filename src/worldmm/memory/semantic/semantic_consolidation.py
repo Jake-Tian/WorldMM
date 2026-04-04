@@ -8,15 +8,15 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
 from .utils import ConsolidationRawOutput
-from ...llm import LLMModel, PromptTemplateManager
+from ...llm import PromptTemplateManager, generate_text_response
 from ...embedding import EmbeddingModel
 
 logger = logging.getLogger(__name__)
 
 class SemanticConsolidation:
-    def __init__(self, llm_model: LLMModel, embedding_model: EmbeddingModel):
+    def __init__(self, embedding_model: EmbeddingModel, model_name: str = "gpt-5-mini"):
         self.prompt_template_manager = PromptTemplateManager(role_mapping={"system": "system", "user": "user", "assistant": "assistant"})
-        self.llm_model = llm_model
+        self.model_name = model_name
         self.embedding_model = embedding_model
         self.similarity_threshold = 0.6  # Threshold for finding relevant existing triples
 
@@ -84,7 +84,11 @@ class SemanticConsolidation:
             # Ensure messages is a list for chat-based templates
             if isinstance(messages, str):
                 raise ValueError("Expected chat template to return List[Dict], got string")
-            response, tokens = self.llm_model.generate_with_tokens(messages, text_format=ConsolidationRawOutput)
+            response, tokens = generate_text_response(
+                messages,
+                text_format=ConsolidationRawOutput,
+                model=self.model_name,
+            )
             self.total_tokens += int(tokens or 0)
 
         except Exception as e:

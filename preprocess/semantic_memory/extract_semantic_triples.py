@@ -12,7 +12,6 @@ from typing import List, Dict, Any
 
 from worldmm.memory.semantic import SemanticExtraction
 from worldmm.memory.episodic.utils import compute_mdhash_id
-from worldmm.llm import LLMModel
 
 import logging
 
@@ -80,7 +79,6 @@ def main():
     """Main processing function."""
     parser = argparse.ArgumentParser(description="Extract semantic triples")
     parser.add_argument("--person", type=str, default="A1_JAKE")
-    parser.add_argument("--model", type=str, default="gpt-5-mini")
     parser.add_argument("--token-output", type=str, default="")
     args = parser.parse_args()
 
@@ -96,7 +94,7 @@ def main():
 
     person = args.person
     caption_file = f"data/EgoLife/EgoLifeCap/{person}/{person}_30sec.json"
-    openie_results_file = f"output/metadata/episodic_memory/{person}/openie_results_{args.model}.json"
+    openie_results_file = f"output/metadata/episodic_memory/{person}/openie_results_gpt-5-mini.json"
     output_dir = f"output/metadata/semantic_memory/{person}"
     
     # Ensure output directory exists
@@ -133,9 +131,7 @@ def main():
         logger.error(f"Error grouping captions and extracting episodic triples: {e}")
         return
     
-    llm_model = LLMModel(model_name=args.model)
-
-    semantic_extraction = SemanticExtraction(llm_model)
+    semantic_extraction = SemanticExtraction(model_name="gpt-5-mini")
 
     # Process with batch semantic extraction
     print("Processing with Semantic Extraction...")
@@ -147,7 +143,7 @@ def main():
     total_semantic_triples = sum(len(result) for result in semantic_triples_results.values())
     print(f"Total semantic triples extracted: {total_semantic_triples}")
     
-    print(f"Results have been saved to: {output_dir}/semantic_extraction_results_{llm_model.model_name}.json")
+    print(f"Results have been saved to: {output_dir}/semantic_extraction_results_gpt-5-mini.json")
     print(f"Total tokens (extract_semantic_triples): {semantic_extraction.total_tokens}")
     if args.token_output:
         os.makedirs(os.path.dirname(args.token_output) or ".", exist_ok=True)

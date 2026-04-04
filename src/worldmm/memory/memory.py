@@ -10,7 +10,8 @@ import re
 from typing import Any, Dict, List, Optional, Set, Tuple
 from PIL import Image
 
-from ..llm import LLMModel, PromptTemplateManager
+from ..llm import PromptTemplateManager, generate_text_response
+from ..mllm import get_response as mm_get_response
 from ..embedding import EmbeddingModel
 
 from .episodic import EpisodicMemory, CaptionEntry
@@ -51,8 +52,8 @@ class WorldMemory:
     def __init__(
         self,
         embedding_model: EmbeddingModel,
-        retriever_llm_model: LLMModel,
-        respond_llm_model: Optional[LLMModel] = None,
+        retriever_llm_model: str,
+        respond_llm_model: Optional[str] = None,
         prompt_template_manager: Optional[PromptTemplateManager] = None,
         episodic_granularities: Optional[List[str]] = None,
         max_rounds: int = 5,
@@ -80,7 +81,7 @@ class WorldMemory:
         # Initialize memory subsystems
         self.episodic_memory = EpisodicMemory(
             embedding_model=embedding_model,
-            llm_model=retriever_llm_model,
+            llm_model_name=str(retriever_llm_model),
             prompt_template_manager=self.prompt_template_manager,
             granularities=episodic_granularities,
         )
@@ -468,7 +469,10 @@ Step 2 (only if search): Pick one memory type (episodic/semantic/visual) and for
             })
             
             try:
-                response, round_tokens = self.respond_llm_model.generate_with_tokens(reasoning_messages)
+                response, round_tokens = generate_text_response(
+                    reasoning_messages,
+                    model=str(self.respond_llm_model),
+                )
                 reasoning_output = self._parse_reasoning_response(response)
             except Exception as e:
                 logger.error(f"Reasoning failed: {e}")
@@ -576,7 +580,60 @@ Step 2 (only if search): Pick one memory type (episodic/semantic/visual) and for
         })
         
         try:
-            answer, answer_tokens = self.respond_llm_model.generate_with_tokens(qa_messages)
+            # If visual evidence exists, the user message contains image objects and must be sent as multimodal.
+            has_images = any(
+                isinstance(item, RetrievedItem) and item.memory_type == "visual"
+                for item in retrieved_items
+            )
+            if has_images:
+                # Convert qa_messages to OpenAI multimodal format:
+                # - keep system message(s) as plain strings
+                # - convert user content list into input_text/input_image items
+                system_text = "\n".join(
+                    [m.get("content", "") for m in qa_prompt if m.get("role") == "system"]
+                ).strip()
+
+                content_items: List[Dict[str, Any]] = []
+                content_items.append({"type": "input_text", "text": system_text + "\n\n" + full_query + "\n\nContext:\n"})
+
+                # Render retrieved items: text -> input_text, PIL -> input_image via util
+                for item in retrieved_items:
+                    if item.memory_type in ("episodic", "semantic"):
+                        content_items.append({"type": "input_text", "text": str(item.content)})
+                    elif item.memory_type == "visual" and isinstance(item.content, list):
+                        for img in item.content:
+                            if isinstance(img, Image.Image):
+                                mm_msg = {"role": "user", "content": [{"type": "input_text", "text": ""}]}
+                                # Reuse util to encode this single image by passing as list
+                                encoded = mm_get_response  # placeholder to satisfy linter; actual encoding below
+                                _ = encoded
+                                # We'll append images via multimodal util by building a temporary messages payload:
+                                # generate_messages handles PIL and returns content with base64
+                                from ..mllm import generate_messages as _gen
+                                tmp = _gen(img, prompt="")  # one user message with images
+                                # Extract input_image blocks
+                                for blk in tmp[0]["content"]:
+                                    if blk.get("type") == "input_image":
+                                        content_items.append(blk)
+
+                # Add letter-only constraint if needed
+                if choices:
+                    content_items.append(
+                        {
+                            "type": "input_text",
+                            "text": "\nPlease provide only the final answer from the choices given (e.g., A, B, C, or D).",
+                        }
+                    )
+
+                mm_messages = [
+                    {"role": "user", "content": content_items},
+                ]
+                answer, answer_tokens = mm_get_response(mm_messages, text_format=None)
+            else:
+                answer, answer_tokens = generate_text_response(
+                    qa_messages,
+                    model=str(self.respond_llm_model),
+                )
         except Exception as e:
             logger.error(f"Answer generation failed: {e}")
             answer = "Unable to generate answer"

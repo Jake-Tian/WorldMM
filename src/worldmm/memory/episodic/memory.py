@@ -7,7 +7,7 @@ import logging
 from typing import Dict, List, Any, Optional, Tuple, Union
 from dataclasses import dataclass
 
-from ...llm import LLMModel, PromptTemplateManager
+from ...llm import PromptTemplateManager, generate_text_response
 from ...embedding import EmbeddingModel
 
 from hipporag import HippoRAG
@@ -83,8 +83,8 @@ class EpisodicMemory:
     def __init__(
         self,
         embedding_model: EmbeddingModel,
-        llm_model: LLMModel,
         prompt_template_manager: PromptTemplateManager,
+        llm_model_name: str = "gpt-5-mini",
         granularities: Optional[List[str]] = None,
     ):
         """
@@ -97,7 +97,7 @@ class EpisodicMemory:
             granularities: List of granularity levels to use (default: all)
         """
         self.embedding_model = embedding_model
-        self.llm_model = llm_model
+        self.llm_model_name = llm_model_name
         self.prompt_template_manager = prompt_template_manager
         self.granularities = granularities or self.GRANULARITY_ORDER
         
@@ -120,7 +120,7 @@ class EpisodicMemory:
         if granularity not in self.hipporag:
             self.hipporag[granularity] = HippoRAG(
                 save_dir=f".cache/episodic_memory/{granularity}",
-                llm_model=self.llm_model,
+                llm_model=None,
                 embedding_model=self.embedding_model)
         return self.hipporag[granularity]
     
@@ -393,7 +393,7 @@ Return ONLY a JSON array of caption IDs in order of relevance (most relevant fir
         prompt.append(filter_message)
         
         try:
-            response = self.llm_model.generate(prompt)
+            response, _tokens = generate_text_response(prompt, model=self.llm_model_name)
             
             # Parse response to get selected IDs
             selected_ids = self._parse_filter_response(response, set(id_to_entry.keys()))

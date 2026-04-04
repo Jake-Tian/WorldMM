@@ -5,9 +5,7 @@ import time
 from typing import Optional
 import yaml
 
-from worldmm.llm import LLMModel
-
-model = LLMModel(model_name="gpt-5-mini")
+from worldmm.llm import generate_text_response
 
 
 def call_gpt(
@@ -35,12 +33,13 @@ def call_gpt(
     openai_key = os.getenv("OPENAI_API_KEY")
 
     if openai_key:
-        response, tokens = model.generate_with_tokens(
+        response, tokens = generate_text_response(
             [
                 {"role": "system", "content": system_message},
-                {"role": "user", "content": prompt}
+                {"role": "user", "content": prompt},
             ],
-            max_output_tokens=max_tokens*2  # For reasoning tokens
+            model="gpt-5-mini",
+            max_output_tokens=max_tokens * 2,  # For reasoning tokens
         )
         if return_tokens:
             return response, int(tokens or 0)

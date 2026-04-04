@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate first-person video captions from sync files using the worldmm LLMModel.
+Generate first-person video captions from sync files using OpenAI responses API.
 Processes A1_JAKE sync files and rewrites Jake's perspective into I/me.
 """
 
@@ -13,9 +13,7 @@ from typing import Dict, List, Tuple
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from tqdm import tqdm
-from worldmm.llm import LLMModel
-
-model = LLMModel(model_name="gpt-5-mini")
+from worldmm.llm import generate_text_response
 
 SYSTEM_PROMPT = """# Role and Objective
 
@@ -130,11 +128,12 @@ def generate_caption(segment_entries: List[Dict]) -> Tuple[str, int]:
     """Generate caption text using the LLM and return token usage."""
     try:
         prompt = create_prompt(segment_entries)
-        content, tokens = model.generate_with_tokens(
+        content, tokens = generate_text_response(
             [
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": prompt},
-            ]
+            ],
+            model="gpt-5-mini",
         )
 
         generated_text = content.strip() if content else ""
@@ -273,7 +272,7 @@ def process_sync_files(sync_dir: str, output_file: str) -> int:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate first-person video captions using the worldmm LLMModel")
+    parser = argparse.ArgumentParser(description="Generate first-person video captions using OpenAI responses API")
     parser.add_argument("--sync-dir", default="data/EgoLife/EgoLifeCap/Sync", help="Directory containing sync files")
     parser.add_argument(
         "--output",

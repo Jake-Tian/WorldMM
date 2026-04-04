@@ -44,6 +44,9 @@ if ! command -v hf >/dev/null 2>&1; then
     exit 1
 fi
 
+mkdir -p output/metadata
+export WORLDMM_TOKEN_STEP_FILE="output/metadata/token_usage_step4_${PERSON}.json"
+
 BLUE='\033[1;34m'
 NC='\033[0m'
 TIMESTAMP=$(date +%Y%m%d_%H%M%S)
@@ -120,11 +123,11 @@ for d in "${DAYS_RAW[@]}"; do
     DAYS+=("$nd")
 done
 
-# BOOT_LOG="$LOG_DIR/eval_bootstrap_${TIMESTAMP}.log"
-# if ! download_visual_memory "$BOOT_LOG"; then
-#     echo -e "${BLUE}✗ visual_memory download failed. Abort.${NC}" | tee -a "$BOOT_LOG"
-#     exit 1
-# fi
+BOOT_LOG="$LOG_DIR/eval_bootstrap_${TIMESTAMP}.log"
+if ! download_visual_memory "$BOOT_LOG"; then
+    echo -e "${BLUE}✗ visual_memory download failed. Abort.${NC}" | tee -a "$BOOT_LOG"
+    exit 1
+fi
 
 for day in "${DAYS[@]}"; do
     DAY_LOG="$LOG_DIR/eval_${day}_${RESP_MODEL//-/_}_${TIMESTAMP}.log"

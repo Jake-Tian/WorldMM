@@ -12,7 +12,6 @@ from tqdm import tqdm
 
 from worldmm.memory.semantic import SemanticConsolidation
 from worldmm.embedding import EmbeddingModel
-from worldmm.llm import LLMModel
 
 import logging
 
@@ -29,7 +28,7 @@ def main():
     """Main processing function."""
     parser = argparse.ArgumentParser(description="Consolidate semantic memory")
     parser.add_argument("--person", type=str, default="A1_JAKE")
-    parser.add_argument("--model", type=str, default="gpt-5-mini")
+    
     parser.add_argument("--token-output", type=str, default="")
     args = parser.parse_args()
 
@@ -45,7 +44,7 @@ def main():
     }
 
     person = args.person
-    semantic_results_file = f"output/metadata/semantic_memory/{person}/semantic_extraction_results_{args.model}.json"
+    semantic_results_file = f"output/metadata/semantic_memory/{person}/semantic_extraction_results_{"gpt-5-mini"}.json"
     output_dir = f"output/metadata/semantic_memory/{person}"
     
     # Ensure output directory exists
@@ -68,9 +67,7 @@ def main():
     embedding_model = EmbeddingModel(text_model_name="text-embedding-3-small")
     embedding_model.load_model(model_type="text")
 
-    llm_model = LLMModel(model_name=args.model)
-
-    semantic_consolidation = SemanticConsolidation(llm_model, embedding_model)
+    semantic_consolidation = SemanticConsolidation(embedding_model, model_name="gpt-5-mini")
 
     # Process with batch semantic consolidation
     logger.info("Processing with Semantic Consolidation...")
@@ -152,7 +149,7 @@ def main():
     logger.info(f"Reduction in triples: {total_triples_before - total_triples_after} ({((total_triples_before - total_triples_after) / total_triples_before * 100):.1f}%)")
     
     # Final save of all timestamped results
-    output_file = os.path.join(output_dir, f"semantic_consolidation_results_{llm_model.model_name}.json")
+    output_file = os.path.join(output_dir, f"semantic_consolidation_results_{"gpt-5-mini"}.json")
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(timestamped_results, f, indent=2, ensure_ascii=False)
     

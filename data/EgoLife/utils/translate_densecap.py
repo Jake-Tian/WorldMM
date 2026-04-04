@@ -4,9 +4,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import pysrt
 from tqdm import tqdm
 
-from worldmm.llm import LLMModel
-
-model = LLMModel(model_name="gpt-5-mini")
+from worldmm.llm import generate_text_response
 
 SYSTEM_PROMPT = "You are a helpful assistant that translates text from Chinese to English. Answer in translated text only."
 
@@ -31,10 +29,13 @@ def translate(input_path: str, output_path: str) -> None:
         hour = int(os.path.basename(in_file).split("_")[-1][:2])
 
         def _translate_one(idx: int, text: str, start: str, end: str):
-            translation = model.generate([
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": text}
-            ])
+            translation, _tokens = generate_text_response(
+                [
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": text},
+                ],
+                model="gpt-5-mini",
+            )
             return idx, build_record(name, date, start, end, idx, translation)
 
         futures = []
