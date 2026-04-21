@@ -1,0 +1,1505 @@
+1
+00:28:40,733 --> 00:28:41,432
+其他人：OK
+Others: OK
+
+2
+00:28:42,099 --> 00:28:42,900
+Shure: 怎么了
+Shure: What's up?
+
+3
+00:28:45,267 --> 00:28:46,067
+Jake:买了
+Jake: Bought it.
+
+4
+00:28:46,532 --> 00:28:47,900
+其他人：已经有了
+Others: Already got it.
+
+5
+00:28:48,166 --> 00:28:49,133
+Jake:什么叫有了
+Jake: What do you mean got it?
+
+6
+00:28:50,166 --> 00:28:52,067
+Jake:有人已经有人买了
+Jake: Someone already bought it.
+
+7
+00:28:51,900 --> 00:28:53,633
+其他人：那不是呵呵呵
+Others: Isn’t that funny?
+
+8
+00:28:53,200 --> 00:28:53,733
+Jake:呵呵呵
+Jake: Haha
+
+9
+00:28:54,532 --> 00:28:57,733
+其他人：我说我现在账户里已经有150个ego币了
+Others: I’m saying I already have 150 ego coins in my account.
+
+10
+00:28:57,967 --> 00:28:59,767
+Jake:哦牛批
+Jake: Oh, that's awesome.
+
+11
+00:28:59,767 --> 00:29:00,767
+Jake:可以可以
+Jake: Cool, cool.
+
+12
+00:29:00,367 --> 00:29:01,300
+Shure: 然后呢
+Shure: And then?
+
+13
+00:29:01,833 --> 00:29:03,432
+Shure: 然后我们怎么分发呢
+Shure: So, how do we distribute them?
+
+14
+00:29:03,733 --> 00:29:07,233
+Shure: 这个最后会有有
+Shure: In the end, we’ll...
+
+15
+00:29:07,233 --> 00:29:10,666
+Shure: 有这个matemask卖色的就分
+Shure: Distribute among those who have Metamask, right?
+
+16
+00:29:10,666 --> 00:29:11,932
+Shure: 没有的就不分是吧
+Shure: Those who don't, won't get any, right?
+
+17
+00:29:11,833 --> 00:29:13,500
+其他人：我的想法是
+Others: My idea is...
+
+18
+00:29:13,500 --> 00:29:13,967
+其他人：最后
+Others: In the end...
+
+19
+00:29:13,967 --> 00:29:17,932
+其他人：今天大家每个人最后手里有多少个ego币
+Others: By the end of today, everyone will have a certain amount of ego coins.
+
+20
+00:29:21,633 --> 00:29:22,833
+Shure: 那怎么发呢
+Shure: So how do we distribute them?
+
+21
+00:29:23,666 --> 00:29:25,800
+Shure: 万一有人没有这个钱包呢
+Shure: What if someone doesn't have the wallet?
+
+22
+00:29:26,099 --> 00:29:27,233
+其他人：发钱包也不
+Others: Distributing wallets too is not...
+
+23
+00:29:27,233 --> 00:29:28,032
+其他人：要钱
+Others: Costly.
+
+24
+00:29:28,633 --> 00:29:29,500
+其他人：但我不知道这个
+Others: But I don’t know if...
+
+25
+00:29:29,500 --> 00:29:31,267
+其他人：发钱包会不会要燃油费啊
+Others: Distributing wallets will incur gas fees?
+
+26
+00:29:31,267 --> 00:29:32,067
+其他人：也他妈发一个
+Others: Damn it, distribute one...
+
+27
+00:29:32,067 --> 00:29:33,166
+其他人：ego币不要钱
+Others: Ego coin doesn’t cost anything.
+
+28
+00:29:33,166 --> 00:29:34,367
+其他人：燃油费他妈
+Others: But gas fees, damn it...
+
+29
+00:29:35,500 --> 00:29:36,666
+其他人：那没事我还有
+Others: Doesn’t matter, I still have more.
+
+30
+00:29:39,633 --> 00:29:40,800
+Shure: 知道这是干嘛的吗
+Shure: Do you know what this is for?
+
+31
+00:29:41,833 --> 00:29:43,367
+其他人：测温的
+Others: For measuring temperature.
+
+32
+00:29:42,833 --> 00:29:43,300
+Shure: 就是
+Shure: Exactly.
+
+33
+00:30:09,500 --> 00:30:11,867
+其他人： 那你加一个面包我要先吃一下
+Others: Add a bread, I want to eat first.
+
+34
+00:30:12,300 --> 00:30:13,099
+Shure: 我有
+Shure: I have it.
+
+35
+00:30:18,467 --> 00:30:19,433
+Shure: 怎么搞
+Shure: How do we do this?
+
+36
+00:30:21,200 --> 00:30:24,067
+Shure: 草那账单账户密码记不记得
+Shure: Damn it, do you remember the account password?
+
+37
+00:30:41,000 --> 00:30:43,500
+Shure: 我同意导入现有钱包
+Shure: I agree to import the existing wallet.
+
+38
+00:30:43,599 --> 00:30:44,500
+Shure: 我同意
+Shure: I agree.
+
+39
+00:30:45,599 --> 00:30:48,700
+其他人：嗯你用什么软件Matmax
+Others: Hmm, what software are you using, Matmax?
+
+40
+00:30:48,333 --> 00:30:49,267
+Shure: Matmax
+Shure: Matmax.
+
+41
+00:30:53,933 --> 00:30:54,700
+其他人：还在录着呢
+Others: Still recording
+
+42
+00:30:54,700 --> 00:30:55,300
+其他人：卧槽
+Others: Damn
+
+43
+00:30:55,300 --> 00:30:57,532
+其他人：我要把你助记词全全他妈记下来
+Others: I'm going to remember all your mnemonic phrases
+
+44
+00:30:58,599 --> 00:30:59,666
+Shure: 哼好
+Shure: Hmm, okay
+
+45
+00:31:09,900 --> 00:31:11,000
+Shure: 我给发过
+Shure: I sent it before
+
+46
+00:31:11,000 --> 00:31:12,133
+Shure: 我的助记词
+Shure: My mnemonic phrases
+
+47
+00:31:17,833 --> 00:31:19,700
+Shure: （歌词）哒哒哒爱人的歌
+Shure: (lyrics) Da da da lover's song
+
+48
+00:31:25,200 --> 00:31:26,467
+Shure: 别他妈他妈创个币
+Shure: Don't damn create a coin
+
+49
+00:31:26,467 --> 00:31:28,300
+Shure: 还有手续费我真绷不住了
+Shure: And the transaction fees, I really can't handle it
+
+50
+00:31:35,833 --> 00:31:37,800
+其他人：但这个币本身已经很贵了
+Others: But this coin itself is already expensive
+
+51
+00:31:38,067 --> 00:31:39,032
+Shure: 真的吗
+Shure: Really?
+
+52
+00:31:39,067 --> 00:31:41,133
+其他人：我花了400块钱
+Others: I spent 400 yuan
+
+53
+00:31:43,467 --> 00:31:46,433
+Shure: 那他现在是跟跟那个以太坊
+Shure: So now it has a real-time exchange rate with Ethereum?
+
+54
+00:31:46,433 --> 00:31:49,099
+Shure: 相当于有实时汇率吗还是
+Shure: Or what?
+
+55
+00:31:48,032 --> 00:31:50,833
+其他人：基本实时它现在不值钱0美刀
+Others: Basically real-time, but now it's worthless, zero dollars
+
+56
+00:31:59,067 --> 00:32:01,400
+其他人：感觉从这个
+Others: Feels like from this
+
+57
+00:32:01,367 --> 00:32:05,300
+其他人：我们的成本上这币每个都已经3块钱
+Others: Our cost makes each coin already 3 yuan
+
+58
+00:32:18,599 --> 00:32:19,400
+Katrina: 真的吗
+Katrina: Really?
+
+59
+00:32:43,300 --> 00:32:45,233
+Shure: OK了来吧
+Shure: Okay, let's go
+
+60
+00:32:45,200 --> 00:32:45,733
+其他人：来吧
+Others: Let's go
+
+61
+00:32:49,867 --> 00:32:50,666
+Shure: 收款
+Shure: Payment
+
+62
+00:32:52,067 --> 00:32:53,833
+其他人：给你搞搞5个币怎么样
+Others: How about I get you 5 coins?
+
+63
+00:32:53,833 --> 00:32:55,200
+Shure: 对先给我搞5个
+Shure: Yes, get me 5 first
+
+64
+00:32:56,500 --> 00:32:57,867
+其他人：你手里有5个吧
+Others: Do you have 5?
+
+65
+00:32:58,400 --> 00:32:59,333
+Shure: 我一分没有
+Shure: I don't have a cent
+
+66
+00:32:59,333 --> 00:33:02,300
+其他人：那你得发给我押金
+Others: Then you need to send me a deposit
+
+67
+00:33:03,067 --> 00:33:04,099
+其他人：押我100块
+Others: Deposit 100 yuan
+
+68
+00:33:04,133 --> 00:33:07,099
+其他人：你如果今天活动结束有5个
+Others: If you have 5 by the end of the event today
+
+69
+00:33:07,233 --> 00:33:09,067
+Shure: 好好好你快快转吧
+Shure: Okay, okay, hurry up and transfer
+
+70
+00:33:09,067 --> 00:33:11,666
+Shure: 先别墨迹了
+Shure: Stop wasting time
+
+71
+00:33:13,267 --> 00:33:15,867
+Lucia: 这比巧克力宣传整颗榛子还离谱
+Lucia: This is more ridiculous than chocolate advertising whole hazelnuts
+
+72
+00:33:16,133 --> 00:33:18,000
+Lucia: 因为它真的是整颗雪梨
+Lucia: Because it's really a whole pear
+
+73
+00:33:18,900 --> 00:33:22,333
+Lucia: 你看我一捞上来我就惊呆了
+Lucia: Look, I was stunned when I scooped it up
+
+74
+00:33:23,733 --> 00:33:26,099
+Jake:吃应该比较好分吧
+Jake: It should be easier to divide up to eat, right?
+
+75
+00:33:26,733 --> 00:33:28,500
+Jake:要自己分就很离谱
+Jake: It's ridiculous to divide it yourself
+
+76
+00:33:37,867 --> 00:33:39,099
+Shure: 燃油费要多少
+Shure: How much is the gas fee?
+
+77
+00:33:41,500 --> 00:33:43,133
+其他人：绷不住了哈哈
+Others: Can't handle it, haha
+
+78
+00:33:44,666 --> 00:33:46,267
+Shure: 那我们只能最后一洗
+Shure: Then we can only wash it one last time
+
+79
+00:33:46,267 --> 00:33:47,032
+其他人：共十几只
+Others: A total of a few
+
+80
+00:33:47,032 --> 00:33:49,099
+其他人：好吧我们就够我们信任几只
+Others: Okay, we just need to trust a few
+
+81
+00:33:49,099 --> 00:33:50,467
+Shure: 我给你们寄账单
+Shure: I'll send you guys the bill.
+
+82
+00:33:50,700 --> 00:33:54,200
+Shure: 哈哈哈哈
+Shure: Hahaha.
+
+83
+00:33:54,400 --> 00:33:55,666
+其他人：这他妈得多少钱啊
+Others: How much is this gonna cost?
+
+84
+00:34:01,099 --> 00:34:02,666
+Shure: 0.00000
+Shure: 0.00000.
+
+85
+00:34:02,700 --> 00:34:03,867
+其他人：他这个是他这个是市场决定的
+Others: This is market-driven.
+
+86
+00:34:03,900 --> 00:34:04,433
+其他人：你知道吗
+Others: You know?
+
+87
+00:34:04,433 --> 00:34:05,233
+Shure: 啊
+Shure: Ah.
+
+88
+00:34:05,833 --> 00:34:08,467
+Shure: 0.0005对吧
+Shure: 0.0005, right?
+
+89
+00:34:08,666 --> 00:34:10,300
+其他人：嗯这也不便宜
+Others: Yeah, that's not cheap either.
+
+90
+00:34:10,367 --> 00:34:12,633
+Jake:你要不找一个固定的叉子
+Jake: Why not find a fixed fork?
+
+91
+00:34:13,433 --> 00:34:14,900
+Jake:你要是你活动
+Jake: If you're active...
+
+92
+00:34:31,900 --> 00:34:32,933
+Shure: 不4块钱吗
+Shure: Isn't it 4 bucks?
+
+93
+00:34:32,933 --> 00:34:34,867
+其他人：0块啊两块一毛6
+Others: No, it's 0 bucks, 2 bucks and 1.6 dimes.
+
+94
+00:34:36,767 --> 00:34:37,666
+Shure: 啊
+Shure: Ah.
+
+95
+00:34:37,666 --> 00:34:38,532
+其他人：牛逼啊
+Others: Awesome!
+
+96
+00:34:38,599 --> 00:34:40,400
+Shure: 那最后的时候再弄呗
+Shure: We'll do it at the end then.
+
+97
+00:34:40,867 --> 00:34:42,000
+Shure: 就是计完之后
+Shure: After calculating.
+
+98
+00:34:41,733 --> 00:34:43,800
+Shure: 等燃油费便宜的时候再弄
+Shure: When the fuel fee gets cheaper.
+
+99
+00:34:45,233 --> 00:34:47,700
+Shure: 不还有那个d选项什么的那个
+Shure: There's also that option D, right?
+
+100
+00:34:47,700 --> 00:34:48,900
+其他人：这就是要等啊
+Others: We just have to wait.
+
+101
+00:34:49,666 --> 00:34:51,000
+Shure: 啊
+Shure: Ah.
+
+102
+00:34:52,000 --> 00:34:53,900
+其他人：懂吧他这也是市场浮动的
+Others: You see, it's also market-driven.
+
+103
+00:34:54,367 --> 00:34:55,166
+Shure: 懂了
+Shure: Got it.
+
+104
+00:35:16,367 --> 00:35:16,800
+Shure: 你好
+Shure: Hello.
+
+105
+00:35:16,500 --> 00:35:19,032
+Jake:哎怎么没有充电宝
+Jake: Hey, why are there no power banks?
+
+106
+00:35:19,200 --> 00:35:20,200
+Shure: 没有充电宝
+Shure: No power banks.
+
+107
+00:35:20,333 --> 00:35:21,133
+Jake:嗯
+Jake: Hmm.
+
+108
+00:35:25,433 --> 00:35:28,833
+Shure: （歌词）darling just catch me slow
+Shure: (lyrics) Darling just catch me slow.
+
+109
+00:35:36,933 --> 00:35:38,166
+Jake:来整俩充电宝
+Jake: Let's get two power banks.
+
+110
+00:35:38,467 --> 00:35:39,267
+Shure: 好
+Shure: Okay.
+
+111
+00:35:43,300 --> 00:35:44,099
+Shure: 这
+Shure: Here.
+
+112
+00:35:47,633 --> 00:35:48,433
+Shure: ok
+Shure: Ok.
+
+113
+00:36:14,200 --> 00:36:15,200
+其他人：只要我靠谱
+Others: As long as I stay reliable.
+
+114
+00:36:15,200 --> 00:36:16,532
+其他人：这个币就有价值
+Others: This currency will have value.
+
+115
+00:36:20,633 --> 00:36:21,666
+Jake:你怎么靠谱
+Jake: How can you be reliable?
+
+116
+00:36:22,300 --> 00:36:24,633
+其他人：因为我现在就必须得
+Others: Because I just have to...
+
+117
+00:36:27,666 --> 00:36:28,900
+其他人：记住每个人多少钱
+Others: Keep track of everyone's money.
+
+118
+00:36:28,900 --> 00:36:31,367
+其他人：我没办法直接给他们
+Others: I can't just give it to them directly.
+
+119
+00:36:32,700 --> 00:36:34,500
+其他人：啊直接给他们他妈太坑
+Others: Yeah, giving it to them directly would be too shady.
+
+120
+00:36:35,367 --> 00:36:37,166
+Jake:那那怎么办
+Jake: Then what to do?
+
+121
+00:36:43,633 --> 00:36:44,433
+Jake:啊
+Jake: Ah
+
+122
+00:36:45,433 --> 00:36:46,233
+Jake:好
+Jake: Okay
+
+123
+00:36:54,067 --> 00:36:54,933
+Shure: 都给你录下来了
+Shure: I've recorded everything for you
+
+124
+00:37:15,467 --> 00:37:16,532
+其他人：这不挺好听的吗
+Other: Doesn't it sound pretty good?
+
+125
+00:37:40,767 --> 00:37:42,467
+Lucia: 看起来好像可以用的样子
+Lucia: It looks like it can be used
+
+126
+00:37:47,267 --> 00:37:49,367
+Lucia: 我可以现在把它摘下来安一下吗
+Lucia: Can I take it down and install it now?
+
+127
+00:38:13,567 --> 00:38:15,532
+Tasha: 谁给我拿了
+Tasha: Who took it for me?
+
+128
+00:38:17,599 --> 00:38:18,567
+Lucia: 本来民宿的
+Lucia: Originally for the guesthouse
+
+129
+00:38:18,567 --> 00:38:21,000
+Lucia: supposed to拿我们所有人的快递
+Lucia: Supposed to pick up all our packages
+
+130
+00:38:22,767 --> 00:38:24,166
+Lucia: 你昨天应该说一声
+Lucia: You should've said something yesterday
+
+131
+00:38:24,166 --> 00:38:26,666
+Lucia: 我要知道你没拿我们就跟你一块去
+Lucia: If I knew you didn't pick it up, I would've gone with you
+
+132
+00:38:25,300 --> 00:38:26,599
+Tasha: 我给他打电话了
+Tasha: I called him
+
+133
+00:38:28,467 --> 00:38:30,400
+Lucia: 领导这是你的你的问题了
+Lucia: Boss, this is your problem
+
+134
+00:38:30,400 --> 00:38:33,767
+Lucia: 领导你反思哈哈
+Lucia: Boss, reflect on it, haha
+
+135
+00:38:50,400 --> 00:38:51,400
+Lucia: 我觉得民宿
+Lucia: I think the guesthouse
+
+136
+00:38:51,400 --> 00:38:55,099
+Lucia: 他们这个工作态度要提升一下呀
+Lucia: Their work attitude needs some improvement
+
+137
+00:39:02,133 --> 00:39:03,200
+Lucia: 我们真的要去三亚吗
+Lucia: Are we really going to Sanya?
+
+138
+00:39:03,200 --> 00:39:04,133
+Lucia: 我还没有去过
+Lucia: I haven't been there
+
+139
+00:39:05,567 --> 00:39:06,367
+Lucia: 没去过
+Lucia: Never been
+
+140
+00:39:06,666 --> 00:39:08,867
+Lucia: 所以您要是在三亚做实验的话
+Lucia: So if you're doing experiments in Sanya
+
+141
+00:39:08,967 --> 00:39:11,767
+Lucia: 你看我这个工作态度和效率怎么样
+Lucia: Check out my work attitude and efficiency
+
+142
+00:39:12,633 --> 00:39:14,933
+Shure: 什么什么时候去三亚呀老板
+Shure: Boss, when are we going to Sanya?
+
+143
+00:39:16,500 --> 00:39:17,433
+Jake:什么时候去
+Jake: When are we going?
+
+144
+00:39:17,900 --> 00:39:19,500
+Jake:五一之后去走
+Jake: After May 1st, we'll go
+
+145
+00:39:19,867 --> 00:39:22,000
+Shure: 真的吗
+Shure: Really?
+
+146
+00:39:24,267 --> 00:39:25,333
+Shure: 你等我答完辩的
+Shure: Wait for me to finish my defense
+
+147
+00:39:25,333 --> 00:39:29,200
+Shure: 好吧我正好正好公费度蜜月去了
+Shure: Okay, I'll just go on a free honeymoon
+
+148
+00:39:25,567 --> 00:39:27,099
+Tasha: 不等
+Tasha: No waiting
+
+149
+00:39:29,200 --> 00:39:29,833
+Shure: 怎么样
+Shure: How about it?
+
+150
+00:39:29,333 --> 00:39:32,700
+Tasha: 公费度蜜月你还要把你女朋友带上
+Tasha: Free honeymoon, you still have to bring your girlfriend
+
+151
+00:39:33,200 --> 00:39:35,099
+Shure: 我们干活效率都很高
+Shure: We all work very efficiently
+
+152
+00:39:34,900 --> 00:39:36,099
+Tasha: 哦是你啊
+Tasha: Oh, it's you
+
+153
+00:39:37,733 --> 00:39:39,467
+Tasha: 想看看是哪位男生
+Tasha: Wanted to see which guy
+
+154
+00:39:39,333 --> 00:39:41,166
+Alice:啊累死我了
+Alice: Ah, I'm exhausted
+
+155
+00:39:40,400 --> 00:39:40,833
+Shure: 啊
+Shure: Ah
+
+156
+00:39:40,900 --> 00:39:42,467
+Tasha: 你女朋友在北京吗
+Tasha: Is your girlfriend in Beijing?
+
+157
+00:39:42,633 --> 00:39:43,300
+Shure: 是的
+Shure: Yes
+
+158
+00:39:42,800 --> 00:39:44,933
+Tasha: 哦是他的
+Tasha: Oh, it's his
+
+159
+00:39:44,933 --> 00:39:45,733
+Tasha: 在西安
+Tasha: In Xi'an
+
+160
+00:39:46,166 --> 00:39:46,567
+Shure: 嗯
+Shure: Mm
+
+161
+00:39:46,900 --> 00:39:47,867
+Tasha: 啊什么
+Tasha: Huh, what?
+
+162
+00:39:47,300 --> 00:39:47,867
+Shure: 什么
+Shure: What?
+
+163
+00:39:47,867 --> 00:39:49,500
+Tasha: 我说是他的在西安
+Tasha: I said his girlfriend is in Xi'an.
+
+164
+00:39:49,067 --> 00:39:49,633
+Shure: 啊
+Shure: Oh.
+
+165
+00:39:50,067 --> 00:39:51,200
+Lucia: 谁女朋友在西安
+Lucia: Whose girlfriend is in Xi'an?
+
+166
+00:39:51,700 --> 00:39:53,867
+Tasha: 他女朋友啊
+Tasha: His girlfriend.
+
+167
+00:39:54,532 --> 00:39:56,532
+Lucia: 想认识一下美女小姐姐
+Lucia: I want to meet this pretty lady.
+
+168
+00:39:56,000 --> 00:39:58,800
+Tasha: 呵呵怎么回事
+Tasha: Haha, what's going on?
+
+169
+00:39:56,933 --> 00:39:58,800
+Lucia: 哈哈哈
+Lucia: Hahaha.
+
+170
+00:39:59,300 --> 00:40:00,200
+Lucia: 因为我在西安
+Lucia: Because I'm in Xi'an.
+
+171
+00:40:00,166 --> 00:40:02,067
+Tasha: 我知道我说他怎么不说话哎
+Tasha: I know, I was wondering why he wasn't talking.
+
+172
+00:40:01,833 --> 00:40:03,467
+Shure: 那你会说陕西话吗
+Shure: Can you speak Shaanxi dialect?
+
+173
+00:40:03,500 --> 00:40:04,300
+Lucia: 我会
+Lucia: I can.
+
+174
+00:40:04,933 --> 00:40:06,666
+Lucia: 但我说的可能不那么标准
+Lucia: But maybe not very fluently.
+
+175
+00:40:06,867 --> 00:40:09,000
+Lucia: 不过北方话反正本来就是变个调
+Lucia: Anyway, northern dialects are all about changing tones.
+
+176
+00:40:08,267 --> 00:40:10,900
+其他人：现在我说陕西话感觉也挺好听
+Others: Now that I speak Shaanxi dialect, it sounds pretty nice.
+
+177
+00:40:12,200 --> 00:40:15,532
+Lucia: 怎么了要我说一段吗哈
+Lucia: What's up, want me to say something in it?
+
+178
+00:40:15,800 --> 00:40:17,200
+Shure: 老辣子溜馍
+Shure: Old spicy bread.
+
+179
+00:40:17,800 --> 00:40:20,433
+Shure: 哈哈绿绿辣子
+Shure: Haha, green spicy bread.
+
+180
+00:40:18,900 --> 00:40:22,133
+Lucia: 哈哈你这舌撒的咋听不懂啊哈哈
+Lucia: Haha, I can't understand your accent, haha.
+
+181
+00:40:21,633 --> 00:40:22,933
+Shure: 绿辣子溜馍
+Shure: Green spicy bread.
+
+182
+00:40:22,933 --> 00:40:23,867
+Shure: 什么那个
+Shure: What the...
+
+183
+00:40:24,467 --> 00:40:27,099
+Lucia: 不知道不过我我
+Lucia: I don't know, but I...
+
+184
+00:40:27,099 --> 00:40:29,333
+Lucia: 因为我们家一般不说山西话
+Lucia: Because my family generally doesn't speak Shaanxi dialect.
+
+185
+00:40:29,333 --> 00:40:32,400
+Lucia: 就是只有只有我姥姥姥爷那一辈的
+Lucia: Only my grandparents' generation does.
+
+186
+00:40:32,099 --> 00:40:33,067
+Shure: 啊
+Shure: Oh.
+
+187
+00:40:32,400 --> 00:40:33,733
+Lucia: 他们才说山西话
+Lucia: They speak Shaanxi dialect.
+
+188
+00:40:33,900 --> 00:40:36,067
+Lucia: 对其实我在家其实也说普通话
+Lucia: Actually, we speak Mandarin at home.
+
+189
+00:40:36,067 --> 00:40:37,300
+Lucia: 就是说的就说的
+Lucia: It's just...
+
+190
+00:40:37,300 --> 00:40:38,333
+Lucia: 不是很标准
+Lucia: Not very fluently.
+
+191
+00:40:38,333 --> 00:40:39,599
+Lucia: 但是我同学都说
+Lucia: But my classmates say...
+
+192
+00:40:39,599 --> 00:40:40,700
+Lucia: 说的还可以
+Lucia: It's pretty good.
+
+193
+00:40:40,733 --> 00:40:43,200
+Lucia: 但是可能是同学给我给面子你知道吧
+Lucia: But maybe my classmates are just being polite, you know?
+
+194
+00:40:43,000 --> 00:40:45,700
+Shure: 完了武林外传的味上来了
+Shure: Now it sounds like "My Own Swordsman".
+
+195
+00:40:45,933 --> 00:40:48,300
+Shure: 佟掌柜哈哈哈
+Shure: Tong shopkeeper, haha.
+
+196
+00:40:48,300 --> 00:40:50,000
+Shure: 你今天要不就一直这样
+Shure: Why don't you keep talking like this today?
+
+197
+00:40:50,000 --> 00:40:51,633
+Shure: 我进来要来了呢
+Shure: I'm coming in.
+
+198
+00:40:51,633 --> 00:40:53,433
+Shure: 你啊你
+Shure: You, you...
+
+199
+00:40:52,200 --> 00:40:52,967
+Lucia: 啊
+Lucia: Huh?
+
+200
+00:40:53,433 --> 00:40:56,400
+Shure: 比如说那个那个有有客人来了
+Shure: For example, if a guest arrives...
+
+201
+00:40:56,400 --> 00:40:57,633
+Shure: 你会怎么说
+Shure: How would you say it?
+
+202
+00:40:57,633 --> 00:40:59,099
+Shure: 用用那个山西话啊
+Shure: In Shanxi dialect?
+
+203
+00:40:59,099 --> 00:41:00,067
+Shure: 不是陕西话
+Shure: Not Shaanxi dialect.
+
+204
+00:41:02,967 --> 00:41:06,099
+Lucia: 吃馍还是吃还是吃啥
+Lucia: Eating steamed buns or what else?
+
+205
+00:41:04,567 --> 00:41:05,666
+Jake:哈哈哈哈
+Jake: Hahaha
+
+206
+00:41:06,099 --> 00:41:06,900
+Lucia: 俺也不知道
+Lucia: I don't know either.
+
+207
+00:41:06,900 --> 00:41:09,166
+Lucia: 哈哈哈哈
+Lucia: Hahaha
+
+208
+00:41:08,700 --> 00:41:10,500
+Alice:他说下午统一取
+Alice: He said we should pick it up in the afternoon.
+
+209
+00:41:10,666 --> 00:41:11,967
+Alice:下午不就晚了
+Alice: Isn't the afternoon too late?
+
+210
+00:41:11,833 --> 00:41:14,233
+Jake:对所以我们直接自己走
+Jake: Yeah, so we should just go by ourselves.
+
+211
+00:41:15,166 --> 00:41:16,933
+Alice:我有两个我的都到了
+Alice: I have two, both of mine arrived.
+
+212
+00:41:20,267 --> 00:41:21,900
+Lucia: 他那里面是整颗雪梨
+Lucia: There's a whole snow pear inside.
+
+213
+00:41:21,967 --> 00:41:23,800
+Lucia: 不过已经被我吃掉了一部分
+Lucia: But I already ate part of it.
+
+214
+00:41:27,800 --> 00:41:29,666
+Alice:所以什么时候拿快递啊
+Alice: So when are we picking up the package?
+
+215
+00:41:29,633 --> 00:41:30,333
+Jake:现在吧
+Jake: Now.
+
+216
+00:41:33,000 --> 00:41:34,400
+Jake:哎谢斌竹帮忙
+Jake: Hey, Xie Bin Zhu, help me out.
+
+217
+00:41:34,532 --> 00:41:35,067
+Jake:这个这个
+Jake: This one, this one.
+
+218
+00:42:17,233 --> 00:42:18,333
+Shure: 俺是河南的
+Shure: I'm from Henan.
+
+219
+00:42:18,867 --> 00:42:20,300
+Shure: 河南许昌的
+Shure: From Xuchang, Henan.
+
+220
+00:42:59,433 --> 00:43:00,333
+Jake:呃
+Jake: Uh...
+
+221
+00:43:08,267 --> 00:43:09,900
+Lucia: 只有两个了谢谢
+Lucia: Only two left, thanks.
+
+222
+00:43:14,767 --> 00:43:15,567
+Shure: 怎么办
+Shure: What to do?
+
+223
+00:43:48,666 --> 00:43:50,067
+Shure: 什么东西啊
+Shure: What's that?
+
+224
+00:44:23,532 --> 00:44:25,333
+Alice:他们已经去取快递了吗
+Alice: Have they gone to pick up the package?
+
+225
+00:44:25,767 --> 00:44:26,333
+Shure: 还没
+Shure: Not yet.
+
+226
+00:45:55,666 --> 00:45:57,800
+Lucia: 我发到你的聊天框里吧
+Lucia: I'll send it to your chat box.
+
+227
+00:45:57,633 --> 00:45:58,167
+Jake:好
+Jake: Okay.
+
+228
+00:47:34,767 --> 00:47:38,333
+Lucia: 哇哈哈哈哈哈
+Lucia: Wahahaha
+
+229
+00:50:13,967 --> 00:50:15,367
+Lucia: 也可以或
+Lucia: That works too.
+
+230
+00:50:18,200 --> 00:50:20,067
+Shure: 哈哈哈
+Shure: Hahaha
+
+231
+00:50:52,867 --> 00:50:55,300
+Shure: 面阳光风啊
+Shure: Face the sunshine and the wind.
+
+232
+00:53:26,300 --> 00:53:27,667
+Shure: what are you doing bro
+Shure: What are you doing, bro?
+
+233
+00:53:27,967 --> 00:53:29,800
+Lucia: 我在找一个剪刀
+Lucia: I'm looking for scissors.
+
+234
+00:53:29,933 --> 00:53:31,200
+Lucia: 你昨天有在这里看
+Lucia: You looked here yesterday.
+
+235
+00:53:31,267 --> 00:53:31,933
+Lucia: 或者今天早上
+Lucia: Or this morning.
+
+236
+00:53:31,933 --> 00:53:34,100
+Lucia: 在这看到一个透明色的剪刀吗
+Lucia: Did you see a pair of transparent scissors here?
+
+237
+00:53:33,533 --> 00:53:34,233
+Shure: no
+Shure: No.
+
+238
+00:53:34,733 --> 00:53:36,400
+Lucia: 嗯奇怪
+Lucia: Hmm, weird.
+
+239
+00:53:36,200 --> 00:53:37,067
+Shure: nope
+Shure: Nope.
+
+240
+00:53:37,100 --> 00:53:38,467
+Lucia: 到处都没有哎
+Lucia: They're nowhere to be found.
+
+241
+00:53:42,500 --> 00:53:44,600
+Lucia: 离大谱了没有
+Lucia: Is this completely off track or what?
+
+242
+00:53:44,600 --> 00:53:47,800
+Lucia: 好奇怪我昨天晚上在那里用的
+Lucia: It's so weird, I was using it there last night.
+
+243
+00:53:47,800 --> 00:53:49,467
+Lucia: 然后就还放在那了
+Lucia: And then I just left it there.
+
+244
+00:53:57,900 --> 00:53:58,933
+Shure: 你好美女
+Shure: Hello, beautiful.
+
+245
+00:54:00,933 --> 00:54:01,800
+Shure: 嘛呢您
+Shure: What are you up to?
+
+246
+00:54:02,933 --> 00:54:04,133
+Shure: 呵压花
+Shure: Oh, pressing flowers.
+
+247
+00:54:04,833 --> 00:54:06,600
+Katrina: 哎怎么塞不进去啊
+Katrina: Hey, why can't I fit it in?
+
+248
+00:54:08,533 --> 00:54:09,833
+Shure: 是那首v是吗
+Shure: Is that the V song?
+
+249
+00:54:10,700 --> 00:54:12,100
+Katrina: 不知道推的什么歌
+Katrina: I don't know what song is being played.
+
+250
+00:54:13,867 --> 00:54:17,000
+Shure: 这是我某一年的年度单曲
+Shure: This was my song of the year one year.
+
+251
+00:54:17,900 --> 00:54:18,533
+Katrina: 啊
+Katrina: Ah.
+
+252
+00:54:18,967 --> 00:54:20,233
+Katrina: 当我飞奔向你
+Katrina: When I ran towards you.
+
+253
+00:54:20,233 --> 00:54:22,300
+Katrina: 不是那个青春剧吗
+Katrina: Isn't that from a youth drama?
+
+254
+00:54:21,833 --> 00:54:23,033
+Shure: 我没看过那个剧
+Shure: I haven't watched that drama.
+
+255
+00:54:23,033 --> 00:54:25,533
+Shure: 但是我知道这个star moon
+Shure: But I know this song, "Star Moon."
+
+256
+00:54:28,433 --> 00:54:29,367
+Katrina: 哦
+Katrina: Oh.
+
+257
+00:54:32,867 --> 00:54:35,067
+Shure: 我的那个特别特别大的那个花呢
+Shure: Where's that really big flower of mine?
+
+258
+00:54:39,067 --> 00:54:40,033
+Shure: 在哪在哪
+Shure: Where is it, where is it?
+
+259
+00:54:40,833 --> 00:54:42,600
+Shure: 是这朵吗嗯
+Shure: Is it this one, hmm?
+
+260
+00:54:42,033 --> 00:54:44,300
+Katrina: 嗯只能把它单独着
+Katrina: Yeah, you can only keep it separate.
+
+261
+00:54:49,133 --> 00:54:52,067
+Shure: 他怎么感觉没没抽干呢这个气
+Shure: Why does it feel like the air isn't fully sucked out?
+
+262
+00:54:52,733 --> 00:54:53,700
+Katrina: 大的确实有点
+Katrina: The big one really isn't.
+
+263
+00:54:53,700 --> 00:54:54,600
+Katrina: 完全没干
+Katrina: It’s not dried at all.
+
+264
+00:54:54,500 --> 00:54:56,067
+Shure: 那怎么怎么抽呢
+Shure: Then how do you suck it out?
+
+265
+00:54:56,233 --> 00:54:58,633
+Shure: 一般是拿嘴吸吗
+Shure: Do you usually use your mouth to suck it?
+
+266
+00:54:58,900 --> 00:55:01,433
+Katrina: 什么呀你说你说这个吗
+Katrina: What? You mean this?
+
+267
+00:54:59,900 --> 00:55:00,300
+Shure: 不是
+Shure: No.
+
+268
+00:55:01,067 --> 00:55:01,500
+Shure: 对啊
+Shure: Yeah.
+
+269
+00:55:01,700 --> 00:55:03,033
+Katrina: 我就用手的
+Katrina: I just use my hand.
+
+270
+00:55:03,033 --> 00:55:05,933
+Katrina: 这他他其实就是一层那个掀起来的
+Katrina: Actually, it's just a layer that lifts up.
+
+271
+00:55:05,933 --> 00:55:08,800
+Katrina: 盖上就感觉就很难了
+Katrina: Covering it feels quite difficult.
+
+272
+00:55:06,567 --> 00:55:07,100
+Shure: 啊
+Shure: Ah.
+
+273
+00:55:12,633 --> 00:55:15,033
+Shure: 我以为你这个口就是留着吸的
+Shure: I thought you left this opening to suck out the air.
+
+274
+00:55:15,067 --> 00:55:18,933
+Shure: 然后里面这些小气泡是你的唾液
+Shure: And these little bubbles inside are your saliva.
+
+275
+00:55:19,500 --> 00:55:21,600
+Katrina: 哇这么恶心
+Katrina: Wow, that's so gross.
+
+276
+00:55:24,400 --> 00:55:26,700
+Katrina: 这个真太劣质了
+Katrina: This thing is really poorly made.
+
+277
+00:55:27,067 --> 00:55:31,233
+Shure: (歌词)baby that i'm fool for you baby
+Shure: (Lyrics) baby that I'm a fool for you baby
+
+278
+00:55:31,233 --> 00:55:33,333
+Shure: (歌词)i'm a fool for you
+Shure: (Lyrics) I'm a fool for you
+
+279
+00:55:35,433 --> 00:55:36,400
+Katrina: 塞进去
+Katrina: Fit it in.
+
+280
+00:55:43,867 --> 00:55:44,667
+Shure: 嗯
+Shure: Hmm.
+
+281
+00:55:47,600 --> 00:55:48,400
+Shure: 啊
+Shure: Ah
+
+282
+00:55:48,600 --> 00:55:50,300
+Katrina: 把你的吉他拿出来练练
+Katrina: Take out your guitar and practice a bit.
+
+283
+00:55:50,867 --> 00:55:51,667
+Shure: 好
+Shure: Okay.
+
+284
+00:55:57,900 --> 00:55:59,300
+Shure: 哇真的好爽啊
+Shure: Wow, this feels so good.
+
+285
+00:55:59,300 --> 00:56:00,833
+Shure: 外面这个阳光今天
+Shure: The sunshine outside today...
+
+286
+00:56:09,800 --> 00:56:11,267
+Shure: 那才5:20
+Shure: It's only 5:20.
+
+287
+00:56:13,400 --> 00:56:14,700
+Lucia: 这个我昨天也用了
+Lucia: I used this yesterday too.
+
+288
+00:56:14,700 --> 00:56:16,100
+Lucia: 但是他没有捡到
+Lucia: But he didn't pick it up.
+
+289
+00:56:16,100 --> 00:56:19,100
+Lucia: 灵活就我昨天切瓶子的时候用了
+Lucia: So flexible, I used it when I cut the bottle yesterday.
+
+290
+00:56:24,833 --> 00:56:25,467
+Shure: 哎
+Shure: Hey
+
+291
+00:56:26,667 --> 00:56:28,300
+Lucia: 我靠好奇怪啊
+Lucia: Oh my, that's so strange.
+
+292
+00:56:29,867 --> 00:56:31,667
+Lucia: 他怎么能就没有了呢
+Lucia: How could it just disappear?
+
+293
+00:57:22,100 --> 00:57:23,633
+Shure: 小夹子呢
+Shure: Where's the clip?
+
+294
+00:58:34,100 --> 00:58:35,333
+Shure: 哎呀妈呀
+Shure: Oh my god.
+
+295
+00:59:14,732 --> 00:59:15,533
+Shure: 要钱
+Shure: Need money.
+
+296
+00:59:17,232 --> 00:59:17,799
+Shure: 不付
+Shure: Not paying.
+
+297
+00:59:22,133 --> 00:59:23,500
+Shure: 我们要复习
+Shure: We need to review.
+
+298
+00:59:23,500 --> 00:59:24,533
+Shure: 复习什么呢
+Shure: What should we review?
+
+299
+00:59:25,467 --> 00:59:27,133
+Shure: 哦晴天是吧
+Shure: Oh, "Sunny Day," right?
+
+300
+00:59:26,866 --> 00:59:27,567
+Katrina: 嗯
+Katrina: Yeah.
+
+301
+00:59:30,933 --> 00:59:31,732
+Shure: 哎
+Shure: Hey
+

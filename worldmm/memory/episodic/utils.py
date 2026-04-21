@@ -146,3 +146,19 @@ def filter_invalid_triples(triples: List[List[str]]) -> List[List[str]]:
             valid_triples.append(valid_triple)
 
     return valid_triples
+def filter_invalid_triples(triples: List[List[str]]) -> List[List[str]]:
+    """
+    Filters out invalid and duplicate triples from a list of triples.
+    """
+    unique_triples = set()
+    valid_triples = []
+
+    for triple in triples:
+        if len(triple) != 3: continue
+
+        valid_triple = [str(item) for item in triple]
+        if tuple(valid_triple) not in unique_triples:
+            unique_triples.add(tuple(valid_triple))
+            valid_triples.append(valid_triple)
+
+    return valid_triples

@@ -1,0 +1,2212 @@
+1
+00:30:50,966 --> 00:30:52,100
+Jake: 啊
+Jake: Ah
+
+2
+00:31:16,900 --> 00:31:18,000
+Lucia: 你在找什么
+
+3
+00:31:18,000 --> 00:31:19,366
+Jake:没有在晃悠
+
+4
+00:31:23,000 --> 00:31:24,366
+Jake:开工了
+
+5
+00:31:25,833 --> 00:31:26,666
+Jake:上班了上班了
+
+6
+00:31:31,600 --> 00:31:34,266
+Jake:拆快递二楼可能得收拾收拾
+
+7
+00:31:35,800 --> 00:31:37,000
+Jake:今天做狗吗
+
+8
+00:31:38,600 --> 00:31:40,000
+Lucia: 其实可以做
+
+9
+00:31:40,033 --> 00:31:41,866
+Lucia: 到底是做狗还是看狗啊
+
+10
+00:31:42,000 --> 00:31:43,700
+Jake:都可以做
+
+11
+00:31:43,700 --> 00:31:44,500
+Jake:可以看看狗
+
+12
+00:31:45,600 --> 00:31:47,833
+Jake:那我们建立一些逻辑吧
+
+13
+00:31:47,833 --> 00:31:52,433
+Jake:作为一个这个也是爱狗人还是什么人
+
+14
+00:31:52,700 --> 00:31:53,800
+Jake:建立一些逻辑
+
+15
+00:31:53,800 --> 00:31:57,200
+Jake:先看狗然后按照狗做狗
+
+16
+00:31:58,033 --> 00:31:59,633
+Lucia: 建立逻辑是替人
+
+17
+00:31:59,633 --> 00:31:59,933
+Jake: 替人好
+Jake: For people, right.
+
+18
+00:32:03,566 --> 00:32:06,500
+Katrina:  那就是先小说看一点狗的款式
+Katrina: So we'll first look at some dog styles.
+
+19
+00:32:05,933 --> 00:32:07,000
+Nicous: 什么是做狗
+Nicous: What does "making dogs" mean?
+
+20
+00:32:06,500 --> 00:32:08,066
+Katrina:  然后开始选择
+Katrina: Then start choosing.
+
+21
+00:32:08,066 --> 00:32:08,900
+Nicous: 做狗
+Katrina: Then make them.
+
+22
+00:32:08,066 --> 00:32:08,900
+Katrina:  然后再做
+Katrina: Then make them.
+
+23
+00:32:09,000 --> 00:32:10,866
+Lucia: 可以我需要一支笔
+
+24
+00:32:11,866 --> 00:32:15,900
+Lucia:  就是只要只要能只要能画个大概就行
+Lucia: As long as we can draw a rough outline, it's fine.
+
+25
+00:32:15,900 --> 00:32:19,066
+Lucia: 头暂时还不需要过多考虑哦点
+
+26
+00:32:19,366 --> 00:32:20,633
+Lucia: 哦   点
+Lucia: Oh, point.
+
+27
+00:32:20,633 --> 00:32:24,500
+Tasha: 三阶段就能卡着利息升8级我靠
+Tasha: You can level up to 8 in three stages by managing interest, wow.
+
+28
+00:32:25,533 --> 00:32:27,333
+Lucia: 在我的眼镜突然被拽歪的时候
+
+29
+00:32:27,333 --> 00:32:28,900
+Lucia: AI会不会以为地震了
+
+30
+00:32:30,233 --> 00:32:31,866
+Jake: 那可能地震频率过高
+Jake: Then maybe the earthquake frequency is too high.
+
+31
+00:32:30,233 --> 00:32:33,300
+Lucia: 是不是个好问题啊哈哈
+
+32
+00:32:31,866 --> 00:32:33,466
+Jake: 哈哈哈
+Jake: Hahaha.
+
+33
+00:32:33,666 --> 00:32:35,266
+Lucia: 也没有很经常吧
+
+34
+00:32:34,233 --> 00:32:35,700
+Jake: 好好
+Jake: Okay okay.
+
+35
+00:32:35,933 --> 00:32:38,466
+Lucia: 我只是刚才突然抓到线了而已
+
+36
+00:32:39,900 --> 00:32:40,700
+Jake: 那没电了
+Jake: Then there's no power.
+
+37
+00:32:40,600 --> 00:32:42,633
+Lucia: 我需我需要一根笔老板
+
+38
+00:32:40,700 --> 00:32:41,366
+Jake: 确实和地震
+Jake: Indeed, with the earthquake.
+
+39
+00:32:42,533 --> 00:32:43,333
+Jake: 什么笔
+Jake: What kind of pen?
+
+40
+00:32:43,000 --> 00:32:44,733
+Lucia: 随便什么笔
+
+41
+00:32:44,733 --> 00:32:47,500
+Lucia: 能在纸箱上面画出来线就行
+
+42
+00:32:45,900 --> 00:32:46,966
+Jake: 噢
+Jake: Oh.
+
+43
+00:32:48,600 --> 00:32:51,066
+也来不了i:S：哎我们之前买的彩笔是
+
+44
+00:32:51,066 --> 00:32:53,066
+Lucia: 好我们已经实现无纸化工作了
+
+45
+00:32:53,066 --> 00:32:54,066
+Lucia: 现在没有笔是吧
+
+46
+00:32:54,066 --> 00:32:56,600
+Shure: 哈哈是的
+
+47
+00:32:56,566 --> 00:32:57,533
+Jake: 是没到是吧
+Jake: They haven't arrived yet, right?
+
+48
+00:32:56,733 --> 00:32:59,533
+Shure: 我们要不要臆想出来一只纸狗
+Shure: Should we just imagine a paper dog?
+
+49
+00:33:02,233 --> 00:33:04,133
+Lucia: 因为我害怕一直用这白板笔
+Lucia: Because I'm afraid of using this whiteboard pen too much.
+
+50
+00:33:04,133 --> 00:33:05,133
+Lucia: 给他用没墨了
+Lucia: It'll run out of ink.
+
+51
+00:33:05,133 --> 00:33:07,133
+Jake: 嗯买买买
+Jake: Hmm, buy, buy, buy.
+
+52
+00:33:07,433 --> 00:33:09,700
+Jake: 所以没到还是还是怎么回事
+Jake: So it hasn't arrived yet, or what's going on?
+
+53
+00:33:11,333 --> 00:33:12,300
+Jake: 之前买的这个
+Jake: The one we bought before.
+
+54
+00:33:11,333 --> 00:33:13,200
+Lucia: 什么没到
+Lucia: What hasn't arrived?
+
+55
+00:33:12,600 --> 00:33:12,766
+Lucia:笔吗
+Lucia: The pens?
+
+56
+00:33:13,100 --> 00:33:13,366
+Jake:笔
+Jake: The pens.
+
+57
+00:33:13,633 --> 00:33:14,366
+Katrina:  彩笔刚到
+Katrina: The colored pens just arrived.
+
+58
+00:33:13,700 --> 00:33:14,633
+Jake: 彩笔
+Jake: The colored pens.
+
+59
+00:33:14,100 --> 00:33:15,966
+Katrina: 刚到刚到菜鸟驿站
+Katrina: Just arrived at the Cainiao station.
+
+60
+00:33:15,466 --> 00:33:17,133
+Jake: 哦那就还能领是吧
+Jake: Oh, so we can still pick them up?
+
+61
+00:33:16,566 --> 00:33:17,366
+Lucia: 啊
+Lucia: Ah.
+
+62
+00:33:17,133 --> 00:33:17,766
+Jake: 今天还能
+Jake: We can get them today?
+
+63
+00:33:17,766 --> 00:33:18,433
+Jake: 今天就能拿到了
+Jake: We can get them today.
+
+64
+00:33:18,433 --> 00:33:20,200
+Jake: 催他们一下
+Jake: Push them to hurry up.
+
+65
+00:33:25,433 --> 00:33:27,300
+Lucia: 雨轩有那种普通的写字的笔
+Lucia: Yuxuan has that kind of normal writing pen.
+
+66
+00:33:27,300 --> 00:33:29,566
+Lucia: 但是我感觉往完了纸上可能有点
+Lucia: But I feel like it might be a bit...
+
+67
+00:33:29,566 --> 00:33:33,666
+Lucia: 有点细做标记的话所以
+Lucia: A bit fine for making marks on the paper, so...
+
+68
+00:33:30,766 --> 00:33:31,200
+Jake: 好
+Jake: Okay.
+
+69
+00:33:35,333 --> 00:33:36,833
+Jake: 那就去取快递
+Jake: Then let's go get the package.
+
+70
+00:33:37,933 --> 00:33:39,466
+Tasha: 他虽然能上7个人
+Tasha: Even though it can fit 7 people,
+
+71
+00:33:39,466 --> 00:33:43,533
+Tasha: 但是的卡牌里面的那个概率还是那个
+Tasha: The probability in the card set is still that...
+
+72
+00:33:43,566 --> 00:33:45,033
+Tasha: 那个等级概率啊
+Tasha: That level of probability, yeah.
+
+73
+00:33:57,933 --> 00:34:01,100
+Jake: 走把二楼给收拾收拾给你们跳舞用
+Jake: Let's go clean up the second floor so you can dance there.
+
+74
+00:34:01,633 --> 00:34:02,700
+Shure:  二楼有什么
+Shure: What's on the second floor?
+
+75
+00:34:02,700 --> 00:34:05,633
+Jake: 二楼有饺子
+Jake: There are dumplings on the second floor.
+
+76
+00:34:07,466 --> 00:34:08,833
+Shure:  中午吃的饭还没熟呢
+Shure: The lunch isn't even ready yet.
+
+77
+00:34:08,833 --> 00:34:09,633
+Jake: 嗯
+Jake: Hmm.
+
+78
+00:34:10,433 --> 00:34:11,366
+Jake: 找点事做
+Jake: Let's find something to do.
+
+79
+00:34:15,900 --> 00:34:17,666
+Tasha: 哎呀你这个连胜没吃到呀
+
+80
+00:34:28,700 --> 00:34:30,533
+Lucia: 我决定也来压压花吧
+
+81
+00:34:30,533 --> 00:34:31,833
+Lucia: 这个怎么做呀
+
+82
+00:34:35,600 --> 00:34:39,233
+Lucia: 稍等这个是不是暂时还用不到
+
+83
+00:34:39,233 --> 00:34:40,300
+Lucia: 我先放起来
+
+84
+00:34:41,133 --> 00:34:43,500
+Lucia: 我们需要用到的是哪些呀
+
+85
+00:34:44,233 --> 00:34:45,766
+Katrina: 这个一套
+
+86
+00:34:47,333 --> 00:34:48,466
+Katrina: 下面是海绵
+
+87
+00:34:48,466 --> 00:34:51,300
+Katrina:  然后垫一层这个然后垫一层纸
+
+88
+00:34:51,300 --> 00:34:53,633
+Katrina: 中间放一层然后就跟汉堡包一样
+
+89
+00:34:53,633 --> 00:34:54,266
+Katrina: 垫一层这个
+
+90
+00:34:54,266 --> 00:34:55,266
+Katrina:  垫一层这个
+
+91
+00:34:55,266 --> 00:34:56,466
+Katrina: 可以看到吧
+
+92
+00:34:56,666 --> 00:34:57,333
+Lucia:  我看看
+
+93
+00:34:57,533 --> 00:34:58,633
+Katrina: 然后把它包起来
+
+94
+00:34:58,633 --> 00:35:00,733
+Katrina: 然后这种花可以上网看一下
+
+95
+00:35:00,733 --> 00:35:03,666
+Katrina: 有的人建议是摸花瓣
+
+96
+00:35:03,833 --> 00:35:05,633
+Katrina: 像这种小花就可以直接压
+
+97
+00:35:05,666 --> 00:35:08,333
+Katrina: 大花的话像压出来效果不好
+
+98
+00:35:08,833 --> 00:35:10,833
+Katrina: 我这次打算把它这样侧着压
+
+99
+00:35:11,066 --> 00:35:11,866
+Katrina: 看会不会好一点
+
+100
+00:35:11,866 --> 00:35:12,800
+Katrina: 我上次这样压
+
+101
+00:35:12,800 --> 00:35:14,100
+Katrina: 你知道这样压啊
+
+102
+00:35:14,100 --> 00:35:16,633
+Lucia: 对中间这个就比他们高很多
+
+103
+00:35:16,633 --> 00:35:18,600
+Katrina: 芍药的话我是
+
+104
+00:35:18,600 --> 00:35:19,700
+Lucia: Excuse me
+
+105
+00:35:19,833 --> 00:35:22,000
+Katrina: 因为他这太立体了压不了
+
+106
+00:35:22,000 --> 00:35:24,600
+Katrina: 我就扒了外面的粉色大片
+
+107
+00:35:24,666 --> 00:35:24,933
+Lucia: 或者
+
+108
+00:35:24,933 --> 00:35:28,233
+Lucia: 能不能把这里给他修剪的更短一些
+
+109
+00:35:28,333 --> 00:35:29,066
+Katrina: 也可以把
+
+110
+00:35:29,066 --> 00:35:30,066
+Katrina: 压这一块
+
+111
+00:35:31,600 --> 00:35:32,900
+Katrina: 你可以看网上的教程
+
+112
+00:35:32,900 --> 00:35:34,266
+Katrina: 反正我也不太熟
+
+113
+00:35:35,033 --> 00:35:36,666
+Lucia: 没事这个是怎么放的
+
+114
+00:35:36,666 --> 00:35:37,633
+Lucia: 看看你的
+
+115
+00:35:37,766 --> 00:35:38,933
+Katrina: 最下面一层海绵
+
+116
+00:35:39,300 --> 00:35:41,266
+Lucia: 这样子先这个对吧
+
+117
+00:35:41,266 --> 00:35:42,633
+Lucia: 然后放一层海绵
+
+118
+00:35:42,633 --> 00:35:44,433
+Katrina: 干燥板放一层干燥板
+
+119
+00:35:44,600 --> 00:35:46,900
+Lucia: 干燥板这个白的东西
+
+120
+00:35:46,900 --> 00:35:48,300
+Lucia: 这里面好像没有唉
+
+121
+00:35:48,800 --> 00:35:50,333
+Lucia: 所以在哪呢
+
+122
+00:35:50,900 --> 00:35:52,500
+Lucia: 哦对在那里
+
+123
+00:35:53,633 --> 00:35:54,466
+Lucia: 谢谢
+
+124
+00:35:58,433 --> 00:35:59,300
+Lucia: 然后
+
+125
+00:36:01,066 --> 00:36:03,433
+Lucia: 放纸然后就可以放花了啊
+
+126
+00:36:03,433 --> 00:36:05,400
+Lucia: 所以就是这里面可以垫好几层海绵
+
+127
+00:36:05,400 --> 00:36:06,333
+Lucia: 放好几层花
+
+128
+00:36:11,266 --> 00:36:12,866
+Lucia: 这张有点有点折的
+
+129
+00:36:14,533 --> 00:36:15,233
+Lucia: 都有点折了
+
+130
+00:36:15,233 --> 00:36:16,133
+Lucia: 就这样吧
+
+131
+00:36:21,000 --> 00:36:22,033
+Lucia: 这些给他扔
+
+132
+00:37:40,766 --> 00:37:42,100
+Jake:活狗可以看一看
+Jake: You can take a look at the live dog.
+
+133
+00:37:42,600 --> 00:37:44,600
+Jake:咖啡店我我没去过
+Jake: I've never been to the coffee shop.
+
+134
+00:37:44,700 --> 00:37:46,766
+Jake:据说200米很近
+Jake: They say it's only 200 meters away.
+
+135
+00:37:47,366 --> 00:37:50,066
+Lucia:我们可以先用自己的理念构思一只狗
+Lucia: We can first conceptualize a dog with our own ideas.
+
+136
+00:37:50,100 --> 00:37:50,700
+Jake:嗯对
+Jake: Yeah, right.
+
+137
+00:37:50,700 --> 00:37:53,266
+Jake:然后看画的狗和真正的狗长不长
+Jake: Then see if the drawn dog looks like a real dog.
+
+138
+00:37:52,133 --> 00:37:53,700
+Jake:像不像
+Jake: See if it resembles it.
+
+139
+00:37:55,433 --> 00:37:56,866
+Lucia:马非马
+Lucia: A horse or not?
+
+140
+00:37:57,333 --> 00:37:58,533
+Jake:走我们把二楼收拾收拾
+Jake: Let's go and tidy up the second floor.
+
+141
+00:37:58,533 --> 00:38:00,600
+Jake:没没事的兄弟姐妹们
+Jake: It's okay, brothers and sisters.
+
+142
+00:38:11,200 --> 00:38:12,466
+Tasha:啊可以
+Tasha: Ah, okay.
+
+143
+00:38:23,033 --> 00:38:26,033
+Lucia:啊啊啊这这朵枯萎了哦
+Lucia: Ah, ah, ah, this flower withered.
+
+144
+00:38:30,133 --> 00:38:32,700
+Lucia:好消息是我的芍药开始想开了
+Lucia: The good news is my peony is starting to bloom.
+
+145
+00:38:35,700 --> 00:38:36,866
+Lucia:逐渐想开
+Lucia: Gradually blooming.
+
+146
+00:38:40,033 --> 00:38:43,033
+Lucia:文本压那一朵呢
+Lucia: What's with that one?
+
+147
+00:39:11,700 --> 00:39:12,566
+Lucia:绑在外面了
+Lucia: Tied it outside.
+
+148
+00:40:12,733 --> 00:40:14,466
+Lucia:我又把我手机放哪了
+Lucia: Where did I put my phone again?
+
+149
+00:40:14,766 --> 00:40:15,466
+Lucia:哦在这
+Lucia: Oh, here it is.
+
+150
+00:40:18,333 --> 00:40:19,033
+Lucia:嗯
+Lucia: Hmm.
+
+151
+00:42:05,500 --> 00:42:07,133
+Katrina: 所以那个衣服怎么说来着
+Katrina: So, what's the deal with those clothes?
+
+152
+00:42:08,100 --> 00:42:09,633
+Katrina: 衣服
+Katrina: The clothes.
+
+153
+00:42:09,633 --> 00:42:10,700
+Tasha:说是租吧
+Tasha: They said we could rent them.
+
+154
+00:42:14,433 --> 00:42:15,600
+Tasha:清一下也可以
+Tasha: Or we can clean them.
+
+155
+00:42:16,300 --> 00:42:17,800
+Katrina: 那线上要下单不
+Katrina: Should we order online?
+
+156
+00:42:19,933 --> 00:42:21,733
+Tasha:我看了一家了
+Tasha: I found a place already.
+
+157
+00:42:23,133 --> 00:42:24,366
+Katrina: 请你发群里吧
+Katrina: Please share it in the group.
+
+158
+00:42:25,633 --> 00:42:27,100
+Katrina: 能让大家报一下尺码
+Katrina: So everyone can report their sizes.
+
+159
+00:42:43,366 --> 00:42:44,633
+Lucia:这花是它
+Lucia: This flower, it's...
+
+160
+00:42:46,166 --> 00:42:48,733
+Lucia:准备谢了还是它没没开
+Lucia: Is it about to wilt or it hasn't bloomed?
+
+161
+00:42:48,733 --> 00:42:49,766
+Katrina: 应该快要谢了
+Katrina: It's probably about to wilt.
+
+162
+00:42:49,766 --> 00:42:51,366
+Katrina: 不然它边边上都那个
+Katrina: Or else the edges wouldn't be like that.
+
+163
+00:42:52,166 --> 00:42:55,800
+Lucia:但它里面就是里面的花瓣有好硬
+Lucia: But inside, the petals are really hard.
+
+164
+00:42:56,600 --> 00:42:57,366
+Lucia:嗯
+Lucia: Hmm.
+
+165
+00:42:58,200 --> 00:42:58,933
+Lucia:要不这个吧
+Lucia: How about this one?
+
+166
+00:42:58,966 --> 00:42:59,600
+Lucia:这个花形
+Lucia: This flower shape.
+
+167
+00:42:59,600 --> 00:43:01,933
+Lucia:哈哈哈圆一点
+Lucia: Hahaha, a bit rounder.
+
+168
+00:43:10,366 --> 00:43:11,533
+Nicous: 这你都能输啊
+Nicous: How could you lose at this?
+
+169
+00:43:11,566 --> 00:43:13,033
+Tasha:我打的是连败啊
+Tasha: I'm on a losing streak.
+
+170
+00:43:13,033 --> 00:43:14,900
+Tasha:你看我五级星3尊者
+Tasha: Look, I'm level 5, star 3 lord.
+
+171
+00:43:14,866 --> 00:43:16,900
+Tasha:一回合可以吃10个金币
+Tasha: I can earn 10 gold coins in one round.
+
+172
+00:43:17,366 --> 00:43:19,200
+Nicous: 五级星被你搞基了
+Nicous: The five-star got messed up by you.
+
+173
+00:43:20,366 --> 00:43:21,400
+Jake:靠我也五级星
+Jake: Damn, I also got a five-star.
+
+174
+00:43:21,366 --> 00:43:23,200
+Tasha:你看你强度怎么上这么高
+Tasha: Look at how high your strength is.
+
+175
+00:43:23,633 --> 00:43:24,800
+Nicous: 我搞个够吧
+Nicous: I did it enough, right?
+
+176
+00:43:24,766 --> 00:43:26,200
+Nicous: 我就五级星
+Nicous: I just got a five-star.
+
+177
+00:43:27,033 --> 00:43:29,800
+Tasha:哎你猜一个一一一
+Tasha: Hey, guess a one-one-one.
+
+178
+00:43:29,200 --> 00:43:29,866
+Lucia:这
+Lucia: This...
+
+179
+00:43:30,200 --> 00:43:31,200
+Tasha:才从一开始
+Tasha: From the very beginning.
+
+180
+00:43:31,200 --> 00:43:32,700
+Tasha:有什么好伤心的
+Tasha: What's there to be sad about?
+
+181
+00:43:46,800 --> 00:43:49,266
+Tasha:就相当于是一个装备拆卸器
+Tasha: It's basically an equipment disassembler.
+
+182
+00:43:52,200 --> 00:43:53,366
+Tasha:你把它放到备战席上
+Tasha: Put it on the bench.
+
+183
+00:43:53,366 --> 00:43:54,700
+Tasha:他装备就掉下来了
+Tasha: The equipment will fall off.
+
+184
+00:43:58,700 --> 00:44:00,000
+Tasha:没有啊你97滴血
+Tasha: No, you have 97 HP.
+
+185
+00:44:00,000 --> 00:44:01,366
+Tasha:你转啥都行啊
+Tasha: You can switch to anything.
+
+186
+00:44:02,366 --> 00:44:05,900
+Tasha:你可以先先用五极星玩个三连
+Tasha: You can play a three-streak with five-stars first.
+
+187
+00:44:06,600 --> 00:44:09,200
+Tasha:玩到你看你这不是还要几个回合
+Tasha: Play until you see, you still need a few more rounds.
+
+188
+00:44:09,200 --> 00:44:10,966
+Tasha:还要五个回合才能收菜嘛
+Tasha: You need five more rounds to harvest.
+
+189
+00:44:11,100 --> 00:44:13,200
+Tasha:你收了一波菜之后你再转嘛
+Tasha: After harvesting, you can switch.
+
+190
+00:44:16,800 --> 00:44:17,733
+Tasha:转啥都行
+Tasha: You can switch to anything.
+
+191
+00:44:38,133 --> 00:44:38,933
+Tasha:不就是我吗
+Tasha: Isn't it just me?
+
+192
+00:44:38,933 --> 00:44:39,966
+Tasha:还有第二
+Tasha: And the second one.
+
+193
+00:44:42,300 --> 00:44:43,100
+Tasha:赛娜
+Tasha: Senna.
+
+194
+00:44:43,933 --> 00:44:44,733
+Tasha:你多少级了
+Tasha: What level are you?
+
+195
+00:44:44,733 --> 00:44:45,533
+Tasha:玩赛娜
+Tasha: Playing Senna.
+
+196
+00:44:46,700 --> 00:44:47,966
+Tasha:好吧 6级可以玩
+Tasha: Okay, level 6 is fine.
+
+197
+00:44:53,866 --> 00:44:54,900
+Tasha:哎呦这人傻逼吧
+Tasha: Oh, this person is an idiot.
+
+198
+00:44:54,933 --> 00:44:56,800
+Tasha:为什么他打不过我呀
+Tasha: Why can't he beat me?
+
+199
+00:45:15,300 --> 00:45:17,666
+Jake:听说你把心如干蒙了
+Jake: I heard you messed up Xinru.
+
+200
+00:45:18,100 --> 00:45:19,266
+Tasha:是的
+Tasha: Yes.
+
+201
+00:45:19,266 --> 00:45:20,500
+Jake:是的
+Jake: Yes.
+
+202
+00:45:21,133 --> 00:45:22,200
+Jake:你你现在是第几
+Jake: What rank are you now?
+
+203
+00:45:23,000 --> 00:45:24,500
+Tasha:我现在是这个名字
+Tasha: I'm using this name now.
+
+204
+00:45:24,500 --> 00:45:26,800
+Tasha:但是其实我只是一直在打连败的
+Tasha: But actually, I've been losing streaks all the time.
+
+205
+00:45:26,800 --> 00:45:27,466
+Jake:哦
+Jake: Oh.
+
+206
+00:45:27,866 --> 00:45:29,766
+Jake:心如现在还是短暂的第一名是吧
+Jake: So Xinru is temporarily first place, right?
+
+207
+00:45:29,766 --> 00:45:30,300
+Tasha:是的
+Tasha: Yes.
+
+208
+00:45:30,700 --> 00:45:31,966
+Jake:但是你还是把他打蒙了
+Jake: But you still messed him up.
+
+209
+00:45:32,000 --> 00:45:32,966
+Tasha:他也想连败的
+Tasha: He also wants to lose streaks.
+
+210
+00:45:32,966 --> 00:45:34,366
+Lucia:他浅浅的破防了
+Lucia: He got slightly broken.
+
+211
+00:45:34,366 --> 00:45:35,200
+Tasha:他想要连败
+Tasha: He wants to lose streaks.
+
+212
+00:45:35,200 --> 00:45:36,266
+Tasha:我也想要连败
+Tasha: I want to keep losing too.
+
+213
+00:45:36,266 --> 00:45:37,733
+Tasha:但他连败不过我
+Tasha: But he can't lose more than me.
+
+214
+00:45:37,933 --> 00:45:38,700
+Jake:哦
+Jake: Oh.
+
+215
+00:45:39,700 --> 00:45:41,466
+Jake:笑笑死我了
+Jake: That's so funny, I'm dying.
+
+216
+00:45:42,533 --> 00:45:43,466
+Jake:这个很难解释
+Jake: This is hard to explain.
+
+217
+00:45:43,466 --> 00:45:45,733
+Jake:不知道怎么怎么解释
+Jake: I don't know how to explain it.
+
+218
+00:45:46,600 --> 00:45:47,266
+Lucia:好难啊
+Lucia: So difficult.
+
+219
+00:45:48,766 --> 00:45:49,733
+Lucia:哈哈哈
+Lucia: Hahaha.
+
+220
+00:45:49,733 --> 00:45:51,066
+Katrina: 看下小红书教程吧
+Katrina: Let's check out a tutorial on Little Red Book.
+
+221
+00:45:51,100 --> 00:45:52,100
+Katrina: 我也是瞎做
+Katrina: I'm just doing it blindly too.
+
+222
+00:45:52,166 --> 00:45:55,100
+Lucia:看了但是感觉就这种厚的花
+Lucia: I looked, but it feels like the thick flowers...
+
+223
+00:45:55,100 --> 00:45:56,766
+Lucia:就是很容易会缩
+Lucia: They just shrink easily.
+
+224
+00:45:56,933 --> 00:45:58,733
+Lucia:我在想你有什么办法让它不缩
+Lucia: Do you have any way to prevent them from shrinking?
+
+225
+00:45:57,200 --> 00:45:58,466
+Katrina: 那你就可以压这种小花这样一放
+Katrina: You can press the small flowers like this.
+
+226
+00:45:59,700 --> 00:46:01,366
+Lucia:对对那种小花好压一下
+Lucia: Yes, those small flowers can be pressed.
+
+227
+00:46:01,866 --> 00:46:04,200
+Lucia:但我这个小的感觉它现在开的很旺盛
+Lucia: But my small ones are blooming so well now.
+
+228
+00:46:04,200 --> 00:46:06,100
+Lucia:我有点舍不得把它剪下来
+Lucia: I feel a bit reluctant to cut them.
+
+229
+00:46:07,766 --> 00:46:08,733
+Jake:剪一半
+Jake: Cut half of them.
+
+230
+00:46:11,100 --> 00:46:11,933
+Lucia:还可以这样
+Lucia: You can do that?
+
+231
+00:46:12,366 --> 00:46:14,366
+Lucia:那剩下可以是可以啊
+Lucia: Then what's left is okay, but...
+
+232
+00:46:14,500 --> 00:46:17,166
+Lucia:但那剩下的一半就会很孤单
+Lucia: The remaining half will be lonely.
+
+233
+00:46:17,166 --> 00:46:18,666
+Katrina: 但我这卖不出去啊
+Katrina: But I can't sell this.
+
+234
+00:46:21,566 --> 00:46:23,166
+Lucia:没事我们又不用真货币
+Lucia: It's okay, we don't use real money.
+
+235
+00:46:23,200 --> 00:46:23,500
+Lucia:而且
+Lucia: And...
+
+236
+00:46:23,500 --> 00:46:25,933
+Lucia:你接下来这个肯定会做的非常成功的
+Lucia: Your next one will definitely be very successful.
+
+237
+00:46:26,200 --> 00:46:27,733
+Lucia:第一次那个只是试验品
+Lucia: The first one was just a trial.
+
+238
+00:46:28,933 --> 00:46:30,366
+Jake:哎对齐一下不
+Jake: Hey, shall we align it?
+
+239
+00:46:32,000 --> 00:46:33,066
+Katrina: 你买那个钟
+Katrina: You buy that clock.
+
+240
+00:46:42,133 --> 00:46:46,100
+Jake:就是每一帧都知道时间对不对
+Jake: So, you know the time for each frame, right?
+
+241
+00:46:46,200 --> 00:46:47,933
+Jake:就是可以测试用
+Jake: You can use it for testing.
+
+242
+00:46:48,066 --> 00:46:49,933
+Jake:其实每一帧都是有时间
+Jake: Actually, each frame has a time.
+
+243
+00:46:50,700 --> 00:46:51,566
+Jake:就是对一下
+Jake: Just align it.
+
+244
+00:46:51,566 --> 00:46:54,366
+Lucia:理论上说拍电影是应该这样的
+Lucia: Theoretically, that's how movies are shot.
+
+245
+00:46:55,000 --> 00:46:58,766
+Lucia:不过我鉴于我们这个不是电影所以
+Lucia: But considering this isn't a movie, so...
+
+246
+00:47:01,666 --> 00:47:02,900
+Jake:哎你看过的对吧
+Jake: Hey, you've seen it, right?
+
+247
+00:47:04,366 --> 00:47:05,433
+Tasha:看过了嗯
+Tasha: Yes, I've seen it.
+
+248
+00:47:06,233 --> 00:47:08,433
+Lucia:我觉得就他吧
+Lucia: I think it's him.
+
+249
+00:47:12,733 --> 00:47:13,566
+Lucia:撕下来
+Lucia: Tear it off.
+
+250
+00:47:18,933 --> 00:47:19,900
+Tasha:我打不过你
+Tasha: I can't beat you.
+
+251
+00:47:21,433 --> 00:47:22,766
+Nicous: 你别又打不过我啦
+Nicous: Don't lose to me again.
+
+252
+00:47:23,000 --> 00:47:27,033
+Jake:哈哈哈哈
+Jake: Hahaha
+
+253
+00:47:25,933 --> 00:47:27,066
+Nicous: 你刚刚才赢的
+Nicous: You just won.
+
+254
+00:47:27,366 --> 00:47:28,566
+Tasha:你赢不是好吗
+Tasha: Isn't it good that you won?
+
+255
+00:47:28,566 --> 00:47:29,766
+Tasha:你看我打不过你
+Tasha: Look, I can't beat you.
+
+256
+00:47:32,833 --> 00:47:33,033
+Tasha:怎么样
+Tasha: How about it?
+
+257
+00:47:33,033 --> 00:47:35,000
+Jake:你们两个人只能交锋一次是吗
+Jake: You two can only face off once, right?
+
+258
+00:47:35,933 --> 00:47:38,733
+Tasha:哈哈哈哈
+Tasha: Hahaha
+
+259
+00:47:36,200 --> 00:47:37,400
+Nicous: 我草我破防了
+Nicous: Damn, I got broken.
+
+260
+00:47:38,766 --> 00:47:39,566
+Jake:骂游戏了
+Jake: Swearing at the game.
+
+261
+00:47:39,566 --> 00:47:40,233
+Jake:是吧你看
+Jake: Right, you see.
+
+262
+00:47:40,233 --> 00:47:44,033
+Lucia:我说他浅浅的破防哈哈哈
+Lucia: I said he got slightly broken, haha.
+
+263
+00:47:42,500 --> 00:47:44,700
+Nicous: 我靠我服了就是你跟我说
+Nicous: Damn, I give up. You're telling me.
+
+264
+00:47:44,900 --> 00:47:48,833
+Nicous: 撸把撸把就撸把在一起可以玩
+Nicous: Just play together, we can play.
+
+265
+00:47:48,933 --> 00:47:49,733
+Tasha:可以玩
+Tasha: We can play.
+
+266
+00:47:49,666 --> 00:47:50,600
+Nicous: 就玩成这样子了
+Nicous: And it turned out like this.
+
+267
+00:47:50,933 --> 00:47:53,166
+Tasha:哈哈你看你还在第一名呢
+Tasha: Haha, you're still in first place.
+
+268
+00:47:53,200 --> 00:47:55,100
+Tasha:这不是一个好兆头吗
+Tasha: Isn't that a good sign?
+
+269
+00:47:55,200 --> 00:47:56,400
+Nicous: 开玩笑
+Nicous: Just kidding.
+
+270
+00:47:55,500 --> 00:47:57,100
+Nicous: 哇靠 你刚拆我背景 当狗插
+Nicous: Wow, you just broke my background. Such a dog move.
+
+271
+00:47:57,600 --> 00:48:00,100
+Tasha:哎我刚刚也被人破防了一次
+Tasha: I also got broken once just now.
+
+272
+00:48:00,100 --> 00:48:02,300
+Tasha:好吧我到现在才六几名
+Tasha: Well, I'm only in the sixties now.
+
+273
+00:48:02,266 --> 00:48:03,166
+Nicous: 还好 是哪个人
+Nicous: It's okay. Who was it?
+
+274
+00:48:03,233 --> 00:48:04,233
+Nicous: 我给他
+Nicous: I'll get him.
+
+275
+00:48:04,800 --> 00:48:07,600
+Tasha:叫蛰伏他已经走了
+Tasha: His name is Dormant, he's already gone.
+
+276
+00:48:07,433 --> 00:48:08,200
+Nicous: 我草
+Nicous: Damn.
+
+277
+00:48:14,700 --> 00:48:16,233
+Lucia:浅浅的刮抹一下
+Lucia: Just a light scrape.
+
+278
+00:48:16,533 --> 00:48:17,766
+Katrina: 我这一层是厚的
+Katrina: Mine is thick.
+
+279
+00:48:17,766 --> 00:48:19,233
+Katrina: 之前压的花瓣
+Katrina: The petals pressed before.
+
+280
+00:48:18,133 --> 00:48:19,066
+Jake:我也要喝
+Jake: I want to drink too.
+
+281
+00:48:20,733 --> 00:48:22,133
+Katrina: 这一层试验品
+Katrina: This layer is a test product.
+
+282
+00:48:25,033 --> 00:48:25,800
+Lucia:有道理
+Lucia: Makes sense.
+
+283
+00:48:36,100 --> 00:48:37,700
+Tasha:你几级啊你
+Tasha: What level are you?
+
+284
+00:48:38,000 --> 00:48:40,366
+Tasha: 你知道我要上10级了吗马上
+Tasha: You know I'm about to reach level 10, right?
+
+285
+00:48:45,900 --> 00:48:46,900
+Tasha:哈
+Tasha: Ha.
+
+286
+00:48:51,766 --> 00:48:53,700
+Jake:上面桌子搬完了吗
+Jake: Is the table upstairs moved yet?
+
+287
+00:48:54,933 --> 00:48:55,766
+Shure: 擦完了
+Shure: It's wiped.
+
+288
+00:49:24,233 --> 00:49:26,166
+Katrina: 狗你得
+Katrina: Dog, you need to...
+
+289
+00:49:26,166 --> 00:49:28,400
+俢硕:狗在咖啡店
+Shure: The dog is at the café.
+
+290
+00:49:29,033 --> 00:49:32,566
+Katrina: 对它还没进行社会化训练
+Katrina: Yes, it hasn't had social training yet.
+
+291
+00:49:32,766 --> 00:49:34,000
+Shure: 对它会咬你
+Shure: Yes, it might bite you.
+
+292
+00:49:34,000 --> 00:49:37,133
+Katrina: 对啊但它没长啥牙
+Katrina: Yeah, but it hasn't grown any teeth.
+
+293
+00:49:35,166 --> 00:49:35,933
+Lucia:啊
+Lucia: Ah.
+
+294
+00:49:37,433 --> 00:49:39,433
+Katrina: 没事两三个月
+Katrina: It's okay, just a couple of months.
+
+295
+00:49:40,033 --> 00:49:42,166
+Katrina: 小编沐浴哥是咖啡色啊
+Katrina: The editor's cat is brown.
+
+296
+00:49:42,166 --> 00:49:42,933
+Lucia:好可爱哦
+Lucia: So cute!
+
+297
+00:49:42,933 --> 00:49:44,066
+Katrina: 是很可爱超可爱
+Katrina: Yeah, it's super cute.
+
+298
+00:49:46,533 --> 00:49:49,366
+Katrina: 是啊但是我忘了是左拐还是右拐
+Katrina: Yeah, but I forgot if it's a left turn or a right turn.
+
+299
+00:49:49,766 --> 00:49:50,433
+Katrina: 哦不对
+Katrina: Oh, wait.
+
+300
+00:49:50,433 --> 00:49:51,833
+Katrina: 好像是我们这
+Katrina: I think it's this way.
+
+301
+00:49:51,833 --> 00:49:52,933
+Katrina: 出来以后
+Katrina: After we get out...
+
+302
+00:49:55,766 --> 00:49:56,366
+Katrina: 反正走
+Katrina: Anyway, just go.
+
+303
+00:49:59,100 --> 00:50:00,700
+Katrina: 那店主很佛系
+Katrina: The shop owner is very laid-back.
+
+304
+00:50:04,300 --> 00:50:05,400
+Tasha:可以
+Tasha: Okay.
+
+305
+00:50:06,300 --> 00:50:06,933
+Lucia:啊
+Lucia: Ah.
+
+306
+00:50:07,700 --> 00:50:09,000
+Lucia:有股营养液味
+Lucia: It smells like nutrient solution.
+
+307
+00:50:10,933 --> 00:50:12,133
+Tasha:别说是我了
+Tasha: Don't say it was me.
+
+308
+00:51:56,533 --> 00:51:59,000
+Katrina: 嗯这花怎么会有黏黏的东西
+Katrina: Hmm, why is there something sticky on this flower?
+
+309
+00:51:59,000 --> 00:52:00,333
+Katrina: 这是还有什么声音
+Katrina: And what's that sound?
+
+310
+00:52:06,733 --> 00:52:07,833
+Katrina: 你可以先学
+Katrina: You can learn first.
+
+311
+00:52:19,333 --> 00:52:20,433
+Tasha:狠狠把他暴打了
+Tasha: Beat him up hard.
+
+312
+00:52:20,433 --> 00:52:22,766
+Tasha:现在开始
+
+313
+00:52:22,766 --> 00:52:24,233
+Katrina: 他下来了呵
+
+314
+00:52:26,733 --> 00:52:27,933
+Katrina: 他来了
+
+315
+00:52:27,933 --> 00:52:29,700
+俢硕:人家不爆杀你嘛
+
+316
+00:52:29,700 --> 00:52:32,200
+Shure: 随便杀他装备都没上呢
+
+317
+00:52:33,933 --> 00:52:38,200
+Shure: 略施小计就把你玩的团团转谢彬竹
+
+318
+00:52:39,800 --> 00:52:41,633
+Shure: 你就是这样被女人玩弄的
+
+319
+00:52:41,633 --> 00:52:42,200
+Shure: 是不是
+
+320
+00:52:42,200 --> 00:52:42,633
+Tasha:什么
+
+321
+00:52:50,000 --> 00:52:51,933
+Katrina: 你最后一天啥活动来着
+
+322
+00:52:52,766 --> 00:52:54,366
+Katrina: 你怎么不用干活呢
+
+323
+00:52:55,933 --> 00:52:57,733
+Shure: 我最后一天什么活动
+
+324
+00:52:58,100 --> 00:52:58,600
+Shure: 我是一个
+
+325
+00:52:58,600 --> 00:53:00,333
+Katrina: 是每个人都要有个ID啊
+
+326
+00:53:00,000 --> 00:53:01,566
+Lucia:我想看看这个
+
+327
+00:53:00,333 --> 00:53:01,500
+俢硕:all nice
+
+328
+00:53:01,500 --> 00:53:02,100
+Lucia:这个这
+
+329
+00:53:02,100 --> 00:53:04,366
+Lucia:比如说这层放完剩下再放一层纸是吗
+
+330
+00:53:04,933 --> 00:53:05,766
+Katrina: 再放一层干燥板
+
+331
+00:53:06,400 --> 00:53:08,933
+俢硕:我我是建立这个经济体系的人嘛
+
+332
+00:53:08,933 --> 00:53:09,900
+Shure: 你忘记了吗
+Shure: Did you forget?
+
+333
+00:53:09,900 --> 00:53:10,700
+Katrina: 哦哦
+Katrina: Oh, oh.
+
+334
+00:53:11,166 --> 00:53:11,933
+Katrina: 明白了
+Katrina: Got it.
+
+335
+00:53:12,900 --> 00:53:16,766
+Shure: 我的唯一任务就是把货币做出来
+Shure: My only task is to create the currency.
+
+336
+00:53:17,133 --> 00:53:18,233
+Katrina: 货币已经买了
+Katrina: The currency has already been bought.
+
+337
+00:53:18,633 --> 00:53:20,433
+Shure: OK解决解决
+Shure: Okay, problem solved.
+
+338
+00:53:23,300 --> 00:53:24,833
+Shure: 伟大无需多言
+Shure: Greatness doesn't need many words.
+
+339
+00:53:26,200 --> 00:53:27,366
+Jake:落地了是吧
+Jake: It's on the ground, right?
+
+340
+00:53:28,500 --> 00:53:29,333
+Shure: 对
+Shure: Yes.
+
+341
+00:53:29,333 --> 00:53:30,033
+Jake:伟大的构想
+Jake: Great idea.
+
+342
+00:53:30,833 --> 00:53:31,633
+Shure: 是的
+Shure: Yes.
+
+343
+00:53:32,033 --> 00:53:35,433
+Shure: 你知道我国第一个货币叫做什么吗
+Shure: Do you know what our country's first currency was called?
+
+344
+00:53:37,833 --> 00:53:38,633
+Shure: 让我
+Shure: Let me...
+
+345
+00:53:41,700 --> 00:53:44,166
+Shure: 那出出现在哪个哪个朝代
+Shure: Which dynasty did it appear in?
+
+346
+00:53:44,166 --> 00:53:44,933
+Jake:包比比
+Jake: Bao Bi Bi.
+
+347
+00:53:45,500 --> 00:53:46,400
+Tasha:你是什么东西
+Tasha: What are you?
+
+348
+00:53:46,400 --> 00:53:47,433
+Tasha:怎么还在这
+Tasha: Why are you still here?
+
+349
+00:53:47,433 --> 00:53:47,933
+Lucia:哎
+Lucia: Hey.
+
+350
+00:53:47,833 --> 00:53:51,766
+Lucia:哎我那个干燥板怎么又找不到了
+Lucia: Hey, I can't find my drying board again.
+
+351
+00:53:50,533 --> 00:53:51,900
+Shure: 宋代的骄子
+Shure: It was the pride of the Song dynasty.
+
+352
+00:53:51,900 --> 00:53:54,433
+Shure: 是我国第一个出现的纸币
+Shure: It was the first paper currency in our country.
+
+353
+00:53:52,600 --> 00:53:53,700
+Lucia:放哪去了
+Lucia: Where did I put it?
+
+354
+00:53:55,033 --> 00:53:56,366
+Jake:哪真的呀这是
+Jake: Is this for real?
+
+355
+00:53:55,833 --> 00:53:56,600
+Alice:没见过姣子，见过姣子
+Alice: Never seen Jiaozi, seen Jiaozi.
+
+356
+00:53:58,433 --> 00:53:59,866
+Shure: 好好好
+Shure: Alright, alright.
+
+357
+00:53:59,866 --> 00:54:00,900
+Lucia:奇怪
+Lucia: Weird.
+
+358
+00:54:01,433 --> 00:54:02,600
+Shure: 需要帮忙吗
+Shure: Need any help?
+
+359
+00:54:03,366 --> 00:54:05,300
+Katrina: 还有一个板你想做也可以做
+Katrina: There's another board if you want to make it.
+
+360
+00:54:09,900 --> 00:54:11,000
+Lucia:在这边吗
+Lucia: Is it over here?
+
+361
+00:54:11,766 --> 00:54:12,833
+Katrina: 什么你要板吗
+Katrina: What, you want a board?
+
+362
+00:54:12,833 --> 00:54:14,133
+Lucia:对刚才
+Lucia: Yes, earlier.
+
+363
+00:54:14,133 --> 00:54:15,300
+Katrina: 来吧用掉吧
+Katrina: Go ahead, use it.
+
+364
+00:54:15,300 --> 00:54:16,566
+Lucia:啊谢谢
+Lucia: Ah, thanks.
+
+365
+00:54:16,800 --> 00:54:18,600
+Lucia:明明记得刚才在这边有
+Lucia: I remember it was over here earlier.
+
+366
+00:54:18,700 --> 00:54:21,300
+Lucia:但是这样吧找不到了
+Lucia: But now I can't find it.
+
+367
+00:54:21,900 --> 00:54:22,933
+Katrina: 夹汉堡包
+Katrina: Grilled burger.
+
+368
+00:54:27,500 --> 00:54:30,000
+Tasha:我觉得利桑卓在这个版本最厉害
+Tasha: I think Lissandra is the strongest in this version.
+
+369
+00:54:28,833 --> 00:54:29,600
+Lucia:我觉得这有点厚
+Lucia: I think this is a bit thick.
+
+370
+00:54:30,566 --> 00:54:31,733
+Tasha:5费卡里面
+Tasha: Among the 5-cost cards.
+
+371
+00:54:33,433 --> 00:54:34,433
+Tasha:嗯
+Tasha: Hmm.
+
+372
+00:54:34,600 --> 00:54:37,400
+Tasha:那刀妹和猴子的话就猴子厉害点吧
+
+373
+00:54:37,400 --> 00:54:38,200
+Tasha:嗯
+
+374
+00:54:39,033 --> 00:54:39,833
+Lucia:哎呦太厚了
+
+375
+00:54:44,900 --> 00:54:46,633
+Lucia:太厚了的话我改变一下策略
+
+376
+00:54:46,733 --> 00:54:47,733
+Tasha:就抢个无敌2把
+
+377
+00:54:47,733 --> 00:54:48,566
+Tasha:这把我追
+
+378
+00:54:48,300 --> 00:54:49,066
+Nicous: 我草
+
+379
+00:54:49,366 --> 00:54:51,133
+Tasha:我靠你到底要什么你说嘛
+
+380
+00:54:51,833 --> 00:54:53,133
+Nicous: 我都 可以
+
+381
+00:54:54,933 --> 00:54:55,933
+Tasha:你可以拿第二的
+
+382
+00:54:55,933 --> 00:54:58,600
+Tasha:我可以把第二的位置让给你牌给你
+
+383
+00:55:00,400 --> 00:55:01,200
+Tasha:哦
+
+384
+00:55:01,800 --> 00:55:04,733
+Shure: 你等他快三星5费的时候你就点了
+
+385
+00:55:07,700 --> 00:55:09,200
+Jake:谢彬竹还能拿个第二啊
+
+386
+00:55:09,200 --> 00:55:10,000
+Jake:这么牛逼
+
+387
+00:55:14,800 --> 00:55:15,433
+Shure: 说实话
+
+388
+00:55:15,433 --> 00:55:18,200
+Shure: 其实其他6个应该都是人机
+
+389
+00:55:18,900 --> 00:55:20,033
+Jake:哈哈哈
+
+390
+00:55:20,033 --> 00:55:21,500
+Tasha:所以输不过他们
+
+391
+00:55:21,500 --> 00:55:22,433
+Tasha:你知道吗
+
+392
+00:55:22,900 --> 00:55:24,200
+Jake:哦人机很牛逼
+
+393
+00:55:25,133 --> 00:55:28,833
+Shure: 不是所以他一个人类都没有几百
+Shure: No, so he doesn't have even a few hundred humans.
+
+394
+00:55:28,833 --> 00:55:30,533
+Shure: 他就是人类中的倒数第一
+Shure: He's like the last among humans.
+
+395
+00:55:36,633 --> 00:55:39,100
+Shure: 我们这左侧的这个RGB是干嘛的
+Shure: What's the RGB on the left for?
+
+396
+00:55:39,833 --> 00:55:41,200
+Jake:你说这个灯吗
+Jake: You mean this light?
+
+397
+00:55:43,500 --> 00:55:44,633
+Jake:它就是光
+Jake: It's just light.
+
+398
+00:55:44,633 --> 00:55:45,433
+Tasha:就打我
+Tasha: Just hit me.
+
+399
+00:55:45,433 --> 00:55:47,100
+Jake:然后分光了
+Jake: And then it splits the light.
+
+400
+00:55:48,766 --> 00:55:49,800
+Jake:它就是白光
+Jake: It's white light.
+
+401
+00:55:49,966 --> 00:55:52,166
+Jake:然后它往这边它就它就分了
+Jake: Then it goes this way and it splits.
+
+402
+00:55:52,166 --> 00:55:52,933
+Jake:它就是分了
+Jake: It just splits.
+
+403
+00:55:52,933 --> 00:55:54,366
+Tasha:我谁都打得过
+Tasha: I can beat anyone.
+
+404
+00:55:55,366 --> 00:55:57,233
+Tasha:不你为什么不往第二名
+Tasha: No, why don't you aim for second place?
+
+405
+00:56:00,433 --> 00:56:02,433
+Nicous: 第一第二和第三有什么区别
+Nicous: What's the difference between first, second, and third?
+
+406
+00:56:03,033 --> 00:56:05,833
+Tasha:哈哈干嘛呀
+Tasha: Haha, what are you doing?
+
+407
+00:56:06,633 --> 00:56:07,500
+Lucia:哎呀妈呀
+Lucia: Oh my gosh.
+
+408
+00:56:14,033 --> 00:56:16,366
+Tasha:1只两只3只5只
+Tasha: 1, 2, 3, 5...
+
+409
+00:56:16,366 --> 00:56:17,800
+Tasha:这个还差4只
+Tasha: This still needs 4 more.
+
+410
+00:56:18,433 --> 00:56:19,733
+Shure: 这个什么都想追
+Shure: You want to chase everything.
+
+411
+00:56:19,733 --> 00:56:21,000
+Shure: 你好贪啊
+Shure: You're so greedy.
+
+412
+00:56:21,000 --> 00:56:23,100
+Shure: 你什么东西
+Shure: What are you doing?
+
+413
+00:56:26,400 --> 00:56:27,533
+Tasha:这个不追了
+Tasha: Let's not chase this one.
+
+414
+00:56:30,200 --> 00:56:31,566
+Tasha:就追你们几吧
+Tasha: Just chase you guys.
+
+415
+00:56:32,300 --> 00:56:33,333
+Tasha:这个不追了
+Tasha: Let's not chase this one.
+
+416
+00:56:37,333 --> 00:56:38,633
+Tasha:你你要一下
+Tasha: You need to do it.
+
+417
+00:56:38,966 --> 00:56:40,033
+Tasha:你也不要了
+Tasha: You don't need it either.
+
+418
+00:56:40,366 --> 00:56:41,533
+Tasha:会有几个了
+Tasha: How many do we need?
+
+419
+00:56:42,633 --> 00:56:43,566
+Tasha:哦
+Tasha: Oh.
+
+420
+00:56:44,200 --> 00:56:45,366
+Tasha:还差两个会
+Tasha: Still need two more.
+
+421
+00:56:45,833 --> 00:56:46,966
+Tasha:还差几个
+Tasha: How many more?
+
+422
+00:56:47,000 --> 00:56:47,766
+Nicous: 你要会是吧
+Nicous: Do you need one?
+
+423
+00:56:52,200 --> 00:56:53,533
+Tasha:会还差两个
+Tasha: Still need two more.
+
+424
+00:56:55,866 --> 00:56:58,033
+Nicous: 我刚刷到一个现在两个
+Nicous: I just found one, now we need two.
+
+425
+00:57:10,900 --> 00:57:11,700
+Lucia:good
+Lucia: Good.
+
+426
+00:57:18,566 --> 00:57:20,000
+Tasha:无敌2 无敌2
+Tasha: Invincible 2, Invincible 2.
+
+427
+00:57:20,000 --> 00:57:21,600
+Tasha:还差3个会
+Tasha: Still need 3 more.
+
+428
+00:57:21,600 --> 00:57:22,633
+Tasha:还差两个
+Tasha: Still need two.
+
+429
+00:57:28,933 --> 00:57:31,233
+Tasha:哎三星乌迪尔了
+Tasha: Ah, three-star Udyr.
+
+430
+00:57:31,200 --> 00:57:31,966
+Nicous: 谁啊
+Nicous: Who?
+
+431
+00:57:31,500 --> 00:57:34,833
+Tasha:就这样我等等呀
+Tasha: Just like that, I'll wait.
+
+432
+00:57:35,700 --> 00:57:38,800
+Shure: 没有那个是镜像过来的
+Shure: No, that's mirrored.
+
+433
+00:57:39,100 --> 00:57:39,966
+Tasha:真的假的
+Tasha: Really?
+
+434
+00:57:40,600 --> 00:57:41,900
+Shure: 你不给他装这个了吗
+Shure: You didn't equip him with this?
+
+435
+00:57:41,900 --> 00:57:42,900
+Tasha:哎呦我靠
+Tasha: Oh my god.
+
+436
+00:57:43,300 --> 00:57:44,200
+Tasha:不是我装的
+Tasha: I didn't equip it.
+
+437
+00:57:44,200 --> 00:57:45,833
+Tasha:这是神器变的
+Tasha: It's transformed by the artifact.
+
+438
+00:57:56,500 --> 00:57:57,366
+Shure: what's this
+Shure: What's this?
+
+439
+00:58:01,033 --> 00:58:03,033
+Shure: bomb has been planted是吧
+Shure: Bomb has been planted, right?
+
+440
+00:58:04,766 --> 00:58:06,133
+Shure: 炸弹已经安放
+Shure: Bomb has been planted.
+
+441
+00:58:10,233 --> 00:58:13,033
+Jake:我靠这东西还能搞闹钟
+Jake: Oh my god, this thing can even set an alarm.
+
+442
+00:58:30,300 --> 00:58:31,166
+Lucia:哎呀妈呀
+Lucia: Oh my gosh.
+
+443
+00:58:31,633 --> 00:58:33,300
+Tasha:我刚不是差两张吗
+Tasha: Didn't I just need two more?
+
+444
+00:58:33,200 --> 00:58:34,466
+Shure: 哈哈哈
+Shure: Hahaha.
+
+445
+00:58:34,466 --> 00:58:36,700
+Tasha:我把一只两星的卖了
+Tasha: I sold a two-star one.
+
+446
+00:58:39,900 --> 00:58:41,800
+Tasha:在干嘛哈哈哈
+Tasha: What are you doing, hahaha.
+
+447
+00:58:42,233 --> 00:58:44,166
+Nicous: 都帮你卖了就这么对我啊
+Nicous: I helped you sell it, and this is how you treat me?
+
+448
+00:58:48,200 --> 00:58:49,433
+Shure: 教教我这个怎么做
+Shure: Teach me how to do this.
+
+449
+00:58:50,133 --> 00:58:52,500
+Katrina: 这就是汉堡包
+Katrina: This is a hamburger.
+
+450
+00:58:54,233 --> 00:58:54,933
+Shure: 不是
+Shure: No.
+
+451
+00:58:54,933 --> 00:58:55,500
+Katrina: 是的
+Katrina: Yes.
+
+452
+00:58:55,500 --> 00:58:56,100
+俢硕:夹花
+Shure: Mixed
+
+453
+00:58:57,533 --> 00:58:58,800
+Katrina: 做狗谁不会
+Katrina: Who doesn't know how to be a dog?
+
+454
+00:59:02,000 --> 00:59:03,700
+Shure: 他说他习惯了做狗
+Shure: He said he's used to being a dog.
+
+455
+00:59:03,700 --> 00:59:04,833
+Katrina: 做狗谁不会
+Katrina: Who doesn't know how to be a dog?
+
+456
+00:59:04,833 --> 00:59:06,733
+Lucia:哈哈哈
+Lucia: Hahaha
+
+457
+00:59:06,733 --> 00:59:08,966
+Lucia:做狗谁不会哈哈哈
+Lucia: Who doesn't know how to be a dog? Hahaha
+
+458
+00:59:21,733 --> 00:59:22,833
+Tasha:真的3星了
+Tasha: Really, 3 stars now.
+
+459
+00:59:25,000 --> 00:59:27,166
+Nicous: 而你是我真正的
+Nicous: And you are truly my...
+
+460
+00:59:32,166 --> 00:59:34,800
+Tasha:好这个感觉金铲铲
+Tasha: Alright, this feels like Golden Spatula.
+
+461
+00:59:34,800 --> 00:59:36,433
+Tasha:就是比云顶容易追出来啊
+Tasha: It's easier to pursue than in TFT.
+
+462
+00:59:36,433 --> 00:59:37,566
+Lucia:再来一片
+Lucia: One more piece.
+
+463
+00:59:52,300 --> 00:59:54,700
+Tasha:哎呀刚刚把装备人全卖了
+Tasha: Ah, I just sold all the equipped people.
+
+464
+00:59:54,833 --> 00:59:56,400
+Tasha:现在搞一搞
+Tasha: Now let's mess around a bit.
+
+465
+00:59:57,266 --> 00:59:57,800
+Lucia:太鼓了
+Lucia: So loud.
+
+466
+00:59:57,800 --> 00:59:59,200
+Tasha:他怎么上不上去装备了
+Tasha: Why isn't he equipping?
+
+467
+00:59:59,600 --> 01:00:01,900
+Nicous: 靠你上你给的是那个哎
+Nicous: You equip it, you gave that...
+

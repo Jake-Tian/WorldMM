@@ -1,0 +1,2580 @@
+1
+00:28:45,300 --> 00:28:46,066
+Jake:买了
+Jake: Bought it.
+
+2
+00:28:46,533 --> 00:28:47,900
+其他人：已经有了
+Others: Already got it.
+
+3
+00:28:48,166 --> 00:28:49,133
+Jake:什么叫有了
+Jake: What do you mean got it?
+
+4
+00:28:50,166 --> 00:28:52,066
+Jake:有人已经有人买了
+Jake: Someone already bought it.
+
+5
+00:28:52,166 --> 00:28:53,433
+其他人：那不是
+Others: Isn't that...
+
+6
+00:28:53,000 --> 00:28:53,733
+Jake:呵呵呵
+Jake: Haha.
+
+7
+00:28:54,533 --> 00:28:57,733
+其他人：我说我现在账户里已经有150个ego币了
+Others: I mean I already have 150 ego coins in my account.
+
+8
+00:28:57,966 --> 00:28:59,766
+Jake:哦牛批
+Jake: Oh, impressive.
+
+9
+00:28:59,800 --> 00:29:00,800
+Jake:可以可以
+Jake: Nice, nice.
+
+10
+00:29:00,600 --> 00:29:03,433
+Shure: 然后呢然后我们怎么分发呢
+Shure: So, how do we distribute them?
+
+11
+00:29:04,733 --> 00:29:07,233
+Shure: 最后会有有
+Shure: In the end, those who have a Matt mask will get some.
+
+12
+00:29:07,233 --> 00:29:10,666
+Shure: 有这个Matt mask的就分
+Shure: And those who don't, won't, right?
+
+13
+00:29:10,666 --> 00:29:12,200
+Shure: 没有的就不分是吧
+Shure: Is that it?
+
+14
+00:29:11,833 --> 00:29:13,500
+其他人：我的想法是
+Others: My idea is...
+
+15
+00:29:13,500 --> 00:29:13,966
+其他人：最后
+Others: In the end...
+
+16
+00:29:13,966 --> 00:29:17,933
+其他人：今天大家每个人最后手里有多少个ego币
+Others: Today, everyone will get as many ego coins as they have in hand.
+
+17
+00:29:19,533 --> 00:29:21,200
+其他人：我就给你们发多少个
+Others: I'll distribute that amount to you.
+
+18
+00:29:21,666 --> 00:29:22,833
+Shure: 那怎么发呢
+Shure: But how will we distribute them?
+
+19
+00:29:23,500 --> 00:29:25,800
+Shure: 那万一有人没有这个钱包呢
+Shure: What if someone doesn't have a wallet?
+
+20
+00:29:26,100 --> 00:29:27,233
+其他人：发钱包也不
+Others: Giving out wallets...
+
+21
+00:29:27,233 --> 00:29:28,033
+其他人：要钱
+Others: Doesn't cost money.
+
+22
+00:29:28,666 --> 00:29:29,533
+其他人：但我不知道这个
+Others: But I don't know...
+
+23
+00:29:29,500 --> 00:29:31,266
+其他人：发钱包会不会要燃油费啊
+Others: If distributing wallets will incur a gas fee.
+
+24
+00:29:31,300 --> 00:29:32,066
+其他人：也他妈发一个
+Others: Just send one.
+
+25
+00:29:32,066 --> 00:29:33,166
+其他人：ego币不要钱
+Others: Ego coins don't cost money.
+
+26
+00:29:33,166 --> 00:29:34,366
+其他人：燃油费他妈
+Others: But gas fees do.
+
+27
+00:29:35,500 --> 00:29:37,800
+其他人：那没事我还有还有点余额
+Others: It's fine, I still have some balance left.
+
+28
+00:29:40,166 --> 00:29:41,700
+Shure: 知道这是干什么的吗
+Shure: Do you know what this is for?
+
+29
+00:29:41,833 --> 00:29:43,366
+其他人：测温的
+Others: For measuring temperature.
+
+30
+00:30:09,500 --> 00:30:11,866
+其他人： 那你加一个面包我要先吃一下
+Others: Then add a piece of bread, I want to eat first.
+
+31
+00:30:12,333 --> 00:30:13,100
+Shure: 我有
+Shure: I have it.
+
+32
+00:31:25,233 --> 00:31:26,500
+其他人：别他妈刷彩个逼
+Others: Stop messing around.
+
+33
+00:31:26,466 --> 00:31:27,100
+Shure: 还其他人：手续费
+Shure: And... Others: The transaction fee...
+
+34
+00:31:27,100 --> 00:31:27,966
+其他人： 我真不懵
+Others: I'm really not confused.
+
+35
+00:31:41,600 --> 00:31:44,533
+Katrina: 你知道这这孔怎么打开吗
+Katrina: Do you know how to open this hole?
+
+36
+00:31:46,166 --> 00:31:47,400
+Jake:应该是有一个针
+Jake: There should be a pin.
+
+37
+00:31:48,933 --> 00:31:51,533
+Jake:它应该是有一个它
+Jake: It should have a... it...
+
+38
+00:31:51,533 --> 00:31:53,033
+Jake:它就一个这个东西吗
+Jake: It's just this thing, right?
+
+39
+00:31:52,933 --> 00:31:56,166
+Katrina: 嗯刚刚就把他下面这一环给撕了
+Katrina: Hmm, I just tore off this ring below.
+
+40
+00:31:56,433 --> 00:31:58,366
+Katrina: 但是好像没有送针啊
+Katrina: But it seems like there's no pin included.
+
+41
+00:31:59,300 --> 00:32:00,900
+其他人：感觉从这个
+Others: Feels like from this
+
+42
+00:32:00,933 --> 00:32:01,366
+其他人：呃
+Others: Uh
+
+43
+00:32:01,400 --> 00:32:05,333
+其他人：我们的成本上这币每个都已经3块钱
+Others: Our cost for each coin is already 3 bucks
+
+44
+00:32:05,900 --> 00:32:08,066
+Jake:有点贵有点稍贵
+Jake: It's a bit expensive, kinda pricey
+
+45
+00:32:10,733 --> 00:32:13,500
+Jake:嗯你知道怎么开吗这东西
+Jake: Hmm, do you know how to open this thing?
+
+46
+00:32:18,600 --> 00:32:19,400
+Katrina: 真的吗
+Katrina: Really?
+
+47
+00:32:22,333 --> 00:32:24,000
+Katrina: 其实我觉得说的有道理
+Katrina: Actually, I think it makes sense
+
+48
+00:32:24,400 --> 00:32:25,533
+Katrina: 直接剁就行
+Katrina: Just chop it directly
+
+49
+00:32:41,800 --> 00:32:42,733
+Jake:这什么东西
+Jake: What's this thing?
+
+50
+00:32:43,266 --> 00:32:45,266
+Shure: OK了来吧
+Shure: OK, let's go
+
+51
+00:32:44,500 --> 00:32:45,733
+Lucia: 看起来像烤红薯
+Lucia: Looks like roasted sweet potato
+
+52
+00:32:45,900 --> 00:32:48,266
+Jake:哦哦可以我拿了
+Jake: Oh oh, alright, I'll take it
+
+53
+00:32:50,333 --> 00:32:52,133
+Jake:我靠这红薯长成这样
+Jake: Whoa, this sweet potato grew like this?
+
+54
+00:32:54,300 --> 00:32:56,000
+Lucia: 嗯对他确实是烤红薯
+Lucia: Yeah, it really is a roasted sweet potato
+
+55
+00:32:56,500 --> 00:32:57,866
+Shure: 你手里有五个吧
+Shure: You have five in your hand, right?
+
+56
+00:33:03,066 --> 00:33:04,100
+Shure: 押我100块
+Shure: Bet me 100 bucks
+
+57
+00:33:04,600 --> 00:33:05,500
+Shure: 如果今天
+Shure: If today
+
+58
+00:33:05,733 --> 00:33:07,000
+Lucia: 啊这个银耳雪梨汤
+Lucia: Ah, this is white fungus pear soup
+
+59
+00:33:07,000 --> 00:33:09,533
+Lucia: 它里面竟然是整颗雪梨
+Lucia: It actually has a whole pear inside
+
+60
+00:33:09,666 --> 00:33:11,533
+Jake:哈哈哈哈
+Jake: Hahaha
+
+61
+00:33:10,533 --> 00:33:11,533
+Lucia: 我去
+Lucia: Wow
+
+62
+00:33:13,300 --> 00:33:15,900
+Lucia: 这比巧克力宣传整颗榛子还离谱
+Lucia: This is even more outrageous than chocolate with whole hazelnuts
+
+63
+00:33:16,166 --> 00:33:18,033
+Lucia: 因为它真的是整颗雪梨
+Lucia: Because it's literally a whole pear
+
+64
+00:33:18,900 --> 00:33:22,333
+Lucia: 你看我一捞上来我就惊呆了
+Lucia: Look, I was shocked when I scooped it up
+
+65
+00:33:23,766 --> 00:33:26,133
+Jake:吃应该比较好分吧
+Jake: Should be easier to eat, right?
+
+66
+00:33:26,766 --> 00:33:28,533
+Jake:要自己分就很离谱
+Jake: If you have to divide it yourself, that's crazy
+
+67
+00:33:45,600 --> 00:33:47,433
+其他人：最后一次
+Others: One last time
+
+68
+00:33:47,333 --> 00:33:48,833
+Katrina: 我需要充电宝
+Katrina: I need a power bank
+
+69
+00:33:49,333 --> 00:33:50,700
+Shure: 我给你们系江带
+Shure: I'll tie you guys up
+
+70
+00:33:51,900 --> 00:33:53,500
+Jake:但是我们没什么充电宝
+Jake: But we don't have many power banks
+
+71
+00:33:54,400 --> 00:33:55,666
+其他人：这他妈得多少钱啊
+Others: How much is this gonna cost?
+
+72
+00:34:07,966 --> 00:34:09,266
+Jake:你要不找一个叉子
+Jake: Why don't you find a fork?
+
+73
+00:34:08,733 --> 00:34:10,333
+其他人：嗯这也不便宜
+Others: Hmm, it's not cheap either
+
+74
+00:34:10,400 --> 00:34:12,666
+Jake:你要不找一个固定的叉子
+Jake: Why don't you find a fixed fork?
+
+75
+00:34:13,433 --> 00:34:14,900
+Jake:你要是你活动
+Jake: If you're moving
+
+76
+00:34:15,233 --> 00:34:16,000
+Katrina: 在外面
+Katrina: Outside
+
+77
+00:34:16,333 --> 00:34:17,266
+Jake:你在外面
+Jake: You're outside
+
+78
+00:34:51,166 --> 00:34:52,766
+Lucia: 鲜银耳炖整梨
+Lucia: Fresh white fungus stewed with whole pear
+
+79
+00:34:55,066 --> 00:34:55,866
+Lucia: amazing
+Lucia: Amazing
+
+80
+00:35:25,400 --> 00:35:28,966
+Shure: （歌词）darling just kiss me slow
+Shure: (Lyrics) darling just kiss me slow
+
+81
+00:35:36,933 --> 00:35:38,166
+Jake:来整俩充电宝
+Jake: Let's get two power banks.
+
+82
+00:36:14,400 --> 00:36:15,266
+其他人：只要我靠谱
+Others: As long as I'm reliable.
+
+83
+00:36:15,266 --> 00:36:16,600
+其他人：这个币就有价值
+Others: This currency has value.
+
+84
+00:36:20,666 --> 00:36:21,700
+Jake:你怎么靠谱
+Jake: How are you reliable?
+
+85
+00:36:22,333 --> 00:36:24,800
+其他人：因为我现在就必须得
+Others: Because right now, I have to...
+
+86
+00:36:27,666 --> 00:36:28,900
+其他人：记住每个人多少钱
+Others: Remember how much everyone has.
+
+87
+00:36:28,900 --> 00:36:31,366
+其他人：我没办法直接给他们
+Others: I can't give it to them directly.
+
+88
+00:36:32,733 --> 00:36:34,500
+其他人：啊直接给他太多
+Others: Ah, giving it directly is too much.
+
+89
+00:36:35,400 --> 00:36:37,166
+Jake:那那怎么办
+Jake: Then what should we do?
+
+90
+00:36:39,400 --> 00:36:41,300
+其他人：活动结束了给
+Others: Give it after the event.
+
+91
+00:36:43,666 --> 00:36:44,433
+Jake:啊
+Jake: Ah.
+
+92
+00:36:45,433 --> 00:36:46,233
+Jake:好
+Jake: Okay.
+
+93
+00:36:54,066 --> 00:36:55,100
+Shure: 都给你录下来了
+Shure: I recorded everything for you.
+
+94
+00:37:27,566 --> 00:37:29,233
+Jake:哎这是啥呀
+Jake: Hey, what's this?
+
+95
+00:37:33,033 --> 00:37:34,733
+Jake:哈哈
+Jake: Haha.
+
+96
+00:37:34,733 --> 00:37:35,500
+Lucia: 我看看
+Lucia: Let me see.
+
+97
+00:37:36,600 --> 00:37:37,400
+Lucia: 咦
+Lucia: Eh?
+
+98
+00:37:37,033 --> 00:37:39,300
+Jake:哈哈
+Jake: Haha.
+
+99
+00:37:40,800 --> 00:37:42,466
+Lucia: 看起来好像可以用的样子
+Lucia: Looks like it can be used.
+
+100
+00:37:42,500 --> 00:37:44,066
+Jake:呀yes
+Jake: Yeah, yes.
+
+101
+00:37:47,300 --> 00:37:49,400
+Lucia: 我可以现在把它摘下来安一下吗
+Lucia: Can I take it down and install it now?
+
+102
+00:37:49,333 --> 00:37:50,100
+Jake:可以
+Jake: Sure.
+
+103
+00:37:50,966 --> 00:37:51,766
+Lucia: thank you
+Lucia: Thank you.
+
+104
+00:37:54,333 --> 00:37:55,433
+Jake:走拿快递去
+Jake: Let's go pick up the package.
+
+105
+00:37:56,233 --> 00:37:58,000
+Lucia: 嗯又可以去拿快递了
+Lucia: Yeah, we can go pick up packages again.
+
+106
+00:37:57,966 --> 00:37:59,633
+Jake:呃因为他
+Jake: Uh, because he...
+
+107
+00:37:59,666 --> 00:38:00,133
+Jake:有很
+Jake: Has a lot...
+
+108
+00:38:00,100 --> 00:38:03,100
+Jake:你看你看他的快递你看他的快递
+Jake: Look, look at his package, look at his package.
+
+109
+00:38:03,100 --> 00:38:04,800
+Tasha: 昨天没有人替我拿
+Tasha: No one picked it up for me yesterday.
+
+110
+00:38:05,733 --> 00:38:07,800
+Lucia: 昨天我的也没拿
+Lucia: No one picked mine up yesterday either.
+
+111
+00:38:07,800 --> 00:38:09,066
+Lucia: 所以我就专门去
+Lucia: So I went specially to...
+
+112
+00:38:09,066 --> 00:38:09,966
+Lucia: 拿了一趟
+Lucia: Pick up a set.
+
+113
+00:38:10,166 --> 00:38:12,100
+Lucia: 对哦当时应该把薇薇的一块拿上
+Lucia: Yeah, I should have taken this one too.
+
+114
+00:38:12,100 --> 00:38:13,533
+Lucia: 我以为他们给你拿了呢
+Lucia: I thought they picked it up for you.
+
+115
+00:38:13,533 --> 00:38:15,566
+Lucia: 就是那个民宿的
+Lucia: The guesthouse one.
+
+116
+00:38:13,566 --> 00:38:15,533
+Tasha: 谁给我拿了
+Tasha: Who picked it up for me?
+
+117
+00:38:15,566 --> 00:38:16,500
+Lucia: 民宿的
+Lucia: The guesthouse.
+
+118
+00:38:17,600 --> 00:38:18,566
+Lucia: 本来民宿的
+Lucia: The guesthouse was supposed to...
+
+119
+00:38:18,566 --> 00:38:21,000
+Lucia: supposed to拿我们所有人的快递
+Lucia: Supposed to pick up all our packages.
+
+120
+00:38:21,066 --> 00:38:21,866
+Jake:是的
+Jake: Right.
+
+121
+00:38:22,800 --> 00:38:24,166
+Lucia: 你昨天应该说一声
+Lucia: You should have said something yesterday.
+
+122
+00:38:24,166 --> 00:38:26,666
+Lucia: 我要知道你没拿我们就跟你一块去
+Lucia: If I knew you didn't take it, we would've gone with you.
+
+123
+00:38:25,333 --> 00:38:26,600
+Tasha: 我给他打电话了
+Tasha: I called him.
+
+124
+00:38:28,466 --> 00:38:30,400
+Lucia: 领导这是你的你的问题了
+Lucia: Boss, this is your problem.
+
+125
+00:38:30,400 --> 00:38:33,766
+Lucia: 领导你反思哈哈
+Lucia: Boss, you need to reflect, haha.
+
+126
+00:38:30,733 --> 00:38:31,500
+Jake:嗯对
+Jake: Yeah, right.
+
+127
+00:38:31,500 --> 00:38:32,733
+Jake:我反思反思
+Jake: I'll reflect on it.
+
+128
+00:38:39,766 --> 00:38:41,933
+Lucia: 我那这么说来他们昨天就没拿几个
+Lucia: So, they didn't take much yesterday.
+
+129
+00:38:41,900 --> 00:38:44,500
+Lucia: 咱俩那一串都没拿对吧
+Lucia: We didn't take the whole string, right?
+
+130
+00:38:45,300 --> 00:38:46,900
+Lucia: 就那个民宿
+Lucia: At that B&B.
+
+131
+00:38:45,566 --> 00:38:48,433
+Jake:你昨天发的那一串他啥也没拿是吧
+Jake: The string you posted yesterday, he didn't take anything, right?
+
+132
+00:38:47,966 --> 00:38:49,400
+Tasha: 嗯
+Tasha: Yeah.
+
+133
+00:38:48,733 --> 00:38:49,500
+Lucia: 我也
+Lucia: Me too.
+
+134
+00:38:50,400 --> 00:38:51,400
+Lucia: 我觉得民宿
+Lucia: I think the B&B...
+
+135
+00:38:51,400 --> 00:38:55,100
+Lucia: 他们这个工作态度要提升一下呀
+Lucia: They need to improve their work attitude.
+
+136
+00:38:52,233 --> 00:38:53,100
+Jake:有问题
+Jake: There's a problem.
+
+137
+00:38:54,900 --> 00:38:55,666
+Jake:嗯
+Jake: Yeah.
+
+138
+00:38:56,000 --> 00:38:57,166
+Lucia: 哈哈哈
+Lucia: Haha.
+
+139
+00:38:56,300 --> 00:38:59,033
+Jake:下一次去三亚就不找他们了
+Jake: Next time we go to Sanya, we won't use them.
+
+140
+00:38:59,766 --> 00:39:00,533
+Lucia: 好
+Lucia: Okay.
+
+141
+00:39:02,166 --> 00:39:03,233
+Lucia: 我们真的要去三亚吗
+Lucia: Are we really going to Sanya?
+
+142
+00:39:03,233 --> 00:39:04,166
+Lucia: 我还没有去过
+Lucia: I haven't been there.
+
+143
+00:39:04,800 --> 00:39:05,666
+Jake:你没有去过
+Jake: You haven't been?
+
+144
+00:39:05,566 --> 00:39:06,366
+Lucia: 没去过
+Lucia: No, I haven't.
+
+145
+00:39:05,666 --> 00:39:06,666
+Jake:没去过走
+Jake: Never been? Let's go.
+
+146
+00:39:06,666 --> 00:39:08,866
+Lucia: 所以您要是在三亚做实验的话
+Lucia: So if you do experiments in Sanya...
+
+147
+00:39:08,966 --> 00:39:11,766
+Lucia: 你看我这个工作态度和效率怎么样
+Lucia: How's my work attitude and efficiency?
+
+148
+00:39:10,466 --> 00:39:12,766
+Jake:哈哈哈可以可以
+Jake: Haha, not bad, not bad.
+
+149
+00:39:11,800 --> 00:39:14,000
+Lucia: 哈哈哈老板你考虑一下
+Lucia: Haha, Boss, think about it.
+
+150
+00:39:12,666 --> 00:39:15,000
+Shure: 什么什么时候去三亚呀老板
+Shure: When are we going to Sanya, boss?
+
+151
+00:39:15,100 --> 00:39:15,933
+Lucia: 哈哈
+Lucia: Haha.
+
+152
+00:39:16,500 --> 00:39:17,433
+Jake:什么时候去
+Jake: When are we going?
+
+153
+00:39:17,900 --> 00:39:19,500
+Jake:五一之后去走
+Jake: After May Day, let's go.
+
+154
+00:39:19,833 --> 00:39:20,700
+Shure: 真的吗
+Shure: Really?
+
+155
+00:39:20,100 --> 00:39:21,233
+Lucia: 真的吗
+Lucia: Really?
+
+156
+00:39:21,266 --> 00:39:22,166
+Jake:真的吗
+Jake: Really?
+
+157
+00:39:22,666 --> 00:39:23,466
+Tasha: 真的吗
+Tasha: Really?
+
+158
+00:39:22,733 --> 00:39:24,400
+Lucia: 我哈哈
+Lucia: Haha.
+
+159
+00:39:24,300 --> 00:39:25,400
+Shure: 你等我答完辩的
+Shure: Wait for me to finish my defense.
+
+160
+00:39:25,400 --> 00:39:26,166
+Shure: 好吧
+Shure: Okay.
+
+161
+00:39:25,566 --> 00:39:27,100
+Tasha: 不等
+Tasha: No waiting.
+
+162
+00:39:26,166 --> 00:39:27,933
+Jake:好嘞
+Jake: Alright.
+
+163
+00:39:26,666 --> 00:39:29,833
+Shure: 我正好正好公费度蜜月去了怎么样
+Shure: I'm going on a company-paid honeymoon, how about that?
+
+164
+00:39:29,333 --> 00:39:32,700
+Tasha: 公费度蜜月你还要把你女朋友带上
+Tasha: A company-paid honeymoon, and you still have to bring your girlfriend?
+
+165
+00:39:33,233 --> 00:39:35,100
+Shure: 我们干活效率都很高
+Shure: We're very efficient at work.
+
+166
+00:39:34,900 --> 00:39:36,100
+Tasha: 哦是你啊
+Tasha: Oh, it's you.
+
+167
+00:39:37,766 --> 00:39:39,500
+Tasha: 想看看是哪位男生
+Tasha: Just wanted to see which guy it is.
+
+168
+00:39:39,333 --> 00:39:41,166
+Alice:啊累死我了
+Alice: Ah, I'm exhausted.
+
+169
+00:39:40,900 --> 00:39:42,466
+Tasha: 你女朋友在北京吗
+Tasha: Is your girlfriend in Beijing?
+
+170
+00:39:41,833 --> 00:39:43,300
+Shure: 啊是的
+Shure: Yeah, she is.
+
+171
+00:39:42,833 --> 00:39:44,933
+Tasha: 哦是他的
+Tasha: Oh, his.
+
+172
+00:39:44,933 --> 00:39:45,733
+Tasha: 在西安
+Tasha: In Xi'an.
+
+173
+00:39:46,033 --> 00:39:46,833
+Shure: 嗯
+Shure: Yeah.
+
+174
+00:39:46,900 --> 00:39:47,866
+Tasha: 啊什么
+Tasha: What?
+
+175
+00:39:47,900 --> 00:39:49,500
+Tasha: 我说是他的在西安
+Tasha: I said his girlfriend is in Xi'an.
+
+176
+00:39:50,066 --> 00:39:51,200
+Lucia: 谁女朋友在西安
+Lucia: Whose girlfriend is in Xi'an?
+
+177
+00:39:51,733 --> 00:39:53,900
+Tasha: 他女朋友啊
+Tasha: His girlfriend.
+
+178
+00:39:52,900 --> 00:39:54,900
+Lucia: 啊
+
+179
+00:39:54,400 --> 00:39:56,400
+Lucia: 想认识一下美女小姐姐
+Lucia: I'd like to meet this pretty lady.
+
+180
+00:39:56,000 --> 00:39:58,800
+Tasha: 呵呵怎么回事
+Tasha: Haha, what's going on?
+
+181
+00:39:56,933 --> 00:39:58,800
+Lucia: 哈哈哈
+Lucia: Hahaha.
+
+182
+00:39:59,333 --> 00:40:00,233
+Lucia: 因为我在西安
+Lucia: Because I'm in Xi'an.
+
+183
+00:40:00,166 --> 00:40:02,066
+Tasha: 我知道我说他怎么不说话哎
+Tasha: I know, I was wondering why he wasn't saying anything.
+
+184
+00:40:01,500 --> 00:40:03,633
+Shure: 哎那你会说陕西话吗
+Shure: Hey, do you speak Shaanxi dialect?
+
+185
+00:40:03,500 --> 00:40:04,300
+Lucia: 我会
+Lucia: I do.
+
+186
+00:40:04,933 --> 00:40:06,666
+Lucia: 但我说的可能不那么标准
+Lucia: But maybe not that well.
+
+187
+00:40:06,900 --> 00:40:09,000
+Lucia: 不过北方话反正本来就是变个调
+Lucia: But Northern dialects are basically just tone changes anyway.
+
+188
+00:40:09,400 --> 00:40:11,066
+其他人：陕西话感觉挺好听
+Others: Shaanxi dialect sounds pretty nice.
+
+189
+00:40:12,233 --> 00:40:15,533
+Lucia: 怎么了要我说一段吗哈
+Lucia: What's up, you want me to say something in it? Haha.
+
+190
+00:40:15,666 --> 00:40:16,533
+Jake:来来一段
+Jake: Go ahead, say something.
+
+191
+00:40:15,966 --> 00:40:17,233
+Shure: 绿辣子6馍
+Shure: Green chili bun.
+
+192
+00:40:18,733 --> 00:40:22,000
+Jake:哈哈哈哈
+Jake: Hahaha.
+
+193
+00:40:18,900 --> 00:40:22,133
+Lucia: 哈哈你这舌撒的咋听不懂啊哈哈
+Lucia: Haha, your proShure's GFciation is so off, I can't understand a word! Haha.
+
+194
+00:40:21,600 --> 00:40:22,966
+Shure: 绿辣子6馍
+Shure: Green chili bun.
+
+195
+00:40:22,966 --> 00:40:23,833
+Shure: 什么那个
+Shure: What's that?
+
+196
+00:40:24,466 --> 00:40:27,100
+Lucia: 不知道不过我我
+Lucia: I don't know, but I, I...
+
+197
+00:40:27,100 --> 00:40:29,333
+Lucia: 因为我们家一般不说山西话
+Lucia: Because at home we usually don't speak Shanxi dialect.
+
+198
+00:40:29,333 --> 00:40:32,400
+Lucia: 就是只有只有我姥姥姥爷那一辈的
+Lucia: Only my grandparents' generation does.
+
+199
+00:40:32,400 --> 00:40:33,733
+Lucia: 他们才说山西话
+Lucia: They speak Shanxi dialect.
+
+200
+00:40:33,900 --> 00:40:36,066
+Lucia: 对其实我在家其实也说普通话
+Lucia: Actually, at home we usually speak Mandarin.
+
+201
+00:40:36,066 --> 00:40:37,300
+Lucia: 就是说的就说的
+Lucia: So, like, so...
+
+202
+00:40:37,333 --> 00:40:38,333
+Lucia: 不是很标准
+Lucia: It's not very standard
+
+203
+00:40:38,333 --> 00:40:39,600
+Lucia: 但是我同学都说
+Lucia: But my classmates all say
+
+204
+00:40:39,600 --> 00:40:40,700
+Lucia: 说的还可以
+Lucia: It's pretty good
+
+205
+00:40:40,766 --> 00:40:43,233
+Lucia: 但是可能是同学给我给面子你知道吧
+Lucia: But maybe they're just being nice to me, you know
+
+206
+00:40:42,833 --> 00:40:44,000
+Jake:很标准了
+Jake: It's very standard
+
+207
+00:40:43,000 --> 00:40:45,700
+Shure: 完了武林外传的味上来了
+Shure: Oh no, the flavor of "My Own Swordsman" is coming up
+
+208
+00:40:45,400 --> 00:40:46,666
+Lucia: 哈哈哈
+Lucia: Hahaha
+
+209
+00:40:45,966 --> 00:40:48,300
+Shure: 佟掌柜哈哈哈
+Shure: Tong Shopkeeper, hahaha
+
+210
+00:40:48,333 --> 00:40:50,000
+Shure: 你今天要不就一直这样
+Shure: Why don't you just keep doing this today
+
+211
+00:40:49,966 --> 00:40:51,633
+Shure: 我进来要来了呢
+Shure: I'm coming in
+
+212
+00:40:50,566 --> 00:40:51,566
+Jake:要回大掌柜吧
+Jake: You have to return to the head shopkeeper
+
+213
+00:40:51,566 --> 00:40:53,566
+Jake:要不啊呵呵呵
+Jake: Or not, hahaha
+
+214
+00:40:51,666 --> 00:40:56,433
+Shure: 你你比如说那个那个有有客人来了
+Shure: You know, for example, when a guest comes in
+
+215
+00:40:52,233 --> 00:40:53,000
+Lucia: 啊
+Lucia: Ah
+
+216
+00:40:56,400 --> 00:40:57,633
+Shure: 你会怎么说
+Shure: What would you say
+
+217
+00:40:57,666 --> 00:40:59,133
+Shure: 用用那个山西话啊
+Shure: Using that Shanxi dialect
+
+218
+00:40:59,100 --> 00:41:00,066
+Shure: 不是陕西话
+Shure: Not Shaanxi dialect
+
+219
+00:41:02,966 --> 00:41:06,100
+Lucia: 吃馍还是吃还是吃啥
+Lucia: Do you want to eat steamed buns or what
+
+220
+00:41:04,566 --> 00:41:05,666
+Jake:哈哈哈哈
+Jake: Hahahaha
+
+221
+00:41:06,100 --> 00:41:06,900
+Lucia: 俺也不知道
+Lucia: I don't know either
+
+222
+00:41:06,900 --> 00:41:09,166
+Lucia: 哈哈哈哈
+Lucia: Hahahaha
+
+223
+00:41:08,733 --> 00:41:10,500
+Alice:他说下午统一取
+Alice: He said to pick them up in the afternoon
+
+224
+00:41:10,666 --> 00:41:11,966
+Alice:下午不就晚了
+Alice: Isn't that too late
+
+225
+00:41:11,833 --> 00:41:14,233
+Jake:对所以我们直接自己走
+Jake: Yeah, so let's just go on our own
+
+226
+00:41:15,166 --> 00:41:16,933
+Alice:我有两个我的都到了
+Alice: I have two of mine that arrived
+
+227
+00:41:17,266 --> 00:41:19,500
+Jake:好吃吃吃吃
+Jake: Okay, eat, eat, eat
+
+228
+00:41:17,666 --> 00:41:20,133
+Lucia: 我也有两个可以吃
+Lucia: I also have two that I can eat
+
+229
+00:41:19,466 --> 00:41:20,500
+Jake:能吃都能吃
+Jake: You can eat them all
+
+230
+00:41:20,300 --> 00:41:21,900
+Lucia: 他那里面是整颗雪梨
+Lucia: There's a whole snow pear inside
+
+231
+00:41:21,966 --> 00:41:23,800
+Lucia: 不过已经被我吃掉了一部分
+Lucia: But I've already eaten part of it
+
+232
+00:41:27,833 --> 00:41:29,700
+Alice:所以什么时候拿快递啊
+Alice: So when are we picking up the package
+
+233
+00:41:29,666 --> 00:41:30,333
+Jake:现在吧
+Jake: Now, I guess
+
+234
+00:41:33,000 --> 00:41:34,400
+Jake:哎谢斌竹帮忙
+Jake: Hey Xie Binzhu, help out
+
+235
+00:41:34,533 --> 00:41:35,066
+Jake:这个这个
+Jake: This, this
+
+236
+00:41:35,066 --> 00:41:36,166
+Jake:这你配过对吧
+Jake: You've paired this, right
+
+237
+00:41:36,933 --> 00:41:37,733
+Jake:怎怎么配
+Jake: How do you pair it
+
+238
+00:41:38,766 --> 00:41:43,166
+Jake:就是我要跟他建立一个蓝牙
+Jake: I need to establish a Bluetooth connection with it
+
+239
+00:41:52,400 --> 00:41:53,333
+Jake:他是没开吗
+Jake: Is it not on
+
+240
+00:41:53,333 --> 00:41:54,300
+Jake:他是咋回事
+Jake: What's going on with it
+
+241
+00:42:01,333 --> 00:42:02,433
+Alice:好鬼畜
+Alice: So weird
+
+242
+00:42:11,233 --> 00:42:12,400
+Shure: 河南洛阳
+Shure: Henan Luoyang
+
+243
+00:42:12,100 --> 00:42:13,600
+Lucia: 我一会再把头发扎一下
+Lucia: I'll tie my hair up in a bit
+
+244
+00:42:13,600 --> 00:42:15,466
+Lucia: 不然他老挡着那个摄像头
+Lucia: Otherwise, it keeps blocking the camera
+
+245
+00:42:17,233 --> 00:42:18,400
+Shure: 俺是河南的
+Shure: I'm from Henan
+
+246
+00:42:18,900 --> 00:42:20,333
+Shure: 河南许昌的
+Shure: From Xuchang, Henan
+
+247
+00:42:34,900 --> 00:42:35,933
+Lucia: 这是什么呀
+Lucia: What is this?
+
+248
+00:42:41,800 --> 00:42:43,233
+Lucia: 这好像是个蛋羹
+Lucia: Looks like egg custard
+
+249
+00:42:44,400 --> 00:42:46,266
+Lucia: 吃这个需要放醋吧应该
+Lucia: You need to add vinegar to this, right?
+
+250
+00:42:46,400 --> 00:42:48,800
+Lucia: 他没给吗看一下
+Lucia: Did he not give any? Let me check
+
+251
+00:42:49,266 --> 00:42:51,166
+Jake:他包里好像还有东西
+Jake: Looks like there's more stuff in his bag
+
+252
+00:42:54,966 --> 00:42:56,366
+Lucia: 果然小醋包
+Lucia: A small vinegar packet, indeed
+
+253
+00:42:56,500 --> 00:42:57,766
+Jake:嗯好
+Jake: Ah, okay
+
+254
+00:42:57,800 --> 00:42:58,666
+Jake:拿快递了
+Jake: Got the delivery
+
+255
+00:42:59,433 --> 00:43:00,333
+Jake:呃
+Jake: Uh
+
+256
+00:43:03,600 --> 00:43:05,200
+Lucia: 我可以申请帮我取一下吗
+Lucia: Can I ask you to pick it up for me?
+
+257
+00:43:05,233 --> 00:43:07,300
+Lucia: 因为我要在家捡那个墙纸
+Lucia: Because I need to stay home and work on the wallpaper
+
+258
+00:43:07,066 --> 00:43:08,300
+Jake:好嘞发给我
+Jake: Sure, send it to me
+
+259
+00:43:08,300 --> 00:43:09,900
+Lucia: 只有两个了谢谢
+Lucia: Only two left, thanks
+
+260
+00:43:10,300 --> 00:43:11,333
+Jake:发给我发给我
+Jake: Send it to me, send it to me
+
+261
+00:43:32,500 --> 00:43:33,966
+Lucia: 什么不是我
+Lucia: What? Not me
+
+262
+00:43:34,300 --> 00:43:35,966
+Lucia: 我只是下来看见他有
+Lucia: I just saw he had it
+
+263
+00:43:36,066 --> 00:43:37,733
+Lucia: 所以我就舀出来了一点
+Lucia: So I just took a bite
+
+264
+00:43:50,400 --> 00:43:53,000
+Lucia: 我刚才用的那个碗呢这个
+Lucia: Where's the bowl I used earlier? This one
+
+265
+00:43:56,900 --> 00:43:59,166
+Lucia: 好热呀今天
+Lucia: It's so hot today
+
+266
+00:44:08,833 --> 00:44:10,300
+Lucia: 哎呀妈这醋还挺酸的
+Lucia: Oh my, this vinegar is really sour
+
+267
+00:44:20,533 --> 00:44:21,333
+Lucia: 嗯
+Lucia: Mm
+
+268
+00:44:21,266 --> 00:44:23,933
+Katrina: 这是你的手机还是我的手机我的
+Katrina: Is this your phone or my phone? Mine
+
+269
+00:44:22,466 --> 00:44:23,266
+Lucia: 不是
+Lucia: No
+
+270
+00:44:23,533 --> 00:44:25,333
+Alice:他们已经去取快递了吗
+Alice: Have they gone to pick up the delivery?
+
+271
+00:44:24,000 --> 00:44:25,000
+Lucia: 哈哈哈
+Lucia: Hahaha
+
+272
+00:44:26,233 --> 00:44:27,400
+Lucia: 应该还没走吧
+Lucia: They shouldn't have left yet
+
+273
+00:44:27,100 --> 00:44:27,900
+Katrina: 不知道
+Katrina: No idea
+
+274
+00:44:29,166 --> 00:44:30,633
+Katrina: 天天游荡着
+Katrina: Always wandering around
+
+275
+00:44:36,400 --> 00:44:39,166
+其他人：欸，你昨天后来用完我打火机放哪了
+
+276
+00:44:39,933 --> 00:44:42,400
+Lucia: 应该还在这个桌子上啊
+Lucia: It should still be on this table
+
+277
+00:44:42,400 --> 00:44:42,966
+Lucia: 在这在这
+Lucia: Here, here
+
+278
+00:44:42,966 --> 00:44:43,866
+Lucia: 我看见了
+Lucia: I see it
+
+279
+00:44:44,866 --> 00:44:47,633
+其他人：OK
+
+280
+00:44:46,566 --> 00:44:48,366
+Lucia: 这个不过他有点不太好打着
+Lucia: But it's a bit hard to light
+
+281
+00:44:48,400 --> 00:44:49,766
+Lucia: 所以我用了一下就
+Lucia: So I used it for a bit
+
+282
+00:44:49,766 --> 00:44:52,533
+其他人：不太好用了
+
+283
+00:44:50,233 --> 00:44:52,333
+Lucia: 对感觉是你的那个棉芯
+Lucia: Yeah, it feels like it's your wick
+
+284
+00:44:52,400 --> 00:44:55,500
+Lucia: 现在他有点就是对
+Lucia: Now he's kind of...
+
+285
+00:44:54,433 --> 00:44:57,200
+其他人：烧脱堵了
+
+286
+00:44:55,833 --> 00:44:58,700
+Lucia: 你换一根棉芯应该就就好了
+Lucia: You should replace the cotton core, then it should be fine.
+
+287
+00:45:07,900 --> 00:45:08,866
+其他人：是不是有镊子
+Others: Is there any tweezers?
+
+288
+00:45:10,333 --> 00:45:12,066
+其他人：这镊子不是吃东西的吧
+Others: These tweezers aren't for eating, right?
+
+289
+00:45:12,233 --> 00:45:15,333
+Lucia: 不是吧昨天靖康给我的
+Lucia: I don't think so, Jingkang gave them to me yesterday.
+
+290
+00:45:15,333 --> 00:45:16,800
+Lucia: 应该不是用来吃东西的
+Lucia: They shouldn't be for eating.
+
+291
+00:45:16,933 --> 00:45:17,733
+Jake:什么东西
+Jake: What is it?
+
+292
+00:45:17,966 --> 00:45:18,500
+其他人：镊子
+Others: Tweezers.
+
+293
+00:45:18,166 --> 00:45:19,700
+Jake:我不知道干嘛的
+Jake: I don't know what they're for.
+
+294
+00:45:21,900 --> 00:45:23,166
+Lucia: 本来昨天打算拿它烤那
+Lucia: I was planning to use them to roast that...
+
+295
+00:45:23,166 --> 00:45:23,800
+Lucia: 个水母蛆
+Lucia: Jellyfish maggot yesterday.
+
+296
+00:45:23,833 --> 00:45:24,700
+Lucia: 但是有点短
+Lucia: But they are a bit short.
+
+297
+00:45:27,600 --> 00:45:28,866
+Jake:这是啥油条
+Jake: What's this, a youtiao?
+
+298
+00:45:29,400 --> 00:45:30,200
+Lucia: 油条
+Lucia: Youtiao.
+
+299
+00:45:33,166 --> 00:45:33,933
+Jake:叼一个走
+Jake: Take one to go.
+
+300
+00:45:34,933 --> 00:45:35,900
+Jake:拿快递了
+Jake: Gotta get the package.
+
+301
+00:45:37,900 --> 00:45:38,933
+Jake:走走快递
+Jake: Let's go, package time.
+
+302
+00:45:41,233 --> 00:45:42,000
+Jake:走
+Jake: Let's go.
+
+303
+00:45:44,066 --> 00:45:44,733
+其他人：雨轩
+Others: Yuxuan.
+
+304
+00:45:44,433 --> 00:45:46,300
+Jake:在外边外边
+Jake: Outside, outside.
+
+305
+00:45:48,833 --> 00:45:49,500
+其他人：雨轩
+Others: Yuxuan.
+
+306
+00:45:49,966 --> 00:45:51,366
+Jake:你有一个快递对吧
+Jake: You've got a package, right?
+
+307
+00:45:51,500 --> 00:45:52,566
+Lucia: 两个嗯
+Lucia: Two, yeah.
+
+308
+00:45:51,966 --> 00:45:53,166
+Jake:两个好
+Jake: Two, okay.
+
+309
+00:45:53,333 --> 00:45:54,666
+Alice:我也有两个
+Alice: I have two as well.
+
+310
+00:45:53,466 --> 00:45:54,533
+Lucia: 我在
+Lucia: I'm here.
+
+311
+00:45:54,400 --> 00:45:55,333
+Jake:你也有两个
+Jake: You have two as well?
+
+312
+00:45:55,666 --> 00:45:57,800
+Lucia: 我发到你的聊天框里吧
+Lucia: I'll send it to your chatbox.
+
+313
+00:45:57,666 --> 00:45:58,200
+Jake:好
+Jake: Alright.
+
+314
+00:45:59,233 --> 00:46:00,900
+Lucia: 谢谢非常感谢
+Lucia: Thank you, much appreciated.
+
+315
+00:46:01,000 --> 00:46:01,900
+Jake:没有关系
+Jake: No problem.
+
+316
+00:47:29,400 --> 00:47:31,433
+Alice:Lucy呀你
+Alice: Lucia, you...
+
+317
+00:47:30,266 --> 00:47:30,766
+Lucia: 嗯
+Lucia: Hmm?
+
+318
+00:47:31,433 --> 00:47:33,100
+Alice:你的弄了多少了
+Alice: How much have you done?
+
+319
+00:47:34,800 --> 00:47:38,366
+Lucia: 我哈哈哈哈哈
+
+320
+00:47:39,000 --> 00:47:40,233
+Lucia: 哇好好看
+Lucia: Wow, looks so good.
+
+321
+00:47:40,500 --> 00:47:42,166
+Alice:但我觉得这个好埋汰啊
+Alice: But I think this one's kind of messy.
+
+322
+00:47:42,800 --> 00:47:44,100
+Lucia: 好看的我觉得
+Lucia: I think it looks nice.
+
+323
+00:47:44,000 --> 00:47:46,900
+Alice:就是这个颜色比较亮
+Alice: This color is quite bright though.
+
+324
+00:47:47,000 --> 00:47:48,300
+Alice:这个感觉灰不溜秋的
+Alice: This one feels kinda dull.
+
+325
+00:47:48,333 --> 00:47:49,833
+Alice:可能是印刷的问题
+Alice: Maybe it's a printing issue.
+
+326
+00:47:50,300 --> 00:47:50,733
+Lucia: 嗯
+Lucia: Hmm.
+
+327
+00:47:50,733 --> 00:47:53,500
+Lucia: 但我觉得整体的那个什么是协调的
+Lucia: But I think the overall look is coordinated.
+
+328
+00:47:53,533 --> 00:47:56,166
+Lucia: 就是整体的色调搭配是协调的
+Lucia: Like, the overall color scheme is coordinated.
+
+329
+00:47:56,400 --> 00:47:57,333
+Lucia: 好好看
+Lucia: Looks really good.
+
+330
+00:47:57,733 --> 00:47:59,333
+Alice:呵呵呵
+Alice: Hehehe.
+
+331
+00:47:58,500 --> 00:47:59,333
+Lucia: 我目前为止
+Lucia: So far,
+
+332
+00:47:59,333 --> 00:48:01,100
+Lucia: 还只把这个桌子摆在了墙角
+Lucia: I've only put this table in the corner.
+
+333
+00:48:01,066 --> 00:48:03,066
+Lucia: 然后在那里放了一个照片墙
+Lucia: And then I put a photo wall there.
+
+334
+00:48:03,166 --> 00:48:04,166
+Lucia: 哈哈
+Lucia: Haha.
+
+335
+00:48:03,666 --> 00:48:05,000
+Alice:这是我刚贴上去的
+Alice: I just put it up.
+
+336
+00:48:05,000 --> 00:48:06,966
+Alice:我发现还是你那个纸好用
+Alice: I found that your paper is better.
+
+337
+00:48:05,300 --> 00:48:06,033
+Lucia: 还是比那个纸好用
+Lucia: It's still better than that paper.
+
+338
+00:48:07,433 --> 00:48:08,300
+Lucia: 嗯那个纸
+Lucia: Hmm, that paper.
+
+339
+00:48:08,300 --> 00:48:09,766
+Lucia: 我现在在想如果我贴墙上
+Lucia: I'm thinking if I put it on the wall,
+
+340
+00:48:09,766 --> 00:48:10,533
+Lucia: 他会不会有点小
+Lucia: would it be a bit small?
+
+341
+00:48:10,533 --> 00:48:12,500
+Lucia: 其实我觉得这个大的更好
+Lucia: Actually, I think the bigger one is better.
+
+342
+00:48:12,500 --> 00:48:13,966
+Lucia: 就是他的视觉效果上
+Lucia: Like, in terms of visual effect,
+
+343
+00:48:14,000 --> 00:48:16,000
+Lucia: 会把这个房间填的更满一些
+Lucia: it would fill the room more.
+
+344
+00:48:15,933 --> 00:48:17,300
+Alice:你买的是多大的
+Alice: How big did you buy it?
+
+345
+00:48:17,500 --> 00:48:19,166
+Lucia: 我买的不知道
+Lucia: I don't know.
+
+346
+00:48:19,166 --> 00:48:19,900
+Lucia: 可能不是很大
+Lucia: Probably not very big.
+
+347
+00:48:19,933 --> 00:48:21,400
+Lucia: 因为他是那种贴画
+Lucia: Because it's a sticker.
+
+348
+00:48:21,500 --> 00:48:22,966
+Lucia: 就他不是一整张画
+Lucia: It's not a whole painting.
+
+349
+00:48:23,000 --> 00:48:24,500
+Lucia: 他是一个一个的
+Lucia: It's individual pieces.
+
+350
+00:48:24,500 --> 00:48:26,700
+Lucia: 你可以自己组合着贴在不同的地方
+Lucia: You can arrange them however you like.
+
+351
+00:48:25,500 --> 00:48:28,100
+Alice:哦那你可以稍微散一点
+Alice: Oh, then you can spread them out a bit.
+
+352
+00:48:28,366 --> 00:48:29,166
+Lucia: 对
+Lucia: Yeah.
+
+353
+00:48:29,000 --> 00:48:29,900
+Alice:需要我帮你啥吗
+Alice: Need my help with anything?
+
+354
+00:48:29,900 --> 00:48:32,166
+Alice:我现在我在等我那个大那个
+Alice: I'm waiting for my big, um...
+
+355
+00:48:32,166 --> 00:48:34,100
+Alice:那个那个我的小窗帘
+Alice: my little curtain.
+
+356
+00:48:34,233 --> 00:48:35,000
+Alice:蕾丝哎
+Alice: Lace, uh...
+
+357
+00:48:35,000 --> 00:48:36,500
+Alice:不对那什么窗帘
+Alice: No, what curtain...
+
+358
+00:48:35,033 --> 00:48:35,800
+Lucia: 嗯
+Lucia: Hmm.
+
+359
+00:48:36,600 --> 00:48:38,400
+Alice:我现在想怎么给它弄上去
+Alice: I'm thinking how to put it up now.
+
+360
+00:48:37,500 --> 00:48:39,733
+Lucia: 你这个你这个床罩好好看
+Lucia: Your bedspread looks so nice.
+
+361
+00:48:39,433 --> 00:48:41,200
+Alice:那你可以玩摸摸
+Alice: You can touch it if you want.
+
+362
+00:48:41,166 --> 00:48:41,900
+Alice:无所谓的
+Alice: I don't mind.
+
+363
+00:48:41,933 --> 00:48:43,100
+Alice:可以坐上来玩
+Alice: You can sit on it and play.
+
+364
+00:48:42,433 --> 00:48:43,400
+Lucia: 谢谢
+Lucia: Thanks.
+
+365
+00:48:43,833 --> 00:48:46,600
+Alice:反正他还得估计再一会去呢
+Alice: Anyway, he's probably going to leave in a bit.
+
+366
+00:48:45,100 --> 00:48:46,000
+Lucia: 好舒服
+Lucia: So comfortable.
+
+367
+00:48:47,066 --> 00:48:48,533
+Alice:这个床裙我很喜欢
+Alice: I really like this bed skirt.
+
+368
+00:48:48,533 --> 00:48:50,133
+Alice:就这个底下这个
+Alice: This one right here underneath.
+
+369
+00:48:50,233 --> 00:48:51,100
+Lucia: 嗯好看的
+Lucia: Yeah, it's pretty.
+
+370
+00:48:51,066 --> 00:48:52,666
+Lucia: 我本来也想买一个床罩
+Lucia: I was thinking of buying a bed cover too.
+
+371
+00:48:52,666 --> 00:48:56,533
+Lucia: 但是我发现蓝色色调的床罩不好买
+Lucia: But I found out that blue bed covers are hard to find.
+
+372
+00:48:55,900 --> 00:48:57,433
+Alice:很难买我看了
+Alice: Yeah, they're really hard to find. I checked.
+
+373
+00:48:56,766 --> 00:48:58,933
+Lucia: 对非常非常不好买
+Lucia: Yeah, they're very, very hard to find.
+
+374
+00:48:58,800 --> 00:49:00,400
+Alice:并且颜色不好看
+Alice: And the colors aren't nice.
+
+375
+00:48:59,500 --> 00:49:00,333
+Lucia: 就是不好看
+Lucia: Yeah, they don't look good.
+
+376
+00:49:00,366 --> 00:49:01,166
+Lucia: 对
+Lucia: Exactly.
+
+377
+00:49:01,766 --> 00:49:02,500
+Lucia: 除非就是哎
+Lucia: Unless, you know...
+
+378
+00:49:02,500 --> 00:49:03,333
+Lucia: 咱俩这很像
+Lucia: Ours are quite similar.
+
+379
+00:49:03,333 --> 00:49:05,000
+Lucia: 不过我觉得你这大小合适
+Lucia: But I think yours fits perfectly.
+
+380
+00:49:05,000 --> 00:49:06,133
+Lucia: 我那稍有点大了
+Lucia: Mine is a bit too big.
+
+381
+00:49:06,100 --> 00:49:09,200
+Alice:我量我量了一下我这个是40直径
+Alice: I measured mine, it's 40 diameter.
+
+382
+00:49:06,166 --> 00:49:07,433
+Lucia: 然后他就
+Lucia: And then he...
+
+383
+00:49:09,233 --> 00:49:10,733
+Alice:然后就买了个60的
+Alice: Then I bought a 60 one.
+
+384
+00:49:13,733 --> 00:49:14,700
+Lucia: 我是你的同款
+Lucia: I got the same model as yours.
+
+385
+00:49:14,666 --> 00:49:16,000
+Lucia: 不过颜色不一样
+Lucia: But in a different color.
+
+386
+00:49:14,933 --> 00:49:16,333
+Alice:你买的啥颜色呀
+Alice: What color did you get?
+
+387
+00:49:16,166 --> 00:49:17,433
+Lucia: 蓝色的
+Lucia: Blue.
+
+388
+00:49:17,933 --> 00:49:19,100
+Alice:这个真的很好看
+Alice: That one looks really nice.
+
+389
+00:49:19,000 --> 00:49:22,133
+Lucia: 嗯打算把这桌布也带回家去
+Lucia: Yeah, I'm planning to take this tablecloth home too.
+
+390
+00:49:22,433 --> 00:49:24,700
+Alice:这个就用完就可以带回家了
+Alice: You can take it home after using it.
+
+391
+00:49:24,666 --> 00:49:25,800
+Alice:要不然留着干嘛
+Alice: Otherwise, what's the point of keeping it?
+
+392
+00:49:25,733 --> 00:49:26,800
+Lucia: 应该是可以的
+Lucia: Yeah, you should be able to.
+
+393
+00:49:28,433 --> 00:49:29,533
+Alice:这个地毯很贵
+Alice: This carpet is expensive.
+
+394
+00:49:30,500 --> 00:49:31,766
+Alice:花了我好多预算
+Alice: It cost me a lot of my budget.
+
+395
+00:49:32,300 --> 00:49:34,566
+Lucia: 这是tufting的做的地毯吗
+Lucia: Is this carpet made with tufting?
+
+396
+00:49:34,900 --> 00:49:36,333
+Alice:不知道应该不是
+Alice: I don't know, probably not.
+
+397
+00:49:35,333 --> 00:49:38,200
+Lucia: tufting就是那种毛毛毡的
+Lucia: Tufting is like that fuzzy felt kind.
+
+398
+00:49:38,166 --> 00:49:39,733
+Lucia: 呃跟跟普通的
+Lucia: Uh, like, compared to regular ones...
+
+399
+00:49:39,366 --> 00:49:41,800
+Alice:那个大毛线突突突突突的那个
+Alice: That big yarn kind that goes puff puff puff.
+
+400
+00:49:40,900 --> 00:49:41,933
+Lucia: 对对对对对
+Lucia: Yeah, exactly.
+
+401
+00:49:41,933 --> 00:49:43,600
+Lucia: 看它有点像
+Lucia: It kind of looks like it.
+
+402
+00:49:42,166 --> 00:49:42,800
+Alice:应该不是
+Alice: Probably not.
+
+403
+00:49:42,800 --> 00:49:44,166
+Alice:感觉这是工厂的那啥
+Alice: Feels like it's from a factory.
+
+404
+00:49:44,166 --> 00:49:47,766
+Alice:因为他反面是那种啥啥的工厂货
+Alice: Because the back side looks like some factory-made stuff.
+
+405
+00:49:46,766 --> 00:49:47,833
+Lucia: 嗯好看的
+Lucia: Mm, it looks nice.
+
+406
+00:49:49,000 --> 00:49:50,500
+Alice:你需要做什么东西吗
+Alice: Do you need to make something?
+
+407
+00:49:50,500 --> 00:49:51,333
+Alice:我可以帮你
+Alice: I can help you.
+
+408
+00:49:51,500 --> 00:49:52,566
+Alice:虽然我有点累了
+Alice: Although I'm a bit tired.
+
+409
+00:49:52,566 --> 00:49:55,700
+Lucia: 嗯主要是咱们这剪刀很很急缺
+Lucia: Mm, mainly, we're really short on scissors.
+
+410
+00:49:55,733 --> 00:49:58,100
+Lucia: 我要把那个就是墙画再剪一下
+Lucia: I need to cut the wall art again.
+
+411
+00:49:58,100 --> 00:49:59,300
+Lucia: 因为我那个就他
+Lucia: Because, you know...
+
+412
+00:49:59,333 --> 00:50:02,300
+Lucia: 本来他是直接撕下来就贴到墙上的
+Lucia: Originally, it was supposed to be directly stuck on the wall.
+
+413
+00:50:02,433 --> 00:50:03,600
+Lucia: 但我害怕贴到这的墙上
+Lucia: But I'm worried if we stick it...
+
+414
+00:50:03,566 --> 00:50:05,133
+Lucia: 万一到时候撕不掉就很麻烦
+Lucia: It might be hard to remove later.
+
+415
+00:50:05,300 --> 00:50:06,833
+Lucia: 所以我要把它剪下来
+Lucia: So I need to cut it out.
+
+416
+00:50:06,833 --> 00:50:08,166
+Lucia: 然后用美纹纸贴
+Lucia: And then use masking tape to stick it.
+
+417
+00:50:09,933 --> 00:50:11,500
+Lucia: 让我先上去把它拿下来
+Lucia: Let me go up and get it first.
+
+418
+00:50:12,366 --> 00:50:13,833
+Alice:要不你在我这弄吧
+Alice: How about you do it at my place?
+
+419
+00:50:14,000 --> 00:50:15,400
+Lucia: 也可以或
+Lucia: That works too, or...
+
+420
+00:50:14,933 --> 00:50:16,233
+Alice:我这还放了香薰嘞
+Alice: I have a fragrance here too.
+
+421
+00:50:17,333 --> 00:50:19,700
+Lucia: 我看看昨天晚上那个剪刀
+Lucia: Let me see the scissors from last night.
+
+422
+00:50:19,666 --> 00:50:20,600
+Lucia: 我剪那个啥
+Lucia: I used them to cut...
+
+423
+00:50:20,600 --> 00:50:22,866
+Lucia: 我剪那个塑料瓶用了一下
+Lucia: I used them to cut the plastic bottle.
+
+424
+00:50:22,933 --> 00:50:24,733
+Lucia: 可能雨轩在用看看
+Lucia: Maybe Nicous is using them, let me check.
+
+425
+00:50:32,933 --> 00:50:35,800
+Lucia: 咦雨轩你有看到那个剪刀吗
+Lucia: Hey Nicous, have you seen the scissors?
+
+426
+00:50:36,033 --> 00:50:37,566
+Katrina: 没有所有人都在找剪刀
+Katrina: No, everyone's looking for the scissors.
+
+427
+00:50:37,566 --> 00:50:38,800
+Katrina: 那个蓝色的吗
+Katrina: The blue ones?
+
+428
+00:50:38,833 --> 00:50:40,233
+Katrina: 蓝色的可能在二楼
+Katrina: The blue ones might be on the second floor.
+
+429
+00:50:40,233 --> 00:50:43,433
+Lucia: 有一个那个叫什么颜色
+Lucia: There's one, what color was it...
+
+430
+00:50:43,166 --> 00:50:44,033
+Katrina: 红色吗
+Katrina: Red?
+
+431
+00:50:44,233 --> 00:50:46,000
+Lucia: 有一个不知道从哪里出现的
+Lucia: There's one that appeared out of nowhere.
+
+432
+00:50:46,000 --> 00:50:47,300
+Lucia: 剪刀是透明的
+Lucia: The scissors are transparent.
+
+433
+00:50:47,400 --> 00:50:49,100
+Katrina: 啊那我没见过
+Katrina: Ah, I haven't seen that one.
+
+434
+00:50:47,500 --> 00:50:48,733
+Lucia: 那个好用一点
+Lucia: That one's better.
+
+435
+00:50:49,100 --> 00:50:50,900
+Lucia: 啊好的谢谢
+Lucia: Ah, okay, thanks.
+
+436
+00:50:52,333 --> 00:50:53,100
+Lucia: 嗯
+Lucia: Hmm.
+
+437
+00:50:54,400 --> 00:50:55,166
+Lucia: 奇怪
+Lucia: Strange.
+
+438
+00:50:56,300 --> 00:50:57,900
+Lucia: 那我再找一下
+Lucia: I'll look for it again.
+
+439
+00:50:59,600 --> 00:51:01,133
+Lucia: 嗯会在哪里呢
+Lucia: Hmm, where could it be?
+
+440
+00:51:01,166 --> 00:51:03,400
+Lucia: 我记得我昨天晚上还用了
+Lucia: I remember using it last night.
+
+441
+00:51:11,100 --> 00:51:12,400
+Lucia: 嗯Excuse me
+Lucia: Hmm, excuse me.
+
+442
+00:51:13,166 --> 00:51:14,200
+Lucia: 我觉得我是不是
+Lucia: I think I'm...
+
+443
+00:51:14,233 --> 00:51:16,766
+Lucia: 嗯这个天气有点暗
+Lucia: Hmm, this weather is a bit gloomy.
+
+444
+00:51:17,566 --> 00:51:19,566
+Alice:我感觉我上火了露西
+Alice: I feel like I have a fever, Lucia.
+
+445
+00:51:21,066 --> 00:51:22,200
+Alice:我的鼻子好痛
+Alice: My nose hurts so much.
+
+446
+00:51:21,500 --> 00:51:22,300
+Lucia: 嗯多
+Lucia: Yeah, a lot.
+
+447
+00:51:22,233 --> 00:51:23,700
+Alice:我的牙龈也好痛
+Alice: My gums hurt a lot too.
+
+448
+00:51:23,600 --> 00:51:24,766
+Lucia: 多喝点水
+Lucia: Drink more water.
+
+449
+00:51:35,066 --> 00:51:36,066
+Lucia: 我觉得我也有点
+Lucia: I think I have a bit too.
+
+450
+00:51:36,066 --> 00:51:39,333
+Lucia: 而且我就是一直会想打喷嚏
+Lucia: And I keep wanting to sneeze.
+
+451
+00:51:43,166 --> 00:51:44,900
+Lucia: 为什么又找不见剪刀了
+Lucia: Why can't I find the scissors again?
+
+452
+00:51:44,933 --> 00:51:46,100
+Lucia: 好烦啊
+Lucia: So annoying.
+
+453
+00:51:47,066 --> 00:51:49,066
+Lucia: 严重拖慢我的进度
+Lucia: It's seriously slowing down my progress.
+
+454
+00:51:49,900 --> 00:51:52,166
+Lucia: 本来是进度就不怎么快
+Lucia: My progress wasn't fast to begin with.
+
+455
+00:52:09,433 --> 00:52:10,766
+Lucia: 莫非能在楼上吗
+Lucia: Could they be upstairs?
+
+456
+00:52:10,766 --> 00:52:12,366
+Lucia: 我昨天没用他的呀
+Lucia: I didn't use them yesterday.
+
+457
+00:52:12,366 --> 00:52:15,200
+Lucia: 我就在楼下最后用了一下
+Lucia: I only used them downstairs at the end.
+
+458
+00:52:15,600 --> 00:52:16,966
+Lucia: 然后我就没用了
+Lucia: And then I didn't use them anymore.
+
+459
+00:52:17,733 --> 00:52:18,733
+Lucia: 不知道呀
+Lucia: I don't know.
+
+460
+00:52:19,800 --> 00:52:20,933
+Lucia: 好奇怪呀
+Lucia: So strange.
+
+461
+00:52:20,933 --> 00:52:22,333
+Lucia: 我上楼看一眼
+Lucia: I'll go check upstairs.
+
+462
+00:52:23,766 --> 00:52:25,900
+Lucia: 这要剪不好那我就GG
+Lucia: If I can't cut this right, I'm done for.
+
+463
+00:52:46,333 --> 00:52:47,233
+Lucia: 这个是雨轩
+Lucia: This is Yuxuan's.
+
+464
+00:52:47,233 --> 00:52:51,100
+Lucia: 的小灯难道在这吗
+Lucia: Little lamp, could it be here?
+
+465
+00:52:52,733 --> 00:52:54,200
+Lucia: 也不在我靠
+
+466
+00:52:55,833 --> 00:52:56,600
+Lucia: 嗯
+
+467
+00:53:03,900 --> 00:53:04,933
+Alice:你找到了吗
+
+468
+00:53:05,166 --> 00:53:06,000
+Lucia: 没有
+
+469
+00:53:06,833 --> 00:53:08,933
+Lucia: 我就觉得应该不会在楼上
+
+470
+00:53:08,933 --> 00:53:11,400
+Lucia: 因为我昨天晚上在楼下用的
+
+471
+00:53:26,900 --> 00:53:28,166
+其他人：What  are  doing  here
+
+472
+00:53:28,000 --> 00:53:29,833
+Lucia: 我在找一个剪刀
+
+473
+00:53:29,933 --> 00:53:31,200
+Lucia: 你昨天有在这里看
+
+474
+00:53:31,300 --> 00:53:31,933
+Lucia: 或者今天早上
+
+475
+00:53:31,933 --> 00:53:34,100
+Lucia: 在这看到一个透明色的剪刀吗
+
+476
+00:53:34,300 --> 00:53:35,566
+其他人：No
+
+477
+00:53:34,766 --> 00:53:36,433
+Lucia: 嗯奇怪
+
+478
+00:53:37,100 --> 00:53:38,466
+Lucia: 到处都没有哎
+
+479
+00:53:39,900 --> 00:53:41,500
+Lucia: 啊那我怎么办
+
+480
+00:53:42,500 --> 00:53:44,600
+Lucia: 离大谱了没有
+
+481
+00:53:44,600 --> 00:53:47,800
+Lucia: 好奇怪我昨天晚上在那里用的
+
+482
+00:53:47,833 --> 00:53:49,500
+Lucia: 然后就还放在那了
+
+483
+00:53:56,366 --> 00:53:57,333
+Lucia: 好怪啊
+
+484
+00:54:12,100 --> 00:54:14,366
+Lucia: 理论上说他应该
+
+485
+00:54:17,000 --> 00:54:19,100
+Lucia: 他应该不可能不见呀
+
+486
+00:54:20,066 --> 00:54:21,766
+Lucia: 咱这饮料可真多呀
+
+487
+00:54:25,166 --> 00:54:25,933
+Lucia: 嗯
+Lucia: Hmm
+
+488
+00:54:30,066 --> 00:54:34,533
+Lucia: 把美工刀给他放架子上去工
+Lucia: Put the utility knife back on the shelf.
+
+489
+00:54:36,766 --> 00:54:39,500
+Lucia: 而且那个剪刀它整体还是个透明的
+Lucia: And the scissors are completely transparent.
+
+490
+00:54:39,500 --> 00:54:40,500
+Lucia: 特别不好找
+Lucia: Really hard to find.
+
+491
+00:54:43,533 --> 00:54:44,333
+Alice:嗯
+Alice: Hmm
+
+492
+00:54:45,000 --> 00:54:47,333
+Lucia: 我说那个剪刀它整体是透明的
+
+493
+00:54:47,333 --> 00:54:48,500
+Lucia: 所以它也不好找
+Lucia: So they're hard to find too.
+
+494
+00:54:58,566 --> 00:55:01,766
+Lucia: 拿起我的勺再吃一口
+Lucia: I'll pick up my spoon and take another bite.
+
+495
+00:55:02,533 --> 00:55:04,166
+Lucia: 对那昨天晚上洒的
+Lucia: Yeah, it was spilled last night.
+
+496
+00:55:21,066 --> 00:55:22,666
+Lucia: 我操啊完全找不到
+Lucia: Damn, I can't find it at all.
+
+497
+00:55:23,533 --> 00:55:25,133
+Alice:现在只有一个了是吗
+Alice: There's only one left now, right?
+
+498
+00:55:25,900 --> 00:55:27,900
+Lucia: 嗯而且是不好用的那个
+Lucia: Yeah, and it's the one that's not good.
+
+499
+00:55:27,866 --> 00:55:29,433
+Alice:要不你先用着
+Alice: Why don't you use it for now?
+
+500
+00:55:30,100 --> 00:55:32,266
+Lucia: 那个应该雨轩现在在用吧
+Lucia: I think Yuxuan is using it now.
+
+501
+00:55:32,800 --> 00:55:33,833
+Lucia: 我也不知道
+Lucia: I don't know either.
+
+502
+00:55:34,500 --> 00:55:35,700
+Lucia: 那个我也没找着
+Lucia: I couldn't find it either.
+
+503
+00:55:43,166 --> 00:55:44,500
+Lucia: 就是所有的剪刀
+Lucia: All the scissors...
+
+504
+00:55:46,433 --> 00:55:47,400
+Lucia: 都不见了
+Lucia: Are missing.
+
+505
+00:55:48,800 --> 00:55:49,566
+Lucia: 嗯
+Lucia: Hmm
+
+506
+00:55:54,500 --> 00:55:55,966
+Lucia: 到底啥情况靠
+Lucia: What's going on, damn it.
+
+507
+00:56:10,500 --> 00:56:11,533
+Alice:要不用这个
+Alice: How about using this one?
+
+508
+00:56:13,433 --> 00:56:14,733
+Lucia: 这个我昨天也用了
+Lucia: I used this one yesterday too.
+
+509
+00:56:14,733 --> 00:56:16,100
+Lucia: 但是他没有捡到
+Lucia: But it didn't work well.
+
+510
+00:56:16,100 --> 00:56:19,100
+Lucia: 灵活就我昨天切瓶子的时候用了
+Lucia: I used it to cut a bottle yesterday.
+
+511
+00:56:20,000 --> 00:56:21,933
+Lucia: 我刚把它放到这其实
+Lucia: I just put it here actually.
+
+512
+00:56:26,666 --> 00:56:28,300
+Lucia: 我靠好奇怪啊
+Lucia: This is so weird.
+
+513
+00:56:29,900 --> 00:56:31,666
+Lucia: 他怎么能就没有了呢
+Lucia: How could it just disappear?
+
+514
+00:56:32,166 --> 00:56:33,800
+Lucia: 我在群里问一下吧
+Lucia: I'll ask in the group chat.
+
+515
+00:56:37,833 --> 00:56:39,433
+Alice:就蒸蛋蒸的不错
+Alice: The steamed egg turned out well.
+
+516
+00:57:09,500 --> 00:57:11,966
+Lucia: 啊怎么哦
+Lucia: Ah, what's going on?
+
+517
+00:57:12,166 --> 00:57:14,733
+Lucia: 在这里应该刚有谁拆快递用了
+Lucia: Someone must have used it to open a package.
+
+518
+00:57:14,766 --> 00:57:16,600
+Lucia: 那我先上去把那个剪一下
+Lucia: I'll go upstairs and check.
+
+519
+00:57:41,800 --> 00:57:44,266
+Lucia: 找到了
+
+520
+00:58:42,166 --> 00:58:44,233
+Lucia: （歌词）大雨在梦
+Lucia: (Lyrics) Heavy rain in the dream
+
+521
+00:59:39,000 --> 00:59:46,166
+Lucia: （歌词）看海天一色听风起雨落
+Lucia: (Lyrics) Watching the sea and sky, listening to the wind and rain
+
+522
+00:59:46,666 --> 00:59:52,666
+Lucia: （歌词）执子手吹散苍茫茫烟波
+Lucia: (Lyrics) Holding hands, blowing away the misty waves
+

@@ -1,0 +1,3730 @@
+1
+00:00:05,666 --> 00:00:08,300
+Jack: 你就之前在开始之前跑那个
+Jack: Just run the one you ran before.
+
+2
+00:00:08,533 --> 00:00:09,666
+Nicous: 哎我没有啊
+Nicous: Hey, I don't have it.
+
+3
+00:00:09,666 --> 00:00:11,733
+Nicous: 就我们课堂我们那个
+Nicous: In our class, we...
+
+4
+00:00:12,366 --> 00:00:15,200
+Nicous: 然后就是Outlook然后他全都直接有
+Nicous: And then with Outlook, it all directly has it.
+
+5
+00:00:14,933 --> 00:00:17,866
+Shure: 等一下
+Shure: Wait a second.
+
+6
+00:00:16,166 --> 00:00:18,833
+Jack: 怎么怎么没有interview
+Jack: Why is there no interview?
+
+7
+00:00:21,366 --> 00:00:23,166
+Shure: 哎呦我操
+Shure: Oh, shit.
+
+8
+00:00:22,766 --> 00:00:24,333
+Jack: 哎我这是这是petrol吗
+Jack: Hey, is this petrol?
+
+9
+00:00:24,666 --> 00:00:25,466
+Shure: 这是petrol吗
+Shure: Is this petrol?
+
+10
+00:00:27,700 --> 00:00:29,333
+Jack: 上一次用petrol还是大二
+Jack: Last time I used petrol was sophomore year.
+
+11
+00:00:30,066 --> 00:00:30,766
+Jake:1500
+Jake: 1500.
+
+12
+00:00:32,766 --> 00:00:33,566
+Jake:2024
+Jake: 2024.
+
+13
+00:00:34,933 --> 00:00:36,300
+Shure: 我早开了
+Shure: I've already opened it.
+
+14
+00:00:36,366 --> 00:00:37,333
+Jack: 你用petrol吗
+Jack: Do you use petrol?
+
+15
+00:00:37,300 --> 00:00:37,900
+Jack: 你给他配一下petrol
+Jack: Configure petrol for him.
+
+16
+00:00:39,700 --> 00:00:41,166
+Nicous: petrol太好配了啊
+Nicous: Petrol is so easy to configure.
+
+17
+00:00:41,966 --> 00:00:44,166
+Shure: 来来来他就会蹦出来这个
+Shure: Come on, it will just pop up.
+
+18
+00:00:43,466 --> 00:00:44,733
+Choiszt: 傻瓜教学
+Choiszt: Foolproof tutorial.
+
+19
+00:00:46,700 --> 00:00:48,600
+Shure: 不我环境都没好呢
+Shure: No, my environment isn't even set up yet.
+
+20
+00:00:48,633 --> 00:00:51,433
+Nicous: 啊啊我错了哥
+Nicous: Ah, my bad, bro.
+
+21
+00:00:51,566 --> 00:00:52,333
+Shure: yes
+Shure: Yes.
+
+22
+00:00:53,266 --> 00:00:55,400
+Shure: 然后他会给我报这个
+Shure: Then it will report this.
+
+23
+00:00:56,700 --> 00:00:59,933
+Shure: trouble shooting some counter package install
+Shure: Troubleshooting some counter package install.
+
+24
+00:01:00,100 --> 00:01:02,033
+Shure: 啦啦啦for example
+Shure: La la la, for example.
+
+25
+00:01:02,033 --> 00:01:04,966
+Jack: 不你你现在create一个新环境
+Jack: No, you should create a new environment now.
+
+26
+00:01:06,133 --> 00:01:06,900
+Shure: 啊可以
+Shure: Ah, okay.
+
+27
+00:01:07,166 --> 00:01:07,700
+Jack: 对你create
+Jack: Yes, create one.
+
+28
+00:01:08,000 --> 00:01:09,300
+Jack: 就是缺什么装什么
+Jack: Just install whatever is missing.
+
+29
+00:01:09,466 --> 00:01:10,133
+Jack: 绝对最快
+Jack: It's the fastest way.
+
+30
+00:01:10,133 --> 00:01:11,666
+Jack: 相信我绝对最快
+Jack: Trust me, it's the fastest.
+
+31
+00:01:12,633 --> 00:01:14,300
+Katrina: 你要不要去拿个勺子
+Katrina: Do you want to get a spoon?
+
+32
+00:01:14,666 --> 00:01:15,566
+Lucia: 还有勺吗
+Lucia: Do we have any more spoons?
+
+33
+00:01:15,633 --> 00:01:17,433
+Katrina: 嗯放那个厨房里
+Katrina: Yeah, they're in the kitchen.
+
+34
+00:01:17,433 --> 00:01:18,666
+Katrina: 有勺在那
+Katrina: There are some spoons there.
+
+35
+00:01:20,666 --> 00:01:21,833
+Shure: 我相信你们的
+Shure: I trust you guys.
+
+36
+00:01:25,966 --> 00:01:26,800
+Jack: 你就随便可以
+Jack: Just do whatever.
+
+37
+00:01:27,133 --> 00:01:30,200
+Jack: 你看看你拍摄的版本也行
+Jack: You can also check the version you filmed.
+
+38
+00:01:31,166 --> 00:01:31,733
+Shure: 这个
+Shure: This one.
+
+39
+00:01:32,766 --> 00:01:35,566
+Shure: 就跟我那个本地那个一模一样的
+Shure: It's exactly the same as the local one.
+
+40
+00:01:35,566 --> 00:01:36,866
+Shure: 这都是不是
+Shure: All of these, right?
+
+41
+00:01:36,633 --> 00:01:36,966
+Nicous: 不是
+Nicous: No.
+
+42
+00:01:36,966 --> 00:01:39,566
+Nicous: 他这玩意只给你下那种正正版的软件
+Nicous: This thing only lets you download the official software.
+
+43
+00:01:39,566 --> 00:01:40,200
+Nicous: 然后他是那种
+Nicous: And then it's like...
+
+44
+00:01:40,200 --> 00:01:41,333
+Choiszt: 但是你没有激活码
+Choiszt: But you don't have an activation code.
+
+45
+00:01:41,366 --> 00:01:43,066
+Nicous: 对啊而且
+Nicous: Yeah, plus...
+
+46
+00:01:43,366 --> 00:01:47,400
+Nicous: 他问有没有那个微软的365
+Nicous: He asked if you have Microsoft 365.
+
+47
+00:01:48,533 --> 00:01:48,966
+其他人：我也没有
+Others: I don't have it either.
+
+48
+00:01:48,966 --> 00:01:49,733
+Jake:微软的链接
+Jake: A Microsoft link.
+
+49
+00:01:49,800 --> 00:01:50,833
+Jake:我也没有码
+Jake: I don't have a code either.
+
+50
+00:01:51,033 --> 00:01:52,200
+Jack: 我有码我有账号
+Jack: I have a code, I have an account.
+
+51
+00:01:53,000 --> 00:01:53,633
+Jack: 我可以一会
+Jack: I can...
+
+52
+00:01:53,633 --> 00:01:54,166
+Jack: 一会今天晚
+Jack: Later tonight...
+
+53
+00:01:54,166 --> 00:01:54,733
+Jack: 上回来发给你
+Jack: I'll send it to you.
+
+54
+00:01:54,766 --> 00:01:55,766
+Choiszt: 你发我就行
+Choiszt: Just send it to me.
+
+55
+00:01:55,866 --> 00:01:58,066
+Nicous: 你也我也我也我也我也
+Nicous: You too, you too, you too, you too.
+
+56
+00:01:58,066 --> 00:01:59,066
+Nicous: 快毕业了不
+Nicous: Are we about to graduate?
+
+57
+00:01:59,800 --> 00:02:00,900
+Choiszt: 你那个码是哪来的
+Choiszt: Where did you get that code from?
+
+58
+00:02:00,933 --> 00:02:02,700
+Jack: 腾讯呗哈哈哈
+Jack: From Tencent, haha.
+
+59
+00:02:02,700 --> 00:02:03,600
+Nicous: 发我我用一个
+Nicous: Send it to me, I'll use it.
+
+60
+00:02:04,366 --> 00:02:05,833
+Choiszt: 能用吗
+Choiszt: Will it work?
+
+61
+00:02:05,800 --> 00:02:06,500
+Choiszt: 找你买一条
+Choiszt: I'll buy one from you.
+
+62
+00:02:06,533 --> 00:02:08,466
+Jack: 看不到他就是一个激活账号
+Jack: You can't see it, it's just an activation account.
+
+63
+00:02:09,466 --> 00:02:10,166
+Choiszt: 真可以用吗
+Choiszt: Can it really be used?
+
+64
+00:02:10,166 --> 00:02:11,800
+Jake:我们准备买东西
+Jake: We're preparing to buy some stuff.
+
+65
+00:02:12,000 --> 00:02:12,933
+Jake:我们要买什么呢
+Jake: What should we buy?
+
+66
+00:02:13,766 --> 00:02:15,600
+Jake:我们还要补一些
+Jake: We need to get some more...
+
+67
+00:02:15,600 --> 00:02:17,000
+Nicous: 我们的world就是
+Nicous: Our world is...
+
+68
+00:02:18,966 --> 00:02:19,766
+Jake:还有谁要补
+Jake: Who else needs more?
+
+69
+00:02:19,766 --> 00:02:20,800
+Jake:你有要补的东西吗
+Jake: Do you need to get anything?
+
+70
+00:02:20,800 --> 00:02:21,800
+Jake:你要补酒吗
+Jake: Do you need to get more wine?
+
+71
+00:02:22,266 --> 00:02:23,466
+Shure: 补点
+Shure: Just a bit.
+
+72
+00:02:22,366 --> 00:02:23,533
+Jake:补点
+Jake: Add some more.
+
+73
+00:02:23,566 --> 00:02:24,133
+Jake:你还要补啥
+Jake: What else do you need to add?
+
+74
+00:02:24,133 --> 00:02:25,666
+Jack: 你如果没激活你那啥也打不了
+Jack: If you haven't activated it, you can't do anything.
+
+75
+00:02:25,666 --> 00:02:26,800
+Jake:你琢磨琢磨
+Jake: Think about it.
+
+76
+00:02:30,000 --> 00:02:32,566
+其他人：然后他这个都是同同步的所以
+Others: And then it's all synced up so...
+
+77
+00:02:34,533 --> 00:02:35,766
+Jake:路亚要补点什么吗
+Jake: Does Lua need to add anything?
+
+78
+00:02:37,466 --> 00:02:39,066
+Jake:补什么
+Jake: Add what?
+
+79
+00:02:40,066 --> 00:02:40,566
+Jake:补货
+Jake: Restock.
+
+80
+00:02:41,033 --> 00:02:43,533
+Jake:我们要买东西的话要补什么货吗
+Jake: If we need to buy something, do we need to restock anything?
+
+81
+00:02:44,066 --> 00:02:45,166
+Jake:雨轩要补货吗
+Jake: Yuxuan, do we need to restock?
+
+82
+00:02:45,566 --> 00:02:46,600
+Katrina: 我思考一下
+Katrina: Let me think about it.
+
+83
+00:02:49,166 --> 00:02:53,066
+Lucia: 如果有蓝色系的明信片的话或者
+Lucia: If there are blue-themed postcards, or...
+
+84
+00:02:55,800 --> 00:02:58,500
+Katrina: 你找找我那明信片里面有没有蓝色的
+Katrina: Check if there are any blue ones among my postcards.
+
+85
+00:02:58,666 --> 00:03:00,966
+Lucia: 对也可以就地取材一下
+Lucia: Yeah, we can just use what's available.
+
+86
+00:03:01,566 --> 00:03:04,266
+Shure: 变成那个康纳的那个环境来着
+Shure: It turned into Connor's environment.
+
+87
+00:03:04,766 --> 00:03:05,766
+Lucia: 我觉得我那个照片
+Lucia: I think my photo...
+
+88
+00:03:05,766 --> 00:03:08,066
+Lucia: 墙上可能需要戳两个
+Lucia: The wall might need a couple of marks.
+
+89
+00:03:08,066 --> 00:03:10,433
+Lucia: 但是当时好像买了也来不及
+Lucia: But it seems like it was too late to buy them at that time.
+
+90
+00:03:10,433 --> 00:03:11,800
+Lucia: 太不太来得及到
+Lucia: It's probably too late now.
+
+91
+00:03:12,066 --> 00:03:13,566
+Jake:这玩意要收起来哦
+Jake: This thing needs to be put away.
+
+92
+00:03:15,600 --> 00:03:16,366
+Jake:可以收
+Jake: It can be put away.
+
+93
+00:03:17,966 --> 00:03:20,066
+Katrina: 美文旺仔牛奶是不是要买
+Katrina: Should we buy some Meiwang milk?
+
+94
+00:03:20,066 --> 00:03:21,733
+Katrina: 美文纸跟旺仔牛奶是吧
+Katrina: Meiwang paper and Wangzai milk, right?
+
+95
+00:03:21,766 --> 00:03:22,766
+Lucia: 美文纸我买了
+Lucia: I bought the Meiwang paper.
+
+96
+00:03:22,766 --> 00:03:24,233
+Lucia: 他今天应该到了
+Lucia: It should arrive today.
+
+97
+00:03:24,200 --> 00:03:25,300
+Lucia: 我看看啊
+Lucia: Let me check.
+
+98
+00:03:25,300 --> 00:03:27,300
+Katrina: 那那旺仔牛奶是不是要外送
+Katrina: Should we deliver the Wangzai milk?
+
+99
+00:03:27,766 --> 00:03:28,966
+Katrina: 要大概几瓶
+Katrina: How many bottles roughly?
+
+100
+00:03:32,266 --> 00:03:34,266
+Katrina: 那就买那种一板行不行
+Katrina: How about buying a whole tray?
+
+101
+00:03:35,033 --> 00:03:36,166
+Jake:我们来记个小本本
+Jake: Let's make a note of it.
+
+102
+00:03:36,166 --> 00:03:37,166
+Nicous: 可是他妈才创
+Nicous: But it just started.
+
+103
+00:03:37,166 --> 00:03:39,166
+Nicous: 然后一个没创进去啊
+Nicous: And nothing has been created yet.
+
+104
+00:03:39,166 --> 00:03:41,433
+Katrina: 黑板可以拿出来了
+Katrina: The blackboard can be taken out now.
+
+105
+00:03:42,166 --> 00:03:42,966
+Katrina: 哼
+Katrina: Hmph.
+
+106
+00:03:43,766 --> 00:03:44,766
+Katrina: 户外教学
+Katrina: Outdoor teaching.
+
+107
+00:03:45,166 --> 00:03:47,800
+Jack: 今天今天晚上教我配Alab的机器
+Jack: Teach me how to set up the Alab machine tonight.
+
+108
+00:03:48,266 --> 00:03:48,933
+Choiszt: 你要配那个
+Choiszt: You need to set up that...
+
+109
+00:03:48,933 --> 00:03:49,800
+Choiszt: 干啥
+Choiszt: What for?
+
+110
+00:03:49,800 --> 00:03:51,233
+Jack: 干活再不干活就要干死我
+Jack: If I don't work, it'll kill me.
+
+111
+00:03:51,866 --> 00:03:53,233
+Jack: 再不干活我就可以不干了
+Jack: If I don't work, I might as well quit.
+
+112
+00:03:53,633 --> 00:03:54,733
+Jake:来个人抬黑板
+Jake: Someone help me move the blackboard.
+
+113
+00:03:54,800 --> 00:03:56,433
+Jake:来来来
+Jake: Come on, come on.
+
+114
+00:03:59,666 --> 00:04:01,233
+Nicous: 不是你每次每次
+Nicous: Isn't it the same every time?
+
+115
+00:04:01,266 --> 00:04:02,600
+Nicous: 叼的是同一个吧
+Nicous: You always pick the same one, right?
+
+116
+00:04:02,966 --> 00:04:03,966
+Choiszt: 可能吧
+Choiszt: Maybe.
+
+117
+00:04:04,600 --> 00:04:05,633
+Lucia: 每次叼的是同一个
+Lucia: Always picking the same one.
+
+118
+00:04:05,633 --> 00:04:08,200
+Nicous: 别他妈这一盒他妈全部给叼一个
+Nicous: Don't take the whole box and pick just one!
+
+119
+00:04:08,433 --> 00:04:09,400
+Choiszt: 那就给我得了
+Choiszt: Then just give it to me.
+
+120
+00:04:09,366 --> 00:04:10,433
+Choiszt: 我来跟别人social
+Choiszt: I'll use it to socialize.
+
+121
+00:04:10,466 --> 00:04:12,233
+Choiszt: social通行
+Choiszt: Social pass.
+
+122
+00:04:12,233 --> 00:04:12,966
+Nicous: 这一盒给你
+Nicous: This box is yours.
+
+123
+00:04:14,666 --> 00:04:15,866
+Nicous: 八个
+Nicous: Eight pieces.
+
+124
+00:04:15,866 --> 00:04:17,300
+Nicous: 转我20块钱就行
+Nicous: Just transfer me 20 yuan.
+
+125
+00:04:19,466 --> 00:04:20,133
+Choiszt: 一共多少
+Choiszt: How much in total?
+
+126
+00:04:20,133 --> 00:04:21,566
+Choiszt: 20根是吧嗯
+Choiszt: 20 pieces, right? Hmm.
+
+127
+00:04:24,300 --> 00:04:24,966
+Choiszt: 我觉得可以
+Choiszt: I think that's fine.
+
+128
+00:04:25,000 --> 00:04:26,266
+Choiszt: 买点槟榔给人送
+Choiszt: Buy some betel nuts to gift people.
+
+129
+00:04:26,266 --> 00:04:27,633
+Nicous: 你是最傻逼吧
+Nicous: Are you the dumbest?
+
+130
+00:04:27,733 --> 00:04:28,933
+Nicous: 你是想害人
+Nicous: Are you trying to harm people?
+
+131
+00:04:29,566 --> 00:04:30,366
+Choiszt: 不是那你
+Choiszt: No, but you...
+
+132
+00:04:30,366 --> 00:04:31,366
+Choiszt: 那你说能买
+Choiszt: But you said we could buy...
+
+133
+00:04:33,066 --> 00:04:33,933
+Nicous: 巧克力吧
+Nicous: Chocolate instead.
+
+134
+00:04:34,866 --> 00:04:36,166
+Jake:放边上吧
+Jake: Put it on the side.
+
+135
+00:04:36,233 --> 00:04:39,000
+Jake:放放那个最左边
+Jake: Put it on the far left.
+
+136
+00:04:39,000 --> 00:04:39,800
+Choiszt: 真晒呀
+Choiszt: It's really sunny.
+
+137
+00:04:55,166 --> 00:04:56,166
+Katrina: 好搞笑
+Katrina: So funny.
+
+138
+00:05:07,166 --> 00:05:07,966
+Choiszt: QA是什么
+Choiszt: What's QA?
+
+139
+00:05:08,800 --> 00:05:11,733
+Katrina: 就是那是我写的and
+Katrina: That's what I wrote and...
+
+140
+00:05:11,733 --> 00:05:16,600
+Katrina: 哈哈哈q and a我不太会画那个符号
+Katrina: Haha, Q and A. I don't really know how to draw that symbol.
+
+141
+00:05:16,733 --> 00:05:19,366
+Katrina: 就是地球世界地球日的那个问答
+Katrina: It's for the Earth Day Q&A.
+
+142
+00:05:20,400 --> 00:05:21,566
+Choiszt: 那还要准备问题吗
+Choiszt: Do we need to prepare questions?
+
+143
+00:05:21,600 --> 00:05:22,466
+Jake:对要准备问题
+Jake: Yes, we need to prepare questions.
+
+144
+00:05:22,533 --> 00:05:24,000
+Katrina: 哎写一下吧
+Katrina: Oh, write it down.
+
+145
+00:05:30,800 --> 00:05:32,533
+Katrina: 中午那确实是问题吗
+Katrina: Was that really a question at noon?
+
+146
+00:05:33,100 --> 00:05:34,500
+Lucia: 那只是大家讲的
+Lucia: That's just what everyone said.
+
+147
+00:05:37,266 --> 00:05:38,466
+Jake:不孕不育会遗传吧
+Jake: Infertility can be inherited, right?
+
+148
+00:05:38,466 --> 00:05:43,400
+Katrina: 哈哈黑板擦没拿是不是
+Katrina: Haha, didn't we bring the blackboard eraser?
+
+149
+00:05:49,400 --> 00:05:50,766
+Katrina: 黑板擦没拿
+Katrina: We didn't bring the blackboard eraser.
+
+150
+00:06:23,366 --> 00:06:24,800
+Katrina: 那黑板擦呢
+Katrina: Where's the blackboard eraser?
+
+151
+00:06:25,966 --> 00:06:27,266
+Katrina: 我没找到嘛
+Katrina: I couldn't find it.
+
+152
+00:06:28,066 --> 00:06:30,433
+Jake:有有有的
+Jake: Yes, yes, we have it.
+
+153
+00:06:32,300 --> 00:06:33,100
+Katrina: 拿了
+Katrina: Got it.
+
+154
+00:06:35,300 --> 00:06:36,300
+Katrina: 列一下吧
+Katrina: Let's list it out.
+
+155
+00:06:37,100 --> 00:06:38,600
+Katrina: 美文纸买了是吧
+Katrina: Did you buy the Meiwenzhi paper?
+
+156
+00:06:38,600 --> 00:06:40,166
+Katrina: 那就旺仔牛奶
+Katrina: Then it's just Wangzai Milk.
+
+157
+00:06:40,166 --> 00:06:41,500
+Tasha: 美文纸买了吗
+Tasha: Did you buy the Meiwenzhi paper?
+
+158
+00:06:41,800 --> 00:06:42,600
+Katrina: 他说他买
+Katrina: He said he bought it.
+
+159
+00:06:44,866 --> 00:06:45,900
+Lucia: 应该到了
+Lucia: It should have arrived.
+
+160
+00:06:46,233 --> 00:06:47,100
+Lucia: 我今天收到他
+Lucia: I received it today.
+
+161
+00:06:49,033 --> 00:06:49,800
+Jake:黑板擦在哪
+Jake: Where's the chalkboard eraser?
+
+162
+00:06:50,600 --> 00:06:51,766
+Katrina: 嗯
+Katrina: Hmm.
+
+163
+00:06:52,233 --> 00:06:54,233
+Lucia: 什么这也是奇葩问题吗难道
+Lucia: What, is this a weird question or something?
+
+164
+00:06:55,800 --> 00:06:57,233
+Katrina: 冰块也有了
+Katrina: We also have ice cubes.
+
+165
+00:06:57,266 --> 00:06:59,400
+Katrina: 那就只要送旺仔
+Katrina: So we just need to deliver Wangzai Milk.
+
+166
+00:07:01,466 --> 00:07:03,433
+Tasha: 等会去采购
+Tasha: Let's go shopping later.
+
+167
+00:07:04,233 --> 00:07:05,666
+Katrina: 哦我们等会出去吗要
+Katrina: Oh, are we going out later?
+
+168
+00:07:06,266 --> 00:07:07,200
+Tasha: 对啊我们等会要出去
+Tasha: Yeah, we are going out later.
+
+169
+00:07:07,800 --> 00:07:08,933
+Katrina: 我们等会要出去买啊
+Katrina: We are going out to buy stuff later?
+
+170
+00:07:09,733 --> 00:07:10,800
+Katrina: 哦
+Katrina: Oh.
+
+171
+00:07:26,300 --> 00:07:28,166
+Jake:最近天太好了
+Jake: The weather has been great lately.
+
+172
+00:07:28,266 --> 00:07:30,033
+Jack: http error g
+Jack: HTTP error G.
+
+173
+00:07:31,400 --> 00:07:32,966
+Jake:http error没网
+Jake: HTTP error, no internet.
+
+174
+00:07:33,900 --> 00:07:34,733
+Jake:服务器没网
+Jake: The server has no internet.
+
+175
+00:07:35,400 --> 00:07:36,400
+Jack: 不他本地没网
+Jack: No, his local connection has no internet.
+
+176
+00:07:36,466 --> 00:07:38,266
+Shure: 不是这是服务器的啊
+Shure: No, it's the server's issue.
+
+177
+00:07:37,400 --> 00:07:40,000
+Katrina: 采购清单
+Katrina: Shopping list.
+
+178
+00:07:40,100 --> 00:07:40,900
+Jake:没钱了
+Jake: No money left.
+
+179
+00:07:41,566 --> 00:07:42,133
+Shure: 怎么可能
+Shure: How is that possible?
+
+180
+00:07:42,100 --> 00:07:43,866
+Shure: 我今天早上刚给他充100
+Shure: I just topped up 100 this morning.
+
+181
+00:07:44,466 --> 00:07:46,300
+Shure: 什么叫export
+Shure: What does "export" mean?
+
+182
+00:07:46,366 --> 00:07:47,733
+Jack: 就你没开proxy吧
+Jack: Maybe you didn't enable the proxy.
+
+183
+00:07:54,966 --> 00:07:56,133
+Jack: 下这么快呀
+Jack: Downloading so fast, huh?
+
+184
+00:07:56,966 --> 00:07:59,966
+Jack: 哈哈哈一秒一秒跑
+Jack: Haha, running at one second per second.
+
+185
+00:07:59,966 --> 00:08:03,000
+Jack: 90%还好
+Jack: 90%, still good.
+
+186
+00:08:02,533 --> 00:08:04,866
+Shure: 这5005百k每秒的
+Shure: This is 500k per second.
+
+187
+00:08:04,866 --> 00:08:07,366
+Shure: 不可能这绝逼是假的这个东西
+Shure: No way, this must be fake.
+
+188
+00:08:09,466 --> 00:08:11,400
+Shure: 什么叫clash
+Shure: What does "clash" mean?
+
+189
+00:08:11,533 --> 00:08:12,666
+Shure: cash是什么意思
+Shure: What does "cash" mean?
+
+190
+00:08:22,533 --> 00:08:24,900
+Lucia: 原来那个文件夹是这个意思
+Lucia: Oh, so that's what that folder means.
+
+191
+00:08:38,366 --> 00:08:40,800
+Katrina: 上次那个葡萄汁兑酒好喝吗
+Katrina: Was that grape juice mixed with wine good last time?
+
+192
+00:08:42,166 --> 00:08:45,366
+Katrina: 上次他你喝的葡萄是吗微微
+Katrina: Last time, did you drink grape, Tasha?
+
+193
+00:08:46,800 --> 00:08:48,533
+Lucia: 我觉得一般吧
+Lucia: I thought it was just okay.
+
+194
+00:08:48,566 --> 00:08:50,600
+Katrina: 我感觉西柚的蛮好喝哦
+Katrina: I think the grapefruit one is pretty good.
+
+195
+00:08:50,600 --> 00:08:52,033
+Lucia: 西柚的比葡萄的好喝一点
+Lucia: The grapefruit one is a bit better than the grape.
+
+196
+00:08:52,033 --> 00:08:54,000
+Katrina: 那橙汁的我也觉得一般般
+Katrina: I also think the orange juice one is just average.
+
+197
+00:08:54,600 --> 00:08:55,366
+Katrina: 那只买
+Katrina: So we just buy...
+
+198
+00:08:55,566 --> 00:08:56,766
+Lucia: 上次买的是朗姆
+Lucia: Last time we bought rum.
+
+199
+00:08:56,566 --> 00:08:57,466
+Lucia: 就是橙汁
+Lucia: It was the orange juice.
+
+200
+00:08:57,466 --> 00:08:58,766
+Lucia: 其实应该兑龙舌兰的
+Lucia: It should be mixed with tequila, actually.
+
+201
+00:08:58,866 --> 00:09:00,100
+Katrina: 哦我们现在有拿酒
+Katrina: Oh, we have some liquor now.
+
+202
+00:09:00,100 --> 00:09:01,933
+Katrina: 那要不要再买一瓶气泡酒
+Katrina: Should we buy another bottle of sparkling wine?
+
+203
+00:09:02,166 --> 00:09:03,033
+Lucia: 气泡酒还有一瓶
+Lucia: There's still one bottle of sparkling wine left.
+
+204
+00:09:03,033 --> 00:09:04,600
+Jack: 买那个旺仔牛奶
+Jack: Buy that Wangzai milk.
+
+205
+00:09:04,600 --> 00:09:07,633
+Lucia: 有一个那个金色的气泡酒
+Lucia: There's a bottle of that golden sparkling wine.
+
+206
+00:09:07,666 --> 00:09:10,033
+Jack: 旺仔牛奶配百利甜
+Jack: Wangzai milk with Baileys.
+
+207
+00:09:11,233 --> 00:09:12,966
+Lucia: 你要甜死我哈哈哈
+Lucia: You're going to sweeten me to death, haha.
+
+208
+00:09:16,800 --> 00:09:18,500
+Katrina: 咱咱还有什么酒来着
+Katrina: What other liquor do we have?
+
+209
+00:09:18,533 --> 00:09:19,800
+Katrina: 那一瓶是什么呀
+Katrina: What’s that bottle?
+
+210
+00:09:20,733 --> 00:09:21,733
+Katrina: 还有什么酒
+Katrina: What other liquor do we have?
+
+211
+00:09:23,666 --> 00:09:25,733
+Katrina: 气泡气泡的有一瓶
+Katrina: There's a bottle of sparkling.
+
+212
+00:09:26,300 --> 00:09:27,000
+Katrina: 然后还有呢
+Katrina: And what else?
+
+213
+00:09:27,033 --> 00:09:28,566
+Katrina: 还有就是朗姆的半瓶
+Katrina: And half a bottle of rum.
+
+214
+00:09:31,100 --> 00:09:32,100
+Shure: 一个底了
+Shure: Just a bit left.
+
+215
+00:09:34,366 --> 00:09:36,033
+Katrina: 那就是一些吃的
+Katrina: So, just some snacks.
+
+216
+00:09:35,066 --> 00:09:37,700
+Shure: 你可以你是不是一会不去对吧
+Shure: You’re not going later, right?
+
+217
+00:09:38,166 --> 00:09:38,900
+Nicous: 干嘛
+Nicous: Why?
+
+218
+00:09:39,300 --> 00:09:40,366
+Shure: 买东西的话
+Shure: If we’re buying things.
+
+219
+00:09:40,366 --> 00:09:41,366
+Nicous: 我去我去
+Nicous: I’ll go, I’ll go.
+
+220
+00:09:41,366 --> 00:09:42,766
+Shure: 你别去你帮我把
+Shure: Don’t go, help me with...
+
+221
+00:09:42,800 --> 00:09:43,533
+Nicous: 我不帮你搞
+Nicous: I’m not helping you.
+
+222
+00:09:43,366 --> 00:09:45,300
+Shure: 你在这帮我搞环境吧
+Shure: Help me with the setup here.
+
+223
+00:09:44,900 --> 00:09:45,733
+Nicous: 我不如去
+Nicous: I’d rather go.
+
+224
+00:09:45,766 --> 00:09:48,600
+Lucia: 不过我觉得刚才谢冰竹说
+Lucia: But I think what Xie Bingzhu said...
+
+225
+00:09:48,600 --> 00:09:50,033
+Lucia: 那个百利甜值得考虑
+Lucia: That Baileys is worth considering.
+
+226
+00:09:50,033 --> 00:09:52,233
+Lucia: 因为感觉不是太会踩雷
+Lucia: Because it’s not likely to be a miss.
+
+227
+00:09:52,233 --> 00:09:54,800
+Katrina: 百利甜是气泡酒还是什么酒
+Katrina: Is Baileys a sparkling wine or what?
+
+228
+00:09:54,800 --> 00:09:56,400
+Lucia: 百利甜是一种甜酒
+Lucia: Baileys is a kind of sweet liquor.
+
+229
+00:09:57,533 --> 00:09:58,366
+Lucia: 利口酒
+Lucia: A liqueur.
+
+230
+00:09:59,100 --> 00:10:00,033
+Shure: 也不是香槟吧
+Shure: It’s not champagne, right?
+
+231
+00:10:00,033 --> 00:10:00,900
+Shure: 是气泡酒
+Shure: It's sparkling wine.
+
+232
+00:10:06,600 --> 00:10:09,200
+Lucia: 反正一般女生会比较不踩雷
+Lucia: Anyway, girls usually don't make mistakes.
+
+233
+00:10:09,800 --> 00:10:11,133
+Tasha: 说要买瓶香槟
+Tasha: Said we should buy a bottle of champagne.
+
+234
+00:10:11,800 --> 00:10:13,633
+Katrina: 香槟真的假的
+Katrina: Champagne, really?
+
+235
+00:10:14,100 --> 00:10:15,733
+Katrina: 那个就是香槟
+Katrina: That's the champagne.
+
+236
+00:10:15,600 --> 00:10:16,200
+Lucia:那个就行
+Lucia: That one is fine.
+
+237
+00:10:19,166 --> 00:10:20,400
+Katrina: 北冰洋还要买吗
+Katrina: Do we still need to buy Arctic Ocean?
+
+238
+00:10:20,400 --> 00:10:21,900
+Katrina: 哦可乐没了
+Katrina: Oh, we're out of Coke.
+
+239
+00:10:22,166 --> 00:10:23,166
+Katrina: 我靠
+Katrina: Damn.
+
+240
+00:10:22,800 --> 00:10:24,166
+Tasha: 茶
+Tasha: Cannabis tea.
+
+241
+00:10:24,600 --> 00:10:25,900
+Katrina: 茶是什么
+Katrina: What is cannabis tea?
+
+242
+00:10:27,966 --> 00:10:31,033
+Katrina: 茶这样写吗
+Katrina: Is cannabis tea written like this?
+
+243
+00:10:33,466 --> 00:10:35,000
+Tasha: 直接叫茶吗
+Tasha: Just call it cannabis tea?
+
+244
+00:10:35,533 --> 00:10:37,100
+Katrina: 哪个叫什么是茶
+Katrina: Which one is called cannabis tea?
+
+245
+00:10:37,600 --> 00:10:39,166
+Katrina: 什么维他茶
+Katrina: What Vita tea?
+
+246
+00:10:39,900 --> 00:10:41,266
+Katrina: 哦维他写了哈哈
+Katrina: Oh, Vita, it's written, haha.
+
+247
+00:10:44,566 --> 00:10:47,133
+Lucia: 我刚才这句话要不要删掉了
+Lucia: Should I delete that sentence I just said?
+
+248
+00:10:48,400 --> 00:10:49,933
+Jack: 我们还是希望中国的人
+Jack: We still hope Chinese people...
+
+249
+00:10:49,966 --> 00:10:51,400
+Katrina: 你还需要草莓吗
+Katrina: Do you still need strawberries?
+
+250
+00:10:51,566 --> 00:10:52,366
+Tasha: 对
+Tasha: Yes.
+
+251
+00:10:53,033 --> 00:10:54,300
+Tasha: 蓝莓是不是没拆
+Tasha: The blueberries aren't opened, right?
+
+252
+00:10:54,366 --> 00:10:56,033
+Katrina: 蓝莓吃掉了
+Katrina: The blueberries were eaten.
+
+253
+00:10:56,966 --> 00:10:57,933
+Katrina: 什么时候买的
+Katrina: When did you buy them?
+
+254
+00:10:57,900 --> 00:10:58,933
+Tasha: 什么时候吃掉的
+Tasha: When did you eat them?
+
+255
+00:10:58,966 --> 00:11:00,733
+Katrina: 上第一次买的那个
+Katrina: The ones we bought the first time.
+
+256
+00:11:00,866 --> 00:11:02,433
+Katrina: 洗了那天不知道什么时候洗
+Katrina: Washed them, don't know when we washed them.
+
+257
+00:11:03,166 --> 00:11:04,300
+Katrina: 蓝莓草莓
+Katrina: Blueberries, strawberries.
+
+258
+00:11:05,033 --> 00:11:07,966
+Lucia: 因为因为那个如果再放好就坏了
+Lucia: Because if we leave them any longer, they'll go bad.
+
+259
+00:11:08,066 --> 00:11:10,766
+Tasha: 那就买草莓和蓝莓还有
+Tasha: Then buy strawberries and blueberries and...
+
+260
+00:11:10,900 --> 00:11:11,900
+Katrina: 青提
+Katrina: Green grapes.
+
+261
+00:11:11,900 --> 00:11:14,200
+Katrina: 可以兑酒青提
+Katrina: You can mix green grapes with alcohol.
+
+262
+00:11:14,400 --> 00:11:16,900
+Tasha: 青提还有榴莲啊
+Tasha: Green grapes and durian too?
+
+263
+00:11:16,900 --> 00:11:18,000
+Katrina: 你要榴莲是吧
+Katrina: You want durian, right?
+
+264
+00:11:18,800 --> 00:11:20,166
+Katrina: 你喜欢吃榴莲是不
+Katrina: Do you like eating durian?
+
+265
+00:11:20,166 --> 00:11:21,533
+Jake:可以继续独家
+Jake: You can continue exclusivity.
+
+266
+00:11:21,566 --> 00:11:24,066
+Lucia: 哎我们之前买那盒榴莲吃完了吗
+Lucia: Hey, did we finish that box of durian we bought before?
+
+267
+00:11:24,400 --> 00:11:26,033
+Tasha: 他偷偷吃掉了
+Tasha: He secretly ate it.
+
+268
+00:11:26,266 --> 00:11:31,200
+Katrina: 哈哈哈哈哈哈哈哈哈哈哈哈
+Katrina: Hahahahahahaha.
+
+269
+00:11:31,166 --> 00:11:32,366
+Tasha: 你吃没吃啊
+Tasha: Did you eat it?
+
+270
+00:11:33,066 --> 00:11:34,433
+Tasha: 你看他偷偷吃掉了
+Tasha: Look, he secretly ate it.
+
+271
+00:11:35,300 --> 00:11:36,866
+Shure: 猫也挂着呢
+Shure: The cat is also hanging around.
+
+272
+00:11:37,266 --> 00:11:39,100
+Shure: 我给你开global行不
+Shure: How about I set the global for you?
+
+273
+00:11:39,400 --> 00:11:41,133
+Shure: 为什么
+Shure: Why?
+
+274
+00:11:41,533 --> 00:11:42,800
+Jake:哎这边有电话
+Jake: Hey, there's a call.
+
+275
+00:11:43,600 --> 00:11:44,800
+Jake:有个上海的电话
+Jake: It's a call from Shanghai.
+
+276
+00:11:44,100 --> 00:11:46,100
+Shure: twinmod我都开了
+Shure: I've already set the twinmod.
+
+277
+00:11:47,166 --> 00:11:48,966
+Katrina: 上海谁给我打电话
+Katrina: Who's calling me from Shanghai?
+
+278
+00:12:02,300 --> 00:12:03,100
+Shure: 唉
+Shure: Sigh.
+
+279
+00:12:03,166 --> 00:12:05,933
+Katrina: 那明天就是那个串要买吗
+Katrina: So, are we buying the skewers tomorrow?
+
+280
+00:12:07,166 --> 00:12:07,966
+Katrina: 烤吗
+Katrina: Grilling them?
+
+281
+00:12:12,966 --> 00:12:14,200
+Katrina: 那就烤点串
+Katrina: Then let's grill some skewers.
+
+282
+00:12:14,466 --> 00:12:16,833
+Katrina: 然后那个炭啊什么的都有了是吧
+Katrina: And we have the charcoal and all that, right?
+
+283
+00:12:16,800 --> 00:12:17,700
+Katrina: 那些原料
+Katrina: The ingredients.
+
+284
+00:12:17,100 --> 00:12:19,366
+Jake:炭没有
+Jake: We don't have charcoal.
+
+285
+00:12:20,300 --> 00:12:22,566
+Katrina: 哦哦哦哦哦哦
+Katrina: Oh, oh, oh, oh, oh.
+
+286
+00:12:24,533 --> 00:12:31,400
+Katrina: 哈哈哈哈哈哈哈哈哈
+Katrina: Hahahahahahahahaha.
+
+287
+00:12:32,466 --> 00:12:33,933
+Katrina: 明天还有啥流程
+Katrina: What else is on the schedule for tomorrow?
+
+288
+00:12:33,900 --> 00:12:36,700
+Katrina: 这个等一会布置可以
+Katrina: Can we set up this later?
+
+289
+00:12:38,066 --> 00:12:38,866
+Katrina: 还
+Katrina: Also,
+
+290
+00:12:39,366 --> 00:12:42,966
+Katrina: 还还有那个如果说要唱歌的话
+Katrina: Also, if we want to sing,
+
+291
+00:12:42,966 --> 00:12:44,733
+Katrina: 你音响能接话筒吗
+Katrina: Can your speaker connect to a microphone?
+
+292
+00:12:44,733 --> 00:12:45,766
+Katrina: 有话筒吗
+Katrina: Do you have a microphone?
+
+293
+00:12:45,600 --> 00:12:46,433
+Shure: 没有话筒
+Shure: No microphone.
+
+294
+00:12:46,400 --> 00:12:47,600
+Jake:没有话筒怎么搞
+Jake: How are we gonna do it without a microphone?
+
+295
+00:12:48,600 --> 00:12:50,866
+Shure: 买话筒
+Shure: Buy a microphone.
+
+296
+00:12:48,666 --> 00:12:49,833
+Katrina: 租吧
+Katrina: Rent one.
+
+297
+00:12:50,400 --> 00:12:51,400
+Nicous: 9块9 话筒
+Nicous: 9.9 yuan microphone.
+
+298
+00:12:53,033 --> 00:12:55,400
+Katrina: 买那种就小小的一个话筒那么小
+Katrina: Just buy a small one, a tiny microphone.
+
+299
+00:12:55,233 --> 00:12:58,400
+Shure: 大概一话筒就100多块钱搞一个
+Shure: A decent microphone costs about 100 yuan.
+
+300
+00:12:59,400 --> 00:13:00,166
+Tasha: 租一个吧
+Tasha: Let's rent one.
+
+301
+00:13:00,066 --> 00:13:00,900
+Shure: 次日达
+Shure: Next-day delivery.
+
+302
+00:13:00,366 --> 00:13:01,800
+Tasha: 现在买还来得及吗
+Tasha: Can we still buy one now?
+
+303
+00:13:03,666 --> 00:13:04,800
+Shure: 费劲
+Shure: It's a hassle.
+
+304
+00:13:03,733 --> 00:13:06,400
+Alice:明天天气比今天再热一点
+Alice: Tomorrow's weather will be hotter than today.
+
+305
+00:13:06,533 --> 00:13:07,333
+Jake:哦真的
+Jake: Oh, really?
+
+306
+00:13:07,333 --> 00:13:08,600
+Tasha: 怎么要买空调吗
+Tasha: Do we need to buy an AC?
+
+307
+00:13:08,600 --> 00:13:09,800
+其他人：哈哈哈哈
+Others: Hahahaha.
+
+308
+00:13:09,833 --> 00:13:12,166
+Jake:不买空调大风扇
+Jake: No, just get a big fan.
+
+309
+00:13:12,266 --> 00:13:13,533
+其他人：买那个烤肉用的
+Others: Buy one for grilling.
+
+310
+00:13:13,666 --> 00:13:15,033
+其他人：烤肉用的超大
+Others: A huge one for grilling.
+
+311
+00:13:14,900 --> 00:13:16,100
+Shure: 你们回北邮吧
+Shure: You guys should head back to Beiyou.
+
+312
+00:13:15,266 --> 00:13:16,400
+Tasha: 制冰风扇
+Tasha: Ice-making fan
+
+313
+00:13:16,866 --> 00:13:18,966
+Katrina: 哎是不是那个小青柠
+Katrina: Hey, isn't that the little lime?
+
+314
+00:13:18,966 --> 00:13:20,500
+Katrina: 还在呢
+Katrina: It's still here.
+
+315
+00:13:19,833 --> 00:13:20,800
+Tasha: 在呢
+Tasha: Yeah, it is.
+
+316
+00:13:20,533 --> 00:13:21,333
+Katrina: 对在
+Katrina: Yes, it is.
+
+317
+00:13:21,900 --> 00:13:23,200
+Katrina: 芒果还需要吗
+Katrina: Do we still need mango?
+
+318
+00:13:23,233 --> 00:13:25,166
+Katrina: 你做蛋糕的话啊
+Katrina: If you're making a cake...
+
+319
+00:13:25,166 --> 00:13:26,400
+Katrina: 芒果还需要吗
+Katrina: Do we still need mango?
+
+320
+00:13:26,600 --> 00:13:27,166
+Tasha: 不要了
+Tasha: No, we don't.
+
+321
+00:13:26,766 --> 00:13:28,166
+Katrina: 不要了
+Katrina: No, we don't.
+
+322
+00:13:29,766 --> 00:13:31,200
+Lucia: 应该买龙舌兰的
+Lucia: We should have bought tequila.
+
+323
+00:13:32,466 --> 00:13:34,733
+Katrina: 那这次买龙舌兰
+Katrina: Then let's buy tequila this time.
+
+324
+00:13:34,733 --> 00:13:35,066
+Lucia: 哦没事没事
+Lucia: Oh, it's fine, it's fine.
+
+325
+00:13:35,066 --> 00:13:36,266
+Lucia: 我就随口一说
+Lucia: I was just saying.
+
+326
+00:13:36,366 --> 00:13:37,400
+Lucia: 如果大家觉得能
+Lucia: If everyone thinks it's okay...
+
+327
+00:13:37,400 --> 00:13:39,733
+Katrina: 要么就把朗姆换成龙舌兰都行
+Katrina: Or we can just replace the rum with tequila, either way.
+
+328
+00:13:39,766 --> 00:13:40,600
+Katrina: 我不太懂
+Katrina: I don't really know.
+
+329
+00:13:40,600 --> 00:13:42,233
+Lucia: 今天今天买酒还买朗姆吗
+Lucia: Are we still buying rum today?
+
+330
+00:13:42,400 --> 00:13:43,466
+Katrina: 换那就换呗
+Katrina: Let's just switch it then.
+
+331
+00:13:43,533 --> 00:13:44,600
+Lucia: 那就换龙舌兰呗
+Lucia: Okay, let's switch to tequila.
+
+332
+00:13:44,600 --> 00:13:45,533
+Katrina: OK
+Katrina: OK.
+
+333
+00:13:45,566 --> 00:13:47,366
+Lucia: 就是大家可以尝尝不同的口味吗
+Lucia: Everyone can try different flavors.
+
+334
+00:13:56,900 --> 00:13:57,400
+Katrina: 什么话筒
+Katrina: What microphone?
+
+335
+00:13:57,400 --> 00:13:59,533
+Katrina: 有是吗
+Katrina: Do we have it?
+
+336
+00:13:58,600 --> 00:13:59,466
+Shure: 话筒北邮有
+Shure: There's a microphone at Beiyou.
+
+337
+00:13:59,466 --> 00:14:02,033
+Shure: 有他们来的时候给我取了就行
+Shure: When they come, just get it for me.
+
+338
+00:14:01,566 --> 00:14:02,366
+Katrina: 借一下呗
+Katrina: Just borrow it.
+
+339
+00:14:02,600 --> 00:14:03,900
+Shure: 对
+Shure: Yes.
+
+340
+00:14:05,100 --> 00:14:06,100
+Jake:什么东西
+Jake: What is it?
+
+341
+00:14:06,733 --> 00:14:07,700
+其他人：推波波
+Others: Push Bobo.
+
+342
+00:14:09,966 --> 00:14:11,966
+Lucia: 我还以为是小提琴
+Lucia: I thought it was a violin.
+
+343
+00:14:16,666 --> 00:14:20,400
+Katrina: 你主要是你的那个缺还缺啥材料吗甜点
+Katrina: Do you still need any other ingredients for your dessert?
+
+344
+00:14:22,100 --> 00:14:23,166
+Tasha: 好像不缺啥了
+Tasha: Seems like we don't need anything else.
+
+345
+00:14:41,100 --> 00:14:43,466
+Shure: 如果是6个人去的话就可以
+Shure: If there are 6 people going, it's okay.
+
+346
+00:14:43,733 --> 00:14:45,866
+Shure: 有个人能留在这帮我配环境
+Shure: Someone can stay here to help me set up the environment.
+
+347
+00:14:45,766 --> 00:14:47,933
+Jake:哈哈哈要不然就是你吧
+Jake: Hahaha, how about you do it?
+
+348
+00:14:47,966 --> 00:14:50,366
+Jack: 对那你可以在这配环境
+Jack: Yeah, you can stay here and set up the environment.
+
+349
+00:14:52,566 --> 00:14:54,033
+Jack: 不是你先搞一个贝斯
+Jack: You need to get a bass first.
+
+350
+00:14:54,033 --> 00:14:56,333
+Jack: 你贝斯如果搞好剩下就只等
+Jack: Once you get the bass done, then we just wait.
+
+351
+00:14:56,400 --> 00:14:58,766
+Jack: 你可以把开创式装起来就走
+Jack: You can set up the creative stuff and then go.
+
+352
+00:14:58,766 --> 00:14:59,633
+Jack: 回来就装好
+Jack: When we get back, we'll set it up.
+
+353
+00:15:00,466 --> 00:15:01,733
+Shure: 他现在自己在这装呢
+Shure: He's setting it up himself right now.
+
+354
+00:15:01,866 --> 00:15:04,533
+Shure: 我可以再开一个命令行一起装吗
+Shure: Can I open another command line and set it up together?
+
+355
+00:15:05,166 --> 00:15:06,366
+Shure: 啊好
+Shure: Ah, okay.
+
+356
+00:15:08,533 --> 00:15:11,766
+Shure: 那这个他5下载速度是500K每秒
+Shure: So, his download speed is 500K per second.
+
+357
+00:15:11,766 --> 00:15:14,066
+Nicous: 到底发现还挺好吧
+Nicous: Actually, it's pretty good, right?
+
+358
+00:15:15,866 --> 00:15:17,100
+Shure: 我估计差不多
+Shure: I guess it's about right.
+
+359
+00:15:17,100 --> 00:15:19,033
+Shure: 回来他能装好都不错了这东西
+Shure: If he can set it up when he gets back, that's good enough.
+
+360
+00:15:19,066 --> 00:15:20,333
+Jake:行啊走吧走吧
+Jake: Okay, let's go.
+
+361
+00:15:20,766 --> 00:15:22,900
+Shure: 咱们全全员都去是吧
+Shure: Are we all going?
+
+362
+00:15:22,600 --> 00:15:23,600
+Jake:全员都去
+Jake: Everyone's going.
+
+363
+00:15:24,366 --> 00:15:26,033
+Jake:还是再打一辆吧
+Jake: Maybe we should call another cab.
+
+364
+00:15:27,266 --> 00:15:28,066
+Jake:或者
+Jake: Or...
+
+365
+00:15:29,166 --> 00:15:30,000
+Alice:我在家吧
+Alice: I'll stay home.
+
+366
+00:15:30,033 --> 00:15:31,833
+Alice:我在家等着那个快递
+Alice: I'll wait for the delivery.
+
+367
+00:15:31,833 --> 00:15:33,200
+Jake:紫堂不来了
+Jake: Zitang's not coming.
+
+368
+00:15:33,233 --> 00:15:34,200
+Jake:行那
+Jake: Okay then.
+
+369
+00:15:34,533 --> 00:15:35,366
+Jack: 56788个人
+Jack: 56788 people.
+
+370
+00:15:35,366 --> 00:15:38,366
+Tasha: 12341234
+Tasha: 12341234
+
+371
+00:15:38,600 --> 00:15:39,433
+Nicous: 对的一个人
+Nicous: Yeah, one person.
+
+372
+00:15:39,466 --> 00:15:40,600
+Nicous: 四个人五
+Nicous: Four people, five.
+
+373
+00:15:40,466 --> 00:15:41,633
+Jake:走
+Jake: Let's go.
+
+374
+00:15:41,833 --> 00:15:43,200
+Jake:打车去哪啊
+Jake: Where are we taking the cab to?
+
+375
+00:15:43,833 --> 00:15:44,766
+Jack: wherewherewhere
+Jack: wherewherewhere
+
+376
+00:15:45,400 --> 00:15:46,466
+Jake:我们别去
+Jake: Let's not go there.
+
+377
+00:15:46,600 --> 00:15:47,766
+Jake:我们换一家超市
+Jake: Let's switch to another supermarket.
+
+378
+00:15:47,800 --> 00:15:49,100
+Katrina: 哼哼哼
+Katrina: Hmph hmph hmph.
+
+379
+00:15:48,666 --> 00:15:50,466
+Shure: 那你们有山姆会员吗
+Shure: Do you guys have a Sam's Club membership?
+
+380
+00:15:50,400 --> 00:15:51,333
+Jack: 建义那有
+Jack: Jianyi has one.
+
+381
+00:15:51,366 --> 00:15:52,100
+Jack: 通州区万达
+Jack: In Wanda, Tongzhou.
+
+382
+00:15:52,966 --> 00:15:53,800
+Jake:去万达是吧
+Jake: We're going to Wanda, right?
+
+383
+00:15:53,800 --> 00:15:54,600
+Jack: 对稍微远一点
+Jack: Yeah, it's a bit far.
+
+384
+00:15:54,600 --> 00:15:55,633
+Jack: 好像有通州区万达
+Jack: I think there's one in Wanda, Tongzhou.
+
+385
+00:15:56,333 --> 00:15:56,800
+Nicous: 万达也近
+Nicous: Wanda is also close.
+
+386
+00:15:56,800 --> 00:15:58,166
+Lucia: 哦那个在通州北苑呢
+Lucia: Oh, that one's in Tongzhou Beiyuan.
+
+387
+00:15:59,100 --> 00:16:00,900
+Jack: 反正我好像上次看到了
+Jack: Anyway, I think I saw it last time.
+
+388
+00:16:00,900 --> 00:16:03,866
+Shure: 只要有超市的地方要去
+Shure: As long as there's a supermarket, we should go.
+
+389
+00:16:03,166 --> 00:16:04,033
+Lucia: 超市
+Lucia: Supermarket.
+
+390
+00:16:03,866 --> 00:16:05,233
+Jake:超市儿
+Jake: Supermarket.
+
+391
+00:16:05,233 --> 00:16:06,066
+Jack: 超市
+Jack: Supermarket.
+
+392
+00:16:06,233 --> 00:16:06,966
+Choiszt: 那就万达呗
+Choiszt: Then let's go to Wanda.
+
+393
+00:16:06,966 --> 00:16:07,533
+Choiszt: 然后卧槽
+Choiszt: And oh damn.
+
+394
+00:16:07,566 --> 00:16:08,833
+Choiszt: 7公里
+Choiszt: 7 kilometers.
+
+395
+00:16:08,233 --> 00:16:10,300
+Jack: 7公里开车20多分钟吧
+Jack: 7 kilometers, it'll take more than 20 minutes by car.
+
+396
+00:16:10,733 --> 00:16:11,900
+Shure: 他是卡了吗
+Shure: Did he get stuck?
+
+397
+00:16:12,900 --> 00:16:15,600
+Shure: 他怎么不动弹呢
+Shure: Why isn't he moving?
+
+398
+00:16:15,866 --> 00:16:16,900
+Jake:万达超市是什么超市
+Jake: What kind of supermarket is Wanda?
+
+399
+00:16:17,466 --> 00:16:18,300
+Shure: 永辉吧
+Shure: Yonghui, I guess.
+
+400
+00:16:18,666 --> 00:16:19,533
+Jake:永辉
+Jake: Yonghui.
+
+401
+00:16:19,566 --> 00:16:20,133
+Jack: 肯定很大
+Jack: It must be huge.
+
+402
+00:16:20,100 --> 00:16:21,233
+Jake:可以可以那就去永辉
+Jake: Alright, let's go to Yonghui then.
+
+403
+00:16:22,366 --> 00:16:23,333
+Choiszt: 半个小时
+Choiszt: Half an hour.
+
+404
+00:16:23,333 --> 00:16:25,200
+Choiszt: 我看看还有没有
+Choiszt: Let me check if there's anything else.
+
+405
+00:16:26,666 --> 00:16:28,100
+Shure: 你会你会配环境吗
+Shure: Can you match the environment?
+
+406
+00:16:28,666 --> 00:16:29,300
+Jake:没买
+Jake: Didn't buy it.
+
+407
+00:16:29,533 --> 00:16:30,666
+Katrina: 哦
+Katrina: Oh.
+
+408
+00:16:30,566 --> 00:16:31,533
+Jake:没设计出来
+Jake: Couldn't design it.
+
+409
+00:16:31,400 --> 00:16:33,600
+Shure: 他这有一个完完整的教程
+Shure: There's a complete tutorial here.
+
+410
+00:16:33,600 --> 00:16:35,400
+Shure: 你就按着他来就行
+Shure: Just follow it step by step.
+
+411
+00:16:40,900 --> 00:16:41,766
+Choiszt: 要收谁米
+Choiszt: Who's collecting rice?
+
+412
+00:16:42,966 --> 00:16:44,466
+Shure: 这个可能要装很久
+Shure: This might take a long time to install.
+
+413
+00:16:45,066 --> 00:16:47,333
+Shure: 然后他他现在卡在这了
+Shure: And now it's stuck here.
+
+414
+00:16:47,566 --> 00:16:49,700
+Shure: 他如果erro的话你就按下上键
+Shure: If it shows an error, just press the up button.
+
+415
+00:16:49,666 --> 00:16:51,100
+Shure: 然后你再按下回车
+Shure: Then hit Enter.
+
+416
+00:16:55,600 --> 00:16:57,300
+Shure: 哎算了我手机控制吧
+Shure: Ah, never mind, I'll control it with my phone.
+
+417
+00:16:57,466 --> 00:16:58,900
+Jack: 你还可以这么牛逼
+Jack: You can do that? That's impressive.
+
+418
+00:16:58,900 --> 00:17:00,733
+Nicous: 卧槽这个我真崩不住了
+Nicous: Damn, I can't handle this.
+
+419
+00:17:00,766 --> 00:17:02,033
+Jack: 手机控电脑
+Jack: Controlling the computer with your phone.
+
+420
+00:17:02,366 --> 00:17:02,966
+Katrina: 哈哈哦
+Katrina: Haha, oh.
+
+421
+00:17:02,966 --> 00:17:03,733
+Jake:万达是吧
+Jake: So, Wanda, right?
+
+422
+00:17:03,800 --> 00:17:04,666
+Choiszt: 哎这我附近有
+Choiszt: Yeah, it's nearby.
+
+423
+00:17:04,666 --> 00:17:05,600
+Katrina: 我放冰箱去了
+Katrina: I'll put it in the fridge.
+
+424
+00:17:05,666 --> 00:17:07,966
+Shure: 哦我直接把他一直带着不就得了吗
+Shure: Oh, I'll just carry it with me all the time then.
+
+425
+00:17:07,900 --> 00:17:08,733
+Jake:物美很小
+Jake: Wumart is small.
+
+426
+00:17:08,900 --> 00:17:09,633
+Jack: 建议万达
+Jack: I recommend Wanda.
+
+427
+00:17:09,666 --> 00:17:11,866
+Choiszt: 没有看这外边看的还是挺大的
+Choiszt: No, from the outside, it looks pretty big.
+
+428
+00:17:13,900 --> 00:17:15,466
+Shure: 没有我是
+Shure: No, I...
+
+429
+00:17:16,866 --> 00:17:17,966
+Shure: 套了一个虚拟机
+Shure: I set up a virtual machine.
+
+430
+00:17:20,300 --> 00:17:23,333
+Shure: 就是我用那个向日葵
+Shure: I'm using Sunflower.
+
+431
+00:17:23,400 --> 00:17:26,000
+Shure: 先挂着我的那个Windows电脑
+Shure: First, I connect it to my Windows computer.
+
+432
+00:17:26,033 --> 00:17:28,566
+Shure: 然后再用Windows电脑挂着我那个
+Shure: And then I'll use a Windows computer to run my
+
+433
+00:17:28,866 --> 00:17:29,466
+Shure: 腾讯云的
+Shure: Tencent Cloud
+
+434
+00:17:29,466 --> 00:17:30,533
+Shure: 那个服务器
+Shure: server
+
+435
+00:17:36,166 --> 00:17:38,300
+Shure: 还行他真没有什么延时
+Shure: It's not bad, there's really no delay
+
+436
+00:17:39,066 --> 00:17:41,033
+Shure: 他都是在北京你知道吧
+Shure: It's all in Beijing, you know
+
+437
+00:18:09,666 --> 00:18:11,400
+Katrina: 你要看一下有没有蓝色吗
+Katrina: Do you want to check if there's any blue?
+
+438
+00:18:11,400 --> 00:18:12,400
+Katrina: 好像有哎
+Katrina: I think there is
+
+439
+00:18:14,166 --> 00:18:15,333
+Lucia: 哎我觉得可以
+Lucia: Yeah, I think it's good
+
+440
+00:18:15,333 --> 00:18:16,733
+Katrina: 可以你拿吧
+Katrina: Sure, you can take it
+
+441
+00:18:16,733 --> 00:18:17,733
+Katrina: 反正也做不完
+Katrina: We can't finish it anyway
+
+442
+00:18:17,966 --> 00:18:18,966
+Katrina: 没几朵花
+Katrina: There's not much
+
+443
+00:18:19,533 --> 00:18:20,600
+Katrina: 没事
+Katrina: It's fine
+
+444
+00:18:21,333 --> 00:18:23,233
+Katrina: 反正是杨老板报销的
+Katrina: Anyway, Jake's covering the cost
+
+445
+00:18:28,600 --> 00:18:30,566
+Jake:你电脑放外边真的不会被
+Jake: Your computer outside really won't get
+
+446
+00:18:30,566 --> 00:18:32,666
+Katrina: 哦哦我电脑也在那
+Katrina: Oh, oh, my computer is there too
+
+447
+00:18:32,566 --> 00:18:33,733
+Shure: 他晒不到吧
+Shure: It won't get sun exposure, right?
+
+448
+00:18:33,733 --> 00:18:35,166
+Shure: 啊快晒到了是吗
+Shure: Oh, is it getting sun exposure?
+
+449
+00:18:38,600 --> 00:18:43,233
+Katrina: 你有种似曾相识的感觉
+Katrina: Do you have a sense of déjà vu?
+
+450
+00:18:45,766 --> 00:18:47,266
+Katrina: 费多大劲儿
+Katrina: How much effort did it take?
+
+451
+00:18:47,033 --> 00:18:48,400
+Shure: 完蛋了我靠
+Shure: We're screwed, damn it
+
+452
+00:18:56,266 --> 00:18:57,133
+Shure: 啊他淡了
+Shure: Ah, it's faded
+
+453
+00:18:58,600 --> 00:18:59,400
+Shure: 他居然
+Shure: He actually
+
+454
+00:19:00,566 --> 00:19:02,900
+Shure: 完成拍套式的安装了啊
+Shure: completed the installation of the set!
+
+455
+00:19:02,833 --> 00:19:05,866
+Jack: 这么快你说500K我不信啊
+Jack: So fast, you said 500K, I don't believe it
+
+456
+00:19:06,033 --> 00:19:07,533
+Shure: 那我估计就是他上午的时候
+Shure: I guess he cached some of it in the morning
+
+457
+00:19:07,533 --> 00:19:08,900
+Shure: 缓存了一部分了
+Shure: Cached some of it
+
+458
+00:19:09,266 --> 00:19:12,333
+Jake:装了多少遍啊
+Jake: How many times did he install it?
+
+459
+00:20:57,266 --> 00:20:58,800
+Katrina: 还有充电宝吗
+Katrina: Is there still a power bank?
+
+460
+00:21:00,100 --> 00:21:00,900
+Shure: 有
+Shure: Yes
+
+461
+00:21:29,566 --> 00:21:31,800
+Katrina: 还有充电宝没找到
+Katrina: Still couldn't find the power bank
+
+462
+00:21:35,166 --> 00:21:36,000
+Katrina: OK谢谢
+Katrina: OK, thanks
+
+463
+00:22:07,900 --> 00:22:10,833
+Alice:他什么时候才能把我们的快递送到呢
+Alice: When will he deliver our package?
+
+464
+00:22:12,733 --> 00:22:14,633
+Katrina: 所有的快递都要跟他说他才拿吗
+Katrina: Does he need to be told about every package to get them?
+
+465
+00:22:14,633 --> 00:22:16,400
+Katrina: 还是说他直接报他的尾号
+Katrina: Or does he just report his last digits
+
+466
+00:22:16,400 --> 00:22:17,866
+Katrina: 直接全部都拿过来
+Katrina: and collect all of them?
+
+467
+00:22:17,900 --> 00:22:18,466
+Alice:不知道
+Alice: I don't know
+
+468
+00:22:23,866 --> 00:22:25,400
+Alice:你要送吗
+Alice: Do you want to deliver them?
+
+469
+00:22:32,800 --> 00:22:34,066
+Jack: 刘帅改变了主意
+Jack: Choiszt changed his mind
+
+470
+00:22:34,766 --> 00:22:35,966
+Jack: 他决定先去看
+Jack: He decided to check first
+
+471
+00:22:36,366 --> 00:22:38,266
+Jack: 因为他觉得档次不如永辉
+Jack: Because he thinks it's not as classy as Yonghui
+
+472
+00:22:39,400 --> 00:22:41,733
+Jake:他他先去看看是什么意思
+Jake: He went to see what it means first.
+
+473
+00:22:41,900 --> 00:22:43,500
+Jack: 先去看看档次够不够
+Jack: To see if it's high enough quality.
+
+474
+00:22:44,866 --> 00:22:46,466
+Jake:所以我们先去哪儿
+Jake: So where are we going first?
+
+475
+00:22:47,900 --> 00:22:49,433
+Shure: 刘帅才干嘛去了
+Shure: Where did Choiszt go?
+
+476
+00:22:49,400 --> 00:22:51,166
+Jake:他在外面坐着啊
+Jake: He's sitting outside.
+
+477
+00:22:50,500 --> 00:22:51,400
+Shure: 啊哈
+Shure: Aha.
+
+478
+00:22:51,900 --> 00:22:53,066
+Shure: 那我们现在干嘛
+Shure: So what are we doing now?
+
+479
+00:22:53,400 --> 00:22:54,266
+Jake:打电话问问呗
+Jake: Let's call and ask.
+
+480
+00:22:54,266 --> 00:22:57,133
+Jake:问问物美你档次够不够啊
+Jake: Ask if Wumart is high enough quality.
+
+481
+00:22:58,366 --> 00:23:00,733
+Shure: 没办法京爷就是这个样子的
+Shure: No way, that's just how King is.
+
+482
+00:23:00,466 --> 00:23:02,333
+Lucia: 你什么档次也敢出镜
+Lucia: What quality do you think you have to be on camera?
+
+483
+00:23:03,400 --> 00:23:04,533
+Jack: 京爷
+Jack: King.
+
+484
+00:23:16,833 --> 00:23:18,766
+Shure: 脑袋炸的时候
+Shure: When your head explodes.
+
+485
+00:23:18,233 --> 00:23:19,066
+Katrina: 蔫了
+Katrina: Wilted.
+
+486
+00:23:21,566 --> 00:23:22,566
+Katrina: 我靠
+Katrina: Oh my god.
+
+487
+00:23:41,633 --> 00:23:43,900
+Katrina: 真用公费买了一只jellycat
+Katrina: Really bought a Jellycat with public funds.
+
+488
+00:23:44,466 --> 00:23:45,266
+Shure: 啊
+Shure: Huh?
+
+489
+00:23:45,200 --> 00:23:46,766
+Katrina: 我说我真用公费买了一只
+Katrina: I said I really bought one with public funds.
+
+490
+00:23:46,766 --> 00:23:47,766
+Katrina: Jelly cat
+Katrina: Jellycat.
+
+491
+00:23:48,400 --> 00:23:50,333
+Katrina: 我靠这么多快递
+Katrina: Wow, so many packages.
+
+492
+00:23:50,333 --> 00:23:51,000
+Shure: 你买了什么Jelly cat
+Shure: What Jellycat did you buy?
+
+493
+00:23:50,966 --> 00:23:52,866
+Katrina: 我买了蝴蝶
+Katrina: I bought a butterfly.
+
+494
+00:23:52,866 --> 00:23:55,233
+Shure: 你用公费买了Jelly cat是吗
+Shure: You really bought a Jellycat with public funds?
+
+495
+00:23:55,333 --> 00:23:56,633
+Lucia: 哎我也买了一只
+Lucia: Hey, I bought one too.
+
+496
+00:23:56,900 --> 00:23:58,766
+Lucia: 因为它颜色刚好是我计划的颜色一样
+Lucia: Because its color matches my plan.
+
+497
+00:23:58,900 --> 00:23:59,466
+Shure: 送给
+Shure: To give to...
+
+498
+00:24:00,566 --> 00:24:03,000
+Katrina: 那可不那送给自己的
+Katrina: Of course, to give to myself.
+
+499
+00:24:03,233 --> 00:24:04,666
+Katrina: 不会为了这个
+Katrina: Not for...
+
+500
+00:24:04,666 --> 00:24:05,466
+Katrina: 呵呵
+Katrina: Haha.
+
+501
+00:24:06,566 --> 00:24:08,800
+Katrina: 人送我还差不多我送
+Katrina: It's better if people give it to me rather than me giving.
+
+502
+00:24:11,733 --> 00:24:15,133
+Shure: 那你要追人家你就应该主动一点
+Shure: If you want to chase someone, you should be more proactive.
+
+503
+00:24:15,133 --> 00:24:16,133
+Katrina: 导游任务上追
+Katrina: Chase through tour guide tasks.
+
+504
+00:24:16,133 --> 00:24:18,066
+Katrina: 这个叫吸引attract
+Katrina: This is called attracting.
+
+505
+00:24:18,000 --> 00:24:20,400
+Shure: 哎呀你快歇歇 吧
+Shure: Oh come on, give it a rest.
+
+506
+00:24:18,066 --> 00:24:23,000
+Katrina: 哎呀哈哈哈哈呀
+Katrina: Haha, oh my gosh.
+
+507
+00:24:22,766 --> 00:24:24,766
+Shure: 看你是跑的快还是拉的快
+Shure: Let's see if you can run faster or pull faster.
+
+508
+00:24:26,466 --> 00:24:27,466
+Katrina: 无所谓啊
+Katrina: Doesn't matter.
+
+509
+00:24:27,466 --> 00:24:28,466
+Katrina: 无所谓啊
+Katrina: Doesn't matter.
+
+510
+00:24:32,133 --> 00:24:34,733
+Shure: （歌词）爱情是你独特的味道
+Shure: (Lyrics) Love is your unique flavor.
+
+511
+00:24:34,733 --> 00:24:37,133
+Shure: （歌词）在我地球闪耀
+Shure: (Lyrics) Shining on my earth.
+
+512
+00:24:37,133 --> 00:24:41,300
+Shure: （歌词）别人都不了只有你知道
+Shure: (Lyrics) Others don't understand, only you know
+
+513
+00:24:42,266 --> 00:24:46,133
+Shure: （歌词）因为你世界不再单调
+Shure: (Lyrics) Because of you, the world is no longer dull
+
+514
+00:24:46,300 --> 00:24:49,900
+Shure: （歌词）你的微笑你明白就很好
+Shure: (Lyrics) Your smile, you understand, and that's enough
+
+515
+00:24:49,500 --> 00:24:50,366
+Lucia: 你明天跳吧
+Lucia: Dance tomorrow
+
+516
+00:24:50,400 --> 00:24:51,766
+Jake:你明天直接跳吧
+Jake: Just dance tomorrow
+
+517
+00:24:53,000 --> 00:24:54,033
+Jake:给你搭舞台
+Jake: We'll set up a stage for you
+
+518
+00:24:54,400 --> 00:24:56,266
+Jake:我们去永辉问问有没有舞台
+Jake: Let's go ask Yonghui if they have a stage
+
+519
+00:24:55,900 --> 00:24:57,133
+Shure: 好
+Shure: Sure
+
+520
+00:24:58,166 --> 00:24:59,633
+Shure: 刘老根大舞台
+Shure: The grand stage at Liu Laogen
+
+521
+00:24:59,633 --> 00:25:01,333
+Lucia: 你能学8小时速成的
+Lucia: Can you do the 8-hour crash course?
+
+522
+00:25:01,333 --> 00:25:01,900
+Lucia: 已经速成的
+Lucia: It's already a crash course
+
+523
+00:25:01,900 --> 00:25:03,733
+Lucia: 非常好了
+Lucia: It's really good
+
+524
+00:25:03,766 --> 00:25:04,766
+Jake:就是就是
+Jake: Exactly, exactly
+
+525
+00:25:04,766 --> 00:25:05,766
+Jake:学出来的吗
+Jake: Did you learn it?
+
+526
+00:25:06,400 --> 00:25:07,200
+Lucia: 刚那个动作不是
+Lucia: That move earlier wasn't
+
+527
+00:25:07,233 --> 00:25:08,166
+Lucia: 那天那个
+Lucia: That day’s move
+
+528
+00:25:08,000 --> 00:25:10,700
+Shure: 不是跟那没有关系
+Shure: It's not related to that
+
+529
+00:25:12,000 --> 00:25:13,800
+Shure: 根据歌词solo的
+Shure: I soloed based on the lyrics
+
+530
+00:25:16,866 --> 00:25:19,133
+Shure: （歌词）情是你独特的味道
+Shure: (Lyrics) Love is your unique flavor
+
+531
+00:25:19,133 --> 00:25:21,666
+Shure: （歌词）在我地球闪耀
+Shure: (Lyrics) Shining on my earth
+
+532
+00:25:21,666 --> 00:25:23,666
+Shure: （歌词）别人都不了
+
+533
+00:25:23,666 --> 00:25:25,733
+Shure: （歌词）只有你知道
+
+534
+00:25:30,766 --> 00:25:31,900
+Shure: （歌词）董小姐
+
+535
+00:25:33,500 --> 00:25:34,900
+Shure: （歌词）你熄灭了烟
+
+536
+00:25:35,333 --> 00:25:36,466
+Shure: （歌词）你说昨晚
+
+537
+00:25:39,066 --> 00:25:40,133
+Shure: 还没给钱
+
+538
+00:25:44,900 --> 00:25:46,000
+Katrina: 你小子
+
+539
+00:25:49,066 --> 00:25:51,500
+Shure: 怎么样是不是很很很董小姐
+
+540
+00:25:57,333 --> 00:25:58,633
+Lucia: 这个问题有价值啊
+
+541
+00:25:58,633 --> 00:26:00,400
+Lucia: 终于不再是弱智吧的问题了
+
+542
+00:26:01,300 --> 00:26:04,333
+Shure: 呵AI永远理理解不了这些问题
+
+543
+00:26:04,333 --> 00:26:07,566
+Shure: 哈哈因为他没有这方面的
+
+544
+00:26:09,133 --> 00:26:10,066
+Lucia: 哈哈哈的什么
+
+545
+00:26:10,066 --> 00:26:13,433
+Jack: 你可以去采数据然后喂给他
+
+546
+00:26:13,566 --> 00:26:14,866
+Shure: 卧槽
+
+547
+00:26:15,833 --> 00:26:17,500
+Shure: 好的好的
+
+548
+00:26:19,166 --> 00:26:19,966
+Tasha: 好吗好的
+
+549
+00:26:19,966 --> 00:26:21,633
+Shure: 那今晚今晚就把女朋友叫过来
+
+550
+00:26:20,800 --> 00:26:22,000
+Lucia: 哈哈哈别
+
+551
+00:26:22,000 --> 00:26:24,233
+Lucia: 哈哈哈这话说的
+
+552
+00:26:24,266 --> 00:26:25,533
+Lucia: 咱屋里一下多了好多人
+Lucia: There are suddenly so many people in our room.
+
+553
+00:26:26,900 --> 00:26:28,066
+Shure: 好啊好的
+Shure: Okay, okay.
+
+554
+00:26:28,466 --> 00:26:30,933
+Shure: 不要再玩我们家大冰的梗了好吗
+Shure: Can we stop joking about our big ice?
+
+555
+00:26:30,900 --> 00:26:33,466
+Katrina: 哈哈哈哈
+Katrina: Hahahahaha
+
+556
+00:26:33,466 --> 00:26:34,000
+Lucia: 你坏
+Lucia: You're bad.
+
+557
+00:26:39,866 --> 00:26:40,900
+Shure: 大冰为止
+Shure: Big ice till now.
+
+558
+00:26:41,733 --> 00:26:43,600
+Alice:大冰打人算群殴吗
+Alice: If big ice hits someone, is it considered group fighting?
+
+559
+00:26:43,566 --> 00:26:49,700
+Alice:哈哈哈哈哈哈哈这算了吧
+Alice: Hahahahahaha, let's consider it.
+
+560
+00:26:50,166 --> 00:26:51,633
+Alice:怎么不算一网红
+Alice: Why isn't he considered an internet celebrity?
+
+561
+00:26:50,666 --> 00:26:53,766
+Shure: 哇他可以biu的一下甩出来你看
+Shure: Wow, he can fling it out just like that, look.
+
+562
+00:26:55,133 --> 00:26:56,400
+Katrina: 哇这是什么
+Katrina: Wow, what is that?
+
+563
+00:26:57,900 --> 00:26:59,466
+Shure: 哇太酷了吧
+Shure: Wow, that's so cool.
+
+564
+00:27:05,733 --> 00:27:07,066
+Shure: 没有一个男生能拒绝
+Shure: No guy can refuse this.
+
+565
+00:27:07,066 --> 00:27:10,500
+Shure: 一个非常直的棍子
+Shure: A very straight stick.
+
+566
+00:27:14,466 --> 00:27:15,266
+Shure: bravo
+Shure: Bravo.
+
+567
+00:27:15,900 --> 00:27:17,066
+Shure: do you know bravo
+Shure: Do you know bravo?
+
+568
+00:27:23,700 --> 00:27:26,500
+Shure: （歌词）月里来是新年啊
+Shure: (lyrics) The moon brings the New Year.
+
+569
+00:27:26,900 --> 00:27:30,300
+Shure: （歌词）大年初一头一天啊
+Shure: (lyrics) The first day of the new year.
+
+570
+00:27:31,500 --> 00:27:34,533
+Shure: （歌词）家家团圆味啊
+Shure: (lyrics) Every family reunites.
+
+571
+00:27:35,966 --> 00:27:37,466
+Shure: 咱们什么时候出发呀
+Shure: When are we leaving?
+
+572
+00:27:48,133 --> 00:27:48,900
+Shure: OK
+Shure: OK.
+
+573
+00:27:53,566 --> 00:27:54,333
+Alice:问什么时候来
+Alice: Ask when they're coming.
+
+574
+00:27:54,333 --> 00:27:55,600
+Alice:送快递
+Alice: To deliver the package.
+
+575
+00:28:03,066 --> 00:28:05,566
+Jake:我这车还有9分8分钟到
+Jake: My car will be here in about 9 minutes and 8 minutes.
+
+576
+00:28:10,766 --> 00:28:12,366
+Jake:这狗是每个人放门口
+Jake: This dog is at everyone's doorstep.
+
+577
+00:28:12,766 --> 00:28:13,900
+Jake:我们也得做点
+Jake: We also need to do something.
+
+578
+00:28:15,400 --> 00:28:16,966
+Jack: 哦这是要干嘛
+Jack: Oh, what's this for?
+
+579
+00:28:17,333 --> 00:28:18,900
+Alice:我的狗还没啊
+Alice: My dog isn't here yet.
+
+580
+00:28:18,900 --> 00:28:19,633
+Lucia: 耳机还没
+Lucia: The headphones aren't here yet.
+
+581
+00:28:19,666 --> 00:28:21,233
+Lucia: 还要给它夹花花吗
+Lucia: Do we need to put flowers on it?
+
+582
+00:28:21,233 --> 00:28:23,600
+Alice:不是我那个腿还没剪呢
+Alice: No, I haven't cut its leg yet.
+
+583
+00:28:24,000 --> 00:28:24,800
+Lucia: 啊你后面这样
+Lucia: Ah, you mean like this?
+
+584
+00:28:24,833 --> 00:28:27,000
+Lucia: 没事没事这样已经很好看了
+Lucia: It's okay, it already looks good like this.
+
+585
+00:28:27,000 --> 00:28:28,733
+Alice:面条子
+Alice: Noodles.
+
+586
+00:28:31,766 --> 00:28:32,966
+Alice:剪刀在哪啊
+Alice: Where are the scissors?
+
+587
+00:28:34,633 --> 00:28:35,400
+Lucia: 套装勿拆
+Lucia: Do not open the set.
+
+588
+00:28:35,400 --> 00:28:36,566
+Lucia: 因为内有恶犬
+Lucia: Because there's a vicious dog inside.
+
+589
+00:28:38,266 --> 00:28:39,033
+Lucia: 哎可以可以
+Lucia: Hey, that's good.
+
+590
+00:28:39,066 --> 00:28:42,433
+Lucia: 给他写给他写套装勿拆内有恶犬
+Lucia: Write on it, "Do not open the set, there's a vicious dog inside."
+
+591
+00:28:44,200 --> 00:28:45,133
+Jake:剪刀这边有
+Jake: The scissors are over here.
+
+592
+00:28:45,633 --> 00:28:47,166
+Alice:这个不太利索
+Alice: This one isn't very sharp.
+
+593
+00:28:47,400 --> 00:28:49,166
+Alice:另一个在哪
+Alice: Where's the other one?
+
+594
+00:28:49,400 --> 00:28:50,900
+Lucia: 另一个其实也不太利
+Lucia: The other one isn't very sharp either.
+
+595
+00:28:50,900 --> 00:28:52,000
+Lucia: 比这能好点不
+Lucia: Is it better than this one?
+
+596
+00:28:52,233 --> 00:28:53,133
+Jake:菜刀强一点
+Jake: The kitchen knife is a bit better.
+
+597
+00:28:53,133 --> 00:28:54,233
+Jake:这有俩菜刀
+Jake: There are two kitchen knives here.
+
+598
+00:28:55,866 --> 00:28:57,633
+Jake:菜刀不能控制方向呀
+Jake: You can't control the direction with a kitchen knife.
+
+599
+00:28:57,633 --> 00:28:59,400
+Jake:你只能直着剪
+Jake: You can only cut straight.
+
+600
+00:29:00,166 --> 00:29:01,366
+Jake:给菜刀烫头
+Jake: Give the kitchen knife a haircut.
+
+601
+00:29:01,566 --> 00:29:02,366
+Jake:哦
+Jake: Oh.
+
+602
+00:29:02,966 --> 00:29:03,766
+Jake:那
+Jake: Well...
+
+603
+00:29:05,333 --> 00:29:06,166
+Jake:上面有吗
+Jake: Is there one on top?
+
+604
+00:29:11,200 --> 00:29:11,966
+Katrina: 问你个问题
+Katrina: Can I ask you a question?
+
+605
+00:29:11,966 --> 00:29:14,233
+Katrina: 北京西站离什刹海远吗
+Katrina: Is Beijing West Station far from Shichahai?
+
+606
+00:29:14,400 --> 00:29:18,500
+Lucia: 北京西什刹海好像在很中间的地方
+Lucia: Beijing West and Shichahai seem to be in the middle.
+
+607
+00:29:18,500 --> 00:29:19,800
+Alice:什刹海在中间
+Alice: Shichahai is in the middle.
+
+608
+00:29:20,400 --> 00:29:21,166
+Katrina: 什刹海在
+Katrina: Shichahai is...
+
+609
+00:29:21,200 --> 00:29:22,733
+Katrina: 东直门是不是
+Katrina: Is it near Dongzhimen?
+
+610
+00:29:22,466 --> 00:29:24,200
+Alice:左西右东
+Alice: Left is west, right is east.
+
+611
+00:29:26,400 --> 00:29:27,966
+Lucia: 对我觉得很中间
+Lucia: Yeah, I think it's in the middle.
+
+612
+00:29:28,766 --> 00:29:30,133
+Katrina: 西城区嘛
+Katrina: It's in Xicheng District, right?
+
+613
+00:29:30,566 --> 00:29:32,833
+Lucia: 就是这个这个这个大水
+Lucia: Yeah, this big water area.
+
+614
+00:29:32,866 --> 00:29:34,766
+Lucia: 这个附近应该就是什刹海
+Lucia: It should be near Shichahai.
+
+615
+00:29:35,000 --> 00:29:36,300
+Lucia: 我要没记错的话
+Lucia: If I remember correctly.
+
+616
+00:29:36,333 --> 00:29:39,066
+Lucia: 我也有一段时间没来了
+Lucia: I haven't been here for a while.
+
+617
+00:29:39,066 --> 00:29:41,000
+Jake:走个两环
+Jake: Walk around the second ring road.
+
+618
+00:29:40,966 --> 00:29:42,366
+Jake:跨两环
+Jake: Cross the second ring road.
+
+619
+00:29:50,133 --> 00:29:52,000
+其他人：哦哦
+Others: Oh, oh.
+
+620
+00:29:53,766 --> 00:29:54,533
+其他人：哦
+Others: Oh.
+
+621
+00:29:56,466 --> 00:29:58,733
+Jake:相对于通州而言
+Jake: Compared to Tongzhou.
+
+622
+00:29:59,066 --> 00:30:00,366
+Jake:我们人在北京
+Jake: We're in Beijing.
+
+623
+00:30:00,966 --> 00:30:02,333
+Jake:相对于通州而言
+Jake: Compared to Tongzhou.
+
+624
+00:30:03,333 --> 00:30:04,333
+Jake:北京市区
+Jake: It's downtown Beijing.
+
+625
+00:30:05,500 --> 00:30:08,133
+Jack: 我想我在上海这个地方确实是近
+Jack: I think it's pretty close compared to Shanghai.
+
+626
+00:30:08,966 --> 00:30:10,066
+Jack: 就可以走走路
+Jack: You can walk there.
+
+627
+00:30:11,066 --> 00:30:13,933
+Lucia: 我觉得我本科都不怎么出学校
+Lucia: I rarely left the campus during my undergrad.
+
+628
+00:30:14,833 --> 00:30:16,233
+Lucia: 出去学校太累了
+Lucia: Leaving campus was too tiring.
+
+629
+00:30:16,733 --> 00:30:17,866
+Jack: 我是不是要打车
+Jack: Should I take a taxi?
+
+630
+00:30:17,866 --> 00:30:18,633
+Jack: 所以啊
+Jack: So, yeah.
+
+631
+00:30:19,233 --> 00:30:23,266
+Lucia: 你是在紫金宿舍还是在南区
+Lucia: Are you staying in the Zijing dorms or the south campus?
+
+632
+00:30:23,633 --> 00:30:26,500
+Jack: 南区现在已经是高贵的强基计划
+Jack: The South Campus is now part of the prestigious Qiangji program.
+
+633
+00:30:27,966 --> 00:30:29,500
+Jack: 新雅和强基
+Jack: Xinya and Qiangji.
+
+634
+00:30:32,433 --> 00:30:33,233
+Lucia: 经管男生
+Lucia: The Econ boys.
+
+635
+00:30:33,233 --> 00:30:34,766
+Lucia: 现在是在我
+Lucia: They're with me now.
+
+636
+00:30:34,766 --> 00:30:34,966
+Lucia: 因为我
+Lucia: Because I...
+
+637
+00:30:34,966 --> 00:30:37,766
+Lucia: 我们那会好像他们最早在31号楼
+Lucia: Back then, they were first in Building 31.
+
+638
+00:30:37,766 --> 00:30:39,766
+Lucia: 但后来好像搬到了南区
+Lucia: But later, they seemed to have moved to the South Campus.
+
+639
+00:30:39,833 --> 00:30:42,733
+Jack: 现在应该还在紫金吧
+Jack: They should still be in Zijin, right?
+
+640
+00:30:47,200 --> 00:30:49,333
+Lucia: 紫金去上课真是把人累死
+Lucia: Going to class in Zijin is exhausting.
+
+641
+00:30:49,633 --> 00:30:51,600
+Jack: 确实所以我从大二开始就不上课
+Jack: That's why I stopped attending classes from sophomore year.
+
+642
+00:30:51,633 --> 00:30:54,433
+Lucia: 哈哈哈哈哈哈excuse me
+Lucia: Hahahahahaha, excuse me.
+
+643
+00:30:54,433 --> 00:30:55,333
+Jake:解决了问题
+Jake: Problem solved.
+
+644
+00:30:57,166 --> 00:30:58,333
+Jake:从根本上解决
+Jake: Solved from the root.
+
+645
+00:30:59,233 --> 00:31:00,333
+Jack: 非常非常好解决
+Jack: Very, very well solved.
+
+646
+00:31:00,333 --> 00:31:01,600
+Jack: 就睡睡到自然醒
+Jack: Just sleep until you naturally wake up.
+
+647
+00:31:01,566 --> 00:31:03,133
+Jack: 然后然后去图书馆
+Jack: Then go to the library.
+
+648
+00:31:03,166 --> 00:31:04,166
+Jack: 是记得去图书馆
+Jack: Remember to go to the library.
+
+649
+00:31:04,166 --> 00:31:06,133
+Jack: 这个南区跟紫金基本一样
+Jack: The South Campus and Zijin are pretty much the same.
+
+650
+00:31:06,133 --> 00:31:08,166
+Lucia: 去图书馆我应该不用爬那个好汉堡
+Lucia: To go to the library, I don't need to climb that steep hill.
+
+651
+00:31:08,166 --> 00:31:09,266
+Jake:走吧来
+Jake: Let's go, come on.
+
+652
+00:31:10,000 --> 00:31:10,800
+Lucia: 要命了
+Lucia: It's exhausting.
+
+653
+00:31:11,833 --> 00:31:13,666
+Lucia: 现在想想我都心有余悸
+Lucia: Thinking about it now still gives me chills.
+
+654
+00:31:14,733 --> 00:31:16,633
+Alice:我的狗放在门口吧
+Alice: I'll leave my dog at the door.
+
+655
+00:31:19,966 --> 00:31:20,766
+Lucia: 我都行
+Lucia: I'm fine with that.
+
+656
+00:31:27,400 --> 00:31:29,433
+Katrina: 几几几带几啊
+Katrina: How many do you need to bring?
+
+657
+00:31:32,233 --> 00:31:33,133
+Katrina: 几带几啊
+Katrina: How many to bring?
+
+658
+00:31:41,466 --> 00:31:42,966
+Katrina: 你的车能坐5个啊
+Katrina: Can your car fit 5 people?
+
+659
+00:31:44,066 --> 00:31:45,133
+Choiszt: 对算上我5个啊
+Choiszt: Yeah, including me, 5 people.
+
+660
+00:31:45,166 --> 00:31:46,233
+Katrina: 那我跟你坐吧
+Katrina: Then I'll ride with you.
+
+661
+00:31:47,266 --> 00:31:48,300
+Katrina: 1234
+Katrina: One, two, three, four.
+
+662
+00:31:48,000 --> 00:31:49,333
+Lucia: 我要给他俩拍个照
+Lucia: I want to take a picture of them.
+
+663
+00:31:50,666 --> 00:31:52,600
+Choiszt: 你你们两个是怎么
+Choiszt: How did you two...
+
+664
+00:31:52,566 --> 00:31:54,400
+Nicous: 一个叫小猫一个叫小兔
+Nicous: One's called Little Cat, the other's Little Rabbit.
+
+665
+00:31:54,433 --> 00:31:59,000
+Choiszt:  123那修硕不去去吗啊
+Choiszt: One, two, three, isn't Shure coming?
+
+666
+00:31:58,500 --> 00:31:59,300
+Shure: 啊
+Shure: Huh?
+
+667
+00:31:59,666 --> 00:32:01,033
+Katrina: 我都背上了
+Katrina: I've already packed.
+
+668
+00:32:02,066 --> 00:32:03,066
+Choiszt: 那多一个人
+Choiszt: Then there's one extra person.
+
+669
+00:32:03,666 --> 00:32:04,466
+Shure: 什么
+Shure: What?
+
+670
+00:32:04,466 --> 00:32:07,700
+Choiszt: 因为有一个人跟靖康主要限坐6个人
+Choiszt: Because one person with health issues limits it to six people.
+
+671
+00:32:07,866 --> 00:32:09,566
+Katrina: 哪6个他不去
+Katrina: Which six? He's not going.
+
+672
+00:32:12,800 --> 00:32:14,833
+Katrina: 12345 OK
+Katrina: 12345 OK
+
+673
+00:32:16,300 --> 00:32:17,500
+Shure: 纸狮子
+Shure: Paper lion
+
+674
+00:32:17,000 --> 00:32:18,933
+Alice:纸兔纸狗子
+Alice: Paper rabbit, paper dog
+
+675
+00:32:19,300 --> 00:32:20,066
+Shure: follow me
+Shure: Follow me
+
+676
+00:32:20,066 --> 00:32:21,000
+Katrina: 走吧走吧
+Katrina: Let's go, let's go
+
+677
+00:32:21,266 --> 00:32:22,133
+Shure: 纸狮子
+Shure: Paper lion
+
+678
+00:32:28,566 --> 00:32:29,500
+Lucia: 死柿子
+Lucia: Dead persimmon
+
+679
+00:32:30,066 --> 00:32:31,633
+Shure: 屎柿子是什么东西
+Shure: What is a poop persimmon?
+
+680
+00:32:30,266 --> 00:32:32,833
+Lucia: 石柿子
+Lucia: Stone persimmon
+
+681
+00:32:41,000 --> 00:32:41,866
+Jake:开车在那
+Jake: The car is over there
+
+682
+00:32:42,066 --> 00:32:43,833
+Shure: 那我跟那边
+Shure: Then I'll go over there
+
+683
+00:32:50,666 --> 00:32:51,466
+Shure: 关了
+Shure: Turn it off
+
+684
+00:32:52,866 --> 00:32:53,700
+Shure: 啊好
+Shure: Ah, okay
+
+685
+00:55:41,000 --> 00:55:42,533
+Katrina: 对
+Katrina: Yes.
+
+686
+00:56:12,533 --> 00:56:14,266
+Jack: 你这车有BIOS
+Jack: Your car has BIOS.
+
+687
+00:56:16,600 --> 00:56:18,866
+Jack: 他这车BIOS不是很强
+Jack: His car's BIOS isn't very strong.
+
+688
+00:56:37,733 --> 00:56:39,766
+Katrina: 哎微微呢
+Katrina: Hey, where's Tasha?
+
+689
+00:56:40,966 --> 00:56:41,800
+Jake:哎那
+Jake: Hey, there.
+
+690
+00:56:42,200 --> 00:56:44,700
+Katrina: 哦哦在这
+Katrina: Oh, oh, here she is.
+
+691
+00:56:44,700 --> 00:56:46,100
+Lucia: 这给他装回去放门口吧
+Lucia: Put this back by the door.
+
+692
+00:56:46,133 --> 00:56:47,233
+Jake:哦这谁做的
+Jake: Oh, who did this?
+
+693
+00:56:51,600 --> 00:56:53,033
+Katrina: 可乐拿一个
+Katrina: Get a Coke.
+
+694
+00:56:56,800 --> 00:56:58,633
+Katrina: 诶吓我一跳
+Katrina: Whoa, you scared me.
+
+695
+00:57:13,700 --> 00:57:17,366
+Katrina: 呐呐呐 6瓶够吧
+Katrina: Here, here, here. Six bottles enough?
+
+696
+00:57:15,800 --> 00:57:17,533
+Shure: 不够
+Shure: Not enough.
+
+697
+00:57:18,733 --> 00:57:20,733
+Katrina: 真的吗不是只有调调酒吗
+Katrina: Really? We're just mixing drinks, right?
+
+698
+00:57:20,666 --> 00:57:21,933
+Shure: 大家喝呢
+Shure: Everyone's drinking, you know.
+
+699
+00:57:22,533 --> 00:57:25,933
+Shure: 就是只给来了gas的喝水是吗
+Shure: So, only the guests get water?
+
+700
+00:57:26,800 --> 00:57:27,800
+Katrina: 喝RIO吧
+Katrina: Let's drink RIO.
+
+701
+00:57:27,933 --> 00:57:30,166
+Katrina: 想喝那个桃子味的
+Katrina: I want the peach-flavored one.
+
+702
+00:57:30,533 --> 00:57:31,333
+Shure: RIO
+Shure: RIO.
+
+703
+00:57:31,500 --> 00:57:33,200
+Katrina: 我想喝这个桃子
+Katrina: I want this peach one.
+
+704
+00:57:37,533 --> 00:57:38,300
+Katrina: 喝这个吧
+Katrina: Let's drink this.
+
+705
+00:57:40,800 --> 00:57:42,500
+Katrina: 要不要直接拿一提啊
+Katrina: Should we just grab a whole pack?
+
+706
+00:57:44,500 --> 00:57:45,300
+Shure: 行
+Shure: Sure.
+
+707
+00:57:50,566 --> 00:57:52,366
+Katrina: 3个这3个味的都好喝
+Katrina: These three flavors are all good.
+
+708
+00:57:53,633 --> 00:57:54,433
+Katrina: 卧槽
+Katrina: Whoa.
+
+709
+00:57:54,966 --> 00:57:55,733
+Katrina: 不是
+Katrina: Wait.
+
+710
+00:57:57,800 --> 00:58:01,100
+Katrina: 青提蓝草莓和黄桃
+Katrina: Green grape, blueberry, and yellow peach.
+
+711
+00:58:01,166 --> 00:58:01,966
+Shure: 走
+Shure: Let's go.
+
+712
+00:58:04,500 --> 00:58:08,566
+Katrina: 二锅头你们东北那喝二锅头是吗
+Katrina: Erguotou, do you guys drink Erguotou in the northeast?
+
+713
+00:58:09,133 --> 00:58:10,600
+Shure: 北京喝二锅头
+Shure: Beijing drinks Erguotou.
+
+714
+00:58:11,233 --> 00:58:12,933
+Katrina: 北京喝二锅头
+Katrina: Beijing drinks Erguotou.
+
+715
+00:58:15,866 --> 00:58:17,333
+Katrina: 雪花啤酒
+Katrina: Snow beer.
+
+716
+00:58:18,000 --> 00:58:20,733
+Shure: 这是那种复古包装的雪花啤酒
+Shure: This is the retro-packaged Snow beer.
+
+717
+00:58:20,366 --> 00:58:22,000
+Katrina: 对没见过这种
+Katrina: Right, I haven't seen this kind.
+
+718
+00:58:23,233 --> 00:58:26,433
+Katrina: 我没见过这种的哎
+Katrina: I haven't seen this kind before.
+
+719
+00:58:26,433 --> 00:58:28,933
+Katrina: 苏打水要拿吗上次的
+Katrina: Should we get soda water, like last time?
+
+720
+00:58:30,566 --> 00:58:31,366
+Katrina: 真的吗
+Katrina: Really?
+
+721
+00:58:34,700 --> 00:58:36,433
+Katrina: 哎元气森林
+Katrina: Hey, Yuanqi Forest.
+
+722
+00:58:36,433 --> 00:58:38,233
+Katrina: 这下有元气森林了吧
+Katrina: Now we have Yuanqi Forest, right?
+
+723
+00:58:38,866 --> 00:58:39,733
+Shure: 葡萄味的是吧
+Shure: The grape one, right?
+
+724
+00:58:39,700 --> 00:58:42,966
+Katrina: 对对对感觉那葡萄汁兑的一般般
+Katrina: Yeah, yeah, it feels like the grape juice is just average.
+
+725
+00:58:44,133 --> 00:58:45,166
+Katrina: 直接拿这个
+Katrina: Just take this.
+
+726
+00:58:46,000 --> 00:58:47,100
+Katrina: 拿几瓶呢
+Katrina: How many bottles should we take?
+
+727
+00:58:51,233 --> 00:58:54,766
+Shure: 最后喝不了你就带走当奖金了是吧
+Shure: If we can't finish drinking it, you can take it back as a prize, right?
+
+728
+00:58:55,866 --> 00:58:56,666
+Katrina: 待会
+Katrina: Later.
+
+729
+00:58:58,500 --> 00:59:00,366
+Katrina: 哈哈哈
+Katrina: Hahaha.
+
+730
+00:59:00,866 --> 00:59:01,600
+Shure: 然后到时候哎
+Shure: And then at that time...
+
+731
+00:59:01,600 --> 00:59:02,733
+Shure: 打包回去吧
+Shure: Just pack it up and take it back.
+
+732
+00:59:02,700 --> 00:59:03,533
+Katrina: 带回我们宿舍
+Katrina: Bring it back to our dorm.
+
+733
+00:59:03,533 --> 00:59:05,033
+Katrina: 我们宿舍有福了
+Katrina: Our dorm will be blessed.
+
+734
+00:59:05,200 --> 00:59:07,100
+Katrina: 有点像那种打猎回来
+Katrina: It's kind of like coming back from a hunt.
+
+735
+00:59:08,666 --> 00:59:09,566
+Shure: 孩子们
+Shure: Kids.
+
+736
+00:59:09,500 --> 00:59:10,966
+Katrina: 我回来了
+Katrina: I'm back.
+
+737
+00:59:11,800 --> 00:59:14,166
+Katrina: 订的24号下午2点的票
+Katrina: I booked tickets for the 24th at 2 PM.
+
+738
+00:59:26,166 --> 00:59:28,233
+Katrina: 哎杯子打碎了还够吗
+Katrina: Hey, the cup is broken, is there enough?
+
+739
+00:59:28,233 --> 00:59:29,700
+Katrina: 可不可以直接让管家拿
+Katrina: Can we just have the housekeeper take it?
+
+740
+00:59:29,700 --> 00:59:30,800
+Katrina: 就不自己买了
+Katrina: So we don't have to buy it ourselves.
+
+741
+00:59:30,800 --> 00:59:31,866
+Katrina: 反也带不走
+Katrina: We can't take it anyway.
+
+742
+00:59:32,200 --> 00:59:33,300
+Shure: 不知道啊
+Shure: I don't know.
+
+743
+00:59:37,100 --> 00:59:41,000
+Shure: 要不都咱们这次要用一次性的东西吗
+Shure: How about we use disposable things this time?
+
+744
+00:59:38,500 --> 00:59:39,866
+Katrina: 拿一次性杯子
+Katrina: Use disposable cups.
+
+745
+00:59:42,933 --> 00:59:45,500
+Shure: 啊我不想刷了
+Shure: Ah, I don't want to wash them.
+
+746
+00:59:47,166 --> 00:59:50,000
+Shure: 虽然不符合我们这个Eagle life的理念吧
+Shure: Although it doesn't fit our Eagle life philosophy.
+
+747
+00:59:49,800 --> 00:59:50,600
+Nicous: 但我们不能
+Nicous: But we can't...
+
+748
+00:59:52,100 --> 00:59:54,933
+Shure: 我们我们能用一次性餐具之类的吗
+Shure: Can we use disposable tableware and stuff?
+
+749
+00:59:57,133 --> 00:59:59,000
+Katrina: 那上次那个杯子打碎几个
+Katrina: How many cups did we break last time?
+
+750
+00:59:59,000 --> 01:00:00,133
+Katrina: 那明天人更多了
+Katrina: There'll be more people tomorrow.
+

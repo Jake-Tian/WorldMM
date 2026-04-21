@@ -112,7 +112,7 @@ def reason(person="A1_JAKE", day=None, model="gpt-5-mini", num_workers=4):
         full_questions = json.load(f)
     
     if day:
-        questions = [q for q in full_questions if q.get('date') == day]
+        questions = [q for q in full_questions if q.get('query_time', {}).get('date') == day]
         logger.info(f"Filtered to {len(questions)} questions for {day}")
     else:
         questions = full_questions

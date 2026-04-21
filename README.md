@@ -55,10 +55,10 @@ data/EgoLife/
 │   ├── DAY2/
 │   └── ...
 ├── EgoLifeCap/
-│   ├── DenseCaption/            # Fine-grained video captions (in Chinese)
-│   │   └── translated/          # Machine-translated English captions
+│   ├── translated/              # Machine-translated English captions (.jsonl)
 │   ├── Sync/                    # Synchronized transcripts + captions
-│   └── Transcript/              # Audio transcripts
+│   ├── Transcript/              # Audio transcripts
+│   └── A1_JAKE/                 # Processed memories (30sec, 3min, etc.)
 └── EgoLifeQA/
     └── EgoLifeQA_A1_JAKE.json   # QA annotations
 ```

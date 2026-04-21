@@ -1,176 +1,176 @@
 #!/usr/bin/env python3
 """
 Step 3: Process Memory for WorldMM.
-Constructs episodic and visual memories for A1_JAKE.
+Constructs episodic and semantic memories for A1_JAKE starting from Sync files.
 """
 
 import os
 import json
+import glob
 import argparse
 import logging
 import concurrent.futures
 from tqdm import tqdm
+from collections import defaultdict
 from worldmm.memory.episodic.multiscale import generate_multiscale_memory
 from worldmm.memory.episodic.openie import OpenIE
 from worldmm.memory.episodic.utils import compute_mdhash_id
-from worldmm.llm import PromptTemplateManager, generate_text_response, update_token_memory_json
-from collections import defaultdict
+from worldmm.llm import generate_text_response, update_token_memory_json
 from worldmm.memory.semantic import SemanticExtraction, SemanticConsolidation
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-def process_memory(person="A1_JAKE", day=None, num_workers=10):
-    # Paths
+CONSOLIDATION_PROMPT = """You are an expert egocentric video captioner. Transform these raw video segments (captions/transcripts) into a concise, high-quality first-person narrative for this 30-second window. Focus on key actions and objects. Use "I/me/my".
+
+Input:
+{segments}
+
+Output:
+"""
+
+def consolidate_30s(segments, model="gpt-5-mini"):
+    """Consolidate segments into a narrative using LLM."""
+    if not segments: return "", 0
+    seg_text = json.dumps(segments, indent=2)
+    try:
+        content, tokens = generate_text_response([{"role": "user", "content": CONSOLIDATION_PROMPT.format(segments=seg_text)}], model=model)
+        return content.strip(), int(tokens or 0)
+    except Exception as e:
+        logger.error(f"Consolidation error: {e}")
+        return " ".join([s['text'] for s in segments]), 0
+
+def build_30sec_from_sync(person, day, data_dir, output_path, model="gpt-5-mini", num_workers=10):
+    """Builds the 30sec.json by grouping Sync data into 30s buckets and consolidating via LLM."""
+    sync_dir = os.path.join(data_dir, "EgoLifeCap", "Sync")
+    sync_files = sorted(glob.glob(os.path.join(sync_dir, f"{person}_{day}_*.json")))
+    if not sync_files:
+        logger.error(f"No sync files found for {person} {day}")
+        return 0
+
+    logger.info(f"Processing {len(sync_files)} sync files for {day}...")
+    buckets = defaultdict(list) # key: bucket_start_sec
+    video_map = {} # bucket_start_sec -> video_path
+
+    for fpath in sync_files:
+        with open(fpath, 'r') as f:
+            sync_data = json.load(f)
+        for entry in sync_data:
+            v_path = os.path.join(data_dir, person, day, entry['video_file'])
+            for item in entry.get('data', []):
+                start = item['start']
+                # Convert HHMMSS to total seconds
+                sec = (start // 10000) * 3600 + ((start // 100) % 100) * 60 + (start % 100)
+                b_start = (sec // 30) * 30
+                buckets[b_start].append(item)
+                if b_start not in video_map: video_map[b_start] = v_path
+
+    # Parallel Consolidation
+    sorted_keys = sorted(buckets.keys())
+    results = []
+    total_tokens = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=num_workers) as executor:
+        futures = {executor.submit(consolidate_30s, buckets[k], model): k for k in sorted_keys}
+        for f in tqdm(concurrent.futures.as_completed(futures), total=len(futures), desc="Consolidating 30s"):
+            k = futures[f]
+            text, tokens = f.result()
+            total_tokens += tokens
+            # Convert bucket_start back to HHMMSS string
+            h, m, s = k // 3600, (k % 3600) // 60, k % 60
+            ts_str = f"{h:02d}{m:02d}{s:02d}"
+            results.append({
+                "start_time": ts_str,
+                "end_time": ts_str, # Simplification
+                "text": text,
+                "date": day,
+                "video_path": video_map.get(k, "")
+            })
+    
+    results.sort(key=lambda x: x['start_time'])
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, 'w') as f: json.dump(results, f, indent=2)
+    return total_tokens
+
+def process_memory(person="A1_JAKE", day=None, num_workers=10, model="gpt-5-mini"):
     data_dir = "data/EgoLife"
     cap_dir = os.path.join(data_dir, "EgoLifeCap", person)
     memory_dir = "data/memory"
+    day_suffix = f"_{day}" if day else ""
+
+    # 1. Build/Load 30s captions
+    caption_30sec_path = os.path.join(cap_dir, f"{person}_30sec{day_suffix}.json")
+    consolidation_tokens = 0
+    if not os.path.exists(caption_30sec_path):
+        if not day: raise ValueError("Day required to build memory from Sync")
+        consolidation_tokens = build_30sec_from_sync(person, day, data_dir, caption_30sec_path, model, num_workers)
     
-    # Normalize day string (e.g., "1" -> "DAY1")
-    day_suffix = ""
-    if day:
-        if day.isdigit():
-            day = f"DAY{day}"
-        day_suffix = f"_{day}"
-
-    os.makedirs(memory_dir, exist_ok=True)
-    os.makedirs(os.path.join(memory_dir, "episodic"), exist_ok=True)
-    os.makedirs(os.path.join(memory_dir, "visual"), exist_ok=True)
-
-    # 1. Load Captions (30sec)
-    # If day is specified, we filter for that day
-    caption_30sec_path = os.path.join(cap_dir, f"{person}_30sec.json")
     with open(caption_30sec_path, 'r') as f:
-        full_caption_data = json.load(f)
-    
-    if day:
-        caption_data = [item for item in full_caption_data if item.get('date') == day]
-        logger.info(f"Filtered to {len(caption_data)} captions for {day}")
-    else:
-        caption_data = full_caption_data
+        caption_data = json.load(f)
 
-    if not caption_data:
-        logger.warning(f"No caption data found for {person} {day if day else ''}")
-        return
+    # 2. Multiscale Memory
+    generate_multiscale_memory(db_name=person, json_path=caption_30sec_path, save_path=os.path.dirname(cap_dir))
+    if day: # Suffix the generated files
+        for g in ["3min", "10min", "1h"]:
+            old, new = os.path.join(cap_dir, f"{person}_{g}.json"), os.path.join(cap_dir, f"{person}_{g}{day_suffix}.json")
+            if os.path.exists(old):
+                if os.path.exists(new): os.remove(new)
+                os.rename(old, new)
 
-    # 2. Episodic Memory: Multiscale Memory (Always runs on full data or specific day if implemented in utility)
-    # generate_multiscale_memory utility usually handles the splitting internally or we pass filtered path.
-    # To keep it simple, we use the filtered data if day is provided.
-    day_caption_path = caption_30sec_path
-    if day:
-        day_caption_path = os.path.join(cap_dir, f"{person}_30sec{day_suffix}.json")
-        with open(day_caption_path, 'w') as f:
-            json.dump(caption_data, f, indent=2)
-
-    logger.info(f"Generating multiscale memory (3min, 10min, 1h) for {day if day else 'all'}...")
-    generate_multiscale_memory(
-        db_name=person,
-        json_path=day_caption_path,
-        diary_dir=".cache/events_diary",
-        save_path=cap_dir
-    )
-
-    # 3. Episodic Memory: OpenIE Triple Extraction
-    logger.info(f"Extracting episodic triples for {day if day else 'all'}...")
-    openie = OpenIE(model_name="gpt-5-mini")
-    passages = [item['text'] for item in caption_data if 'text' in item]
-    ner_results, triple_results = openie.batch_openie(passages, output_dir=os.path.join(memory_dir, "episodic"))
+    # 3. OpenIE Extraction
+    openie = OpenIE(model_name=model)
+    ner, triples = openie.batch_openie([c['text'] for c in caption_data], output_dir=os.path.join(memory_dir, "episodic"))
     
     episodic_triples = {}
     for item in caption_data:
-        timestamp = item['date'][-1] + item['end_time'].zfill(8)
+        # Key: DayChar + HHMMSSxx
+        ts = item['date'][-1] + item['start_time'] + "00" 
         text_hash = compute_mdhash_id(item['text'], prefix="chunk-")
-        episodic_triples[timestamp] = triple_results.get(text_hash, [])
+        episodic_triples[ts] = triples.get(text_hash, [])
     
-    triples_filename = f"{person}{day_suffix}_triples.json"
-    with open(os.path.join(memory_dir, "episodic", triples_filename), 'w') as f:
+    with open(os.path.join(memory_dir, "episodic", f"{person}{day_suffix}_triples.json"), 'w') as f:
         json.dump(episodic_triples, f, indent=2)
 
-    # 4. Semantic Memory: Extraction and Consolidation (10-min intervals)
-    logger.info(f"Extracting and consolidating semantic memory for {day if day else 'all'}...")
-    os.makedirs(os.path.join(memory_dir, "semantic"), exist_ok=True)
+    # 4. Semantic Memory
+    extractor = SemanticExtraction(model_name=model)
+    consolidator = SemanticConsolidation(model_name=model)
     
-    semantic_extractor = SemanticExtraction(model_name="gpt-5-mini")
-    semantic_consolidator = SemanticConsolidation(model_name="gpt-5-mini")
-    
-    # Group episodic triples by 10-minute intervals
-    # timestamp format: DHHMMSSxx (e.g. 111095800). 10-min bucket: DHHM (e.g. 1110)
+    # Group into 10min buckets (DHHM)
     buckets = defaultdict(list)
-    for timestamp, triples in episodic_triples.items():
-        if triples:
-            bucket_key = timestamp[:4]
-            buckets[bucket_key].extend(triples)
-            
-    ongoing_semantic_triples = []
-    semantic_history = {}
+    for ts, tlist in episodic_triples.items():
+        if tlist: buckets[ts[:4]].extend(tlist)
     
-    # Parallel Semantic Extraction
-    bucket_keys = sorted(buckets.keys())
-    extraction_results = {}
+    sorted_buckets = sorted(buckets.keys())
+    ongoing_triples, history = [], {}
     
-    logger.info(f"Extracting semantic triples for {len(bucket_keys)} buckets in parallel using {num_workers} workers...")
+    # Parallel Extraction
     with concurrent.futures.ThreadPoolExecutor(max_workers=num_workers) as executor:
-        future_to_bucket = {
-            executor.submit(semantic_extractor.extract, buckets[k]): k 
-            for k in bucket_keys
-        }
-        for future in tqdm(concurrent.futures.as_completed(future_to_bucket), total=len(bucket_keys), desc="Semantic Extraction"):
-            bucket_key = future_to_bucket[future]
-            try:
-                result = future.result()
-                extraction_results[bucket_key] = result.get("semantic_triples", [])
-            except Exception as e:
-                logger.error(f"Failed to extract semantic triples for bucket {bucket_key}: {e}")
-                extraction_results[bucket_key] = []
+        fut = {executor.submit(extractor.extract, buckets[b]): b for b in sorted_buckets}
+        extracted = {fut[f]: f.result().get("semantic_triples", []) for f in tqdm(concurrent.futures.as_completed(fut), total=len(fut), desc="Semantic Extraction")}
 
-    # Sequential Semantic Consolidation
-    logger.info("Consolidating semantic triples sequentially...")
-    for bucket_key in tqdm(bucket_keys, desc="Semantic Consolidation"):
-        new_semantic_triples = extraction_results[bucket_key]
-        
-        # Consolidate each new semantic triple
-        for new_triple in new_semantic_triples:
-            consolidation_result = semantic_consolidator.consolidate(new_triple, ongoing_semantic_triples)
-            updated_triple = consolidation_result.get("updated_triple", new_triple)
-            to_remove = consolidation_result.get("triples_to_remove", [])
-            
-            # Remove outdated triples in reverse order to keep indices valid
-            for idx in sorted(to_remove, reverse=True):
-                if 0 <= idx < len(ongoing_semantic_triples):
-                    ongoing_semantic_triples.pop(idx)
-                    
-            # Add the consolidated triple
-            ongoing_semantic_triples.append(updated_triple)
-            
-        # Save the state for this timestamp
-        max_ts_in_bucket = max([ts for ts in episodic_triples.keys() if ts.startswith(bucket_key)])
-        
-        semantic_history[max_ts_in_bucket] = {
-            "consolidated_semantic_triples": list(ongoing_semantic_triples)
-        }
-        
-    semantic_filename = f"{person}{day_suffix}_semantic.json"
-    with open(os.path.join(memory_dir, "semantic", semantic_filename), 'w') as f:
-        json.dump(semantic_history, f, indent=2)
+    # Sequential Consolidation
+    for b in tqdm(sorted_buckets, desc="Semantic Consolidation"):
+        for nt in extracted[b]:
+            res = consolidator.consolidate(nt, ongoing_triples)
+            for idx in sorted(res.get("triples_to_remove", []), reverse=True): ongoing_triples.pop(idx)
+            ongoing_triples.append(res.get("updated_triple", nt))
+        max_ts = max([ts for ts in episodic_triples if ts.startswith(b)])
+        history[max_ts] = {"consolidated_semantic_triples": list(ongoing_triples)}
 
-    # Token Monitoring
-    token_log_path = os.path.join("data", "token_memory.json")
-    day_key = day if day else "ALL"
-    
-    # Episodic tokens (OpenIE)
-    update_token_memory_json(token_log_path, day_key, "episodic_openie", openie.total_tokens)
-    
-    # Semantic tokens
-    semantic_tokens = semantic_extractor.total_tokens + semantic_consolidator.total_tokens
-    update_token_memory_json(token_log_path, day_key, "semantic_memory", semantic_tokens)
+    with open(os.path.join(memory_dir, "semantic", f"{person}{day_suffix}_semantic.json"), 'w') as f:
+        json.dump(history, f, indent=2)
 
-    logger.info(f"Memory processing complete for {person} {day if day else ''}. Data saved in {memory_dir}")
+    # Token Logs
+    token_log = os.path.join("data", "token_memory.json")
+    d_key = day or "ALL"
+    update_token_memory_json(token_log, d_key, "caption_consolidation", consolidation_tokens)
+    update_token_memory_json(token_log, d_key, "episodic_openie", openie.total_tokens)
+    update_token_memory_json(token_log, d_key, "semantic_memory", extractor.total_tokens + consolidator.total_tokens)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--person", type=str, default="A1_JAKE")
-    parser.add_argument("--day", type=str, default=None, help="Specific day to process (e.g. 1 or DAY1)")
-    parser.add_argument("--num_workers", type=int, default=10, help="Number of parallel workers for semantic extraction")
+    parser.add_argument("--person", default="A1_JAKE")
+    parser.add_argument("--day", help="e.g. DAY1")
+    parser.add_argument("--num_workers", type=int, default=10)
+    parser.add_argument("--model", default="gpt-5-mini")
     args = parser.parse_args()
-    
-    process_memory(person=args.person, day=args.day, num_workers=args.num_workers)
+    process_memory(args.person, args.day, args.num_workers, args.model)

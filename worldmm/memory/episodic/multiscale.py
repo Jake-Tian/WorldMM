@@ -4,31 +4,84 @@ import logging
 
 logger = logging.getLogger(__name__)
 
+def group_captions(captions, interval_minutes):
+    """Group 30s captions into larger intervals (concatenating text)."""
+    if not captions:
+        return []
+    
+    grouped = []
+    # Interval in seconds: 3min=180, 10min=600, 1h=3600
+    interval_seconds = interval_minutes * 60
+    
+    current_group = []
+    current_start_sec = -1
+    
+    for cap in captions:
+        # timestamp format: HHMMSS
+        ts = int(cap['start_time']) // 100
+        ss = ts % 100
+        mm = (ts // 100) % 100
+        hh = (ts // 10000)
+        total_seconds = hh * 3600 + mm * 60 + ss
+        
+        if current_start_sec == -1 or total_seconds >= current_start_sec + interval_seconds:
+            if current_group:
+                # Finish previous group
+                text = " ".join([c['text'] for c in current_group])
+                grouped.append({
+                    "start_time": current_group[0]['start_time'],
+                    "end_time": current_group[-1]['end_time'],
+                    "text": text,
+                    "date": current_group[0]['date'],
+                    "video_path": current_group[0]['video_path']
+                })
+            current_group = [cap]
+            current_start_sec = (total_seconds // interval_seconds) * interval_seconds
+        else:
+            current_group.append(cap)
+            
+    if current_group:
+        text = " ".join([c['text'] for c in current_group])
+        grouped.append({
+            "start_time": current_group[0]['start_time'],
+            "end_time": current_group[-1]['end_time'],
+            "text": text,
+            "date": current_group[0]['date'],
+            "video_path": current_group[0]['video_path']
+        })
+        
+    return grouped
 
 def generate_multiscale_memory(db_name: str = "A1_JAKE", 
                           json_path: str = "data/EgoLife/EgoLifeCap/A1_JAKE/A1_JAKE_30sec.json",
                           diary_dir: str = ".cache/events_diary",
                           save_path: str = "data/EgoLife/EgoLifeCap"):
     """
-    Check for existing multiscale episodic memory files.
-    
-    NOTE: Multiscale generation requires EgoRAG which is no longer in this repo.
-    This function verifies existence of precomputed files.
+    Generate multiscale episodic memory files (3min, 10min, 1h) by grouping 30s captions.
     """
-    logger.info(f"Checking for precomputed multiscale files (3min, 10min, 1h) in {save_path}/{db_name}")
-    
-    granularities = ["3min", "10min", "1h"]
-    missing = []
-    for g in granularities:
-        path = os.path.join(save_path, db_name, f"{db_name}_{g}.json")
-        if not os.path.exists(path):
-            missing.append(path)
-            
-    if missing:
-        logger.warning(f"Missing precomputed files: {missing}")
+    if not os.path.exists(json_path):
+        logger.error(f"Base 30sec caption file not found: {json_path}")
         return 0
         
-    logger.info("All multiscale files found.")
+    logger.info(f"Generating multiscale files from {json_path}")
+    
+    with open(json_path, 'r') as f:
+        base_captions = json.load(f)
+        
+    intervals = {
+        "3min": 3,
+        "10min": 10,
+        "1h": 60
+    }
+    
+    for label, minutes in intervals.items():
+        grouped = group_captions(base_captions, minutes)
+        out_path = os.path.join(save_path, db_name, f"{db_name}_{label}.json")
+        os.makedirs(os.path.dirname(out_path), exist_ok=True)
+        with open(out_path, 'w') as f:
+            json.dump(grouped, f, indent=2)
+        logger.info(f"Generated {out_path} with {len(grouped)} segments.")
+        
     return 0
 
 

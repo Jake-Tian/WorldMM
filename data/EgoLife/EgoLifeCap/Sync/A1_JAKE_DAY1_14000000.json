@@ -1,0 +1,5226 @@
+[
+    {
+        "video_file": "DAY1_A1_JAKE_14000000.mp4",
+        "data": [
+            {
+                "start": 140000,
+                "end": 140003,
+                "text": "I swung my hand and picked up another utensil.",
+                "type": "caption"
+            },
+            {
+                "start": 140000,
+                "end": 140002,
+                "text": "Shure: Hmm, upstairs.",
+                "type": "transcript"
+            },
+            {
+                "start": 140001,
+                "end": 140003,
+                "text": "Jake: Very Chinese, very Chinese.",
+                "type": "transcript"
+            },
+            {
+                "start": 140003,
+                "end": 140005,
+                "text": "Jake: Let's not make spaghetti.",
+                "type": "transcript"
+            },
+            {
+                "start": 140005,
+                "end": 140008,
+                "text": "Jake: Hahaha",
+                "type": "transcript"
+            },
+            {
+                "start": 140005,
+                "end": 140009,
+                "text": "I start, I laugh; I turn my head, I laugh, I turn my head.",
+                "type": "caption"
+            },
+            {
+                "start": 140007,
+                "end": 140012,
+                "text": "Tasha: Was this activity originally planned? Was this activity originally planned?",
+                "type": "transcript"
+            },
+            {
+                "start": 140009,
+                "end": 140010,
+                "text": "I'm washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140010,
+                "end": 140011,
+                "text": "Jake: Huh?",
+                "type": "transcript"
+            },
+            {
+                "start": 140010,
+                "end": 140014,
+                "text": "I turned to speak and continued washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140012,
+                "end": 140013,
+                "text": "Jake: Yes, there was a cooking activity.",
+                "type": "transcript"
+            },
+            {
+                "start": 140013,
+                "end": 140015,
+                "text": "Jake: But no spaghetti-making activity.",
+                "type": "transcript"
+            },
+            {
+                "start": 140015,
+                "end": 140018,
+                "text": "I'll talk to Tasha and continue with the tableware.",
+                "type": "caption"
+            },
+            {
+                "start": 140015,
+                "end": 140017,
+                "text": "Alice: 你们喜欢酸汤娃娃菜吗",
+                "type": "transcript"
+            },
+            {
+                "start": 140018,
+                "end": 140020,
+                "text": "Alice: I really like drinking that flavorful one.",
+                "type": "transcript"
+            },
+            {
+                "start": 140019,
+                "end": 140020,
+                "text": "Jake: We can make one.",
+                "type": "transcript"
+            },
+            {
+                "start": 140019,
+                "end": 140020,
+                "text": "I'm watching everyone talk.",
+                "type": "caption"
+            },
+            {
+                "start": 140021,
+                "end": 140022,
+                "text": "I turned to wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140022,
+                "end": 140023,
+                "text": "Jake:酸汤娃娃菜要做",
+                "type": "transcript"
+            },
+            {
+                "start": 140022,
+                "end": 140024,
+                "text": "I'm washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140023,
+                "end": 140026,
+                "text": "Alice: Okay, do you eat mushrooms?",
+                "type": "transcript"
+            },
+            {
+                "start": 140025,
+                "end": 140026,
+                "text": "I'm washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140026,
+                "end": 140026,
+                "text": "I'm washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140026,
+                "end": 140027,
+                "text": "I'm washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140026,
+                "end": 140028,
+                "text": "Tasha: Sure.",
+                "type": "transcript"
+            },
+            {
+                "start": 140028,
+                "end": 140029,
+                "text": "I'm washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140028,
+                "end": 140029,
+                "text": "Alice: Do you eat century eggs?",
+                "type": "transcript"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14003000.mp4",
+        "data": [
+            {
+                "start": 140030,
+                "end": 140031,
+                "text": "I'm washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140031,
+                "end": 140032,
+                "text": "Alice: They're preserved eggs.",
+                "type": "transcript"
+            },
+            {
+                "start": 140032,
+                "end": 140033,
+                "text": "Alice: The black ones.",
+                "type": "transcript"
+            },
+            {
+                "start": 140033,
+                "end": 140034,
+                "text": "Tasha: Never had them either.",
+                "type": "transcript"
+            },
+            {
+                "start": 140033,
+                "end": 140034,
+                "text": "I'm washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140034,
+                "end": 140035,
+                "text": "Jake: That's good.",
+                "type": "transcript"
+            },
+            {
+                "start": 140034,
+                "end": 140037,
+                "text": "I turn my head to the left, I lower my head to the right, and I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140035,
+                "end": 140037,
+                "text": "Tasha: They look really ugly.",
+                "type": "transcript"
+            },
+            {
+                "start": 140036,
+                "end": 140040,
+                "text": "Jake: Yes, yes. Even if you don't want to, give it a try.",
+                "type": "transcript"
+            },
+            {
+                "start": 140037,
+                "end": 140039,
+                "text": "I turn my head to the left when I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 140037,
+                "end": 140038,
+                "text": "Tasha: I really don't want to eat it.",
+                "type": "transcript"
+            },
+            {
+                "start": 140040,
+                "end": 140041,
+                "text": "I'm watching everyone talk.",
+                "type": "caption"
+            },
+            {
+                "start": 140040,
+                "end": 140043,
+                "text": "Jake: You can give it a try, right?",
+                "type": "transcript"
+            },
+            {
+                "start": 140040,
+                "end": 140041,
+                "text": "Tasha: This is really ugly.",
+                "type": "transcript"
+            },
+            {
+                "start": 140041,
+                "end": 140043,
+                "text": "Lucia: I thought century eggs were a regional dish.",
+                "type": "transcript"
+            },
+            {
+                "start": 140042,
+                "end": 140043,
+                "text": "I sit and speak with my head down.",
+                "type": "caption"
+            },
+            {
+                "start": 140043,
+                "end": 140045,
+                "text": "Lucia: Like maybe from your area.",
+                "type": "transcript"
+            },
+            {
+                "start": 140044,
+                "end": 140045,
+                "text": "I put down the utensils.",
+                "type": "caption"
+            },
+            {
+                "start": 140045,
+                "end": 140047,
+                "text": "Alice: It's a cold dish.",
+                "type": "transcript"
+            },
+            {
+                "start": 140046,
+                "end": 140048,
+                "text": "I turned my head to the right and picked up the new cutlery.",
+                "type": "caption"
+            },
+            {
+                "start": 140047,
+                "end": 140048,
+                "text": "Lucia: But I also eat it well.",
+                "type": "transcript"
+            },
+            {
+                "start": 140048,
+                "end": 140050,
+                "text": "Alice: You just don't eat it on your own.",
+                "type": "transcript"
+            },
+            {
+                "start": 140049,
+                "end": 140051,
+                "text": "I turn on the tap and wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140050,
+                "end": 140051,
+                "text": "Alice: Oh, right.",
+                "type": "transcript"
+            },
+            {
+                "start": 140052,
+                "end": 140053,
+                "text": "I'm washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140053,
+                "end": 140054,
+                "text": "Alice: Not sure if it's enough.",
+                "type": "transcript"
+            },
+            {
+                "start": 140054,
+                "end": 140055,
+                "text": "I'll continue washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140055,
+                "end": 140058,
+                "text": "I turned off the tap and washed the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140056,
+                "end": 140057,
+                "text": "Alice: Let's buy a few.",
+                "type": "transcript"
+            },
+            {
+                "start": 140057,
+                "end": 140059,
+                "text": "Alice: Let me write it down.",
+                "type": "transcript"
+            },
+            {
+                "start": 140058,
+                "end": 140100,
+                "text": "I splash water and clean the dishes.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14010000.mp4",
+        "data": [
+            {
+                "start": 140100,
+                "end": 140102,
+                "text": "I splash water; I shake the water off the utensils.",
+                "type": "caption"
+            },
+            {
+                "start": 140102,
+                "end": 140103,
+                "text": "Jake: What is this?",
+                "type": "transcript"
+            },
+            {
+                "start": 140103,
+                "end": 140106,
+                "text": "Tasha: Guess.",
+                "type": "transcript"
+            },
+            {
+                "start": 140103,
+                "end": 140104,
+                "text": "I wade into the water and speak.",
+                "type": "caption"
+            },
+            {
+                "start": 140104,
+                "end": 140108,
+                "text": "Jake: Making a batter.",
+                "type": "transcript"
+            },
+            {
+                "start": 140106,
+                "end": 140107,
+                "text": "I'm holding the cutlery.",
+                "type": "caption"
+            },
+            {
+                "start": 140108,
+                "end": 140110,
+                "text": "Tasha: Almost, yeah.",
+                "type": "transcript"
+            },
+            {
+                "start": 140109,
+                "end": 140110,
+                "text": "I fiddle with my utensils when I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 140110,
+                "end": 140111,
+                "text": "Shure: Beating eggs, right?",
+                "type": "transcript"
+            },
+            {
+                "start": 140111,
+                "end": 140112,
+                "text": "Tasha: Oh, right.",
+                "type": "transcript"
+            },
+            {
+                "start": 140111,
+                "end": 140112,
+                "text": "I'm fiddling with the cutlery.",
+                "type": "caption"
+            },
+            {
+                "start": 140112,
+                "end": 140112,
+                "text": "Jake: Eggs, right?",
+                "type": "transcript"
+            },
+            {
+                "start": 140113,
+                "end": 140114,
+                "text": "I'm speaking.",
+                "type": "caption"
+            },
+            {
+                "start": 140113,
+                "end": 140115,
+                "text": "Jake: Eggs, I think we might need more.",
+                "type": "transcript"
+            },
+            {
+                "start": 140115,
+                "end": 140116,
+                "text": "I'm fiddling with the cutlery.",
+                "type": "caption"
+            },
+            {
+                "start": 140116,
+                "end": 140120,
+                "text": "I turned my head to the right, then to the left, and handed the utensils to Shure.",
+                "type": "caption"
+            },
+            {
+                "start": 140116,
+                "end": 140116,
+                "text": "Jake: The same, right?",
+                "type": "transcript"
+            },
+            {
+                "start": 140116,
+                "end": 140117,
+                "text": "Jake: Just one.",
+                "type": "transcript"
+            },
+            {
+                "start": 140117,
+                "end": 140122,
+                "text": "Shure: But it looks like this.",
+                "type": "transcript"
+            },
+            {
+                "start": 140119,
+                "end": 140122,
+                "text": "Jake: Oh, oh, oh.",
+                "type": "transcript"
+            },
+            {
+                "start": 140120,
+                "end": 140124,
+                "text": "I splash water, I turn my head to the right, and I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 140122,
+                "end": 140126,
+                "text": "Jake: Oh, oh.",
+                "type": "transcript"
+            },
+            {
+                "start": 140123,
+                "end": 140125,
+                "text": "Shure: And then you put it on like this, oh.",
+                "type": "transcript"
+            },
+            {
+                "start": 140125,
+                "end": 140127,
+                "text": "I watched Shure fiddle with the cutlery.",
+                "type": "caption"
+            },
+            {
+                "start": 140126,
+                "end": 140127,
+                "text": "Shure: Then you press it and it...",
+                "type": "transcript"
+            },
+            {
+                "start": 140127,
+                "end": 140130,
+                "text": "Jake: Oh, OK, OK, got it.",
+                "type": "transcript"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14013000.mp4",
+        "data": [
+            {
+                "start": 140131,
+                "end": 140132,
+                "text": "I'm washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140132,
+                "end": 140133,
+                "text": "Lucia: We need to buy...",
+                "type": "transcript"
+            },
+            {
+                "start": 140133,
+                "end": 140134,
+                "text": "I clean the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140133,
+                "end": 140134,
+                "text": "Jake: Right, your description...",
+                "type": "transcript"
+            },
+            {
+                "start": 140134,
+                "end": 140136,
+                "text": "Jake: Then it will eventually become a reality.",
+                "type": "transcript"
+            },
+            {
+                "start": 140135,
+                "end": 140138,
+                "text": "I talk and I clean the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140136,
+                "end": 140138,
+                "text": "Shure: Yes, let the AI understand us better.",
+                "type": "transcript"
+            },
+            {
+                "start": 140138,
+                "end": 140139,
+                "text": "Jake:对",
+                "type": "transcript"
+            },
+            {
+                "start": 140138,
+                "end": 140140,
+                "text": "I pick up the sponge to clean the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140138,
+                "end": 140139,
+                "text": "Tasha: I know, yeah.",
+                "type": "transcript"
+            },
+            {
+                "start": 140139,
+                "end": 140141,
+                "text": "Tasha: Yeah, we use it when drawing.",
+                "type": "transcript"
+            },
+            {
+                "start": 140141,
+                "end": 140142,
+                "text": "Lucia: Oh, I thought it was...",
+                "type": "transcript"
+            },
+            {
+                "start": 140141,
+                "end": 140142,
+                "text": "Continue cleaning the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140142,
+                "end": 140145,
+                "text": "Lucia: The kind used for tile grouting, right?",
+                "type": "transcript"
+            },
+            {
+                "start": 140144,
+                "end": 140145,
+                "text": "Continue cleaning the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140146,
+                "end": 140147,
+                "text": "Continue cleaning the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140147,
+                "end": 140149,
+                "text": "Tasha: We can also buy some more fruits.",
+                "type": "transcript"
+            },
+            {
+                "start": 140149,
+                "end": 140152,
+                "text": "Tasha: To decorate the cake.",
+                "type": "transcript"
+            },
+            {
+                "start": 140149,
+                "end": 140150,
+                "text": "I'll continue washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140152,
+                "end": 140153,
+                "text": "I'll continue washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140153,
+                "end": 140154,
+                "text": "Lucia: So this is the kind...",
+                "type": "transcript"
+            },
+            {
+                "start": 140154,
+                "end": 140156,
+                "text": "Lucia: That you stick next to the canvas?",
+                "type": "transcript"
+            },
+            {
+                "start": 140155,
+                "end": 140156,
+                "text": "I'll continue washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140156,
+                "end": 140158,
+                "text": "I pour water; I wring out water.",
+                "type": "caption"
+            },
+            {
+                "start": 140156,
+                "end": 140157,
+                "text": "Tasha: Yeah, yeah.",
+                "type": "transcript"
+            },
+            {
+                "start": 140157,
+                "end": 140159,
+                "text": "Tasha: It's the tape you stick on the drawing paper.",
+                "type": "transcript"
+            },
+            {
+                "start": 140158,
+                "end": 140200,
+                "text": "I'm splashing water, I'm splashing water.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14020000.mp4",
+        "data": [
+            {
+                "start": 140200,
+                "end": 140201,
+                "text": "I put the tableware down.",
+                "type": "caption"
+            },
+            {
+                "start": 140201,
+                "end": 140204,
+                "text": "Alice: Where are the seasonings? Forget it, let's get another one.",
+                "type": "transcript"
+            },
+            {
+                "start": 140202,
+                "end": 140205,
+                "text": "I shake off the water, I shake my hand, I turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 140204,
+                "end": 140205,
+                "text": "Tasha: It's washi paper.",
+                "type": "transcript"
+            },
+            {
+                "start": 140205,
+                "end": 140206,
+                "text": "I turn around.",
+                "type": "caption"
+            },
+            {
+                "start": 140206,
+                "end": 140208,
+                "text": "Lucia: I always thought it was some kind of tape.",
+                "type": "transcript"
+            },
+            {
+                "start": 140206,
+                "end": 140207,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140207,
+                "end": 140210,
+                "text": "I stood in place, looked at everyone, and spoke.",
+                "type": "caption"
+            },
+            {
+                "start": 140208,
+                "end": 140209,
+                "text": "Lucia: Something similar.",
+                "type": "transcript"
+            },
+            {
+                "start": 140209,
+                "end": 140210,
+                "text": "Tasha: It's just paper tape.",
+                "type": "transcript"
+            },
+            {
+                "start": 140209,
+                "end": 140211,
+                "text": "Jake: What kind of paper?",
+                "type": "transcript"
+            },
+            {
+                "start": 140210,
+                "end": 140211,
+                "text": "I turn around.",
+                "type": "caption"
+            },
+            {
+                "start": 140210,
+                "end": 140212,
+                "text": "Lucia: Yes, yes, exactly.",
+                "type": "transcript"
+            },
+            {
+                "start": 140211,
+                "end": 140212,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140212,
+                "end": 140213,
+                "text": "I crouch down and wipe the floor.",
+                "type": "caption"
+            },
+            {
+                "start": 140213,
+                "end": 140214,
+                "text": "Alice: Pepper.",
+                "type": "transcript"
+            },
+            {
+                "start": 140213,
+                "end": 140215,
+                "text": "Lucia: Anyway, I saw that thing.",
+                "type": "transcript"
+            },
+            {
+                "start": 140214,
+                "end": 140215,
+                "text": "I'll continue mopping the floor.",
+                "type": "caption"
+            },
+            {
+                "start": 140215,
+                "end": 140217,
+                "text": "I stood up, turned to the right, and threw away the paper.",
+                "type": "caption"
+            },
+            {
+                "start": 140215,
+                "end": 140216,
+                "text": "Lucia: I knew it was it.",
+                "type": "transcript"
+            },
+            {
+                "start": 140216,
+                "end": 140217,
+                "text": "Lucia: But I didn't know its name.",
+                "type": "transcript"
+            },
+            {
+                "start": 140218,
+                "end": 140219,
+                "text": "I turn my head left and right. I turn to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 140220,
+                "end": 140221,
+                "text": "I picked up the cutlery.",
+                "type": "caption"
+            },
+            {
+                "start": 140222,
+                "end": 140223,
+                "text": "I'll continue washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140224,
+                "end": 140225,
+                "text": "I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140225,
+                "end": 140226,
+                "text": "I turned off the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140226,
+                "end": 140229,
+                "text": "I fling my hand, I put down the utensils, and I pick them up.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14023000.mp4",
+        "data": [
+            {
+                "start": 140232,
+                "end": 140233,
+                "text": "I turn on the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140233,
+                "end": 140234,
+                "text": "I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140234,
+                "end": 140236,
+                "text": "I shake my head from side to side as I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 140234,
+                "end": 140235,
+                "text": "Jake: Is it the small kitchen?",
+                "type": "transcript"
+            },
+            {
+                "start": 140236,
+                "end": 140238,
+                "text": "I look to the left, I look to the right, I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140237,
+                "end": 140239,
+                "text": "Jake: Then the table is all yours.",
+                "type": "transcript"
+            },
+            {
+                "start": 140237,
+                "end": 140240,
+                "text": "Jake: The table is all yours, we'll eat upstairs.",
+                "type": "transcript"
+            },
+            {
+                "start": 140237,
+                "end": 140237,
+                "text": "Tasha: Yes, it's a bit small.",
+                "type": "transcript"
+            },
+            {
+                "start": 140238,
+                "end": 140239,
+                "text": "I look left and right when I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 140239,
+                "end": 140241,
+                "text": "Alice: Do you like that forest-style vibe?",
+                "type": "transcript"
+            },
+            {
+                "start": 140240,
+                "end": 140242,
+                "text": "I watch people while I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140242,
+                "end": 140245,
+                "text": "I put down the utensils.",
+                "type": "caption"
+            },
+            {
+                "start": 140246,
+                "end": 140247,
+                "text": "I picked up the cutlery.",
+                "type": "caption"
+            },
+            {
+                "start": 140247,
+                "end": 140249,
+                "text": "I shook my head from side to side and handed the utensils to Tasha.",
+                "type": "caption"
+            },
+            {
+                "start": 140250,
+                "end": 140251,
+                "text": "I picked up the new utensils.",
+                "type": "caption"
+            },
+            {
+                "start": 140250,
+                "end": 140251,
+                "text": "Jake: Okay.",
+                "type": "transcript"
+            },
+            {
+                "start": 140250,
+                "end": 140251,
+                "text": "Tasha: Let's put it here for now, okay?",
+                "type": "transcript"
+            },
+            {
+                "start": 140252,
+                "end": 140253,
+                "text": "I turn my head from side to side.",
+                "type": "caption"
+            },
+            {
+                "start": 140253,
+                "end": 140255,
+                "text": "Pick up the sponge and turn on the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140255,
+                "end": 140256,
+                "text": "I wash the knife.",
+                "type": "caption"
+            },
+            {
+                "start": 140255,
+                "end": 140257,
+                "text": "Jake: How do you feel about the upstairs kitchen, is it bigger?",
+                "type": "transcript"
+            },
+            {
+                "start": 140256,
+                "end": 140259,
+                "text": "I talk and I wash the dishes.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14030000.mp4",
+        "data": [
+            {
+                "start": 140301,
+                "end": 140302,
+                "text": "I turn my head from side to side when I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 140303,
+                "end": 140304,
+                "text": "I'm shaking off the water.",
+                "type": "caption"
+            },
+            {
+                "start": 140304,
+                "end": 140305,
+                "text": "Tasha: Really?",
+                "type": "transcript"
+            },
+            {
+                "start": 140304,
+                "end": 140307,
+                "text": "I gesture, turn my head to the right, nod, and speak.",
+                "type": "caption"
+            },
+            {
+                "start": 140305,
+                "end": 140307,
+                "text": "Tasha: No, no, no, forget it.",
+                "type": "transcript"
+            },
+            {
+                "start": 140305,
+                "end": 140306,
+                "text": "Jake: Wanna go up?",
+                "type": "transcript"
+            },
+            {
+                "start": 140307,
+                "end": 140310,
+                "text": "I lowered my head and washed the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140310,
+                "end": 140311,
+                "text": "I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140312,
+                "end": 140315,
+                "text": "Alice: Never prayed for a marriage match, never.",
+                "type": "transcript"
+            },
+            {
+                "start": 140312,
+                "end": 140313,
+                "text": "I'm shaking off the water.",
+                "type": "caption"
+            },
+            {
+                "start": 140314,
+                "end": 140315,
+                "text": "I put down the knife.",
+                "type": "caption"
+            },
+            {
+                "start": 140315,
+                "end": 140316,
+                "text": "I look up, I look down.",
+                "type": "caption"
+            },
+            {
+                "start": 140318,
+                "end": 140319,
+                "text": "I picked up the cutlery.",
+                "type": "caption"
+            },
+            {
+                "start": 140319,
+                "end": 140322,
+                "text": "I forgot the new tableware, so I emptied out the utensils.",
+                "type": "caption"
+            },
+            {
+                "start": 140322,
+                "end": 140324,
+                "text": "I take the system; I lift the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140322,
+                "end": 140324,
+                "text": "Lucia: Whose baby is this?",
+                "type": "transcript"
+            },
+            {
+                "start": 140324,
+                "end": 140325,
+                "text": "Lucia: Seems like a part of some appliance.",
+                "type": "transcript"
+            },
+            {
+                "start": 140324,
+                "end": 140325,
+                "text": "I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140325,
+                "end": 140327,
+                "text": "I turned around and looked at everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 140326,
+                "end": 140327,
+                "text": "Tasha: Yeah, it was a freebie.",
+                "type": "transcript"
+            },
+            {
+                "start": 140327,
+                "end": 140328,
+                "text": "Tasha: Not as useful as this one.",
+                "type": "transcript"
+            },
+            {
+                "start": 140327,
+                "end": 140330,
+                "text": "I turned my head to the right and then back. I washed the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140329,
+                "end": 140330,
+                "text": "Lucia: Oh, then this isn't needed?",
+                "type": "transcript"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14033000.mp4",
+        "data": [
+            {
+                "start": 140330,
+                "end": 140331,
+                "text": "Lucia: Not really necessary, right?",
+                "type": "transcript"
+            },
+            {
+                "start": 140331,
+                "end": 140332,
+                "text": "Lucia: Okay, okay.",
+                "type": "transcript"
+            },
+            {
+                "start": 140331,
+                "end": 140332,
+                "text": "I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140332,
+                "end": 140334,
+                "text": "Lucia: I'll tidy up the box outside a bit.",
+                "type": "transcript"
+            },
+            {
+                "start": 140333,
+                "end": 140334,
+                "text": "I'll continue washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140334,
+                "end": 140336,
+                "text": "Lucia: I'll throw away the unnecessary stuff.",
+                "type": "transcript"
+            },
+            {
+                "start": 140335,
+                "end": 140336,
+                "text": "I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140336,
+                "end": 140337,
+                "text": "I turn my head to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 140336,
+                "end": 140338,
+                "text": "Lucia: Let's leave this part here for now.",
+                "type": "transcript"
+            },
+            {
+                "start": 140337,
+                "end": 140339,
+                "text": "Turn to the right and wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140338,
+                "end": 140340,
+                "text": "Lucia: Maybe we'll need it.",
+                "type": "transcript"
+            },
+            {
+                "start": 140339,
+                "end": 140342,
+                "text": "I saw Tasha take a knife while I was washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140340,
+                "end": 140341,
+                "text": "Lucia: The manual.",
+                "type": "transcript"
+            },
+            {
+                "start": 140341,
+                "end": 140343,
+                "text": "Jake: Can't this control water?",
+                "type": "transcript"
+            },
+            {
+                "start": 140343,
+                "end": 140345,
+                "text": "I saw Tasha cleaning the dishes while she was at it.",
+                "type": "caption"
+            },
+            {
+                "start": 140343,
+                "end": 140344,
+                "text": "Lucia: Oh, forget it.",
+                "type": "transcript"
+            },
+            {
+                "start": 140344,
+                "end": 140345,
+                "text": "Tasha: Probably hasn't got batteries in it.",
+                "type": "transcript"
+            },
+            {
+                "start": 140345,
+                "end": 140346,
+                "text": "Lucia: Put it outside.",
+                "type": "transcript"
+            },
+            {
+                "start": 140346,
+                "end": 140348,
+                "text": "Alice: Is the battery in a small...",
+                "type": "transcript"
+            },
+            {
+                "start": 140346,
+                "end": 140347,
+                "text": "I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140347,
+                "end": 140349,
+                "text": "I poured water and turned off the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140348,
+                "end": 140350,
+                "text": "Tasha: Yeah, it's in a bag.",
+                "type": "transcript"
+            },
+            {
+                "start": 140349,
+                "end": 140351,
+                "text": "I turn on the tap and wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140350,
+                "end": 140351,
+                "text": "Tasha: That bag.",
+                "type": "transcript"
+            },
+            {
+                "start": 140351,
+                "end": 140352,
+                "text": "Tasha: Hmm, was it thrown away?",
+                "type": "transcript"
+            },
+            {
+                "start": 140352,
+                "end": 140355,
+                "text": "Alice: I remember seeing it just now.",
+                "type": "transcript"
+            },
+            {
+                "start": 140352,
+                "end": 140353,
+                "text": "I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140353,
+                "end": 140355,
+                "text": "I'll continue cleaning the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140355,
+                "end": 140356,
+                "text": "Let me take a look at the bucket.",
+                "type": "caption"
+            },
+            {
+                "start": 140356,
+                "end": 140357,
+                "text": "I'm holding a bucket.",
+                "type": "caption"
+            },
+            {
+                "start": 140357,
+                "end": 140359,
+                "text": "I look at the bucket. I clean the tableware.",
+                "type": "caption"
+            },
+            {
+                "start": 140357,
+                "end": 140358,
+                "text": "Alice: Electronic, right?",
+                "type": "transcript"
+            },
+            {
+                "start": 140358,
+                "end": 140359,
+                "text": "Tasha: Yeah, it was in a foam.",
+                "type": "transcript"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14040000.mp4",
+        "data": [
+            {
+                "start": 140400,
+                "end": 140401,
+                "text": "I clean the bucket.",
+                "type": "caption"
+            },
+            {
+                "start": 140401,
+                "end": 140404,
+                "text": "I shook the water off and put the bucket down.",
+                "type": "caption"
+            },
+            {
+                "start": 140402,
+                "end": 140403,
+                "text": "Alice: So where did that bag go?",
+                "type": "transcript"
+            },
+            {
+                "start": 140403,
+                "end": 140405,
+                "text": "Jake: Sorry, it's gone.",
+                "type": "transcript"
+            },
+            {
+                "start": 140404,
+                "end": 140406,
+                "text": "I turned to the right and picked up the cutlery.",
+                "type": "caption"
+            },
+            {
+                "start": 140407,
+                "end": 140408,
+                "text": "I clean the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140409,
+                "end": 140412,
+                "text": "Alice: It looked a lot like trash, could it have been thrown away by mistake?",
+                "type": "transcript"
+            },
+            {
+                "start": 140409,
+                "end": 140411,
+                "text": "I'll continue cleaning the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140411,
+                "end": 140413,
+                "text": "I turned off the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140413,
+                "end": 140417,
+                "text": "I shake the water off, I shake the water off. I put the utensils into the bucket.",
+                "type": "caption"
+            },
+            {
+                "start": 140418,
+                "end": 140419,
+                "text": "I picked up the sponge.",
+                "type": "caption"
+            },
+            {
+                "start": 140419,
+                "end": 140421,
+                "text": "I shook off the water and picked it up.",
+                "type": "caption"
+            },
+            {
+                "start": 140421,
+                "end": 140424,
+                "text": "I'm holding a spoon from the new tableware.",
+                "type": "caption"
+            },
+            {
+                "start": 140424,
+                "end": 140425,
+                "text": "I turn on the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140425,
+                "end": 140426,
+                "text": "I'm washing the spoon.",
+                "type": "caption"
+            },
+            {
+                "start": 140427,
+                "end": 140429,
+                "text": "I wash the spoon and clean the spoon.",
+                "type": "caption"
+            },
+            {
+                "start": 140429,
+                "end": 140430,
+                "text": "Turn off the faucet.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14043000.mp4",
+        "data": [
+            {
+                "start": 140430,
+                "end": 140433,
+                "text": "I splash water, I splash water, I put the spoon into the bucket.",
+                "type": "caption"
+            },
+            {
+                "start": 140432,
+                "end": 140433,
+                "text": "Tasha: It's not accurate.",
+                "type": "transcript"
+            },
+            {
+                "start": 140433,
+                "end": 140435,
+                "text": "I put the other spoon into the bucket.",
+                "type": "caption"
+            },
+            {
+                "start": 140435,
+                "end": 140438,
+                "text": "I shook off the water, turned around, and saw everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 140438,
+                "end": 140441,
+                "text": "I turned around and picked up the cutlery.",
+                "type": "caption"
+            },
+            {
+                "start": 140440,
+                "end": 140442,
+                "text": "Jake: Ah, what’s the temperature?",
+                "type": "transcript"
+            },
+            {
+                "start": 140441,
+                "end": 140442,
+                "text": "I wash the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140442,
+                "end": 140444,
+                "text": "Tasha: 27 degrees, hahaha, oh oh.",
+                "type": "transcript"
+            },
+            {
+                "start": 140443,
+                "end": 140446,
+                "text": "Jake: Oh, I’m gonna die. Hahaha.",
+                "type": "transcript"
+            },
+            {
+                "start": 140445,
+                "end": 140449,
+                "text": "I wash the dishes. I smile and continue washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140446,
+                "end": 140447,
+                "text": "Tasha: It's rising.",
+                "type": "transcript"
+            },
+            {
+                "start": 140448,
+                "end": 140449,
+                "text": "Jake: How much?",
+                "type": "transcript"
+            },
+            {
+                "start": 140448,
+                "end": 140450,
+                "text": "Alice: It needs to be transmitted.",
+                "type": "transcript"
+            },
+            {
+                "start": 140449,
+                "end": 140449,
+                "text": "I turned off the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140449,
+                "end": 140451,
+                "text": "I turn my head to the left, I turn my head to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 140450,
+                "end": 140451,
+                "text": "Alice: Let me see.",
+                "type": "transcript"
+            },
+            {
+                "start": 140451,
+                "end": 140454,
+                "text": "Jake: My body temperature, right? This is...",
+                "type": "transcript"
+            },
+            {
+                "start": 140451,
+                "end": 140453,
+                "text": "I splash water and turn my head to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 140453,
+                "end": 140455,
+                "text": "When I speak, I turn my head to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 140454,
+                "end": 140455,
+                "text": "Alice: Over thirty.",
+                "type": "transcript"
+            },
+            {
+                "start": 140456,
+                "end": 140457,
+                "text": "I put the dishes into the bucket.",
+                "type": "caption"
+            },
+            {
+                "start": 140456,
+                "end": 140457,
+                "text": "Jake: So hot.",
+                "type": "transcript"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14050000.mp4",
+        "data": [
+            {
+                "start": 140501,
+                "end": 140503,
+                "text": "Tasha: Okay, so it's real then.",
+                "type": "transcript"
+            },
+            {
+                "start": 140501,
+                "end": 140504,
+                "text": "I'm washing the dishes. I continue washing the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140503,
+                "end": 140505,
+                "text": "Tasha: Haha.",
+                "type": "transcript"
+            },
+            {
+                "start": 140503,
+                "end": 140506,
+                "text": "Jake: Oh, it's useful, right? What’s my temperature now? Over thirty?",
+                "type": "transcript"
+            },
+            {
+                "start": 140504,
+                "end": 140507,
+                "text": "I turn off the water. I turn my head to the right. I turn my head to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 140506,
+                "end": 140507,
+                "text": "Alice: Over thirty.",
+                "type": "transcript"
+            },
+            {
+                "start": 140507,
+                "end": 140513,
+                "text": "I wipe up the water, I wipe the water, I wipe the dishes, I wipe the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140514,
+                "end": 140515,
+                "text": "I'm wiping the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140516,
+                "end": 140520,
+                "text": "Put the tableware down. I pick up the tableware. I turn on the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140520,
+                "end": 140522,
+                "text": "I clean the dishes and turn off the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140521,
+                "end": 140523,
+                "text": "Tasha: It originally had a pad inside.",
+                "type": "transcript"
+            },
+            {
+                "start": 140522,
+                "end": 140525,
+                "text": "I shook the water off, turned left, and put down the cutlery.",
+                "type": "caption"
+            },
+            {
+                "start": 140523,
+                "end": 140524,
+                "text": "Tasha: Hmm, then that’s enough.",
+                "type": "transcript"
+            },
+            {
+                "start": 140526,
+                "end": 140529,
+                "text": "I picked up another knife and a rag.",
+                "type": "caption"
+            },
+            {
+                "start": 140529,
+                "end": 140530,
+                "text": "Turn on the faucet.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14053000.mp4",
+        "data": [
+            {
+                "start": 140530,
+                "end": 140531,
+                "text": "I clean the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140531,
+                "end": 140535,
+                "text": "I continue to clean the dishes. I continue to clean the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140533,
+                "end": 140534,
+                "text": "Tasha: The scissors are...",
+                "type": "transcript"
+            },
+            {
+                "start": 140535,
+                "end": 140539,
+                "text": "I wipe and scrub the dishes; I clean the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140536,
+                "end": 140537,
+                "text": "Tasha: Is this bottle of water mine?",
+                "type": "transcript"
+            },
+            {
+                "start": 140537,
+                "end": 140538,
+                "text": "Lucia: Uh, it should be yours.",
+                "type": "transcript"
+            },
+            {
+                "start": 140538,
+                "end": 140540,
+                "text": "Lucia: This bottle of water is mine.",
+                "type": "transcript"
+            },
+            {
+                "start": 140540,
+                "end": 140543,
+                "text": "I turned off the faucet and wrung out the cloth.",
+                "type": "caption"
+            },
+            {
+                "start": 140541,
+                "end": 140544,
+                "text": "Lucia: Alright, you can use a pen to write on it, though it might rub off.",
+                "type": "transcript"
+            },
+            {
+                "start": 140543,
+                "end": 140545,
+                "text": "I wipe and wring the rag.",
+                "type": "caption"
+            },
+            {
+                "start": 140544,
+                "end": 140545,
+                "text": "Lucia: Though it might rub off.",
+                "type": "transcript"
+            },
+            {
+                "start": 140545,
+                "end": 140550,
+                "text": "I shake off the water, put the dishes into the bucket, and wring out the cloth.",
+                "type": "caption"
+            },
+            {
+                "start": 140550,
+                "end": 140551,
+                "text": "Lucia: Sorry.",
+                "type": "transcript"
+            },
+            {
+                "start": 140550,
+                "end": 140551,
+                "text": "I let go.",
+                "type": "caption"
+            },
+            {
+                "start": 140551,
+                "end": 140552,
+                "text": "I put down the rag.",
+                "type": "caption"
+            },
+            {
+                "start": 140551,
+                "end": 140551,
+                "text": "Jake: Line 1, right?",
+                "type": "transcript"
+            },
+            {
+                "start": 140553,
+                "end": 140556,
+                "text": "I swing my hand, I pick up the sponge, I pick up the sponge, I swing my hand.",
+                "type": "caption"
+            },
+            {
+                "start": 140553,
+                "end": 140555,
+                "text": "Tasha: Hmm, do you want some?",
+                "type": "transcript"
+            },
+            {
+                "start": 140555,
+                "end": 140556,
+                "text": "Lucia: This is a bento box.",
+                "type": "transcript"
+            },
+            {
+                "start": 140556,
+                "end": 140557,
+                "text": "Tasha: I'll drink this.",
+                "type": "transcript"
+            },
+            {
+                "start": 140557,
+                "end": 140559,
+                "text": "I sway from side to side, I sway from side to side.",
+                "type": "caption"
+            },
+            {
+                "start": 140557,
+                "end": 140559,
+                "text": "Tasha: I thought you don't drink beverages.",
+                "type": "transcript"
+            },
+            {
+                "start": 140559,
+                "end": 140600,
+                "text": "Alice: This one's mine.",
+                "type": "transcript"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14060000.mp4",
+        "data": [
+            {
+                "start": 140600,
+                "end": 140604,
+                "text": "Jake: Hahaha, so you do drink beverages now!",
+                "type": "transcript"
+            },
+            {
+                "start": 140600,
+                "end": 140602,
+                "text": "Tasha: Oh, hehe.",
+                "type": "transcript"
+            },
+            {
+                "start": 140602,
+                "end": 140608,
+                "text": "I laugh, I turn my head to the right, and I sway from side to side.",
+                "type": "caption"
+            },
+            {
+                "start": 140602,
+                "end": 140605,
+                "text": "Jake: So you do drink beverages.",
+                "type": "transcript"
+            },
+            {
+                "start": 140609,
+                "end": 140613,
+                "text": "I take a sponge to wipe the plates. I wipe the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140611,
+                "end": 140612,
+                "text": "Tasha: Jake, are you tired of writing?",
+                "type": "transcript"
+            },
+            {
+                "start": 140613,
+                "end": 140614,
+                "text": "Jake: No, not tired.",
+                "type": "transcript"
+            },
+            {
+                "start": 140613,
+                "end": 140614,
+                "text": "I turn my head to the left when I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 140614,
+                "end": 140616,
+                "text": "I bow my head, I bow my head, wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140615,
+                "end": 140618,
+                "text": "Shure: Jake is a Supersaya.",
+                "type": "transcript"
+            },
+            {
+                "start": 140617,
+                "end": 140618,
+                "text": "I'm wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140618,
+                "end": 140620,
+                "text": "Shure: Jake is a Super Saiyan.",
+                "type": "transcript"
+            },
+            {
+                "start": 140620,
+                "end": 140622,
+                "text": "Tasha: What's a Saiyan?",
+                "type": "transcript"
+            },
+            {
+                "start": 140620,
+                "end": 140621,
+                "text": "I'll keep wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140620,
+                "end": 140622,
+                "text": "Jake: A Saiyan.",
+                "type": "transcript"
+            },
+            {
+                "start": 140622,
+                "end": 140626,
+                "text": "I talk. I wipe the dishes. I wipe the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140624,
+                "end": 140627,
+                "text": "Jake: It's like a kind of non-human... non-human.",
+                "type": "transcript"
+            },
+            {
+                "start": 140626,
+                "end": 140629,
+                "text": "I'm talking while wiping the plates.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14063000.mp4",
+        "data": [
+            {
+                "start": 140630,
+                "end": 140633,
+                "text": "Shure: Sleep at 5:20, wake up at 13:14.",
+                "type": "transcript"
+            },
+            {
+                "start": 140634,
+                "end": 140638,
+                "text": "I turn on the faucet and laugh.",
+                "type": "caption"
+            },
+            {
+                "start": 140635,
+                "end": 140641,
+                "text": "Shure: Waking up at 9 is kind of anti-human.",
+                "type": "transcript"
+            },
+            {
+                "start": 140638,
+                "end": 140641,
+                "text": "I turn off the faucet, I laugh, I fiddle with the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140641,
+                "end": 140644,
+                "text": "Shure: To be honest, hahaha.",
+                "type": "transcript"
+            },
+            {
+                "start": 140641,
+                "end": 140644,
+                "text": "I turn the tap on, turn it off, and wipe the dishes.",
+                "type": "caption"
+            },
+            {
+                "start": 140642,
+                "end": 140647,
+                "text": "Jake: So should I wake up now? Am I almost awake or am I already awake?",
+                "type": "transcript"
+            },
+            {
+                "start": 140644,
+                "end": 140647,
+                "text": "I turned my head and spoke; I was talking.",
+                "type": "caption"
+            },
+            {
+                "start": 140644,
+                "end": 140645,
+                "text": "Tasha: I'm hungry, when's lunch?",
+                "type": "transcript"
+            },
+            {
+                "start": 140647,
+                "end": 140650,
+                "text": "Jake: What time is it?",
+                "type": "transcript"
+            },
+            {
+                "start": 140648,
+                "end": 140649,
+                "text": "I'll continue speaking.",
+                "type": "caption"
+            },
+            {
+                "start": 140649,
+                "end": 140653,
+                "text": "I turn around, walk forward, and turn left.",
+                "type": "caption"
+            },
+            {
+                "start": 140650,
+                "end": 140654,
+                "text": "Jake: Should I get a clock? Buy a clock, or buy a watch? Buy a watch.",
+                "type": "transcript"
+            },
+            {
+                "start": 140653,
+                "end": 140655,
+                "text": "Tasha: I don't know how he put it in.",
+                "type": "transcript"
+            },
+            {
+                "start": 140653,
+                "end": 140655,
+                "text": "I raise my hand, I walk forward, I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 140654,
+                "end": 140655,
+                "text": "Jake: I'll buy one this year.",
+                "type": "transcript"
+            },
+            {
+                "start": 140655,
+                "end": 140700,
+                "text": "I picked up the pen, I uncapped it, and I lowered my head.",
+                "type": "caption"
+            },
+            {
+                "start": 140656,
+                "end": 140658,
+                "text": "Alice: There's a bowl underneath here.",
+                "type": "transcript"
+            },
+            {
+                "start": 140658,
+                "end": 140659,
+                "text": "Tasha: Oh, you mean that.",
+                "type": "transcript"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14070000.mp4",
+        "data": [
+            {
+                "start": 140700,
+                "end": 140703,
+                "text": "I write. I'm writing on the whiteboard.",
+                "type": "caption"
+            },
+            {
+                "start": 140702,
+                "end": 140703,
+                "text": "Alice: Or we could finish this.",
+                "type": "transcript"
+            },
+            {
+                "start": 140703,
+                "end": 140704,
+                "text": "Alice: You eat it.",
+                "type": "transcript"
+            },
+            {
+                "start": 140705,
+                "end": 140709,
+                "text": "I am writing on the whiteboard I am writing on the whiteboard",
+                "type": "caption"
+            },
+            {
+                "start": 140705,
+                "end": 140707,
+                "text": "Tasha: This plate isn't clean yet.",
+                "type": "transcript"
+            },
+            {
+                "start": 140707,
+                "end": 140708,
+                "text": "Shure: Use the microwave.",
+                "type": "transcript"
+            },
+            {
+                "start": 140708,
+                "end": 140710,
+                "text": "Lucia: These are all useful, right?",
+                "type": "transcript"
+            },
+            {
+                "start": 140710,
+                "end": 140712,
+                "text": "Shure: There's a plate, put it on the plate.",
+                "type": "transcript"
+            },
+            {
+                "start": 140710,
+                "end": 140712,
+                "text": "I capped my pen and put it down.",
+                "type": "caption"
+            },
+            {
+                "start": 140712,
+                "end": 140714,
+                "text": "Lucia: Yeah, these are all useful.",
+                "type": "transcript"
+            },
+            {
+                "start": 140713,
+                "end": 140715,
+                "text": "I walk forward, I walk forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140714,
+                "end": 140715,
+                "text": "Lucia: These are usable.",
+                "type": "transcript"
+            },
+            {
+                "start": 140716,
+                "end": 140719,
+                "text": "Lucia: Yep, I'll get rid of the useless ones.",
+                "type": "transcript"
+            },
+            {
+                "start": 140716,
+                "end": 140719,
+                "text": "I went into the kitchen and looked to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 140718,
+                "end": 140722,
+                "text": "Jake: Oh man, what fell? What is this?",
+                "type": "transcript"
+            },
+            {
+                "start": 140719,
+                "end": 140720,
+                "text": "Lucia: Just throw the box away.",
+                "type": "transcript"
+            },
+            {
+                "start": 140720,
+                "end": 140720,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140720,
+                "end": 140723,
+                "text": "Lucia: Otherwise, it feels like it takes up space.",
+                "type": "transcript"
+            },
+            {
+                "start": 140720,
+                "end": 140724,
+                "text": "I speak, I look up, and I talk to Tasha.",
+                "type": "caption"
+            },
+            {
+                "start": 140723,
+                "end": 140725,
+                "text": "Jake: Roast chicken leg, chicken skin.",
+                "type": "transcript"
+            },
+            {
+                "start": 140723,
+                "end": 140724,
+                "text": "Tasha: Nothing spilled, after all, we...",
+                "type": "transcript"
+            },
+            {
+                "start": 140725,
+                "end": 140728,
+                "text": "Lucia: But I think it's better to keep it more intact.",
+                "type": "transcript"
+            },
+            {
+                "start": 140725,
+                "end": 140725,
+                "text": "Lucia: Right",
+                "type": "transcript"
+            },
+            {
+                "start": 140725,
+                "end": 140729,
+                "text": "I watch myself lower my head and walk forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140728,
+                "end": 140730,
+                "text": "Lucia: Like this, it's kind of bad.",
+                "type": "transcript"
+            },
+            {
+                "start": 140729,
+                "end": 140730,
+                "text": "I'm wiping the plates.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14073000.mp4",
+        "data": [
+            {
+                "start": 140730,
+                "end": 140732,
+                "text": "Lucia: Or if it's too soft, this kind of thing.",
+                "type": "transcript"
+            },
+            {
+                "start": 140731,
+                "end": 140732,
+                "text": "I'll keep wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140732,
+                "end": 140733,
+                "text": "Lucia: We can just discard it.",
+                "type": "transcript"
+            },
+            {
+                "start": 140733,
+                "end": 140734,
+                "text": "I scrub the dishes with a steel-wool scouring pad.",
+                "type": "caption"
+            },
+            {
+                "start": 140735,
+                "end": 140736,
+                "text": "I'm wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140737,
+                "end": 140738,
+                "text": "I'll keep wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140738,
+                "end": 140739,
+                "text": "Tasha: Alright, no need to clean it so thoroughly. They have to return it anyway.",
+                "type": "transcript"
+            },
+            {
+                "start": 140740,
+                "end": 140741,
+                "text": "I'll keep wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140741,
+                "end": 140741,
+                "text": "Jake: Okay.",
+                "type": "transcript"
+            },
+            {
+                "start": 140742,
+                "end": 140744,
+                "text": "Jake: Show me.",
+                "type": "transcript"
+            },
+            {
+                "start": 140743,
+                "end": 140744,
+                "text": "Keep wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140745,
+                "end": 140747,
+                "text": "I turn on the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140745,
+                "end": 140749,
+                "text": "Jake: I brought this myself, from yesterday.",
+                "type": "transcript"
+            },
+            {
+                "start": 140747,
+                "end": 140749,
+                "text": "I talk while I wipe the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140749,
+                "end": 140750,
+                "text": "Speak",
+                "type": "caption"
+            },
+            {
+                "start": 140749,
+                "end": 140750,
+                "text": "Shure: Wasn't it from last night?",
+                "type": "transcript"
+            },
+            {
+                "start": 140751,
+                "end": 140758,
+                "text": "Jake: We're environmentally friendly people, right? We all are.",
+                "type": "transcript"
+            },
+            {
+                "start": 140751,
+                "end": 140754,
+                "text": "Shure: If we're living our lives, we should look the part.",
+                "type": "transcript"
+            },
+            {
+                "start": 140751,
+                "end": 140752,
+                "text": "I'm wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140753,
+                "end": 140755,
+                "text": "I'll keep wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140756,
+                "end": 140757,
+                "text": "I'll keep wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140758,
+                "end": 140800,
+                "text": "I'm talking while I wipe the plates.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14080000.mp4",
+        "data": [
+            {
+                "start": 140800,
+                "end": 140802,
+                "text": "I turned off the faucet.",
+                "type": "caption"
+            },
+            {
+                "start": 140803,
+                "end": 140805,
+                "text": "I wipe the dishes and pour out the water.",
+                "type": "caption"
+            },
+            {
+                "start": 140806,
+                "end": 140808,
+                "text": "Tasha: Can you guess what this is for?",
+                "type": "transcript"
+            },
+            {
+                "start": 140806,
+                "end": 140807,
+                "text": "I flipped the plate over.",
+                "type": "caption"
+            },
+            {
+                "start": 140807,
+                "end": 140808,
+                "text": "I'm wiping the plates.",
+                "type": "caption"
+            },
+            {
+                "start": 140807,
+                "end": 140811,
+                "text": "Jake: Which one? Oh, I see.",
+                "type": "transcript"
+            },
+            {
+                "start": 140808,
+                "end": 140809,
+                "text": "Tasha: This one.",
+                "type": "transcript"
+            },
+            {
+                "start": 140808,
+                "end": 140809,
+                "text": "I turn my head to the left and to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 140809,
+                "end": 140811,
+                "text": "I speak, and I open the plate.",
+                "type": "caption"
+            },
+            {
+                "start": 140812,
+                "end": 140814,
+                "text": "I said I had picked up the utensils.",
+                "type": "caption"
+            },
+            {
+                "start": 140812,
+                "end": 140816,
+                "text": "Jake: Isn't this a rack? It stands upright.",
+                "type": "transcript"
+            },
+            {
+                "start": 140815,
+                "end": 140818,
+                "text": "Tasha: It's for holding roast chicken.",
+                "type": "transcript"
+            },
+            {
+                "start": 140815,
+                "end": 140816,
+                "text": "I said I was holding the tableware in my hands.",
+                "type": "caption"
+            },
+            {
+                "start": 140817,
+                "end": 140818,
+                "text": "I'm gesturing.",
+                "type": "caption"
+            },
+            {
+                "start": 140819,
+                "end": 140820,
+                "text": "I'm talking to Tasha.",
+                "type": "caption"
+            },
+            {
+                "start": 140820,
+                "end": 140821,
+                "text": "I turned my head.",
+                "type": "caption"
+            },
+            {
+                "start": 140820,
+                "end": 140823,
+                "text": "Jake: Brilliant! And it can rotate.",
+                "type": "transcript"
+            },
+            {
+                "start": 140822,
+                "end": 140824,
+                "text": "I picked up the rack.",
+                "type": "caption"
+            },
+            {
+                "start": 140824,
+                "end": 140826,
+                "text": "Tasha: Yes, it rotates in the oven.",
+                "type": "transcript"
+            },
+            {
+                "start": 140824,
+                "end": 140827,
+                "text": "Jake: It rotates like this, right? Oh, oh.",
+                "type": "transcript"
+            },
+            {
+                "start": 140824,
+                "end": 140825,
+                "text": "I turned my head.",
+                "type": "caption"
+            },
+            {
+                "start": 140826,
+                "end": 140827,
+                "text": "I'm fiddling with the shelf.",
+                "type": "caption"
+            },
+            {
+                "start": 140828,
+                "end": 140829,
+                "text": "Jake: You insert it on both sides.",
+                "type": "transcript"
+            },
+            {
+                "start": 140828,
+                "end": 140829,
+                "text": "I put on airs when I speak.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14083000.mp4",
+        "data": [
+            {
+                "start": 140830,
+                "end": 140831,
+                "text": "I'm fiddling with the shelf.",
+                "type": "caption"
+            },
+            {
+                "start": 140831,
+                "end": 140832,
+                "text": "Jake: Really fun.",
+                "type": "transcript"
+            },
+            {
+                "start": 140831,
+                "end": 140832,
+                "text": "I'm speaking.",
+                "type": "caption"
+            },
+            {
+                "start": 140832,
+                "end": 140834,
+                "text": "Jake: Let's learn how to use it.",
+                "type": "transcript"
+            },
+            {
+                "start": 140833,
+                "end": 140834,
+                "text": "I fiddled with the rack below.",
+                "type": "caption"
+            },
+            {
+                "start": 140835,
+                "end": 140836,
+                "text": "I turn my head from side to side.",
+                "type": "caption"
+            },
+            {
+                "start": 140837,
+                "end": 140838,
+                "text": "I put aside my pride.",
+                "type": "caption"
+            },
+            {
+                "start": 140839,
+                "end": 140840,
+                "text": "I put the rack into the water.",
+                "type": "caption"
+            },
+            {
+                "start": 140840,
+                "end": 140841,
+                "text": "I'm washing the shelf.",
+                "type": "caption"
+            },
+            {
+                "start": 140842,
+                "end": 140843,
+                "text": "I'm washing the shelf.",
+                "type": "caption"
+            },
+            {
+                "start": 140842,
+                "end": 140843,
+                "text": "Jake: Hey.",
+                "type": "transcript"
+            },
+            {
+                "start": 140843,
+                "end": 140844,
+                "text": "I turned around.",
+                "type": "caption"
+            },
+            {
+                "start": 140844,
+                "end": 140845,
+                "text": "I'll take the box.",
+                "type": "caption"
+            },
+            {
+                "start": 140846,
+                "end": 140847,
+                "text": "I look up, I walk forward, I look down.",
+                "type": "caption"
+            },
+            {
+                "start": 140848,
+                "end": 140851,
+                "text": "Jake: Someone's calling me, probably the delivery.",
+                "type": "transcript"
+            },
+            {
+                "start": 140848,
+                "end": 140849,
+                "text": "I took out my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 140850,
+                "end": 140851,
+                "text": "I turned on my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 140851,
+                "end": 140852,
+                "text": "I'm making a phone call.",
+                "type": "caption"
+            },
+            {
+                "start": 140853,
+                "end": 140853,
+                "text": "I'll answer the phone.",
+                "type": "caption"
+            },
+            {
+                "start": 140853,
+                "end": 140854,
+                "text": "Jake: Hello, hi.",
+                "type": "transcript"
+            },
+            {
+                "start": 140854,
+                "end": 140855,
+                "text": "I'll answer the phone.",
+                "type": "caption"
+            },
+            {
+                "start": 140856,
+                "end": 140857,
+                "text": "I'll answer the phone.",
+                "type": "caption"
+            },
+            {
+                "start": 140857,
+                "end": 140900,
+                "text": "Jake: Okay, sure, please wait a moment.",
+                "type": "transcript"
+            },
+            {
+                "start": 140857,
+                "end": 140858,
+                "text": "I'll answer the phone.",
+                "type": "caption"
+            },
+            {
+                "start": 140859,
+                "end": 140900,
+                "text": "I'm making a phone call.",
+                "type": "caption"
+            },
+            {
+                "start": 140900,
+                "end": 140900,
+                "text": "I turn left.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14090000.mp4",
+        "data": [
+            {
+                "start": 140900,
+                "end": 140900,
+                "text": "I turn left.",
+                "type": "caption"
+            },
+            {
+                "start": 140900,
+                "end": 140901,
+                "text": "I turn left.",
+                "type": "caption"
+            },
+            {
+                "start": 140901,
+                "end": 140902,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140903,
+                "end": 140904,
+                "text": "I'll open the door.",
+                "type": "caption"
+            },
+            {
+                "start": 140904,
+                "end": 140905,
+                "text": "I'm going outside",
+                "type": "caption"
+            },
+            {
+                "start": 140905,
+                "end": 140906,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140907,
+                "end": 140908,
+                "text": "I turned off my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 140908,
+                "end": 140908,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140909,
+                "end": 140910,
+                "text": "I walked to the gate.",
+                "type": "caption"
+            },
+            {
+                "start": 140911,
+                "end": 140913,
+                "text": "I opened the gate and walked out.",
+                "type": "caption"
+            },
+            {
+                "start": 140913,
+                "end": 140914,
+                "text": "I'm going outside",
+                "type": "caption"
+            },
+            {
+                "start": 140914,
+                "end": 140914,
+                "text": "I turn left.",
+                "type": "caption"
+            },
+            {
+                "start": 140915,
+                "end": 140916,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140916,
+                "end": 140917,
+                "text": "I continue to walk forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140918,
+                "end": 140919,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140920,
+                "end": 140921,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140921,
+                "end": 140922,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140923,
+                "end": 140924,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140924,
+                "end": 140925,
+                "text": "I'm looking at my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 140925,
+                "end": 140926,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140927,
+                "end": 140928,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140928,
+                "end": 140929,
+                "text": "I move forward.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14093000.mp4",
+        "data": [
+            {
+                "start": 140930,
+                "end": 140931,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140932,
+                "end": 140933,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140933,
+                "end": 140935,
+                "text": "I turn right and walk forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140934,
+                "end": 140935,
+                "text": "Jake: KFC.",
+                "type": "transcript"
+            },
+            {
+                "start": 140935,
+                "end": 140936,
+                "text": "I turn left.",
+                "type": "caption"
+            },
+            {
+                "start": 140936,
+                "end": 140937,
+                "text": "I turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 140937,
+                "end": 140940,
+                "text": "Jake: Oh hi, thank you.",
+                "type": "transcript"
+            },
+            {
+                "start": 140937,
+                "end": 140938,
+                "text": "I turn around.",
+                "type": "caption"
+            },
+            {
+                "start": 140938,
+                "end": 140939,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140940,
+                "end": 140941,
+                "text": "I've picked up the takeout.",
+                "type": "caption"
+            },
+            {
+                "start": 140940,
+                "end": 140942,
+                "text": "Jake: Oh, what should I do?",
+                "type": "transcript"
+            },
+            {
+                "start": 140942,
+                "end": 140944,
+                "text": "Jake: Thanks.",
+                "type": "transcript"
+            },
+            {
+                "start": 140943,
+                "end": 140946,
+                "text": "I take the delivery, I turn left, and I walk forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140946,
+                "end": 140951,
+                "text": "I keep moving forward, I move forward, I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140952,
+                "end": 140953,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 140954,
+                "end": 140958,
+                "text": "I move forward, I move forward, I move forward.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14100000.mp4",
+        "data": [
+            {
+                "start": 141004,
+                "end": 141006,
+                "text": "I turn right and push open the door.",
+                "type": "caption"
+            },
+            {
+                "start": 141006,
+                "end": 141007,
+                "text": "I closed the door.",
+                "type": "caption"
+            },
+            {
+                "start": 141007,
+                "end": 141013,
+                "text": "I walk forward, I walk forward, I turn right, I push the door open.",
+                "type": "caption"
+            },
+            {
+                "start": 141013,
+                "end": 141015,
+                "text": "I entered the foyer and walked forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141015,
+                "end": 141016,
+                "text": "Jake: 咱要不出去吃",
+                "type": "transcript"
+            },
+            {
+                "start": 141016,
+                "end": 141017,
+                "text": "I turned right into the restaurant.",
+                "type": "caption"
+            },
+            {
+                "start": 141017,
+                "end": 141020,
+                "text": "Lucia: 在外边那个桌子那里吗",
+                "type": "transcript"
+            },
+            {
+                "start": 141018,
+                "end": 141019,
+                "text": "I'm pointing outside.",
+                "type": "caption"
+            },
+            {
+                "start": 141020,
+                "end": 141022,
+                "text": "I look at everyone and turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141020,
+                "end": 141021,
+                "text": "Jake: Alright.",
+                "type": "transcript"
+            },
+            {
+                "start": 141022,
+                "end": 141024,
+                "text": "Jake: Open up this umbrella.",
+                "type": "transcript"
+            },
+            {
+                "start": 141022,
+                "end": 141024,
+                "text": "I turn to the right; I turn to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141024,
+                "end": 141026,
+                "text": "I stepped out of the foyer.",
+                "type": "caption"
+            },
+            {
+                "start": 141026,
+                "end": 141027,
+                "text": "I entered the yard.",
+                "type": "caption"
+            },
+            {
+                "start": 141027,
+                "end": 141028,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141029,
+                "end": 141030,
+                "text": "I talk while walking.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14103000.mp4",
+        "data": [
+            {
+                "start": 141031,
+                "end": 141034,
+                "text": "I turn around, I turn to the right, I turn to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141033,
+                "end": 141034,
+                "text": "Katrina: OK",
+                "type": "transcript"
+            },
+            {
+                "start": 141035,
+                "end": 141037,
+                "text": "Shure: 太他们爽了卧槽",
+                "type": "transcript"
+            },
+            {
+                "start": 141036,
+                "end": 141038,
+                "text": "I'm watching everyone; I'm standing here watching everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141039,
+                "end": 141040,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141041,
+                "end": 141043,
+                "text": "I shift to the left and move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141043,
+                "end": 141045,
+                "text": "I'm walking forward holding the takeout.",
+                "type": "caption"
+            },
+            {
+                "start": 141045,
+                "end": 141050,
+                "text": "Jake: Oh, it’s already off there. It seems to have no power. Can you check it?",
+                "type": "transcript"
+            },
+            {
+                "start": 141046,
+                "end": 141050,
+                "text": "I put the takeout on the table, looked at everyone, and spoke.",
+                "type": "caption"
+            },
+            {
+                "start": 141050,
+                "end": 141054,
+                "text": "Jake: 或者已经",
+                "type": "transcript"
+            },
+            {
+                "start": 141051,
+                "end": 141052,
+                "text": "I'm watching everyone talk.",
+                "type": "caption"
+            },
+            {
+                "start": 141053,
+                "end": 141056,
+                "text": "Jake:storage已经没了",
+                "type": "transcript"
+            },
+            {
+                "start": 141053,
+                "end": 141054,
+                "text": "I turn left.",
+                "type": "caption"
+            },
+            {
+                "start": 141054,
+                "end": 141058,
+                "text": "I turn right, pick up the takeout, and talk to everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141056,
+                "end": 141100,
+                "text": "Jake: No, I can see you, you can see me, right? Take a look.",
+                "type": "transcript"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14110000.mp4",
+        "data": [
+            {
+                "start": 141100,
+                "end": 141103,
+                "text": "Jake: But it's okay, yeah, yeah.",
+                "type": "transcript"
+            },
+            {
+                "start": 141102,
+                "end": 141104,
+                "text": "I put down the takeout and talked to everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141102,
+                "end": 141102,
+                "text": "I picked up the takeout.",
+                "type": "caption"
+            },
+            {
+                "start": 141104,
+                "end": 141108,
+                "text": "I walk to the right, I walk forward, I walk forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141109,
+                "end": 141111,
+                "text": "Jake: How do you play this?",
+                "type": "transcript"
+            },
+            {
+                "start": 141110,
+                "end": 141111,
+                "text": "I raise my head and speak.",
+                "type": "caption"
+            },
+            {
+                "start": 141111,
+                "end": 141113,
+                "text": "Jake: Can you raise it a bit?",
+                "type": "transcript"
+            },
+            {
+                "start": 141111,
+                "end": 141113,
+                "text": "I'm holding the umbrella.",
+                "type": "caption"
+            },
+            {
+                "start": 141114,
+                "end": 141115,
+                "text": "I lifted my umbrella.",
+                "type": "caption"
+            },
+            {
+                "start": 141115,
+                "end": 141118,
+                "text": "I raise the umbrella and walk forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141116,
+                "end": 141118,
+                "text": "Jake: Take a look.",
+                "type": "transcript"
+            },
+            {
+                "start": 141118,
+                "end": 141120,
+                "text": "Katrina: 啊有11点09",
+                "type": "transcript"
+            },
+            {
+                "start": 141119,
+                "end": 141120,
+                "text": "I was looking at Katrina's phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141121,
+                "end": 141123,
+                "text": "I'm looking at Katrina's phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141124,
+                "end": 141127,
+                "text": "Katrina: 这是还在录还是什么录完了吧",
+                "type": "transcript"
+            },
+            {
+                "start": 141124,
+                "end": 141126,
+                "text": "I kept looking at Katrina's phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141127,
+                "end": 141129,
+                "text": "Jake: Let me check.",
+                "type": "transcript"
+            },
+            {
+                "start": 141128,
+                "end": 141129,
+                "text": "I'm using Katrina's phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141129,
+                "end": 141130,
+                "text": "I've held a phone before.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14113000.mp4",
+        "data": [
+            {
+                "start": 141131,
+                "end": 141133,
+                "text": "Jake: It's too dirty, right?",
+                "type": "transcript"
+            },
+            {
+                "start": 141131,
+                "end": 141132,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141133,
+                "end": 141138,
+                "text": "Shure: 或者我们可以买点一次性桌布在外面吃饭",
+                "type": "transcript"
+            },
+            {
+                "start": 141134,
+                "end": 141135,
+                "text": "I'm looking at my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141135,
+                "end": 141136,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141136,
+                "end": 141138,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141138,
+                "end": 141139,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141139,
+                "end": 141141,
+                "text": "Shure: 虽然不符合这个理念但是它很方便",
+                "type": "transcript"
+            },
+            {
+                "start": 141140,
+                "end": 141141,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141141,
+                "end": 141142,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141141,
+                "end": 141144,
+                "text": "Jake:哦是",
+                "type": "transcript"
+            },
+            {
+                "start": 141142,
+                "end": 141143,
+                "text": "Shure: 是吧",
+                "type": "transcript"
+            },
+            {
+                "start": 141143,
+                "end": 141144,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141144,
+                "end": 141147,
+                "text": "Katrina: 是不是充电宝没电了充电宝不亮了",
+                "type": "transcript"
+            },
+            {
+                "start": 141145,
+                "end": 141146,
+                "text": "I'll continue using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141147,
+                "end": 141148,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141147,
+                "end": 141150,
+                "text": "Jake:你这还是有电不是知道刚刚怎么",
+                "type": "transcript"
+            },
+            {
+                "start": 141148,
+                "end": 141150,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141151,
+                "end": 141154,
+                "text": "Shure: 它可能累了罢工了",
+                "type": "transcript"
+            },
+            {
+                "start": 141151,
+                "end": 141152,
+                "text": "Operate the phone on the spot.",
+                "type": "caption"
+            },
+            {
+                "start": 141152,
+                "end": 141154,
+                "text": "I'm using my phone on the spot.",
+                "type": "caption"
+            },
+            {
+                "start": 141155,
+                "end": 141156,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141156,
+                "end": 141157,
+                "text": "I'm looking at my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141156,
+                "end": 141159,
+                "text": "Shure: 发现我这个非常的稳定从来没有出过事故",
+                "type": "transcript"
+            },
+            {
+                "start": 141158,
+                "end": 141159,
+                "text": "I'm looking at my phone.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14120000.mp4",
+        "data": [
+            {
+                "start": 141200,
+                "end": 141201,
+                "text": "I'm looking at my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141201,
+                "end": 141204,
+                "text": "Katrina: 那旁边邻居都是干啥的都是民宿吗",
+                "type": "transcript"
+            },
+            {
+                "start": 141202,
+                "end": 141203,
+                "text": "I'm looking at my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141204,
+                "end": 141205,
+                "text": "I'm looking at my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141205,
+                "end": 141207,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141205,
+                "end": 141207,
+                "text": "Katrina: 应该不是自己家住",
+                "type": "transcript"
+            },
+            {
+                "start": 141207,
+                "end": 141208,
+                "text": "Shure: 不全是",
+                "type": "transcript"
+            },
+            {
+                "start": 141207,
+                "end": 141209,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141209,
+                "end": 141211,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141211,
+                "end": 141212,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141211,
+                "end": 141215,
+                "text": "Katrina: 好安静啊特别像是在那种乡下来度假",
+                "type": "transcript"
+            },
+            {
+                "start": 141213,
+                "end": 141214,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141215,
+                "end": 141216,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141215,
+                "end": 141218,
+                "text": "Jake:这就是个乡下这就是个乡下",
+                "type": "transcript"
+            },
+            {
+                "start": 141216,
+                "end": 141217,
+                "text": "I'm looking at my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141217,
+                "end": 141220,
+                "text": "I speak, I turn my head, and I look at my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141219,
+                "end": 141225,
+                "text": "Katrina: 我北京二环也住过郊区也住过地地道道北京人",
+                "type": "transcript"
+            },
+            {
+                "start": 141220,
+                "end": 141221,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141221,
+                "end": 141224,
+                "text": "I operate the phone, I operate the phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141224,
+                "end": 141225,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141225,
+                "end": 141226,
+                "text": "Jake: Yes.",
+                "type": "transcript"
+            },
+            {
+                "start": 141226,
+                "end": 141228,
+                "text": "I speak and I use my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141227,
+                "end": 141228,
+                "text": "Jake: Hmm, the second ring road area is also quite shabby.",
+                "type": "transcript"
+            },
+            {
+                "start": 141228,
+                "end": 141229,
+                "text": "I raise my head and speak.",
+                "type": "caption"
+            },
+            {
+                "start": 141228,
+                "end": 141230,
+                "text": "Jake: This place is quite shabby too.",
+                "type": "transcript"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14123000.mp4",
+        "data": [
+            {
+                "start": 141230,
+                "end": 141232,
+                "text": "I speak and I use my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141233,
+                "end": 141234,
+                "text": "I looked up and spoke.",
+                "type": "caption"
+            },
+            {
+                "start": 141233,
+                "end": 141233,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141234,
+                "end": 141236,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141235,
+                "end": 141237,
+                "text": "Katrina: 挤过地铁吗",
+                "type": "transcript"
+            },
+            {
+                "start": 141237,
+                "end": 141238,
+                "text": "Katrina: 挤过",
+                "type": "transcript"
+            },
+            {
+                "start": 141237,
+                "end": 141237,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141238,
+                "end": 141239,
+                "text": "I laugh at myself for how I use my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141239,
+                "end": 141239,
+                "text": "Jake: Which subway line?",
+                "type": "transcript"
+            },
+            {
+                "start": 141240,
+                "end": 141242,
+                "text": "I speak and I use my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141240,
+                "end": 141243,
+                "text": "Jake: Line 1, right? Did you come from there?",
+                "type": "transcript"
+            },
+            {
+                "start": 141242,
+                "end": 141244,
+                "text": "I look up and speak.",
+                "type": "caption"
+            },
+            {
+                "start": 141243,
+                "end": 141246,
+                "text": "Katrina: 好多我当时昌平也去过",
+                "type": "transcript"
+            },
+            {
+                "start": 141244,
+                "end": 141246,
+                "text": "I looked at Katrina, lowered my head, and used my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141246,
+                "end": 141248,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141246,
+                "end": 141249,
+                "text": "Katrina: 我当时面北师北师昌平",
+                "type": "transcript"
+            },
+            {
+                "start": 141248,
+                "end": 141249,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141250,
+                "end": 141252,
+                "text": "Katrina: 然后北航在学院路那边",
+                "type": "transcript"
+            },
+            {
+                "start": 141250,
+                "end": 141251,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141252,
+                "end": 141254,
+                "text": "I look at my phone and use it.",
+                "type": "caption"
+            },
+            {
+                "start": 141252,
+                "end": 141255,
+                "text": "Katrina: 然后第三次来的时候去玩天安门",
+                "type": "transcript"
+            },
+            {
+                "start": 141255,
+                "end": 141256,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141255,
+                "end": 141257,
+                "text": "Katrina: 然后环球也玩了",
+                "type": "transcript"
+            },
+            {
+                "start": 141256,
+                "end": 141258,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141257,
+                "end": 141258,
+                "text": "Katrina: 然后颐和园也玩了",
+                "type": "transcript"
+            },
+            {
+                "start": 141258,
+                "end": 141259,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141258,
+                "end": 141259,
+                "text": "Shure: 这离环球近",
+                "type": "transcript"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14130000.mp4",
+        "data": [
+            {
+                "start": 141300,
+                "end": 141301,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141302,
+                "end": 141303,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141303,
+                "end": 141305,
+                "text": "Katrina: 都玩了还玩什么地方了",
+                "type": "transcript"
+            },
+            {
+                "start": 141303,
+                "end": 141308,
+                "text": "I look at my phone. I use my phone. I use my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141307,
+                "end": 141309,
+                "text": "Katrina: 故宫反正都去过",
+                "type": "transcript"
+            },
+            {
+                "start": 141308,
+                "end": 141313,
+                "text": "I look at my phone, take it out, and use it.",
+                "type": "caption"
+            },
+            {
+                "start": 141309,
+                "end": 141312,
+                "text": "Lucia: Just wipe the part near where people sit.",
+                "type": "transcript"
+            },
+            {
+                "start": 141312,
+                "end": 141314,
+                "text": "Shure:  吃的不也放那儿吗",
+                "type": "transcript"
+            },
+            {
+                "start": 141313,
+                "end": 141316,
+                "text": "I took my phone back and used it.",
+                "type": "caption"
+            },
+            {
+                "start": 141314,
+                "end": 141316,
+                "text": "Lucia: Try not to put the food next to the table.",
+                "type": "transcript"
+            },
+            {
+                "start": 141317,
+                "end": 141318,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141318,
+                "end": 141321,
+                "text": "Katrina: 你愿意吃肯德基还是麦当劳",
+                "type": "transcript"
+            },
+            {
+                "start": 141319,
+                "end": 141320,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141321,
+                "end": 141323,
+                "text": "Shure: McDonald's?",
+                "type": "transcript"
+            },
+            {
+                "start": 141321,
+                "end": 141322,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141323,
+                "end": 141324,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141324,
+                "end": 141326,
+                "text": "Lucia: How about we use this rag outside?",
+                "type": "transcript"
+            },
+            {
+                "start": 141324,
+                "end": 141328,
+                "text": "Jake: Record another one, okay? Just a little bit more.",
+                "type": "transcript"
+            },
+            {
+                "start": 141325,
+                "end": 141328,
+                "text": "I handed the phone back to Katrina, nodded, and spoke.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14133000.mp4",
+        "data": [
+            {
+                "start": 141332,
+                "end": 141335,
+                "text": "I turn my head to the left, step back, and take out my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141333,
+                "end": 141337,
+                "text": "Jake: Write down 1413, that would be good. Wow.",
+                "type": "transcript"
+            },
+            {
+                "start": 141336,
+                "end": 141337,
+                "text": "When I speak, I turn my head to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141337,
+                "end": 141338,
+                "text": "I took my phone back.",
+                "type": "caption"
+            },
+            {
+                "start": 141338,
+                "end": 141342,
+                "text": "I walk forward, I walk forward, I walk into the foyer.",
+                "type": "caption"
+            },
+            {
+                "start": 141342,
+                "end": 141343,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141344,
+                "end": 141346,
+                "text": "I turned right and entered the restaurant.",
+                "type": "caption"
+            },
+            {
+                "start": 141346,
+                "end": 141349,
+                "text": "I walk forward; I stand in place.",
+                "type": "caption"
+            },
+            {
+                "start": 141349,
+                "end": 141350,
+                "text": "I looked up and took out my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141350,
+                "end": 141351,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141352,
+                "end": 141353,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141353,
+                "end": 141354,
+                "text": "I'm using my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141355,
+                "end": 141356,
+                "text": "I'm looking at my phone.",
+                "type": "caption"
+            },
+            {
+                "start": 141356,
+                "end": 141358,
+                "text": "I turn my head to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141358,
+                "end": 141358,
+                "text": "I turn left.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14140000.mp4",
+        "data": [
+            {
+                "start": 141401,
+                "end": 141402,
+                "text": "I entered the yard.",
+                "type": "caption"
+            },
+            {
+                "start": 141402,
+                "end": 141406,
+                "text": "I walk forward, I walk forward, I walk toward the front-left.",
+                "type": "caption"
+            },
+            {
+                "start": 141404,
+                "end": 141413,
+                "text": "Lucia: Because with one rag, it feels like we can't clean the whole thing properly, so I was thinking of just wiping the areas we use.",
+                "type": "transcript"
+            },
+            {
+                "start": 141406,
+                "end": 141407,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141407,
+                "end": 141408,
+                "text": "I'm standing still.",
+                "type": "caption"
+            },
+            {
+                "start": 141408,
+                "end": 141411,
+                "text": "I'm watching everyone; I'm standing here watching everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141412,
+                "end": 141413,
+                "text": "I'm looking at everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141414,
+                "end": 141415,
+                "text": "I'm standing here watching everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141415,
+                "end": 141416,
+                "text": "Jake: Grab another rag.",
+                "type": "transcript"
+            },
+            {
+                "start": 141415,
+                "end": 141417,
+                "text": "I turn my head to the left when I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 141417,
+                "end": 141419,
+                "text": "I walk forward, talking as I go.",
+                "type": "caption"
+            },
+            {
+                "start": 141417,
+                "end": 141418,
+                "text": "Jake: We can buy some more rags later.",
+                "type": "transcript"
+            },
+            {
+                "start": 141420,
+                "end": 141420,
+                "text": "I enter the foyer.",
+                "type": "caption"
+            },
+            {
+                "start": 141421,
+                "end": 141424,
+                "text": "I walk forward, I walk forward, I turn right.",
+                "type": "caption"
+            },
+            {
+                "start": 141424,
+                "end": 141425,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141425,
+                "end": 141428,
+                "text": "I enter the restaurant. I stand in the restaurant. I stand still.",
+                "type": "caption"
+            },
+            {
+                "start": 141428,
+                "end": 141429,
+                "text": "I turn my head from side to side.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14143000.mp4",
+        "data": [
+            {
+                "start": 141430,
+                "end": 141433,
+                "text": "Lucia: 这儿确实还有还有三",
+                "type": "transcript"
+            },
+            {
+                "start": 141433,
+                "end": 141434,
+                "text": "I entered the kitchen.",
+                "type": "caption"
+            },
+            {
+                "start": 141433,
+                "end": 141435,
+                "text": "Jake: Use it well, use it hard.",
+                "type": "transcript"
+            },
+            {
+                "start": 141434,
+                "end": 141436,
+                "text": "I'm talking to Lucia.",
+                "type": "caption"
+            },
+            {
+                "start": 141435,
+                "end": 141445,
+                "text": "Lucia: 万一万一要洗碗的话 再弄谢谢 再弄新的",
+                "type": "transcript"
+            },
+            {
+                "start": 141436,
+                "end": 141441,
+                "text": "I turned my head to the right, opened the faucet, and looked at Lucia.",
+                "type": "caption"
+            },
+            {
+                "start": 141451,
+                "end": 141451,
+                "text": "Jake:走",
+                "type": "transcript"
+            },
+            {
+                "start": 141451,
+                "end": 141452,
+                "text": "I turn left.",
+                "type": "caption"
+            },
+            {
+                "start": 141452,
+                "end": 141453,
+                "text": "I walk forward and turn left.",
+                "type": "caption"
+            },
+            {
+                "start": 141454,
+                "end": 141455,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141456,
+                "end": 141457,
+                "text": "Keep moving forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141458,
+                "end": 141459,
+                "text": "I'm looking at the camera.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14150000.mp4",
+        "data": [
+            {
+                "start": 141500,
+                "end": 141501,
+                "text": "I'm staring at the camera.",
+                "type": "caption"
+            },
+            {
+                "start": 141501,
+                "end": 141502,
+                "text": "I turn around.",
+                "type": "caption"
+            },
+            {
+                "start": 141502,
+                "end": 141503,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141503,
+                "end": 141504,
+                "text": "I walk forward and to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141504,
+                "end": 141509,
+                "text": "Alice: Today is half of Crazy Thursday.",
+                "type": "transcript"
+            },
+            {
+                "start": 141504,
+                "end": 141505,
+                "text": "I'm looking at the camera.",
+                "type": "caption"
+            },
+            {
+                "start": 141505,
+                "end": 141506,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141506,
+                "end": 141506,
+                "text": "I walk to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141507,
+                "end": 141508,
+                "text": "I stepped out of the foyer.",
+                "type": "caption"
+            },
+            {
+                "start": 141508,
+                "end": 141508,
+                "text": "I entered the yard.",
+                "type": "caption"
+            },
+            {
+                "start": 141508,
+                "end": 141509,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141510,
+                "end": 141511,
+                "text": "I keep my head down and move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141512,
+                "end": 141513,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141514,
+                "end": 141515,
+                "text": "I walk diagonally forward to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141514,
+                "end": 141515,
+                "text": "Katrina: 野餐呢",
+                "type": "transcript"
+            },
+            {
+                "start": 141515,
+                "end": 141516,
+                "text": "Jake: Oh.",
+                "type": "transcript"
+            },
+            {
+                "start": 141516,
+                "end": 141517,
+                "text": "Shure: picnic day",
+                "type": "transcript"
+            },
+            {
+                "start": 141516,
+                "end": 141517,
+                "text": "I'll go around.",
+                "type": "caption"
+            },
+            {
+                "start": 141518,
+                "end": 141518,
+                "text": "Jake: Alright.",
+                "type": "transcript"
+            },
+            {
+                "start": 141518,
+                "end": 141520,
+                "text": "I stand still and speak.",
+                "type": "caption"
+            },
+            {
+                "start": 141519,
+                "end": 141520,
+                "text": "Jake:Taco Tuesday",
+                "type": "transcript"
+            },
+            {
+                "start": 141520,
+                "end": 141523,
+                "text": "I raise my head when I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 141521,
+                "end": 141524,
+                "text": "Jake:KFC Tuesday",
+                "type": "transcript"
+            },
+            {
+                "start": 141523,
+                "end": 141526,
+                "text": "I lower my head, I turn to the right, I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 141524,
+                "end": 141525,
+                "text": "Jake: Crazy Tuesday.",
+                "type": "transcript"
+            },
+            {
+                "start": 141527,
+                "end": 141529,
+                "text": "I am looking at the table.",
+                "type": "caption"
+            },
+            {
+                "start": 141528,
+                "end": 141529,
+                "text": "Katrina: 我手机在哪",
+                "type": "transcript"
+            },
+            {
+                "start": 141529,
+                "end": 141530,
+                "text": "I'm swaying from side to side.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14153000.mp4",
+        "data": [
+            {
+                "start": 141530,
+                "end": 141531,
+                "text": "I sway back and forth.",
+                "type": "caption"
+            },
+            {
+                "start": 141531,
+                "end": 141532,
+                "text": "I walk to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141532,
+                "end": 141533,
+                "text": "Katrina: 我不知道啊",
+                "type": "transcript"
+            },
+            {
+                "start": 141532,
+                "end": 141533,
+                "text": "I walk to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141533,
+                "end": 141533,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141533,
+                "end": 141535,
+                "text": "I smile and move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141535,
+                "end": 141536,
+                "text": "Jake:这还一个旺仔牛奶",
+                "type": "transcript"
+            },
+            {
+                "start": 141536,
+                "end": 141537,
+                "text": "I'm fiddling with the box.",
+                "type": "caption"
+            },
+            {
+                "start": 141537,
+                "end": 141538,
+                "text": "Katrina: 我喝旺仔牛奶",
+                "type": "transcript"
+            },
+            {
+                "start": 141538,
+                "end": 141539,
+                "text": "I put the milk down.",
+                "type": "caption"
+            },
+            {
+                "start": 141539,
+                "end": 141539,
+                "text": "Jake: Got it.",
+                "type": "transcript"
+            },
+            {
+                "start": 141539,
+                "end": 141540,
+                "text": "I speak with my head lowered.",
+                "type": "caption"
+            },
+            {
+                "start": 141541,
+                "end": 141545,
+                "text": "Jake: I'll handle this. How much do you have left?",
+                "type": "transcript"
+            },
+            {
+                "start": 141542,
+                "end": 141543,
+                "text": "Look left and right.",
+                "type": "caption"
+            },
+            {
+                "start": 141543,
+                "end": 141545,
+                "text": "Lucia: It's okay, it's okay, it's okay.",
+                "type": "transcript"
+            },
+            {
+                "start": 141545,
+                "end": 141550,
+                "text": "Lucia: I just wiped this area a moment ago.",
+                "type": "transcript"
+            },
+            {
+                "start": 141545,
+                "end": 141546,
+                "text": "I'm talking to Lucia.",
+                "type": "caption"
+            },
+            {
+                "start": 141547,
+                "end": 141549,
+                "text": "I'm speaking.",
+                "type": "caption"
+            },
+            {
+                "start": 141549,
+                "end": 141553,
+                "text": "I look at everyone; I stand still, watching them.",
+                "type": "caption"
+            },
+            {
+                "start": 141550,
+                "end": 141551,
+                "text": "Jake: Yes.",
+                "type": "transcript"
+            },
+            {
+                "start": 141552,
+                "end": 141558,
+                "text": "Lucia: Sometimes it's hard to react quickly to his full name, but it's actually easy to remember.",
+                "type": "transcript"
+            },
+            {
+                "start": 141553,
+                "end": 141554,
+                "text": "I stretch.",
+                "type": "caption"
+            },
+            {
+                "start": 141554,
+                "end": 141555,
+                "text": "Turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141556,
+                "end": 141558,
+                "text": "I turn left using the box.",
+                "type": "caption"
+            },
+            {
+                "start": 141558,
+                "end": 141558,
+                "text": "Jake: Right.",
+                "type": "transcript"
+            },
+            {
+                "start": 141558,
+                "end": 141600,
+                "text": "I'm watching everyone talk.",
+                "type": "caption"
+            },
+            {
+                "start": 141600,
+                "end": 141600,
+                "text": "I move forward.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14160000.mp4",
+        "data": [
+            {
+                "start": 141600,
+                "end": 141601,
+                "text": "I turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141600,
+                "end": 141605,
+                "text": "Lucia: Ew, it's really dirty. Should we also be careful with this chair?",
+                "type": "transcript"
+            },
+            {
+                "start": 141600,
+                "end": 141600,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141602,
+                "end": 141603,
+                "text": "I walk to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141602,
+                "end": 141602,
+                "text": "Jake: Yes.",
+                "type": "transcript"
+            },
+            {
+                "start": 141603,
+                "end": 141604,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141604,
+                "end": 141605,
+                "text": "I'm dragging the stool.",
+                "type": "caption"
+            },
+            {
+                "start": 141605,
+                "end": 141606,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141607,
+                "end": 141608,
+                "text": "I closed the box.",
+                "type": "caption"
+            },
+            {
+                "start": 141608,
+                "end": 141610,
+                "text": "Lucia: Let me check if this chair is dirty.",
+                "type": "transcript"
+            },
+            {
+                "start": 141609,
+                "end": 141611,
+                "text": "I sit down and turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141611,
+                "end": 141612,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141612,
+                "end": 141613,
+                "text": "I'm dragging the stool.",
+                "type": "caption"
+            },
+            {
+                "start": 141613,
+                "end": 141614,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141614,
+                "end": 141618,
+                "text": "Jake:这东西移不走啊我还想把这空出来多一个位置",
+                "type": "transcript"
+            },
+            {
+                "start": 141614,
+                "end": 141615,
+                "text": "I swing the box.",
+                "type": "caption"
+            },
+            {
+                "start": 141615,
+                "end": 141616,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141616,
+                "end": 141617,
+                "text": "Speak",
+                "type": "caption"
+            },
+            {
+                "start": 141617,
+                "end": 141619,
+                "text": "Turn to the right; I turn to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141618,
+                "end": 141619,
+                "text": "Lucia: Okay, the chair is pretty dirty too.",
+                "type": "transcript"
+            },
+            {
+                "start": 141619,
+                "end": 141620,
+                "text": "I turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141619,
+                "end": 141619,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141620,
+                "end": 141621,
+                "text": "I turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141621,
+                "end": 141623,
+                "text": "Go to the left; I'm walking forward to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141623,
+                "end": 141624,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141624,
+                "end": 141625,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141626,
+                "end": 141627,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141627,
+                "end": 141628,
+                "text": "I walked up to the table.",
+                "type": "caption"
+            },
+            {
+                "start": 141629,
+                "end": 141630,
+                "text": "I'm looking at everyone.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14163000.mp4",
+        "data": [
+            {
+                "start": 141630,
+                "end": 141631,
+                "text": "I'm speaking.",
+                "type": "caption"
+            },
+            {
+                "start": 141632,
+                "end": 141633,
+                "text": "I'm speaking.",
+                "type": "caption"
+            },
+            {
+                "start": 141633,
+                "end": 141636,
+                "text": "Jake: This is KFC roast duck.",
+                "type": "transcript"
+            },
+            {
+                "start": 141634,
+                "end": 141635,
+                "text": "I picked up the food.",
+                "type": "caption"
+            },
+            {
+                "start": 141636,
+                "end": 141637,
+                "text": "I'm holding something to eat.",
+                "type": "caption"
+            },
+            {
+                "start": 141637,
+                "end": 141638,
+                "text": "I opened the food to eat.",
+                "type": "caption"
+            },
+            {
+                "start": 141639,
+                "end": 141640,
+                "text": "I'm fiddling with the food.",
+                "type": "caption"
+            },
+            {
+                "start": 141640,
+                "end": 141641,
+                "text": "I'm speaking.",
+                "type": "caption"
+            },
+            {
+                "start": 141642,
+                "end": 141643,
+                "text": "I'm looking at the food.",
+                "type": "caption"
+            },
+            {
+                "start": 141642,
+                "end": 141643,
+                "text": "Jake: KFC pizza.",
+                "type": "transcript"
+            },
+            {
+                "start": 141643,
+                "end": 141645,
+                "text": "I speak, I turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141645,
+                "end": 141646,
+                "text": "I turn left.",
+                "type": "caption"
+            },
+            {
+                "start": 141645,
+                "end": 141648,
+                "text": "Jake:这真的是能笑话外国人",
+                "type": "transcript"
+            },
+            {
+                "start": 141646,
+                "end": 141648,
+                "text": "I look up and turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141648,
+                "end": 141649,
+                "text": "Jake:他们点的肯德基是什么东西",
+                "type": "transcript"
+            },
+            {
+                "start": 141649,
+                "end": 141651,
+                "text": "I look at him as I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 141649,
+                "end": 141651,
+                "text": "Jake:我们的肯德基是什么东西",
+                "type": "transcript"
+            },
+            {
+                "start": 141652,
+                "end": 141653,
+                "text": "I am looking at him.",
+                "type": "caption"
+            },
+            {
+                "start": 141653,
+                "end": 141659,
+                "text": "Jake: Their KFC has nothing new, still the same old stuff.",
+                "type": "transcript"
+            },
+            {
+                "start": 141653,
+                "end": 141654,
+                "text": "I'm looking at everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141654,
+                "end": 141656,
+                "text": "I look down, then look up, and speak.",
+                "type": "caption"
+            },
+            {
+                "start": 141656,
+                "end": 141659,
+                "text": "Alice: This is Chinese-style boned duck.",
+                "type": "transcript"
+            },
+            {
+                "start": 141657,
+                "end": 141658,
+                "text": "I speak to everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141658,
+                "end": 141659,
+                "text": "I turn my head left and right.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14170000.mp4",
+        "data": [
+            {
+                "start": 141700,
+                "end": 141701,
+                "text": "I'm looking at everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141701,
+                "end": 141703,
+                "text": "I look down and walk to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141703,
+                "end": 141705,
+                "text": "Alice: Boned duck nuggets.",
+                "type": "transcript"
+            },
+            {
+                "start": 141704,
+                "end": 141706,
+                "text": "Tasha: Uh, the texture is different too.",
+                "type": "transcript"
+            },
+            {
+                "start": 141704,
+                "end": 141705,
+                "text": "I'm looking at everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141705,
+                "end": 141706,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141706,
+                "end": 141707,
+                "text": "Jake:对对",
+                "type": "transcript"
+            },
+            {
+                "start": 141707,
+                "end": 141710,
+                "text": "Katrina: 夹那种什么辣的辣味酱那种",
+                "type": "transcript"
+            },
+            {
+                "start": 141707,
+                "end": 141708,
+                "text": "I'm speaking.",
+                "type": "caption"
+            },
+            {
+                "start": 141709,
+                "end": 141710,
+                "text": "I'm scratching my head.",
+                "type": "caption"
+            },
+            {
+                "start": 141711,
+                "end": 141712,
+                "text": "I'm standing here watching everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141712,
+                "end": 141712,
+                "text": "I step back.",
+                "type": "caption"
+            },
+            {
+                "start": 141713,
+                "end": 141713,
+                "text": "I turn left.",
+                "type": "caption"
+            },
+            {
+                "start": 141713,
+                "end": 141714,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141715,
+                "end": 141719,
+                "text": "Jake: The KFC and McDonald's here are more competitive than those abroad, just like everything else here.",
+                "type": "transcript"
+            },
+            {
+                "start": 141715,
+                "end": 141716,
+                "text": "I walk forward and to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141717,
+                "end": 141718,
+                "text": "I'm talking while walking.",
+                "type": "caption"
+            },
+            {
+                "start": 141718,
+                "end": 141719,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141720,
+                "end": 141721,
+                "text": "I walk to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141720,
+                "end": 141720,
+                "text": "I'm looking at everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141721,
+                "end": 141723,
+                "text": "You turn your head to the right, and I turn my head to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141722,
+                "end": 141725,
+                "text": "Jake: Take a seat.",
+                "type": "transcript"
+            },
+            {
+                "start": 141723,
+                "end": 141724,
+                "text": "I turn my head to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141725,
+                "end": 141726,
+                "text": "I talk to everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141726,
+                "end": 141727,
+                "text": "I'm standing here talking to everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141728,
+                "end": 141730,
+                "text": "Alice: Hey, are there enough chairs?",
+                "type": "transcript"
+            },
+            {
+                "start": 141728,
+                "end": 141729,
+                "text": "I pulled out the stool.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14173000.mp4",
+        "data": [
+            {
+                "start": 141730,
+                "end": 141731,
+                "text": "Tasha: Exactly six.",
+                "type": "transcript"
+            },
+            {
+                "start": 141730,
+                "end": 141731,
+                "text": "I turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141731,
+                "end": 141732,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141732,
+                "end": 141733,
+                "text": "I walk to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141733,
+                "end": 141735,
+                "text": "I stepped forward and pulled out the stool.",
+                "type": "caption"
+            },
+            {
+                "start": 141734,
+                "end": 141737,
+                "text": "Jake: Move them over there.",
+                "type": "transcript"
+            },
+            {
+                "start": 141736,
+                "end": 141737,
+                "text": "I look at everyone when I speak.",
+                "type": "caption"
+            },
+            {
+                "start": 141738,
+                "end": 141738,
+                "text": "I walk to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141739,
+                "end": 141741,
+                "text": "I dragged the stool forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141739,
+                "end": 141739,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141741,
+                "end": 141742,
+                "text": "Alice: Haven't wiped them?",
+                "type": "transcript"
+            },
+            {
+                "start": 141741,
+                "end": 141742,
+                "text": "I set out the stools.",
+                "type": "caption"
+            },
+            {
+                "start": 141741,
+                "end": 141744,
+                "text": "Jake: Haven't wiped them, wipe them down.",
+                "type": "transcript"
+            },
+            {
+                "start": 141743,
+                "end": 141744,
+                "text": "I set out the stools.",
+                "type": "caption"
+            },
+            {
+                "start": 141744,
+                "end": 141746,
+                "text": "Alice: Where's the cloth?",
+                "type": "transcript"
+            },
+            {
+                "start": 141744,
+                "end": 141745,
+                "text": "I gave the stool to Alice.",
+                "type": "caption"
+            },
+            {
+                "start": 141746,
+                "end": 141747,
+                "text": "I walk to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141746,
+                "end": 141750,
+                "text": "Lucia: These four have been wiped already, but I haven't had time to wipe the others yet.",
+                "type": "transcript"
+            },
+            {
+                "start": 141747,
+                "end": 141748,
+                "text": "I walk forward and to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141748,
+                "end": 141749,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141750,
+                "end": 141751,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141751,
+                "end": 141752,
+                "text": "I walked up to the stool.",
+                "type": "caption"
+            },
+            {
+                "start": 141753,
+                "end": 141754,
+                "text": "I'm moving the stool.",
+                "type": "caption"
+            },
+            {
+                "start": 141754,
+                "end": 141756,
+                "text": "I'm carrying a stool and walking to the left.",
+                "type": "caption"
+            },
+            {
+                "start": 141756,
+                "end": 141757,
+                "text": "I'm carrying a stool as I walk.",
+                "type": "caption"
+            },
+            {
+                "start": 141758,
+                "end": 141759,
+                "text": "I put the stool down.",
+                "type": "caption"
+            },
+            {
+                "start": 141759,
+                "end": 141800,
+                "text": "Jake: Okay.",
+                "type": "transcript"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14180000.mp4",
+        "data": [
+            {
+                "start": 141801,
+                "end": 141802,
+                "text": "Shure: Should we stop?",
+                "type": "transcript"
+            },
+            {
+                "start": 141801,
+                "end": 141802,
+                "text": "I'm speaking.",
+                "type": "caption"
+            },
+            {
+                "start": 141802,
+                "end": 141803,
+                "text": "I'm looking at everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141803,
+                "end": 141804,
+                "text": "I'm speaking.",
+                "type": "caption"
+            },
+            {
+                "start": 141804,
+                "end": 141809,
+                "text": "Jake: Yeah, let's stop. We don't need to film eating burgers, that's not too important.",
+                "type": "transcript"
+            },
+            {
+                "start": 141805,
+                "end": 141807,
+                "text": "I nodded and spoke to everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141808,
+                "end": 141809,
+                "text": "I talk to everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141812,
+                "end": 141813,
+                "text": "I hold my glasses with both hands.",
+                "type": "caption"
+            },
+            {
+                "start": 141813,
+                "end": 141814,
+                "text": "I remove my eyes.",
+                "type": "caption"
+            },
+            {
+                "start": 141816,
+                "end": 141819,
+                "text": "I stand in place and watch everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141821,
+                "end": 141822,
+                "text": "I stood there watching everyone.",
+                "type": "caption"
+            },
+            {
+                "start": 141823,
+                "end": 141826,
+                "text": "Jake: I'll put my glasses away, don't want them to get damaged in the sun.",
+                "type": "transcript"
+            },
+            {
+                "start": 141824,
+                "end": 141826,
+                "text": "I stand in place and speak.",
+                "type": "caption"
+            },
+            {
+                "start": 141826,
+                "end": 141827,
+                "text": "I turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141828,
+                "end": 141828,
+                "text": "I move forward.",
+                "type": "caption"
+            }
+        ]
+    },
+    {
+        "video_file": "DAY1_A1_JAKE_14183000.mp4",
+        "data": [
+            {
+                "start": 141832,
+                "end": 141833,
+                "text": "I move forward.",
+                "type": "caption"
+            },
+            {
+                "start": 141833,
+                "end": 141834,
+                "text": "I turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141835,
+                "end": 141837,
+                "text": "I enter the restaurant.",
+                "type": "caption"
+            },
+            {
+                "start": 141838,
+                "end": 141841,
+                "text": "I went forward and walked into my bedroom.",
+                "type": "caption"
+            },
+            {
+                "start": 141841,
+                "end": 141842,
+                "text": "I turn to the right.",
+                "type": "caption"
+            },
+            {
+                "start": 141843,
+                "end": 141845,
+                "text": "I turned right and walked into the restaurant.",
+                "type": "caption"
+            }
+        ]
+    }
+]

@@ -1,0 +1,599 @@
+1
+00:54:03,784 --> 00:54:06,049
+Tasha: QA清单问答
+Tasha: QA list Q&A
+
+2
+00:54:06,584 --> 00:54:07,616
+Tasha: 问答清单
+Tasha: Q&A list
+
+3
+00:54:45,883 --> 00:54:46,983
+Jack: 你你你点开
+Jack: You, you, you click it.
+
+4
+00:54:53,950 --> 00:54:55,250
+Jack: 在路景我第一次见
+Jack: This is the first time I've seen it in street view.
+
+5
+00:55:13,584 --> 00:55:15,584
+Choiszt: 卧槽你这么多环境怎么会这样
+Choiszt: Damn, with so many environments, how could it be like this?
+
+6
+00:55:16,383 --> 00:55:17,217
+其他人：没懂啥呀
+Others: Don't get it.
+
+7
+00:55:24,883 --> 00:55:25,750
+Shure: 你是神吗
+Shure: Are you a god?
+
+8
+00:55:34,084 --> 00:55:35,717
+Shure: 就是备份了一个
+Shure: Just made a backup.
+
+9
+00:55:35,950 --> 00:55:37,517
+Shure: 然后直接点的这个import的就
+Shure: And then directly clicked on import.
+
+10
+00:55:37,517 --> 00:55:39,349
+Shure: 对他正在装
+Shure: Yes, it's installing.
+
+11
+00:55:39,349 --> 00:55:41,483
+Shure: 然后他装一会他就会报错开始
+Shure: And after a while, it will start to report an error.
+
+12
+00:55:45,049 --> 00:55:45,849
+Jack: 我来学习一下
+Jack: Let me learn a bit.
+
+13
+00:55:45,849 --> 00:55:47,217
+Jack: 以防哪天我需要copy
+Jack: In case I need to copy it someday.
+
+14
+00:55:49,750 --> 00:55:51,549
+Choiszt: 不是你为啥不能直接重装呢
+Choiszt: Why can't you just reinstall it directly?
+
+15
+00:55:51,683 --> 00:55:54,250
+Shure: 我忘了哈哈哈
+Shure: I forgot, haha.
+
+16
+00:55:51,784 --> 00:55:53,950
+Shure: 我忘了我就是忘了
+Shure: I forgot, I just forgot.
+
+17
+00:55:57,584 --> 00:55:58,183
+Jack: 就是就是
+Jack: Exactly, exactly.
+
+18
+00:55:58,183 --> 00:55:59,849
+Jack: 你忘了你以前装过啥
+Jack: You forgot what you installed before?
+
+19
+00:55:59,649 --> 00:56:00,483
+Shure: 我以前装过啥
+Shure: What I installed before?
+
+20
+00:56:00,483 --> 00:56:01,549
+Shure: 我全忘了
+Shure: I forgot everything.
+
+21
+00:56:01,584 --> 00:56:03,183
+Nicous: 不是我觉得你还不如现在先装
+Nicous: I think you might as well reinstall now.
+
+22
+00:56:03,183 --> 00:56:05,250
+Nicous: 然后看他就是缺什么库
+Nicous: And see what libraries are missing.
+
+23
+00:56:05,250 --> 00:56:06,483
+Jack: 你这样你是只要跑一段
+Jack: This way, you just need to run a bit.
+
+24
+00:56:07,284 --> 00:56:08,383
+Shure: 我不是我就是
+Shure: I'm not, I'm just...
+
+25
+00:56:07,616 --> 00:56:08,484
+Shure: 不是我就是
+Shure: No, I'm just...
+
+26
+00:56:08,650 --> 00:56:10,084
+Shure: 哎呀怎么说呢
+Shure: Ah, how to say it?
+
+27
+00:56:10,116 --> 00:56:10,317
+Shure: 就是
+Shure: Just...
+
+28
+00:56:10,317 --> 00:56:12,584
+Shure: 反正这个东西完全不是我自己写的
+Shure: Anyway, this whole thing wasn't written by me.
+
+29
+00:56:12,584 --> 00:56:15,383
+Shure: 我当时就
+Shure: At that time, I just...
+
+30
+00:56:12,650 --> 00:56:15,484
+Jack: 那你就缺啥你就造啥的
+Jack: Then just make what you lack.
+
+31
+00:56:15,383 --> 00:56:18,049
+Shure: 行那我就
+Shure: Alright, then I'll...
+
+32
+00:56:19,284 --> 00:56:20,484
+Jack: 不会有那么强的环境
+Jack: The environment won't be that strong.
+
+33
+00:56:20,484 --> 00:56:22,250
+Nicous: 这不是想让你抽吗
+Nicous: Isn't this supposed to make you smoke?
+
+34
+00:56:23,750 --> 00:56:25,349
+Nicous: 你他妈国家烟草的吧
+Nicous: Are you from the national tobacco company?
+
+35
+00:56:27,349 --> 00:56:28,584
+Jack: 我用过所有库里面
+Jack: Of all the libraries I've used,
+
+36
+00:56:28,584 --> 00:56:30,817
+Jack: 我觉得除了穿summer那种傻逼库
+Jack: I think except for that stupid Summer library,
+
+37
+00:56:30,817 --> 00:56:31,849
+Jack: 前后不兼容之外
+Jack: Which is not compatible front and back,
+
+38
+00:56:31,849 --> 00:56:33,816
+Jack: 剩下库对版本没有任何依赖
+Jack: The rest don't have any version dependencies.
+
+39
+00:56:33,816 --> 00:56:35,484
+Choiszt: 我操确实穿summer
+Choiszt: Damn, really, the Summer library.
+
+40
+00:56:35,484 --> 00:56:37,184
+Jack: 穿summer那条库真的很傻
+Jack: The Summer library is really stupid.
+
+41
+00:56:38,584 --> 00:56:40,816
+Nicous: 我觉得那个opi那个谱音是傻
+Nicous: I think that OPI music thing is stupid.
+
+42
+00:56:41,249 --> 00:56:42,650
+Jack: 我当时我当时写那个他
+Jack: When I wrote that...
+
+43
+00:56:42,650 --> 00:56:43,617
+Jack: 不是那个他
+Jack: Not that one...
+
+44
+00:56:43,617 --> 00:56:45,684
+Jack: 那些兰博荣耀不用fashion身身处嘛
+Jack: Those Rambo honors don't need fashion involvement, right?
+
+45
+00:56:45,684 --> 00:56:47,849
+Jack: 嗯然后他两个版本之间fashion身身处
+Jack: Hmm, and the fashion involvement between the two versions...
+
+46
+00:56:47,849 --> 00:56:50,349
+Jack: 就跟vivo fashion身身处那个kiwer不一样
+Jack: It's different from the Vivo fashion involvement with that kiwer.
+
+47
+00:56:50,650 --> 00:56:51,550
+Jack: 然后
+Jack: And...
+
+48
+00:56:54,017 --> 00:56:54,816
+Jack: 根本就没开
+Jack: It wasn't even started.
+
+49
+00:56:55,017 --> 00:56:57,450
+Jack: 而且因为他是缠在那个COOX里面
+Jack: And because it's tangled in that COOX...
+
+50
+00:56:57,749 --> 00:56:58,849
+Jack: 所以他不会报错
+Jack: It won't report an error.
+
+51
+00:56:58,950 --> 00:56:59,749
+Jack: 他会正常跑了
+Jack: It will run normally.
+
+52
+00:56:59,749 --> 00:57:01,017
+Jack: 而且他的速度慢两倍
+Jack: And it's twice as slow.
+
+53
+00:57:02,383 --> 00:57:04,584
+Choiszt: 就是你根本没启动Flash
+Choiszt: So you didn't even start Flash.
+
+54
+00:57:04,883 --> 00:57:05,684
+Jack: 但他不报错
+Jack: But it doesn't report an error.
+
+55
+00:57:07,749 --> 00:57:08,984
+Jack: 你你你跑一个
+Jack: You, you, you run one.
+
+56
+00:57:09,150 --> 00:57:09,684
+Jack: 你跑着看
+Jack: You run and see.
+
+57
+00:57:09,684 --> 00:57:10,484
+Jack: 缺啥就行
+Jack: Just see what's missing.
+
+58
+00:57:11,617 --> 00:57:12,584
+Jack: 缺啥装啥
+Jack: Install whatever's missing.
+
+59
+00:57:12,584 --> 00:57:13,816
+Jack: 这个这个是一定是最快的
+Jack: This is definitely the fastest.
+
+60
+00:57:14,249 --> 00:57:16,883
+Nicous: 就是给你重温一下巩固一下
+Nicous: Just to review and reinforce it for you.
+
+61
+00:57:16,883 --> 00:57:17,416
+Nicous: 然后毕设
+Nicous: Then the final project.
+
+62
+00:57:17,416 --> 00:57:18,184
+Nicous: 然后答辩
+Nicous: Then the defense.
+
+63
+00:57:18,184 --> 00:57:19,684
+Nicous: 提问你你就能说了
+Nicous: When they ask you, you can answer.
+
+64
+00:57:20,550 --> 00:57:21,283
+Choiszt: 谁他妈毕设
+Choiszt: Who the hell asks about the final project?
+
+65
+00:57:21,283 --> 00:57:21,883
+Choiszt: 问你装啥库
+Choiszt: What library did you install?
+
+66
+00:57:24,950 --> 00:57:26,883
+Shure: 我瞎他不也也也不知道我装的什么
+Shure: I don't know what I installed either.
+
+67
+00:57:26,883 --> 00:57:28,849
+Shure: 环境
+Shure: The environment.
+
+68
+00:57:27,017 --> 00:57:28,950
+Choiszt: 要对你自己负责
+Choiszt: You have to be responsible for yourself.
+
+69
+00:57:30,349 --> 00:57:32,650
+Shure: 你滚我以后我就他妈都不干这行
+Shure: Get lost, I won't do this job anymore.
+
+70
+00:57:34,349 --> 00:57:35,150
+Shure: 你举报你
+Shure: I'll report you.
+
+71
+00:57:35,150 --> 00:57:35,984
+Shure: 我举报你的
+Shure: I'll report you.
+
+72
+00:57:35,984 --> 00:57:37,084
+Shure: 你经常吗
+Shure: You often do this?
+
+73
+00:57:37,150 --> 00:57:38,249
+Choiszt: 我全是自编的
+Choiszt: I made all of it up.
+
+74
+00:57:38,249 --> 00:57:38,849
+Choiszt: 你举报吧
+Choiszt: Go ahead, report.
+
+75
+00:57:38,849 --> 00:57:40,484
+Choiszt: 一一举报一个准
+Choiszt: Every report is accurate.
+
+76
+00:57:40,484 --> 00:57:42,216
+Jack: 哈哈哈举报这些没用的
+Jack: Haha, reporting this is useless.
+
+77
+00:57:42,216 --> 00:57:43,950
+Jack: 你必须要给显在那个系统里面
+Jack: You have to show it in the system.
+
+78
+00:57:43,950 --> 00:57:44,749
+Jack: 举报他呀
+Jack: Report him.
+
+79
+00:57:45,584 --> 00:57:47,883
+Jack: 就他有一个什么什么毕业险
+Jack: He has some kind of graduation risk.
+
+80
+00:57:47,883 --> 00:57:50,383
+Nicous: 卧槽他那个写的就是什么伪交数据
+Nicous: Damn, he just wrote fake data.
+
+81
+00:57:52,849 --> 00:57:54,416
+Choiszt: 我的数据怎么是伪造呢
+Choiszt: How come my data is fake?
+
+82
+00:57:54,416 --> 00:57:56,383
+Choiszt: 那只能说GPT太不稳定了
+Choiszt: That just means GPT is too unstable.
+
+83
+00:57:58,283 --> 00:58:01,783
+Jack: 他他他们是讨论的全部是0.2
+Jack: They were discussing everything as 0.2.
+
+84
+00:58:01,783 --> 00:58:04,749
+Jack: 哈哈哈 0.2就是的
+Jack: Haha, 0.2 it is.
+
+85
+00:58:04,984 --> 00:58:07,050
+Nicous: 没办法我就喜欢随机
+Nicous: No choice, I just like randomness.
+
+86
+00:58:07,283 --> 00:58:09,617
+Jack: 他们这0.2套p等于0.5
+Jack: They set 0.2 and p equals 0.5.
+
+87
+00:58:09,617 --> 00:58:11,184
+Choiszt: 哈哈哈这说的有道理
+Choiszt: Haha, that makes sense.
+
+88
+00:58:11,184 --> 00:58:13,984
+Nicous: 哦这样不然我怎么改随机的
+Nicous: Oh, otherwise how can I change the randomness?
+
+89
+00:58:14,816 --> 00:58:16,584
+Choiszt: 不是你auto都在这上跑吗
+Choiszt: Weren't you running auto on this?
+
+90
+00:58:19,950 --> 00:58:21,150
+Nicous: 跑的inference啊
+Nicous: Running inference.
+
+91
+00:58:21,150 --> 00:58:22,417
+Choiszt: 那这个怎么看
+Choiszt: How do you see this?
+
+92
+00:58:22,417 --> 00:58:24,684
+Choiszt: 显就是整就是
+Choiszt: It shows, just...
+
+93
+00:58:27,749 --> 00:58:28,783
+Shure: 它没有显存
+Shure: It has no memory.
+
+94
+00:58:33,984 --> 00:58:36,584
+Shure: 你把那活动监视器打开就能看了
+Shure: Open the activity monitor, you'll see it.
+
+95
+00:58:37,883 --> 00:58:39,716
+Shure: 不是他们俩不分你知道吧
+Shure: They don't split, you know?
+
+96
+00:58:43,383 --> 00:58:45,883
+Jack: 16级对16+5啊
+Jack: Level 16 versus 16+5.
+
+97
+00:58:45,883 --> 00:58:47,150
+Jack: 现在是不是18级
+Jack: Is it level 18 now?
+
+98
+00:58:47,184 --> 00:58:47,950
+Jake:搞定了吗
+Jake: Is it done?
+
+99
+00:58:47,950 --> 00:58:49,417
+Choiszt: 16级能跑个啥呢
+Choiszt: What can level 16 run?
+
+100
+00:58:49,584 --> 00:58:50,050
+Jake:保定了吗
+Jake: Is it fixed?
+
+101
+00:58:49,850 --> 00:58:50,716
+Shure: 没没搞定
+Shure: No, it's not done.
+
+102
+00:58:50,716 --> 00:58:53,084
+Shure: 但是可以可以进行下一个活动
+Shure: But we can move to the next activity.
+
+103
+00:58:52,050 --> 00:58:54,150
+Katrina: 是不是要让他们带一个自己的
+Katrina: Should we ask them to bring something of their own?
+
+104
+00:58:54,150 --> 00:58:55,383
+Katrina: 二手物品啊
+Katrina: Like a second-hand item?
+
+105
+00:58:55,484 --> 00:58:56,316
+Shure: 啊对
+Shure: Yeah.
+
+106
+00:58:55,950 --> 00:58:57,749
+Choiszt: 16级能跑啥呢
+Choiszt: What can level 16 run?
+
+107
+00:58:58,749 --> 00:58:59,584
+Nicous: 你别照我的
+Nicous: Don't follow mine.
+
+108
+00:58:59,584 --> 00:59:00,249
+Nicous: 你就照你的
+Nicous: Just follow yours.
+
+109
+00:59:00,249 --> 00:59:01,050
+Nicous: 信任就行
+Nicous: Just trust it.
+
+110
+00:59:02,650 --> 00:59:06,084
+Jack: 跑16g已经可以跑千万1.8g
+Jack: Running 16g can already run million 1.8g.
+
+111
+00:59:06,216 --> 00:59:09,749
+Jack: 哈哈哈 16g的显存
+Jack: Haha, 16g of memory.
+
+112
+00:59:09,749 --> 00:59:11,749
+Jack: 够跑千万1.8g
+Jack: Enough to run million 1.8g.
+
+113
+00:59:11,749 --> 00:59:14,150
+Jack: 够千万1.8g
+Jack: Enough for million 1.8g.
+
+114
+00:59:14,150 --> 00:59:16,617
+Jack: 是能够7米跑呗
+
+115
+00:59:28,283 --> 00:59:29,950
+Jake:还是没装上你
+Jake: Still didn't install it?
+
+116
+00:59:29,950 --> 00:59:31,184
+Jack: 你缺什么呢
+Jack: What are you missing?
+
+117
+00:59:31,584 --> 00:59:32,950
+Jake:你知道看这个数据集的人
+Jake: You know, people who look at this dataset
+
+118
+00:59:32,950 --> 00:59:43,550
+Jake:一般都会装哈哈哈哈哈哈
+Jake: usually install it, hahaha.
+
+119
+00:59:43,484 --> 00:59:45,716
+Shure: 我操太侮辱我了吧
+Shure: Damn, that's insulting.
+
+120
+00:59:56,484 --> 00:59:57,950
+Shure: 肯定缺
+Shure: Definitely missing something.
+
