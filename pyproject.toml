@@ -29,8 +29,14 @@ dependencies = [
     "igraph",
     "wheel",
     "faiss-gpu-cu12",
-    "hipporag",
-    "egorag"
+    "numpy",
+    "pandas",
+    "tiktoken",
+    "pydantic",
+    "chromadb",
+    "tqdm",
+    "pillow",
+    "filelock"
 ]
 
 [[tool.uv.index]]
@@ -38,8 +44,6 @@ name = "pytorch"
 url = "https://download.pytorch.org/whl/cu128"
 
 [tool.uv.sources]
-hipporag = { path = "src/HippoRAG", editable = true }
-egorag = { path = "src/EgoRAG", editable = true }
 torch = { index = "pytorch" }
 torchcodec = { index = "pytorch" }
 torchvision = { index = "pytorch" }
@@ -49,3 +53,6 @@ no-build-isolation-package = ['flash-attn']
 
 [tool.uv.extra-build-dependencies]
 flash-attn = ["torch"]
+
+[tool.uv.build-backend]
+module-root = ""
